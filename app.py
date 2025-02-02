@@ -24,14 +24,16 @@ def optimize():
         
         with open('results/optimized_params.csv', 'w', newline='') as file:
             writer = csv.writer(file)
-            writer.writerow(['factors', 'regularization', 'time'])
-            writer.writerow([factors, regularization, end_time - start_time])
+            writer.writerow(['factors', 'regularization', 'time', 'pack_size', 'iterations'])
+            writer.writerow([factors, regularization, end_time - start_time, pack_size, iterations])
         
         return jsonify({
             "message": "Optimization complete",
             "factors": factors,
             "regularization": regularization,
-            "time": end_time - start_time
+            "time": end_time - start_time,
+            "pack_size": pack_size,
+            "iterations": iterations
         }), 200
     except Exception as e:
         return jsonify({"error": str(e)}), 500
