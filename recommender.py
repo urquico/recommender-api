@@ -65,11 +65,11 @@ def generate_results(user_index: int, recommend_limit: int = 10):
     # 2 - 2100
     
     # load user artists matrix
-    user_artists = load_user_artists(Path("../dataset/user_artists.dat"))
+    user_artists = load_user_artists(Path("./dataset/user_artists.dat"))
 
     # instantiate artist retriever
     artist_retriever = ArtistRetriever()
-    artist_retriever.load_artists(Path("../dataset/artists.dat"))
+    artist_retriever.load_artists(Path("./dataset/artists.dat"))
 
     # instantiate ALS using implicit
     implicit_model = implicit.als.AlternatingLeastSquares(
@@ -133,11 +133,11 @@ def generate_results(user_index: int, recommend_limit: int = 10):
 
 def evaluate_recommendations(user_index: int, recommend_limit: int = 50):
     # Load user artists matrix
-    user_artists = load_user_artists(Path("../dataset/user_artists.dat"))
+    user_artists = load_user_artists(Path("./dataset/user_artists.dat"))
 
     # Instantiate artist retriever
     artist_retriever = ArtistRetriever()
-    artist_retriever.load_artists(Path("../dataset/artists.dat"))
+    artist_retriever.load_artists(Path("./dataset/artists.dat"))
 
     # Instantiate ALS using implicit
     implicit_model = implicit.als.AlternatingLeastSquares(

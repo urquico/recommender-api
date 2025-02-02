@@ -232,11 +232,11 @@ def generate_results(user_index: int, recommend_limit: int = 10):
 
 
     # load user artists matrix
-    user_artists = load_user_artists(Path("../dataset/user_artists.dat"))
+    user_artists = load_user_artists(Path("./dataset/user_artists.dat"))
 
     # instantiate artist retriever
     artist_retriever = ArtistRetriever()
-    artist_retriever.load_artists(Path("../dataset/artists.dat"))
+    artist_retriever.load_artists(Path("./dataset/artists.dat"))
     
     # get the best parameters from the CSV file
     best_params = pd.read_csv("results/optimized_params.csv")
@@ -309,11 +309,11 @@ def evaluate_recommendations(user_index: int, recommend_limit: int = 50):
     logging.info(f"Evaluating recommendations for user {user_index}")
     
     # Load user artists matrix
-    user_artists = load_user_artists(Path("../dataset/user_artists.dat"))
+    user_artists = load_user_artists(Path("./dataset/user_artists.dat"))
 
     # Instantiate artist retriever
     artist_retriever = ArtistRetriever()
-    artist_retriever.load_artists(Path("../dataset/artists.dat"))
+    artist_retriever.load_artists(Path("./dataset/artists.dat"))
 
     # Optimize model parameters using IGWO
     factors, regularization = optimize_model_parameters(user_artists)
@@ -367,9 +367,9 @@ def calculate_precision_recall_f1(actual_items: List[str], recommended_items: Li
     return precision, recall, f1_score
 
 def analyze_user_data(user_index: int):
-    user_artists = load_user_artists(Path("../dataset/user_artists.dat"))
+    user_artists = load_user_artists(Path("./dataset/user_artists.dat"))
     artist_retriever = ArtistRetriever()
-    artist_retriever.load_artists(Path("../dataset/artists.dat"))
+    artist_retriever.load_artists(Path("./dataset/artists.dat"))
 
     user_data = user_artists[user_index].tocsr()
     non_zero_indices = user_data.nonzero()[1]

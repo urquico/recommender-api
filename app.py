@@ -13,7 +13,7 @@ if not os.path.exists('results'):
 @app.route('/optimize', methods=['POST'])
 def optimize():
     try:
-        user_artists = load_user_artists(Path("../dataset/user_artists.dat"))
+        user_artists = load_user_artists(Path("./dataset/user_artists.dat"))
         factors, regularization = optimize_model_parameters(user_artists)
         
         with open('results/optimized_params.csv', 'w', newline='') as file:
