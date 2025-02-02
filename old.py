@@ -186,7 +186,7 @@ def improved_grey_wolf_optimizer(pack_size, min_values, max_values, iterations, 
     return alpha
 
 # Modified functions to incorporate IGWO
-def optimize_model_parameters(user_artists_matrix):
+def optimize_model_parameters(user_artists_matrix, pack_size, iterations):
     def target_function(params):
         factors, regularization = params
         model = implicit.als.AlternatingLeastSquares(
@@ -204,11 +204,9 @@ def optimize_model_parameters(user_artists_matrix):
         mse = np.mean((user_artists_matrix.data - predictions[user_artists_matrix.nonzero()]) ** 2)
         return mse  # We want to minimize this
 
-    pack_size = 25
     min_values = [10, 0.001]  # Minimum values for factors and regularization
     max_values = [100, 1.0]   # Maximum values for factors and regularization
-    iterations = 50
-
+    
     best_params = improved_grey_wolf_optimizer(
         pack_size=pack_size,
         min_values=min_values,
@@ -242,8 +240,6 @@ def generate_results(user_index: int, recommend_limit: int = 10):
     best_params = pd.read_csv("results/optimized_params.csv")
     factors = int(best_params.iloc[0]['factors'])
     regularization = float(best_params.iloc[0]['regularization'])
-    
-
 
     # Optimize model parameters using IGWO Created Parameters
     logging.info(f"Using parameters: factors={factors}, regularization={regularization}")
@@ -284,18 +280,21 @@ def generate_results(user_index: int, recommend_limit: int = 10):
     # format the data
     formatted_results = process_table_data(table_data)
     
-    # save the formatted results to a CSV file
-    with open(f"results/recommendation_list_user_{user_index}.csv", "w", newline="") as file:
+    # create folder for specific user
+    Path(f"results/user_{user_index}").mkdir(parents=True, exist_ok=True)
+    
+    # save the table data to a CSV file
+    with open(f"results/user_{user_index}/recommendation_list.csv", "w", newline="") as file:
         writer = csv.writer(file)
         writer.writerow(["artist", "score"])
         for row in formatted_results:
-            writer.writerow(row)
+            # Extract artist and score from the dictionary
+            artist = row['artist']
+            score = row['score']
+            writer.writerow([artist, score])
+            print(f"{{'artist': '{artist}', 'score': {score}}}")
     
-    return {
-        "user_index": user_index,
-        "recommendation_list": formatted_results
-    }
-
+    return formatted_results
 
 def process_table_data(table_data):
     """Process the table data into the desired format."""

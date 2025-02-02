@@ -3,6 +3,7 @@ from old import optimize_model_parameters, generate_results, load_user_artists
 from pathlib import Path
 import csv
 import os
+import time
 
 app = Flask(__name__)
 
@@ -13,18 +14,24 @@ if not os.path.exists('results'):
 @app.route('/optimize', methods=['POST'])
 def optimize():
     try:
+        pack_size = int(request.args.get('pack_size', 25))
+        iterations = int(request.args.get('iterations', 1000))
+        
+        start_time = time.time()
         user_artists = load_user_artists(Path("./dataset/user_artists.dat"))
-        factors, regularization = optimize_model_parameters(user_artists)
+        factors, regularization = optimize_model_parameters(user_artists, pack_size, iterations)
+        end_time = time.time()
         
         with open('results/optimized_params.csv', 'w', newline='') as file:
             writer = csv.writer(file)
-            writer.writerow(['factors', 'regularization'])
-            writer.writerow([factors, regularization])
+            writer.writerow(['factors', 'regularization', 'time'])
+            writer.writerow([factors, regularization, end_time - start_time])
         
         return jsonify({
             "message": "Optimization complete",
             "factors": factors,
-            "regularization": regularization
+            "regularization": regularization,
+            "time": end_time - start_time
         }), 200
     except Exception as e:
         return jsonify({"error": str(e)}), 500
@@ -62,9 +69,12 @@ def recommendations():
         user_index = int(request.args.get('user_index', 2))
 
         # read file recommendations/recommendation_list_user_{user_index}.csv
-        with open(f'results/recommendation_list_user_{user_index}.csv', 'r') as file:
-            reader = csv.reader(file)
-            recommendations = list(reader)
+        with open(f'results/user_{user_index}/recommendation_list.csv', 'r') as file:
+            reader = csv.DictReader(file)
+            recommendations = [
+                {"artist": row["artist"], "score": float(row["score"])}
+                for row in reader
+            ]
 
         return jsonify({
             "message": f"Recommendations for user {user_index}",
