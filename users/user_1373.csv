@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1373,William Figueroa,perryalexander@example.com,2025-01-26 09:21:36.837813,2025-01-15 05:17:49.667755,Beanstad,Guyana,female,71
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1373,Cameron Brown,michelle50@example.org,2025-01-02 19:04:58.601247,2025-01-09 19:58:00.959559,North Julia,Gabon,female,44,https://dummyimage.com/300x520

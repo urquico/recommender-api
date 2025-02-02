@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1086,Dr. Peter Rivera MD,tthomas@example.org,2025-01-26 08:34:35.052822,2025-01-31 12:31:01.854839,Steventown,Pakistan,female,80
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1086,Aaron Morrison,hrussell@example.org,2025-01-08 16:12:59.703372,2025-01-12 14:54:48.978992,West Aaronhaven,Syrian Arab Republic,female,28,https://dummyimage.com/801x334

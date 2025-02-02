@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1527,William Miller,stacyprice@example.net,2025-01-08 10:39:10.065101,2025-01-28 05:20:21.462353,Lawrencefort,Dominica,female,75
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1527,William Stevens,nrodriguez@example.com,2025-01-24 00:15:59.628447,2025-01-13 17:23:19.712854,Lake Cameronland,Croatia,male,50,https://picsum.photos/331/199

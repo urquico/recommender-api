@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1829,Jesse Chaney,uhenderson@example.org,2025-01-18 10:31:41.844539,2025-01-29 06:53:36.069992,Katherineport,Thailand,male,77
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1829,Tammy Allen,sonyasandoval@example.com,2025-01-21 03:11:27.497694,2025-01-16 18:12:44.796454,Derrickchester,Antigua and Barbuda,male,80,https://picsum.photos/669/710

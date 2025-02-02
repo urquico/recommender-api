@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-152,Paul Williams,shannon19@example.org,2025-01-06 00:17:59.326876,2025-01-12 23:46:50.201250,New Jennymouth,Uruguay,female,63
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+152,Leah Ryan,richardlandry@example.net,2025-01-31 03:04:37.917039,2025-01-01 01:14:16.827297,Hillbury,Germany,male,43,https://dummyimage.com/544x394

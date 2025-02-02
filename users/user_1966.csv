@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1966,Michael Barajas,nicole77@example.com,2025-01-09 20:43:37.129723,2025-01-06 12:36:26.243806,West Christopherchester,Switzerland,female,68
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1966,Sharon Ochoa MD,masonashlee@example.com,2025-01-11 01:09:30.002739,2025-01-05 16:56:58.522229,Robinsonstad,Spain,female,77,https://placekitten.com/660/228

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-877,Karen Crawford,jill78@example.com,2025-01-16 14:41:55.981900,2025-01-04 16:14:54.931102,North Jesse,Madagascar,male,78
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+877,Michael Tran,melissapark@example.com,2025-02-02 02:16:45.303489,2025-01-31 06:03:08.605325,Port Mary,French Polynesia,male,35,https://dummyimage.com/3x41

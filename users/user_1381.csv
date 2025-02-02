@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1381,Joseph Fry,morrisonmary@example.com,2025-01-22 16:53:30.694877,2025-01-25 21:51:02.485614,East Faith,Indonesia,male,77
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1381,Katherine Miller,lawrenceana@example.com,2025-01-11 03:40:55.029133,2025-01-25 16:52:42.032969,Peterton,Philippines,male,42,https://dummyimage.com/321x220

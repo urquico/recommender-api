@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-222,Matthew Gonzalez,hendrixwilliam@example.net,2025-01-31 18:00:55.331037,2025-01-29 00:09:40.622527,West Christina,Comoros,male,18
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+222,Amanda Cruz,misty05@example.net,2025-01-13 03:51:42.043117,2025-01-12 19:58:47.960273,Timothyhaven,Ukraine,female,30,https://picsum.photos/888/908

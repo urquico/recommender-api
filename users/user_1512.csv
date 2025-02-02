@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1512,Andrew Jones,cynthiamcintyre@example.com,2025-01-08 21:13:44.314781,2025-01-20 16:50:37.124543,Curtisshire,Kiribati,female,43
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1512,Christine Bennett,tiffanymarsh@example.org,2025-01-07 03:22:11.908303,2025-01-04 07:45:53.010362,Hendersonshire,Pakistan,male,31,https://picsum.photos/222/82

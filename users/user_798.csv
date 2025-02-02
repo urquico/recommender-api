@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-798,James Pena,jamescollins@example.com,2025-01-06 07:30:30.183250,2025-01-11 18:02:09.740505,Austinborough,British Virgin Islands,female,44
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+798,Mr. Matthew Thomas,michaeljohnson@example.net,2025-01-28 08:52:08.944999,2025-02-01 18:03:09.180184,Patrickfort,Cayman Islands,male,53,https://placekitten.com/583/88

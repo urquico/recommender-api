@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1241,Jacob Williams,vodom@example.org,2025-01-10 01:57:06.666351,2025-01-23 05:09:48.039258,Reynoldsland,Algeria,male,40
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1241,Derek Robertson,melissa89@example.com,2025-01-21 20:24:26.355740,2025-01-02 10:07:44.266708,Nicoleport,Finland,male,38,https://picsum.photos/631/761

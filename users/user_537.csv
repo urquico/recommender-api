@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-537,Douglas Wiley,sheilatyler@example.net,2025-01-27 06:52:07.169165,2025-01-05 15:51:42.900993,North Miranda,Malaysia,male,65
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+537,Jackie Fields,dmartinez@example.com,2025-01-08 15:05:46.206757,2025-01-25 05:17:40.015661,South Christopher,Reunion,male,74,https://placekitten.com/325/752

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1718,Angela Davidson,pgallegos@example.com,2025-01-16 02:15:47.507039,2025-01-07 11:11:58.912505,Rebeccachester,Dominican Republic,female,54
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1718,Robert Reed,kimjennifer@example.net,2025-01-24 09:12:02.450192,2025-01-30 13:00:21.142881,Lake Ericahaven,Liechtenstein,female,24,https://picsum.photos/627/275

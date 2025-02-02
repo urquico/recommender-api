@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2049,Michelle Bautista,rbruce@example.com,2025-01-06 11:04:22.454926,2025-01-04 19:04:08.193358,Deniseberg,Venezuela,male,27
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2049,Sheila Johnson,clairehughes@example.org,2025-01-07 14:08:56.252158,2025-01-28 01:25:53.795172,Pageville,Bouvet Island (Bouvetoya),female,72,https://placekitten.com/951/766

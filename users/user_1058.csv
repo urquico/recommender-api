@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1058,Luis Contreras,derrick56@example.net,2025-01-06 20:01:25.016793,2025-01-17 00:30:59.120673,Lake Johnny,Bahrain,male,33
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1058,Jonathan Hernandez,ariana72@example.org,2025-02-02 05:27:25.502985,2025-01-20 07:59:54.220916,East Jeremyside,Montenegro,male,19,https://picsum.photos/805/509

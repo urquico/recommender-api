@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-423,Timothy Roach,michael91@example.org,2025-01-27 10:15:14.125629,2025-01-19 01:22:11.892742,Brianville,Zambia,male,77
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+423,Kevin Carpenter,delgadoelizabeth@example.net,2025-01-31 22:57:22.428433,2025-01-27 10:22:05.918776,Chadhaven,Congo,male,50,https://dummyimage.com/383x593

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1271,William Lawson,lmedina@example.org,2025-01-10 06:00:58.044338,2025-01-24 18:53:37.834857,Jasonfort,Iran,male,34
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1271,Carl Kirk,zsmith@example.net,2025-01-12 16:07:55.091927,2025-01-14 17:09:09.360967,Matthewshire,Guyana,female,66,https://dummyimage.com/769x245

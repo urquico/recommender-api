@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1787,Christopher Harrison,boltonraymond@example.com,2025-01-03 01:43:21.683205,2025-02-01 00:51:54.680744,Jonathonview,Sierra Leone,female,21
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1787,Felicia Ray,jamesfields@example.com,2025-01-19 15:02:26.616418,2025-01-29 19:58:49.537930,Yolandaside,Bouvet Island (Bouvetoya),male,54,https://placekitten.com/69/566

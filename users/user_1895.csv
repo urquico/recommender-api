@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1895,Jacqueline Brown,ihoover@example.com,2025-01-08 16:36:48.921835,2025-01-29 13:40:04.924992,Amberborough,Belize,female,49
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1895,Christine Watson,david51@example.com,2025-01-27 16:11:44.950023,2025-01-01 07:54:58.351196,Millerton,Israel,male,45,https://placekitten.com/1000/375

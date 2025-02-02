@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-646,Dr. Travis Perez MD,cisnerospaul@example.net,2025-02-02 05:53:13.019102,2025-01-01 04:04:40.648360,New Shane,Grenada,female,27
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+646,Jason Carpenter,perrybenjamin@example.net,2025-01-28 15:37:57.049529,2025-01-18 16:36:53.959290,Justinmouth,Hungary,female,56,https://dummyimage.com/775x137

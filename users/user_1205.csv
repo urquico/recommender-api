@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1205,Patrick Schmidt,ballardashley@example.net,2025-01-02 18:52:30.575263,2025-01-26 18:01:39.476130,Port Anthonyberg,Suriname,female,70
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1205,Gregory Bailey,turnerbenjamin@example.org,2025-01-05 17:48:24.408289,2025-01-17 08:44:23.771386,West Alicia,Djibouti,female,22,https://dummyimage.com/655x620

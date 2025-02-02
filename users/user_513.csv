@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-513,William Barker,jhoward@example.org,2025-01-23 00:40:05.000494,2025-01-24 03:25:06.656464,Jeanport,Georgia,female,66
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+513,Melissa Peterson,lesliemoore@example.com,2025-01-12 13:29:55.719746,2025-01-01 07:30:57.883672,Michaelbury,Svalbard & Jan Mayen Islands,male,58,https://dummyimage.com/527x316

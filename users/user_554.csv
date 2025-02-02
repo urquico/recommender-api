@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-554,David Brown,johnscott@example.org,2025-01-06 15:22:02.046534,2025-01-22 18:56:12.145556,Holderberg,Macao,female,36
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+554,Debra Hanson,mtaylor@example.net,2025-01-12 16:50:41.117818,2025-01-17 21:36:18.862197,Christopherchester,Bouvet Island (Bouvetoya),male,55,https://placekitten.com/577/143

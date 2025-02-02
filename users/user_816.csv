@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-816,Mr. Andrew Miller MD,kpowell@example.com,2025-02-02 15:08:24.542818,2025-01-13 07:32:41.921200,West Davidside,Georgia,female,44
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+816,Autumn Wolf,lyonsdaniel@example.org,2025-01-29 16:02:12.284695,2025-01-18 21:09:31.428022,Port John,Tanzania,male,80,https://placekitten.com/986/981

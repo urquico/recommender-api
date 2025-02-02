@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1225,Christine Martin,qholland@example.org,2025-01-11 00:39:35.423359,2025-01-02 11:50:57.455880,Port Suzanneburgh,Guadeloupe,male,37
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1225,Victor Schmidt DDS,justin71@example.com,2025-01-22 16:16:09.494486,2025-01-03 09:36:18.289596,Heidimouth,China,female,35,https://dummyimage.com/973x626

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1927,Tiffany Rodriguez,eterry@example.com,2025-01-28 22:54:14.113225,2025-01-10 11:02:39.628110,Troyland,Tokelau,female,60
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1927,Peter Stewart,brownamy@example.com,2025-01-08 19:36:53.424180,2025-01-11 18:16:39.018184,Lake Brentborough,Oman,male,37,https://dummyimage.com/926x285

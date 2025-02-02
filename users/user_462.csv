@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-462,Ashley Hall,hamiltonheather@example.org,2025-01-09 16:15:20.154669,2025-01-09 08:36:52.828659,Fosterberg,Denmark,female,34
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+462,Michael Calderon,sgentry@example.net,2025-01-25 00:53:28.772868,2025-01-17 09:12:44.743815,South Steven,Yemen,male,29,https://placekitten.com/211/574

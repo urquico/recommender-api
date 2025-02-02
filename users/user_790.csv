@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-790,Jessica Carson,wyoung@example.com,2025-01-11 17:28:29.972543,2025-01-18 22:08:25.128573,Port Aaron,Yemen,female,20
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+790,Carrie Sweeney,alejandradavis@example.org,2025-01-27 18:52:47.725903,2025-01-01 19:17:05.272668,Lake Stephanieshire,Cote d'Ivoire,male,65,https://placekitten.com/434/323

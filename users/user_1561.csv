@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1561,Dean Johnson,estradastephen@example.net,2025-01-03 07:39:47.960842,2025-01-03 15:39:46.822285,Port Derek,United Kingdom,female,79
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1561,Duane Greene,james22@example.org,2025-01-22 14:25:28.420940,2025-01-19 21:45:18.197774,Jenniferburgh,Netherlands Antilles,male,73,https://placekitten.com/249/62

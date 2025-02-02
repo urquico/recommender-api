@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1115,Elizabeth Garcia,liumichael@example.org,2025-01-31 05:04:43.207945,2025-01-31 10:09:07.378037,South Davidborough,Djibouti,male,41
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1115,Phillip Sparks MD,fdixon@example.com,2025-01-01 11:36:30.813962,2025-01-30 07:17:42.544694,Amandaview,Angola,female,47,https://picsum.photos/341/201

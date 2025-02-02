@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1342,Mary Olsen,fernandezjose@example.com,2025-01-08 23:00:52.560137,2025-01-23 15:35:49.596875,Pamelahaven,Gabon,male,44
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1342,James Pollard,trodriguez@example.org,2025-01-15 03:56:05.613435,2025-01-13 07:11:18.728129,West Jasonberg,Congo,male,59,https://dummyimage.com/306x813

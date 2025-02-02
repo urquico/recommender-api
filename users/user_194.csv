@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-194,Julia Brown,katie68@example.net,2025-01-02 20:42:17.642841,2025-01-23 21:21:43.154768,Matthewshire,Cayman Islands,female,40
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+194,Gabriel Kelly,wjones@example.com,2025-01-23 03:17:06.235589,2025-01-11 06:21:06.868651,East Michael,Botswana,female,61,https://placekitten.com/73/485

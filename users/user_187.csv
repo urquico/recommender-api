@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-187,Terri Ward,hallpeter@example.net,2025-01-05 14:36:22.003057,2025-01-16 05:26:14.173750,West Michelle,Guernsey,female,21
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+187,Denise Smith,pamela69@example.net,2025-01-06 06:56:04.194760,2025-01-07 17:29:56.239131,Petersonfort,Korea,male,42,https://dummyimage.com/957x92

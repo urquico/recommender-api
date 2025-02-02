@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1488,Miranda Shaw,garcialaurie@example.org,2025-01-09 15:54:04.734328,2025-01-23 09:03:38.434899,Angelabury,Norfolk Island,female,49
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1488,Amanda Davidson,taylorbrown@example.net,2025-01-15 19:39:36.475949,2025-01-17 05:08:10.441305,South William,Albania,female,66,https://picsum.photos/446/203

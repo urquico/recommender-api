@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-896,Clarence Pacheco,pglover@example.com,2025-01-21 12:31:36.156537,2025-01-13 02:46:52.389389,New Robert,Madagascar,female,27
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+896,Lori Ward,peterglover@example.net,2025-01-03 16:23:25.158779,2025-01-26 08:06:06.525952,Lake Emilyshire,Cameroon,female,24,https://picsum.photos/595/732

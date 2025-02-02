@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-118,Alan Henry,vanderson@example.org,2025-01-19 15:50:47.640403,2025-01-21 17:31:33.727121,Reyesfort,Cote d'Ivoire,male,35
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+118,Rebecca Garcia,douglaschristopher@example.org,2025-02-02 08:21:38.352326,2025-02-01 09:15:15.024484,Jamesfurt,Morocco,female,74,https://placekitten.com/965/601

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1548,Erin Lyons,kimberly02@example.com,2025-01-12 00:33:18.959758,2025-01-12 05:13:50.910283,West Hannahbury,Gibraltar,female,49
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1548,David Mitchell,robert29@example.org,2025-01-14 08:38:18.789090,2025-01-21 09:56:24.104725,Mariamouth,Indonesia,female,25,https://dummyimage.com/20x393

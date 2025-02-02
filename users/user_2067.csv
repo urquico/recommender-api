@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2067,Kathryn Aguilar,kennethpeterson@example.com,2025-01-30 19:45:35.346236,2025-01-13 13:05:10.376052,North Josephshire,Sri Lanka,female,63
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2067,Jacob Johnson,yhernandez@example.com,2025-01-21 16:36:54.343024,2025-02-01 01:16:46.895933,Jonathanberg,Finland,female,58,https://picsum.photos/444/158

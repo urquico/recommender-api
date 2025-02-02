@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-762,David Shepard,whoward@example.net,2025-01-15 03:05:38.815559,2025-01-24 10:28:14.117665,Port Rose,Haiti,male,23
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+762,Sandra Holland,simsrebecca@example.com,2025-01-22 21:14:00.462183,2025-01-26 18:38:45.251706,Howardberg,Benin,male,29,https://dummyimage.com/769x242

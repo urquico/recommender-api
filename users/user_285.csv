@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-285,Ann Hudson,ndorsey@example.com,2025-01-06 09:49:54.436304,2025-01-12 00:52:20.993194,Scotthaven,Israel,male,52
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+285,Michelle Fowler,jeffreymckay@example.org,2025-01-15 10:42:02.703000,2025-01-02 23:47:30.332994,Lake Joanna,Timor-Leste,female,70,https://picsum.photos/12/433

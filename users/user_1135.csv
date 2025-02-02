@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1135,Samuel Kramer,john19@example.com,2025-01-18 01:08:43.676915,2025-01-30 09:38:49.451037,Kennethside,Greenland,male,18
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1135,Matthew Ramos,williambrown@example.com,2025-02-01 15:11:16.024120,2025-01-31 11:39:40.314632,Melissaburgh,Uzbekistan,female,73,https://picsum.photos/715/374

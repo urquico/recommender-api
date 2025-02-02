@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-520,David Mays,julietaylor@example.net,2025-01-13 14:41:01.395232,2025-01-03 20:12:27.700854,Coffeyfort,Myanmar,male,58
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+520,Jennifer Norton,lhood@example.com,2025-01-03 00:38:04.967593,2025-02-01 08:16:23.397642,Woodborough,Micronesia,female,69,https://picsum.photos/680/627

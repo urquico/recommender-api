@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1064,Robin Dawson,kaisermary@example.org,2025-01-17 00:42:50.902005,2025-01-25 04:52:47.705879,Jensenstad,Ethiopia,female,26
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1064,Catherine Johnson,rjones@example.net,2025-01-28 14:31:34.973950,2025-01-12 03:20:29.731935,Tranberg,Singapore,male,49,https://dummyimage.com/647x19

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-602,Mikayla Guzman MD,hroberts@example.com,2025-01-11 02:42:02.335090,2025-01-16 01:41:09.778659,Branchhaven,Guernsey,female,59
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+602,Bethany Farley,hardyjulia@example.com,2025-01-30 14:51:06.627797,2025-01-26 13:25:35.965228,Lake Sarahville,Senegal,male,61,https://placekitten.com/288/428

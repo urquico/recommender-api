@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1362,April Bentley,pgonzalez@example.net,2025-01-09 10:04:32.567500,2025-01-22 16:49:10.107979,Roachberg,Grenada,female,64
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1362,James Cox,anthonyanderson@example.com,2025-01-26 20:16:41.543108,2025-01-15 19:24:19.958511,East Jacob,Cameroon,female,72,https://picsum.photos/161/595

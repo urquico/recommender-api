@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-952,Rebecca Hudson,hgreen@example.com,2025-01-28 06:31:14.216061,2025-01-17 11:21:34.686062,Pruitttown,Wallis and Futuna,male,37
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+952,James Maxwell,jamesjessica@example.org,2025-01-05 08:32:46.226316,2025-01-17 23:50:08.761641,West Benjamin,Aruba,female,28,https://picsum.photos/1009/331

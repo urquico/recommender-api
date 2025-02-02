@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-627,Nicholas Knight,kennethgallagher@example.org,2025-01-30 02:05:18.096590,2025-01-10 12:41:11.876049,Port Meganberg,Jersey,female,44
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+627,Leslie Cox,shortelizabeth@example.net,2025-01-13 14:36:34.066174,2025-01-26 17:37:17.229165,Kimberlyhaven,Costa Rica,male,38,https://picsum.photos/863/321

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-74,Lisa Alvarez,qlane@example.net,2025-02-01 22:15:53.123424,2025-01-11 08:32:40.049534,Port Kellymouth,Netherlands Antilles,male,46
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+74,Kevin Henderson,zcain@example.com,2025-01-03 12:39:37.853299,2025-01-30 12:05:25.768982,Johnmouth,Bermuda,female,22,https://placekitten.com/562/154

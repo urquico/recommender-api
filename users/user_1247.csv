@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1247,Jane Odom,hamiltonmckenzie@example.net,2025-01-13 22:46:10.925817,2025-01-18 17:41:31.855562,Perkinsmouth,Slovenia,female,52
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1247,Roger Wiley,johnsonjamie@example.net,2025-01-08 16:31:07.256499,2025-01-05 09:59:51.028464,South Sara,Russian Federation,female,65,https://picsum.photos/161/503

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2,Christopher Hunter,john75@example.org,2025-01-06 17:46:31.956417,2025-01-20 22:48:31.314579,Lawrenceland,United States Virgin Islands,male,18
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2,Javier Townsend,andrew99@example.com,2025-01-23 06:39:53.643464,2025-01-20 03:11:35.978343,Lesliestad,Libyan Arab Jamahiriya,female,31,https://picsum.photos/750/84

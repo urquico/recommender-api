@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-634,Mark Perez,gbrown@example.net,2025-01-15 01:47:32.037467,2025-01-04 02:14:46.087677,Port Michael,Senegal,female,70
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+634,Michael Pollard,rmiller@example.com,2025-01-30 21:24:39.680748,2025-02-01 07:30:24.285338,Nielsenfurt,Malawi,male,73,https://placekitten.com/544/545

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-200,Catherine Moore,turnertrevor@example.net,2025-01-10 01:11:00.895402,2025-01-08 18:17:04.468369,New Scott,Bermuda,male,34
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+200,Justin Young,barberkimberly@example.net,2025-01-31 10:51:55.057111,2025-01-15 22:39:12.009641,West Annaburgh,Azerbaijan,male,60,https://placekitten.com/592/457

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-315,Kathy Gutierrez,christophermontgomery@example.com,2025-01-20 15:30:59.130076,2025-01-25 03:41:00.772943,Watsonview,Morocco,female,52
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+315,Mark Farley,ifrank@example.com,2025-01-22 21:06:22.851523,2025-01-27 00:15:11.630634,New Michael,China,male,61,https://placekitten.com/788/781

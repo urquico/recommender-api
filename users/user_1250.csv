@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1250,Nicholas Walker,andrewmendez@example.net,2025-01-19 03:18:09.276243,2025-01-20 08:19:44.249727,West Kristina,Falkland Islands (Malvinas),male,33
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1250,Ryan Soto,ashley54@example.com,2025-01-09 17:38:11.841713,2025-01-24 07:44:31.520025,North Annstad,Togo,female,35,https://placekitten.com/854/357

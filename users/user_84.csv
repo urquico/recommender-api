@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-84,Michael Weber,smithteresa@example.net,2025-01-26 14:56:09.067417,2025-01-30 07:29:30.407720,Jonathanfort,French Southern Territories,male,38
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+84,Paul Morales,marcusharrington@example.org,2025-01-10 01:09:18.858902,2025-01-24 15:32:16.694493,Rachelbury,French Southern Territories,male,69,https://placekitten.com/669/239

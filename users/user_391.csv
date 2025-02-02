@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-391,Kevin Patrick,yramirez@example.com,2025-01-04 16:55:57.648949,2025-01-25 01:04:47.004360,Jenniferberg,Lithuania,male,75
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+391,Susan Martinez,roger98@example.com,2025-01-28 05:41:59.141431,2025-01-13 17:26:54.375734,North Joseph,Northern Mariana Islands,female,44,https://picsum.photos/959/209

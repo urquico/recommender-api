@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-637,Nathan Olson,adamsryan@example.net,2025-02-01 00:59:58.702747,2025-01-17 16:14:02.919864,East Rebekahland,Israel,male,26
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+637,Jeffrey Choi,ashley07@example.net,2025-01-27 10:58:24.439677,2025-01-31 00:26:44.429188,North Elizabethview,Mauritania,male,47,https://picsum.photos/577/420

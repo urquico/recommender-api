@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-175,Jordan Moore,zachary23@example.org,2025-01-14 23:33:39.938511,2025-01-05 03:49:10.975461,New Michael,Monaco,female,78
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+175,Cody Burgess,duane22@example.com,2025-01-26 11:50:53.121757,2025-01-11 01:32:08.831769,South Andrew,Monaco,female,68,https://placekitten.com/184/820

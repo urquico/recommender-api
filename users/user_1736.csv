@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1736,Brittany Bradley,ronald23@example.com,2025-02-01 21:58:58.817555,2025-01-12 13:05:05.620656,New Michael,Botswana,female,76
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1736,Jessica Gordon,snyderpatricia@example.net,2025-01-03 14:10:54.097933,2025-01-19 01:35:01.491198,Port Connie,Cyprus,female,46,https://picsum.photos/769/327

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-954,Roberto Miller,amandaanderson@example.net,2025-01-12 03:38:04.123481,2025-01-01 06:40:18.103497,West Lisa,Ecuador,female,30
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+954,Kevin Park,bwright@example.net,2025-01-24 16:28:57.435768,2025-01-12 04:33:52.198377,West Christina,Tajikistan,female,23,https://picsum.photos/357/115

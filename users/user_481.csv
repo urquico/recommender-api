@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-481,Joseph Barrett,murrayjoe@example.org,2025-01-10 18:17:26.097800,2025-01-26 01:46:03.428370,Dianachester,South Africa,female,41
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+481,Julie Williams,reynoldssandra@example.org,2025-01-06 04:18:17.250197,2025-01-03 08:00:56.360696,Morenoburgh,Norfolk Island,male,78,https://placekitten.com/851/176

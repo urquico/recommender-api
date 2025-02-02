@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1367,Brittney Ruiz,oconnorglenn@example.org,2025-01-07 02:22:16.259100,2025-01-08 23:29:41.377362,Stephaniehaven,New Zealand,male,35
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1367,Caroline Schmidt,martinezlori@example.org,2025-01-06 00:51:48.624057,2025-01-29 02:14:26.808801,Burnettberg,American Samoa,female,58,https://picsum.photos/146/817

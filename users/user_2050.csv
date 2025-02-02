@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2050,Samantha Pierce,qbrown@example.org,2025-01-19 14:10:00.562041,2025-01-02 00:14:34.148020,Juliafurt,Timor-Leste,male,75
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2050,Shelly Robertson,cameron44@example.net,2025-01-28 04:27:46.864852,2025-01-07 12:38:47.930213,Mollyville,Armenia,female,77,https://picsum.photos/157/554

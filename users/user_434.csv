@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-434,Dr. Lynn Estes,harperjennifer@example.com,2025-01-26 17:58:59.009141,2025-01-03 10:31:36.612684,North Shelly,Nicaragua,female,45
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+434,Caitlyn Green,smithjose@example.org,2025-01-31 21:14:44.655040,2025-01-21 01:48:35.133502,Patriciafurt,Samoa,female,79,https://dummyimage.com/1008x841

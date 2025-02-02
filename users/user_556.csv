@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-556,Michael Fletcher,tina91@example.net,2025-01-02 05:09:23.924783,2025-01-07 00:01:47.795662,North Johnburgh,Somalia,female,22
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+556,Beth Lawrence,gbeltran@example.com,2025-02-02 08:21:02.197331,2025-01-18 15:34:52.962930,Timothymouth,Brunei Darussalam,male,69,https://placekitten.com/760/996

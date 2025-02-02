@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1939,Danielle Davis,joshua13@example.org,2025-01-27 09:24:46.593078,2025-01-07 08:35:29.703607,North Hayleyborough,Costa Rica,male,39
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1939,Brett Green,bmaldonado@example.org,2025-01-30 20:56:55.160254,2025-01-13 00:30:29.896081,East Davidborough,United States Minor Outlying Islands,male,63,https://picsum.photos/136/93

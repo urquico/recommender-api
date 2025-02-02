@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1942,Kevin Bishop,kellymendoza@example.org,2025-01-28 04:02:26.686694,2025-01-04 19:46:53.715983,Brettchester,United Kingdom,male,33
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1942,Olivia Smith MD,ekramer@example.net,2025-01-16 21:54:05.399930,2025-01-29 21:42:21.966481,Larryview,Greenland,male,53,https://placekitten.com/541/383

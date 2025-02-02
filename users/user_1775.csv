@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1775,Craig Booth,hammondshane@example.com,2025-01-11 10:25:51.646213,2025-01-11 15:35:49.799952,Clarkchester,Bangladesh,male,25
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1775,Kayla Miller,droberts@example.net,2025-01-21 19:46:45.821044,2025-01-17 14:11:57.798614,Reidshire,Philippines,female,38,https://dummyimage.com/832x341

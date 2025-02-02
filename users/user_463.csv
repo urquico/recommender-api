@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-463,Cynthia Contreras,wendy94@example.com,2025-01-05 22:03:09.655057,2025-01-12 06:39:00.552974,New Beverlyside,Oman,female,58
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+463,Kirsten Torres,johnsonwanda@example.net,2025-01-09 18:11:30.523860,2025-01-18 13:05:13.618881,New Melindahaven,Kyrgyz Republic,male,30,https://placekitten.com/233/514

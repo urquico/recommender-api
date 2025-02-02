@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1861,Sara Martinez,nlong@example.com,2025-01-22 16:10:24.829056,2025-01-18 11:20:41.460423,Davisborough,Sierra Leone,male,50
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1861,Eric Duran,omurphy@example.net,2025-01-02 20:23:49.176955,2025-01-06 06:58:09.472489,West Kevin,Equatorial Guinea,male,20,https://dummyimage.com/644x409

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-911,Rodney Burns,ijohnson@example.net,2025-01-27 07:23:05.942384,2025-01-21 10:22:48.631610,East Alvinhaven,Cyprus,male,68
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+911,Greg Bell,shannonlittle@example.com,2025-02-02 05:20:37.123733,2025-01-30 07:26:28.139697,Hammondmouth,Kyrgyz Republic,male,69,https://placekitten.com/903/965

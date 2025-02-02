@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-872,Andrew Mckay,tstrickland@example.org,2025-01-16 17:28:20.288419,2025-01-24 08:45:16.307573,East Jenny,Reunion,female,65
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+872,Dr. Andrew Hall,murraymichael@example.net,2025-01-29 00:13:16.312315,2025-01-24 04:10:47.353090,Garciaberg,Uzbekistan,female,66,https://placekitten.com/981/582

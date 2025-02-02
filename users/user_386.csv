@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-386,Angela Wilson,scott65@example.net,2025-01-23 20:46:28.269439,2025-01-08 16:31:21.335027,Potterfurt,Kiribati,female,23
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+386,Casey Smith,kevinochoa@example.com,2025-01-18 15:01:15.240974,2025-01-10 12:34:50.070031,Allisonborough,Guam,female,44,https://picsum.photos/552/35

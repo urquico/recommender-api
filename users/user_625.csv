@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-625,Robert Stevenson,hillmichelle@example.org,2025-01-07 05:17:31.248375,2025-01-28 12:32:38.614954,New Tasha,Maldives,female,68
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+625,Sarah Wright,jordanhughes@example.net,2025-01-12 20:47:03.594290,2025-01-26 10:47:54.110649,Sotoview,Georgia,female,42,https://picsum.photos/275/60

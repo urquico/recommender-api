@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-211,Angela Reynolds,michellejohnson@example.net,2025-01-09 21:38:54.659688,2025-01-05 10:53:38.044263,New Gregorystad,Swaziland,female,48
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+211,Julie Roberts,michael43@example.org,2025-01-17 15:58:18.287722,2025-01-30 11:58:52.286357,Collinsmouth,Saint Kitts and Nevis,male,76,https://dummyimage.com/752x696

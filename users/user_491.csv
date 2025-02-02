@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-491,Stephen Kennedy,deleoneric@example.net,2025-01-02 22:28:30.684450,2025-01-16 00:41:08.396779,South Jennifer,Burkina Faso,female,76
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+491,Aaron Perkins,shannon06@example.com,2025-01-31 22:53:54.247250,2025-01-11 14:01:43.226456,New Matthewhaven,Iraq,male,57,https://picsum.photos/60/605

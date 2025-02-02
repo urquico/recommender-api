@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2071,Dean Lamb,suttonerica@example.net,2025-01-01 16:38:52.456753,2025-01-07 11:39:07.103465,Josephshire,Saint Lucia,female,25
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2071,Maureen Griffin,hollydillon@example.net,2025-01-15 14:58:54.038522,2025-01-13 01:06:31.905660,Jakebury,Comoros,male,75,https://picsum.photos/456/911

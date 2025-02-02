@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1407,Jerry Welch,amanda66@example.org,2025-01-29 16:13:12.465392,2025-01-13 18:39:52.852976,East Lindachester,Nigeria,male,41
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1407,Shelly Hester,miguelfarrell@example.net,2025-01-06 09:57:08.652142,2025-01-18 11:21:55.457734,North Christopherfurt,Argentina,male,21,https://placekitten.com/701/366

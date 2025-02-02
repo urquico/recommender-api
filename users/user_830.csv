@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-830,Gary Maldonado,riosjennifer@example.com,2025-01-22 10:57:19.276638,2025-02-01 00:46:42.766650,Claudiafort,Rwanda,female,45
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+830,Michele Hale,smithjustin@example.org,2025-01-28 22:45:58.142513,2025-01-05 08:20:27.391501,Mooretown,Peru,male,27,https://picsum.photos/697/311

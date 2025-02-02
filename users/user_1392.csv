@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1392,Alejandro Williams,brittanytran@example.net,2025-01-22 15:54:31.602403,2025-01-25 14:52:55.962537,Lake Jennifershire,Uruguay,male,20
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1392,Timothy Lewis,matthew72@example.net,2025-01-13 09:48:49.732124,2025-01-13 03:45:28.328052,South Misty,Fiji,male,27,https://picsum.photos/527/431

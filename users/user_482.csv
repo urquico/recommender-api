@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-482,Gloria Miles,franklinjared@example.net,2025-01-12 09:03:28.353019,2025-01-05 03:47:34.006379,East Melissaville,Pitcairn Islands,female,30
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+482,Judy Zuniga,kpratt@example.net,2025-01-27 00:20:44.559054,2025-01-06 01:23:22.466642,South Norma,Kuwait,male,75,https://picsum.photos/638/676

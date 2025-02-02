@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1311,Adam Lee,nicolewhite@example.com,2025-01-09 00:39:14.193377,2025-01-12 13:21:42.037599,Waynehaven,Peru,female,73
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1311,Rachel Jones,xdixon@example.com,2025-01-09 02:45:41.280146,2025-01-11 00:13:55.625990,West Lancefort,Guatemala,female,31,https://dummyimage.com/842x29

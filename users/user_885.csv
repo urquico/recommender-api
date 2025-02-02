@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-885,Kimberly West,qmcmillan@example.org,2025-01-01 00:56:15.737318,2025-01-18 02:39:05.364546,Aliciaport,Saint Barthelemy,female,39
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+885,Brenda Vaughn,tiffany70@example.net,2025-01-12 04:21:07.005927,2025-02-02 12:23:37.535769,Mccormickview,Israel,male,52,https://dummyimage.com/475x582

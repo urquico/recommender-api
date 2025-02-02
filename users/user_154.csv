@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-154,Mary Jones,vbarber@example.org,2025-01-11 06:24:39.348507,2025-01-23 13:10:08.468686,North Hayley,San Marino,female,33
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+154,William Schultz,jake32@example.com,2025-01-12 11:38:55.420345,2025-01-16 14:30:38.001817,Jacksonside,Bangladesh,female,19,https://picsum.photos/823/926

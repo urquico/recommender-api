@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1810,Kara Wheeler,michael16@example.org,2025-01-17 02:06:48.340344,2025-01-08 05:35:29.075282,Arielhaven,Svalbard & Jan Mayen Islands,male,19
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1810,Jeanette Moran,ddunn@example.net,2025-01-11 03:45:02.308110,2025-02-01 17:36:02.932983,Danielport,Hungary,female,24,https://placekitten.com/333/574

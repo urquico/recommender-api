@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1294,Hector Fisher,bpatterson@example.com,2025-01-18 02:39:50.271729,2025-01-20 12:20:43.290559,Lake Codyshire,Barbados,male,75
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1294,Billy Long,danielstevens@example.net,2025-01-12 12:19:31.946496,2025-01-30 20:49:23.471180,South Kristin,Belarus,female,54,https://picsum.photos/735/40

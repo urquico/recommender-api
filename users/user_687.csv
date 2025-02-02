@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-687,David Cobb,renee92@example.net,2025-01-24 03:37:24.622314,2025-01-29 15:59:38.498705,East Mitchell,India,male,52
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+687,Patricia Watkins,benjaminriley@example.org,2025-01-10 04:19:54.199576,2025-01-22 16:24:29.163252,Port Taraland,Papua New Guinea,female,36,https://dummyimage.com/800x669

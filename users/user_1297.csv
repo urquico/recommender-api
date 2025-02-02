@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1297,Laura Mclean,jodimckay@example.com,2025-01-12 17:28:52.198092,2025-01-29 22:16:31.283756,New Mariestad,Singapore,male,62
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1297,Robert Ramirez,jaywells@example.com,2025-01-28 21:54:06.684048,2025-01-15 09:18:58.409763,New Isabellaville,Sri Lanka,female,41,https://picsum.photos/177/365

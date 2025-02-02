@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-599,Michelle Espinoza,carpenterjason@example.org,2025-01-14 21:05:22.659649,2025-01-25 11:12:13.709100,Donaldview,Dominica,female,36
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+599,Amy Berg,ofletcher@example.net,2025-01-20 16:25:57.578761,2025-01-12 20:48:26.470756,Franklinburgh,Ethiopia,female,39,https://picsum.photos/61/767

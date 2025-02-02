@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1365,Troy Butler,tracie94@example.net,2025-01-22 00:56:45.012226,2025-01-26 07:58:22.329911,West Tanner,Tokelau,male,72
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1365,Caleb Garrett,grantlisa@example.org,2025-01-06 03:05:43.092854,2025-01-09 20:35:47.548300,Ashleychester,Aruba,female,64,https://dummyimage.com/263x551

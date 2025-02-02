@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2097,David Donaldson,johnrice@example.org,2025-01-23 20:26:32.700031,2025-01-16 22:53:25.418008,West Ebonyfurt,Greece,female,58
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2097,Tony Allen,lanejoseph@example.com,2025-01-25 05:23:09.938874,2025-01-11 19:08:40.816063,North Mark,Czech Republic,female,52,https://picsum.photos/481/1021

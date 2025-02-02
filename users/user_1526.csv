@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1526,Jason Lutz,oliviayork@example.net,2025-01-26 19:19:43.921749,2025-02-01 12:49:42.454894,West Danielleview,Faroe Islands,female,63
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1526,Rachel Moreno DDS,davidwatkins@example.net,2025-01-26 13:42:48.575095,2025-01-19 09:58:38.132257,East Amandafort,Bulgaria,female,51,https://picsum.photos/507/911

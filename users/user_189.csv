@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-189,Haley Morris,schmittjennifer@example.net,2025-01-16 23:20:40.987535,2025-01-05 13:32:37.122613,Port Douglasstad,France,female,18
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+189,Kristin Huber,christophermiller@example.net,2025-01-08 12:02:10.891022,2025-01-04 05:52:51.678638,South Robin,Montserrat,female,41,https://picsum.photos/755/790

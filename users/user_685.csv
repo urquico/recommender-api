@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-685,Rachel Ward,michelle93@example.org,2025-01-18 07:15:26.365589,2025-01-30 06:03:56.002876,Port Dana,Saint Kitts and Nevis,female,55
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+685,Jasmine Mitchell,hullalison@example.org,2025-01-11 11:17:35.148828,2025-01-07 22:50:47.329706,Port Tammymouth,Oman,female,27,https://picsum.photos/880/34

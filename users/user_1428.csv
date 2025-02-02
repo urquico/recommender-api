@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1428,Samantha Collins,vpeck@example.net,2025-01-12 10:41:10.442433,2025-01-26 19:18:58.899654,Calvinberg,Burkina Faso,male,47
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1428,George Nunez,singhaaron@example.org,2025-01-03 11:34:40.970281,2025-01-06 10:44:50.030933,Garymouth,Afghanistan,male,48,https://picsum.photos/149/223

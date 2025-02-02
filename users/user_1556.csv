@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1556,Juan Williams,adam75@example.net,2025-02-01 01:55:16.552530,2025-01-16 13:41:01.661848,North Jonathanview,Somalia,male,28
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1556,Mitchell Hicks,rebeccacook@example.com,2025-01-01 13:28:04.381342,2025-01-04 05:41:33.579011,Garcialand,Greenland,female,52,https://dummyimage.com/418x103

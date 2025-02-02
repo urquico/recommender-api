@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1675,Matthew Morales,aflores@example.net,2025-01-23 03:52:38.097164,2025-01-13 17:57:44.023071,Crawfordberg,Ghana,female,20
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1675,Victoria Jones,sandovaljoshua@example.net,2025-01-25 20:50:12.433277,2025-01-27 06:02:12.777840,Lake Nathan,Turkey,female,56,https://placekitten.com/817/496

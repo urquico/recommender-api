@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1046,Aimee Ballard,andrew64@example.com,2025-01-30 08:34:28.630292,2025-01-17 22:42:33.429967,Danielshire,South Africa,male,53
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1046,Paul Castro,caseyeric@example.org,2025-01-18 18:59:39.137660,2025-01-19 07:46:41.572065,Bowersborough,Albania,male,26,https://placekitten.com/700/40

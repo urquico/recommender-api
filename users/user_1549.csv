@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1549,Christopher Oliver,cwilliams@example.org,2025-01-11 11:08:02.210603,2025-01-20 02:33:05.375784,Crystalchester,Antigua and Barbuda,male,41
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1549,Troy Elliott,josephreid@example.org,2025-01-01 16:28:27.965782,2025-01-02 18:10:10.515810,Port Samanthaville,Australia,male,50,https://dummyimage.com/660x218

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-968,Alexander Brooks,april34@example.net,2025-01-29 14:28:12.336802,2025-02-01 20:42:51.477121,South Donnamouth,French Polynesia,female,72
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+968,Michael Gordon,ramirezheather@example.org,2025-01-25 20:32:23.193569,2025-01-23 22:27:02.684582,South Joshua,Solomon Islands,male,68,https://picsum.photos/684/718

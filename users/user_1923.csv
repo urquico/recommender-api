@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1923,Linda Nichols,elliottann@example.org,2025-01-10 22:48:00.972343,2025-01-13 07:34:21.049980,West Christianburgh,Iran,female,69
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1923,Eric Gutierrez,mark31@example.net,2025-01-12 05:35:20.688546,2025-01-11 07:26:13.236036,East Jason,Solomon Islands,male,48,https://dummyimage.com/825x184

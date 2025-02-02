@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-18,Jared Barnett,xwright@example.net,2025-01-04 05:22:41.859024,2025-01-08 02:28:42.389559,New Christopher,Bulgaria,female,23
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+18,Lawrence James,jillianrogers@example.org,2025-01-13 18:21:07.256735,2025-01-10 01:41:33.366939,Andersonshire,Belize,male,30,https://placekitten.com/332/311

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1770,Erin Greene,andreamarshall@example.org,2025-01-25 14:41:04.460151,2025-01-16 12:38:27.064553,East Kellybury,Saudi Arabia,male,26
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1770,Patricia Escobar,darrenalexander@example.com,2025-01-19 16:28:21.392824,2025-01-22 10:03:36.585972,North Billy,Northern Mariana Islands,male,42,https://placekitten.com/665/688

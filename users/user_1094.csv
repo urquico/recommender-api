@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1094,Melissa Rhodes,sean26@example.org,2025-01-15 06:38:43.243357,2025-02-02 06:56:11.335899,Lyonsland,Guatemala,male,19
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1094,Lisa Davis,josephcarter@example.org,2025-01-10 10:46:24.578221,2025-01-08 12:38:44.254147,North Jessica,Libyan Arab Jamahiriya,male,56,https://dummyimage.com/98x104

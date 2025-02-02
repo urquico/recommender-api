@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-354,Justin Irwin,ygibbs@example.org,2025-01-04 01:51:40.021095,2025-01-04 00:08:03.543548,Brianport,Italy,male,22
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+354,Amber Stewart,davidwilliams@example.com,2025-01-03 16:59:39.973285,2025-01-11 19:32:12.511387,New Keithmouth,Panama,female,56,https://picsum.photos/244/256

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-566,Daniel Garrison,patrick25@example.net,2025-02-02 03:39:37.923012,2025-01-26 11:17:56.563402,Josephchester,Venezuela,female,34
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+566,Heather Banks,nicholas92@example.com,2025-01-20 00:51:16.158666,2025-01-25 23:52:48.043522,West Jason,Tanzania,male,68,https://dummyimage.com/425x718

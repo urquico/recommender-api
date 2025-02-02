@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1956,James Olson,fuentesjulia@example.com,2025-02-01 14:40:39.294228,2025-01-19 05:08:42.493818,North Wayneburgh,Micronesia,female,51
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1956,Sharon Nielsen,richardbender@example.org,2025-01-08 06:04:10.131044,2025-01-06 01:56:33.272175,Jenniferbury,French Southern Territories,male,76,https://picsum.photos/965/208

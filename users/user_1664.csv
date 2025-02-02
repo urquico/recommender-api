@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1664,Elizabeth Villanueva,ronaldmann@example.net,2025-01-04 02:29:11.765540,2025-01-04 22:26:42.057832,Stephenport,Madagascar,female,59
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1664,Anthony Holder,dixonsean@example.org,2025-01-30 14:27:15.046347,2025-02-01 13:31:35.185338,East Paigemouth,Saint Helena,male,57,https://dummyimage.com/816x134

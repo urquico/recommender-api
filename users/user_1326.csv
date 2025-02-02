@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1326,Jill Coleman,rodriguezrichard@example.org,2025-01-21 01:27:19.898540,2025-01-21 04:15:13.551091,East Brittanyland,Turks and Caicos Islands,male,60
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1326,Kelly Briggs,pamelacarlson@example.org,2025-01-03 07:27:38.277738,2025-01-02 02:56:42.239952,North Donald,Saint Lucia,female,78,https://dummyimage.com/668x418

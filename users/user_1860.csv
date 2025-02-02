@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1860,Yolanda Fitzgerald,lhernandez@example.net,2025-01-02 18:29:30.574820,2025-01-09 22:55:39.482023,Douglasland,Japan,male,41
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1860,Billy Howell,jensenmonica@example.org,2025-01-04 02:18:11.174360,2025-01-12 03:52:45.868932,East Thomasburgh,Hungary,male,78,https://picsum.photos/422/100

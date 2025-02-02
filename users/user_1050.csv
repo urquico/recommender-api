@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1050,Lance Hardy,hardingricky@example.net,2025-01-31 21:54:55.723673,2025-01-30 13:05:51.443869,Lake Charlesview,Heard Island and McDonald Islands,male,45
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1050,Anthony Crane,danielle97@example.net,2025-01-17 15:36:21.423047,2025-01-30 21:02:41.644455,Richardside,Nepal,female,35,https://dummyimage.com/204x325

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-294,Cynthia Cannon,christinejones@example.net,2025-01-26 05:10:31.803034,2025-01-26 06:54:25.925803,South Mathew,United States of America,female,63
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+294,Maria Carroll,joshua19@example.com,2025-01-18 06:05:46.901724,2025-01-07 15:25:19.296474,Newtonborough,Djibouti,female,32,https://picsum.photos/231/210

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-261,Adam Aguirre,micheal10@example.org,2025-02-02 18:08:32.740377,2025-01-22 01:04:52.824006,South Leslie,India,female,65
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+261,Johnathan Scott,amy36@example.com,2025-01-28 21:20:47.356602,2025-01-21 13:17:13.160648,Sarahtown,Cayman Islands,female,67,https://picsum.photos/233/70

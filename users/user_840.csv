@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-840,Scott Proctor,ugibson@example.net,2025-01-18 22:45:53.356418,2025-01-16 23:32:30.948889,Johnsonport,Finland,female,19
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+840,Wendy Bond,eddiewest@example.com,2025-01-19 19:46:13.494637,2025-01-23 02:20:01.699320,Hopkinsburgh,Cayman Islands,female,47,https://placekitten.com/442/607

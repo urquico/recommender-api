@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1277,Jonathan Evans,dustin49@example.org,2025-01-27 17:23:06.458605,2025-01-28 22:15:06.538406,Jenniferville,Djibouti,male,19
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1277,Jonathan Ortiz,lindahurst@example.org,2025-01-10 12:49:42.783242,2025-01-18 18:46:03.490572,South Carol,British Virgin Islands,female,25,https://picsum.photos/687/368

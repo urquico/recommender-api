@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1562,Benjamin Wallace,andrew49@example.net,2025-01-11 20:17:35.046063,2025-01-05 12:50:17.846108,New Elizabeth,Lao People's Democratic Republic,male,76
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1562,Christopher Garcia,xayers@example.org,2025-01-21 21:36:15.630033,2025-01-20 03:09:54.538571,West Cathy,Cayman Islands,female,45,https://picsum.photos/648/808

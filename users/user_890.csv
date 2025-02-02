@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-890,Christopher Ryan,ramirezjessica@example.net,2025-01-03 00:43:46.582381,2025-01-06 04:18:57.551312,Lake Zoehaven,Venezuela,female,68
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+890,Bruce Miller,qmartinez@example.org,2025-01-15 16:51:02.454139,2025-01-12 21:14:01.601993,Lake Alyssafort,Djibouti,female,63,https://dummyimage.com/243x10

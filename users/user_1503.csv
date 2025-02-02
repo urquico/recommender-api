@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1503,Lori Bell,edward88@example.com,2025-01-08 02:23:09.822849,2025-01-26 15:58:19.829616,West Wendy,Mauritania,male,26
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1503,Mark Willis,kaitlyn07@example.org,2025-01-12 08:36:01.346254,2025-01-05 09:20:19.487420,South Jermainehaven,Liechtenstein,female,36,https://dummyimage.com/281x906

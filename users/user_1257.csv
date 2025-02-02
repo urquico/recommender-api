@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1257,Brian Murray,riveraheather@example.com,2025-01-15 11:11:51.732557,2025-01-16 18:17:16.087647,South Allen,Cameroon,female,75
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1257,Tina Weiss,stevenortiz@example.org,2025-02-01 07:22:41.632366,2025-01-07 09:35:28.798758,Lake Emily,Poland,female,78,https://dummyimage.com/789x211

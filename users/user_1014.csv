@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1014,Chad Henderson,dmoore@example.org,2025-01-14 06:11:26.724926,2025-01-03 02:08:04.477001,North Gabriel,Bangladesh,male,47
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1014,Melissa Ward,davidsonjessica@example.net,2025-01-10 10:51:16.963110,2025-01-31 02:57:20.520741,East Kristi,Moldova,female,24,https://dummyimage.com/16x238

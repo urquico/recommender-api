@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-273,Terry Myers,mary49@example.net,2025-01-10 00:22:39.399004,2025-01-22 21:14:56.917944,Millsberg,Mexico,male,69
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+273,Corey Simmons,wjames@example.org,2025-01-16 12:57:24.530701,2025-01-23 21:00:20.488073,Jacksonbury,Tunisia,female,75,https://placekitten.com/103/26

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-923,Christina Castro,david87@example.com,2025-01-07 23:00:22.250760,2025-01-24 04:43:01.287626,Jamesberg,Tonga,female,71
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+923,Brandon Johnson,charles73@example.org,2025-01-30 11:20:20.943503,2025-01-04 08:46:12.947223,New Jason,Congo,male,54,https://placekitten.com/113/404

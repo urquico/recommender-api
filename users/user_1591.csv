@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1591,Zachary Butler,pachecoapril@example.com,2025-02-02 02:13:43.957061,2025-01-07 09:50:03.250998,West Amber,Indonesia,female,75
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1591,Brooke Gibson,brenda13@example.com,2025-01-24 02:46:15.964901,2025-01-23 13:20:57.305910,Stephanieside,Cape Verde,female,31,https://dummyimage.com/678x678

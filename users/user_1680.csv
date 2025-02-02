@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1680,John Yu,crystalblankenship@example.org,2025-01-26 00:51:39.757611,2025-01-22 02:36:05.200538,North Renee,Bhutan,male,58
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1680,Bernard Cobb,gpage@example.org,2025-01-10 04:23:57.986109,2025-01-13 10:07:33.004755,Port Heatherton,Jordan,female,62,https://dummyimage.com/453x922

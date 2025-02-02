@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2060,Jordan Arellano,valerie03@example.com,2025-01-01 01:58:00.284581,2025-01-10 05:28:39.023186,South Lindsey,Latvia,male,28
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2060,Jeanette Mercado,mooremartin@example.net,2025-01-10 12:54:44.446748,2025-01-30 18:08:17.639888,East Michaelton,North Macedonia,female,32,https://dummyimage.com/173x229

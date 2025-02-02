@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1602,Michael Rodriguez,kimberly41@example.com,2025-01-21 01:38:11.141096,2025-01-01 23:19:01.839431,Petershire,French Polynesia,female,26
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1602,Cynthia Lewis,brucekatelyn@example.org,2025-01-28 20:03:23.761133,2025-01-28 00:13:22.539363,Kathleenland,Sri Lanka,male,22,https://dummyimage.com/14x571

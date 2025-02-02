@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-600,Amy Vaughan,whitneysims@example.net,2025-01-17 00:01:41.060111,2025-01-09 02:43:01.056293,North Rebecca,Bolivia,male,69
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+600,Pamela Hall,wdillon@example.org,2025-01-14 12:27:28.128116,2025-01-05 10:37:54.773832,Lake Angelamouth,Morocco,male,43,https://placekitten.com/590/589

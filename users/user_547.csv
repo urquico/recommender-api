@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-547,Stephanie Walton,lunachad@example.net,2025-01-20 15:50:44.644823,2025-01-28 18:04:11.090775,Hillville,Cayman Islands,female,74
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+547,Jennifer Williams,hpatel@example.org,2025-01-26 22:04:29.239572,2025-01-16 11:46:39.461224,New Danny,Antarctica (the territory South of 60 deg S),male,32,https://placekitten.com/878/840

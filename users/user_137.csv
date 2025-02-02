@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-137,Susan Gonzalez,desiree50@example.com,2025-02-01 23:24:32.402843,2025-01-27 01:30:06.004104,Port Peterport,Thailand,male,27
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+137,Katherine Ellis,lanenatasha@example.com,2025-01-09 20:31:48.257208,2025-01-22 05:24:16.928827,Jackport,American Samoa,female,33,https://picsum.photos/58/1011

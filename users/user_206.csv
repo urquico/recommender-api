@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-206,Jennifer Snyder,qcannon@example.org,2025-01-03 09:48:09.061447,2025-01-25 05:25:21.662701,Suzannebury,Chile,female,22
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+206,Kendra Richardson,charles90@example.org,2025-01-10 18:23:21.930648,2025-01-01 07:53:52.760818,Shawnport,Philippines,male,58,https://dummyimage.com/690x240

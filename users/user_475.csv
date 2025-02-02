@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-475,Jennifer Barnes,hunter14@example.net,2025-01-24 22:44:03.618881,2025-01-10 09:20:38.291893,Alexanderport,Guernsey,male,33
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+475,Todd Hall,david46@example.com,2025-01-05 08:50:47.003086,2025-01-05 23:26:19.340759,West Claytontown,Brunei Darussalam,female,47,https://picsum.photos/348/748

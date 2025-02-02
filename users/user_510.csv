@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-510,Brandon Norris,walter78@example.net,2025-01-09 23:48:13.288947,2025-01-23 21:15:32.157394,Patrickville,Tonga,female,18
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+510,Sandy Marshall,brian88@example.net,2025-01-22 18:49:46.802640,2025-01-28 00:05:26.803389,South Corey,Niger,female,39,https://dummyimage.com/475x873

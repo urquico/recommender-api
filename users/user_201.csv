@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-201,Rebecca Thomas MD,patriciarodriguez@example.org,2025-01-30 03:21:46.503497,2025-01-15 06:56:00.880176,East Alexandra,Martinique,male,66
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+201,Adam Kemp,kayla08@example.com,2025-01-21 12:35:27.117223,2025-01-16 11:50:58.781434,Port Nicholasfurt,Bulgaria,male,80,https://picsum.photos/183/629

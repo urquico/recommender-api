@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1229,Steven Burke,vrussell@example.org,2025-01-24 02:20:35.585721,2025-01-18 00:27:45.917979,Juliamouth,Sweden,male,52
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1229,Margaret Harris,elizabeth99@example.org,2025-01-17 07:27:30.290443,2025-01-02 10:19:10.954038,Mariaberg,Liechtenstein,female,69,https://dummyimage.com/236x857

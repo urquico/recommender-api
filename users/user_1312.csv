@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1312,Emily Hopkins,kathryn95@example.org,2025-01-22 09:22:55.202137,2025-02-02 08:47:55.061394,Kingtown,Taiwan,female,76
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1312,Mrs. Tammie Williams MD,james42@example.net,2025-01-28 04:03:04.717877,2025-01-02 09:32:41.918482,East Debra,United Kingdom,male,80,https://dummyimage.com/810x176

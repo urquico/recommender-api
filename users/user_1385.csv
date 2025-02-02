@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1385,Daniel Chavez,imiller@example.org,2025-01-07 17:25:26.710543,2025-01-30 21:04:30.365752,North Whitney,Venezuela,male,62
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1385,Andrew Hunt,blairevan@example.net,2025-01-26 21:58:34.143173,2025-01-07 10:25:11.204514,Juliechester,Swaziland,female,79,https://placekitten.com/714/165

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-10,Alexis Ayers,xmyers@example.com,2025-01-03 02:27:30.789979,2025-02-02 03:57:09.120912,South Garyview,Brunei Darussalam,male,58
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+10,Gary Johnson,tyronefields@example.org,2025-01-22 21:17:22.117447,2025-01-23 15:19:57.924038,West Dennis,Greenland,male,22,https://placekitten.com/395/653

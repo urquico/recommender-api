@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1525,William Terry,eortiz@example.net,2025-01-09 23:26:35.744896,2025-01-31 17:56:23.161999,Alexandratown,Jersey,female,18
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1525,Diana Beck,rross@example.com,2025-02-02 17:13:06.513870,2025-01-15 04:22:41.983987,West Davidmouth,Vanuatu,male,74,https://picsum.photos/77/685

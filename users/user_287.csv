@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-287,Megan Herring,xrose@example.com,2025-01-27 03:22:21.693614,2025-01-12 18:30:13.214118,Cantushire,South Georgia and the South Sandwich Islands,female,47
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+287,Deborah Johns,taylorcharles@example.com,2025-01-07 03:47:03.747869,2025-01-18 20:26:50.597866,East Lisa,Pakistan,female,38,https://picsum.photos/124/321

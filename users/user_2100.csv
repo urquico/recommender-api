@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2100,Donald Smith,james19@example.net,2025-01-14 17:13:41.401259,2025-01-06 19:57:38.698097,North Juan,French Southern Territories,female,80
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2100,Patrick Mccarthy,rodriguezlauren@example.org,2025-01-23 12:37:17.174146,2025-01-20 19:28:39.229426,East Williamshire,Saint Pierre and Miquelon,male,68,https://placekitten.com/963/613

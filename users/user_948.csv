@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-948,Eric Moore,xmiller@example.com,2025-01-12 23:55:58.309548,2025-01-12 18:29:35.013182,East Brian,Martinique,female,37
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+948,Alexander Morse,williamsonjason@example.org,2025-01-01 17:49:23.608149,2025-01-13 00:35:10.198940,Port Megantown,Djibouti,male,35,https://placekitten.com/488/327

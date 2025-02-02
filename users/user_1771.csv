@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1771,Matthew Gutierrez,colleen57@example.com,2025-01-04 05:23:12.317742,2025-01-31 03:42:26.956374,West Lori,Togo,male,64
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1771,Colleen Manning,jrogers@example.net,2025-01-06 00:09:54.753520,2025-01-05 23:53:37.363759,Port Christyland,Korea,male,61,https://dummyimage.com/507x373

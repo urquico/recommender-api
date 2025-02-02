@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1255,Ronnie Holland,tammy60@example.org,2025-01-30 21:57:23.788141,2025-01-18 01:42:57.573549,Robertshaven,British Virgin Islands,female,21
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1255,Alex Ramirez,douglas29@example.com,2025-01-25 01:10:16.400194,2025-01-11 17:48:46.721095,East Renee,Jordan,female,28,https://placekitten.com/219/648

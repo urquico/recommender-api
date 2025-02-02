@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-22,Stephanie Lee,crystal24@example.net,2025-01-16 15:32:35.178050,2025-01-11 07:52:32.460551,Davisport,Chad,male,56
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+22,Carol Campbell,newmanamy@example.com,2025-02-02 06:31:33.246609,2025-02-01 03:30:26.414059,Judithmouth,Dominica,female,22,https://dummyimage.com/161x209

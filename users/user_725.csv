@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-725,Loretta Dickson,hawkinsstephanie@example.com,2025-01-09 11:53:16.131454,2025-01-18 16:28:53.526551,South Isaacborough,British Virgin Islands,male,47
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+725,Adrian James,richardsonamanda@example.com,2025-01-20 09:49:34.408931,2025-01-03 05:18:43.007236,Matthewmouth,Ukraine,female,29,https://picsum.photos/316/199

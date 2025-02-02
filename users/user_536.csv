@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-536,Kevin Marshall,brodriguez@example.org,2025-01-26 09:16:39.876961,2025-01-01 09:46:33.350790,Peterschester,Belgium,male,33
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+536,Billy Smith,sarah49@example.org,2025-01-27 15:14:08.394385,2025-01-03 20:11:45.622112,North Samanthamouth,Reunion,female,71,https://picsum.photos/758/415

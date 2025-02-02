@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-950,Emily Wiggins,qpena@example.org,2025-01-23 01:19:34.040997,2025-01-21 17:02:19.272288,South Gregory,Aruba,male,64
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+950,Kaitlyn Morse,obarrera@example.net,2025-01-17 19:55:43.300422,2025-01-04 01:38:01.263127,Port Catherinechester,Saint Barthelemy,male,18,https://dummyimage.com/424x31

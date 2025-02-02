@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-449,Cynthia Williams,castillojacob@example.org,2025-01-29 12:06:59.066132,2025-01-25 00:46:41.831851,Port Lisamouth,Italy,female,59
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+449,Jennifer Jones,robert92@example.net,2025-02-02 20:49:50.619438,2025-01-19 08:53:38.119137,East Jamesborough,Philippines,male,53,https://placekitten.com/507/1009

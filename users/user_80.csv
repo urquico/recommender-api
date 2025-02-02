@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-80,Matthew Bryant,taylorwilliam@example.org,2025-01-10 02:40:45.235893,2025-01-24 04:30:12.393347,Port Jordanville,Samoa,male,54
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+80,Laura Johnson,nancy86@example.net,2025-01-06 06:43:25.892923,2025-01-07 23:23:40.989460,East Kevin,Belize,male,52,https://picsum.photos/22/874

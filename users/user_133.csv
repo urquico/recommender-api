@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-133,Elizabeth Lewis,jesseparsons@example.net,2025-01-01 21:39:25.930433,2025-01-05 19:28:49.125173,Port Candiceberg,Congo,female,69
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+133,Jennifer Smith,rebecca48@example.net,2025-01-14 14:36:57.547475,2025-01-08 01:23:29.557866,Port Steve,Suriname,female,19,https://dummyimage.com/170x775

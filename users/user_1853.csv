@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1853,Kimberly Dunn,robert51@example.net,2025-01-22 01:42:43.235989,2025-01-25 10:54:03.230475,Joshualand,Senegal,female,45
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1853,Mackenzie Gonzalez,oroach@example.org,2025-01-11 07:02:55.238796,2025-01-31 23:32:33.965141,Pittsshire,Moldova,female,64,https://picsum.photos/76/13

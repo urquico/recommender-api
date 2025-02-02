@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-992,Joy Martinez,tiffanyjones@example.com,2025-01-22 12:52:29.247844,2025-01-16 12:21:07.924182,Gibbsport,Samoa,female,31
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+992,Steven Jackson,jason33@example.org,2025-01-21 22:08:33.403467,2025-01-20 15:58:50.237162,East Richardburgh,Jordan,male,49,https://picsum.photos/408/676

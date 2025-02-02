@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-594,Zachary Rivera,daviddan@example.net,2025-01-27 21:36:08.310863,2025-01-09 08:28:26.754532,Michaelfort,Ecuador,male,21
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+594,Michael Rodriguez,zsawyer@example.com,2025-01-11 13:14:20.093145,2025-01-25 03:04:52.146142,West Jerry,Guadeloupe,female,60,https://picsum.photos/193/315

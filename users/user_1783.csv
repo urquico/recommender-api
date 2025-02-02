@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1783,Danielle Oconnor,zjohnson@example.net,2025-01-20 14:50:20.625416,2025-01-31 07:47:12.966197,East Noahview,Liberia,female,40
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1783,Ryan Harris,lindsayfitzgerald@example.net,2025-01-28 19:12:18.739536,2025-01-19 00:29:56.637134,Port Williamborough,Bermuda,male,40,https://placekitten.com/492/177

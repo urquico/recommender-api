@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1962,Bonnie White,tina37@example.org,2025-01-07 02:40:50.405260,2025-01-18 06:12:48.754475,Stephanieport,Brunei Darussalam,female,30
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1962,Timothy Perry DDS,michael32@example.net,2025-01-15 06:50:54.264682,2025-01-22 13:43:17.651447,Suttonfurt,Belize,male,68,https://dummyimage.com/359x700

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2030,Susan Brooks,cynthia25@example.net,2025-01-18 00:20:27.177481,2025-01-16 09:10:36.326377,North Erintown,Latvia,male,53
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2030,Trevor Cummings,rebecca83@example.net,2025-01-15 10:40:03.105201,2025-01-08 09:49:20.997213,Lake Kevinville,Tokelau,male,29,https://placekitten.com/730/765

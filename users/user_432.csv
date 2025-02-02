@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-432,Brittany Montgomery,ashleybartlett@example.net,2025-01-09 13:03:09.130828,2025-01-12 08:41:59.457192,Patelton,Aruba,female,26
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+432,Andre Rivera,patriciaortiz@example.net,2025-01-30 21:23:34.799546,2025-01-04 07:27:08.449579,East Paul,Denmark,female,27,https://dummyimage.com/0x263

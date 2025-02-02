@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1246,Sheri Aguirre,kellybrandy@example.net,2025-01-05 17:32:43.338683,2025-01-24 05:50:55.399514,Nathanfurt,Congo,female,67
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1246,Troy Bell,amybailey@example.com,2025-01-20 01:01:07.299633,2025-01-11 21:01:57.200430,Waltonstad,Pitcairn Islands,male,37,https://picsum.photos/156/872

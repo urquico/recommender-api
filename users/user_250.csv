@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-250,Nicole Castro,nicholas23@example.org,2025-01-25 22:56:59.432232,2025-01-27 08:47:04.251266,West Melissa,Yemen,female,66
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+250,Aaron Trujillo,twalton@example.net,2025-01-23 07:52:49.523578,2025-01-23 12:42:36.866031,South Paul,Guernsey,male,74,https://dummyimage.com/471x713

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-703,Margaret Roman,amy03@example.com,2025-02-01 04:40:58.204041,2025-01-09 11:25:47.395562,West Brittany,Gabon,male,80
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+703,Jack Craig,cburton@example.org,2025-01-25 12:12:02.834349,2025-01-11 17:56:43.669567,Leahhaven,South Africa,male,52,https://picsum.photos/606/768

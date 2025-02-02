@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-626,Kevin Miller,angel56@example.org,2025-01-02 04:57:45.838167,2025-01-13 03:46:47.495318,Lake Matthew,Saint Helena,female,19
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+626,Heather Lopez,youngbrittany@example.com,2025-01-04 06:43:12.674926,2025-01-12 15:22:34.901821,North Anahaven,American Samoa,male,46,https://picsum.photos/891/290

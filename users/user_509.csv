@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-509,Denise Smith,shelbywhite@example.org,2025-01-24 00:58:41.625605,2025-01-16 06:05:53.341709,New Tyler,Netherlands Antilles,female,73
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+509,Rodney Simpson,gardnerchristopher@example.org,2025-01-12 06:16:49.435080,2025-01-14 01:06:37.724394,Jeffreyview,Slovenia,male,62,https://placekitten.com/555/991

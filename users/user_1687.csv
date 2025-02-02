@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1687,Jackie Santiago,clarkryan@example.net,2025-01-26 22:05:04.773778,2025-01-18 05:13:48.639539,Hollowayfurt,New Caledonia,male,32
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1687,Jessica Thompson,allenkevin@example.org,2025-01-29 10:09:09.362770,2025-01-28 21:21:22.885216,Ramosstad,Saint Vincent and the Grenadines,female,75,https://picsum.photos/846/464

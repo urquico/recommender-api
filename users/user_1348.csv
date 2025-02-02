@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1348,Thomas Owen,martinezkathy@example.net,2025-02-02 04:52:17.953233,2025-01-10 16:27:32.320441,North Christianland,Rwanda,male,25
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1348,Bradley Arnold,rachelthomas@example.net,2025-01-15 03:35:37.125896,2025-01-18 15:25:14.087471,New Shawntown,Nicaragua,female,31,https://picsum.photos/80/640

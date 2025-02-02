@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1717,Nicholas Allen III,joneskimberly@example.net,2025-01-03 07:01:18.306003,2025-01-13 18:35:43.176495,New Mitchell,Denmark,male,19
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1717,Jason Morrison,alexis32@example.com,2025-01-04 10:00:54.128685,2025-01-22 02:50:48.102655,West Christopherville,Taiwan,male,32,https://dummyimage.com/772x621

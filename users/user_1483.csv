@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1483,Sean Berry,ericcaldwell@example.com,2025-01-25 18:21:17.264649,2025-01-02 07:21:35.451948,Lake Ryanshire,San Marino,female,77
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1483,Eugene Jimenez,riveranicole@example.net,2025-01-23 11:16:25.130489,2025-01-13 21:48:16.007188,Port Michael,Maldives,female,62,https://placekitten.com/39/241

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1174,Emily Williams,zkelly@example.com,2025-01-21 02:40:26.392059,2025-01-14 18:56:53.867483,North Jonathanland,Spain,female,27
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1174,Aaron Jones,marc37@example.org,2025-01-23 06:32:40.902621,2025-01-23 02:58:20.893749,Gregoryview,Syrian Arab Republic,female,56,https://placekitten.com/204/536

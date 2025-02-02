@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-372,Emily Macias,alisha09@example.com,2025-01-10 07:08:30.351309,2025-01-07 08:30:41.997573,Timothyburgh,Mauritius,male,39
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+372,Carol Rodriguez,wfrancis@example.com,2025-01-28 23:41:32.678802,2025-01-02 21:31:00.711275,Port James,Timor-Leste,female,21,https://picsum.photos/167/588

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-985,Audrey Macias,justin56@example.org,2025-01-13 20:41:07.391543,2025-01-13 09:57:56.917177,Jasonborough,Togo,female,46
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+985,Ana Miranda,dspencer@example.com,2025-01-11 20:31:43.321602,2025-01-05 21:57:43.346679,Hughestown,Malawi,male,42,https://picsum.photos/924/148

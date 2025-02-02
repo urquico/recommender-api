@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1038,Cody Morgan,eharvey@example.net,2025-01-15 09:31:03.867365,2025-01-24 23:24:55.505963,Lopezburgh,Portugal,male,67
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1038,Sarah Gonzalez,narcher@example.net,2025-01-19 21:36:38.944203,2025-01-03 18:30:10.228175,Lake Joshuaborough,South Georgia and the South Sandwich Islands,male,19,https://picsum.photos/136/960

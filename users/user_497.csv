@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-497,Lindsay Bailey,tgonzales@example.org,2025-01-18 20:01:44.435998,2025-01-09 19:13:27.049757,Port Shannonchester,Barbados,female,50
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+497,Paul Ramos,diane55@example.net,2025-01-05 02:28:50.689521,2025-01-13 08:59:58.297626,East Paulborough,Cyprus,male,51,https://placekitten.com/648/721

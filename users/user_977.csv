@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-977,Stephen Velazquez,brian56@example.org,2025-01-11 17:02:31.383994,2025-01-09 09:52:44.686722,Williamsfurt,Latvia,female,43
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+977,James Ferrell,lisarodriguez@example.org,2025-01-22 00:40:35.748138,2025-01-15 16:47:26.268140,Jaredborough,Croatia,female,45,https://placekitten.com/661/291

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-398,James Williams,paul79@example.org,2025-01-23 17:09:55.596223,2025-02-01 08:16:04.030875,Benjaminmouth,Macao,male,52
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+398,Christopher Berry,irodriguez@example.com,2025-01-24 10:02:44.753936,2025-01-15 02:01:34.999526,Port Candace,Benin,female,57,https://dummyimage.com/10x346

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1731,April Gillespie,sarah22@example.org,2025-01-01 10:48:35.265256,2025-01-15 07:29:09.401471,North Anthony,Djibouti,female,33
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1731,Abigail Green,brittanykelley@example.com,2025-01-05 11:31:18.185624,2025-01-14 06:40:21.169602,Montgomerybury,Cape Verde,female,38,https://placekitten.com/81/581

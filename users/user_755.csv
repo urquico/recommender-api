@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-755,Dylan Lindsey,tonya00@example.com,2025-01-24 13:25:15.403030,2025-01-23 11:44:06.266280,Kimberlyside,Norfolk Island,male,64
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+755,Jose Ross,chelseamiller@example.com,2025-01-12 12:28:50.608943,2025-01-28 11:35:14.396965,New Christian,Denmark,female,20,https://picsum.photos/114/1002

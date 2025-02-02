@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-407,Erin Salazar,langmelissa@example.net,2025-01-30 21:18:16.131556,2025-01-19 17:21:43.028107,West William,Senegal,female,19
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+407,Thomas Anderson,fitzpatrickkara@example.com,2025-02-01 09:37:48.250073,2025-01-21 00:08:45.287961,Jocelynfort,Argentina,female,75,https://picsum.photos/930/971

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-792,Donald Hawkins,kruegerjoanna@example.com,2025-01-30 21:15:01.609588,2025-01-04 00:45:05.434264,West Melinda,Tanzania,female,56
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+792,Austin Young,kathy51@example.net,2025-01-20 10:17:06.999416,2025-01-03 10:17:42.415209,Bethborough,Mali,female,29,https://picsum.photos/801/395

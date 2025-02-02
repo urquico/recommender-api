@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1144,Ariel Koch,twilson@example.net,2025-01-03 03:00:22.365267,2025-01-12 21:00:23.859394,New Garyborough,Ghana,female,20
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1144,Caleb Noble,henryjason@example.net,2025-01-25 03:22:33.240477,2025-01-12 21:43:32.652579,Lake Christinaton,Ireland,male,42,https://picsum.photos/441/309

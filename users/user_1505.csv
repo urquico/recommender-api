@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1505,Sandra Harvey,ydunn@example.org,2025-01-13 07:12:24.297515,2025-01-02 12:33:15.476658,Bakerville,Tokelau,male,57
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1505,Amanda Allen,mooregina@example.org,2025-01-18 19:13:28.686139,2025-01-15 05:37:49.472303,North Cynthiaside,Czech Republic,male,47,https://picsum.photos/75/839

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1291,Keith Harmon,brad23@example.org,2025-01-30 16:54:51.997761,2025-01-22 14:33:03.305308,Lake Jasonville,Togo,female,21
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1291,Amy Rodriguez,laura29@example.org,2025-01-11 13:34:02.018344,2025-01-16 11:32:40.353308,Vanessafurt,Oman,male,60,https://picsum.photos/164/245

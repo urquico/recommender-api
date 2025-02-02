@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-358,Regina Perez,seananderson@example.org,2025-01-04 02:25:30.641864,2025-02-01 22:17:53.674590,Craigborough,Bangladesh,male,50
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+358,Thomas Barnes,parnold@example.org,2025-01-28 14:41:27.183581,2025-01-19 12:38:16.734565,Lake Ashley,Uruguay,female,45,https://dummyimage.com/675x942

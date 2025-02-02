@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1584,Brandon Anderson,michaellewis@example.com,2025-01-01 18:18:30.126060,2025-01-27 05:05:53.667799,Roytown,Latvia,male,26
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1584,Daniel Graham,brooke19@example.org,2025-01-21 10:13:49.972696,2025-01-04 19:12:45.142874,Danielstad,South Africa,male,63,https://placekitten.com/931/276

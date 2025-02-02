@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1465,Tiffany Thomas,courtneysanchez@example.com,2025-01-23 23:30:56.188676,2025-01-17 21:01:05.403031,West Noah,Eritrea,male,37
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1465,Bradley Holland,wcarter@example.com,2025-01-11 08:33:12.318409,2025-01-03 12:50:38.288260,Robinsonchester,Tajikistan,female,70,https://placekitten.com/715/69

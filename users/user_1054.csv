@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1054,Daniel Howard,ryanpierce@example.org,2025-01-21 18:27:49.610111,2025-01-13 01:18:31.205929,Andreahaven,South Georgia and the South Sandwich Islands,male,64
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1054,Roberto Lawson,christinaramirez@example.net,2025-01-31 13:43:48.670606,2025-01-11 02:03:30.840908,Angelaside,Latvia,male,42,https://placekitten.com/732/190

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-932,Amanda Black MD,sarah14@example.com,2025-01-27 23:51:01.990913,2025-01-16 05:27:02.915957,North Jordanberg,Mozambique,male,66
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+932,Denise Vasquez,megan38@example.net,2025-01-16 07:56:21.011894,2025-01-24 23:35:38.884891,Mcintyrebury,Solomon Islands,female,66,https://dummyimage.com/696x867

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-660,Christine Smith,gfranklin@example.net,2025-01-23 15:21:15.049327,2025-01-31 07:17:28.537697,New Charles,Equatorial Guinea,male,70
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+660,Phillip King,zwatts@example.com,2025-02-02 20:50:48.257098,2025-01-07 04:08:08.570189,Lake Madison,Turkey,male,68,https://picsum.photos/318/831

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-310,Erin Nunez,leah87@example.net,2025-01-10 19:24:59.545457,2025-01-07 12:01:04.704112,West Lisaland,Montenegro,male,61
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+310,Robert Nelson,bridgesgregory@example.org,2025-01-03 15:16:49.904687,2025-01-23 03:19:20.509813,Martinfurt,Cayman Islands,male,46,https://placekitten.com/153/545

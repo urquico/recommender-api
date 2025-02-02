@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1743,Stephen Strong,alexandra26@example.net,2025-02-02 16:20:39.191500,2025-02-02 08:58:19.609920,Lawsonville,Slovakia (Slovak Republic),female,45
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1743,Melissa Gonzalez,danielwilson@example.net,2025-01-09 01:23:43.861837,2025-01-02 02:52:03.474504,South Danielle,Grenada,male,70,https://placekitten.com/248/675

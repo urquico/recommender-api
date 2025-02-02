@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-130,Kimberly West,jonathan34@example.com,2025-01-27 17:31:37.235864,2025-01-05 12:22:53.726575,Lake Patriciachester,Uganda,male,48
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+130,William King,janicepeterson@example.net,2025-01-27 07:02:19.260108,2025-01-28 20:48:48.814267,South Jennifer,Cambodia,female,30,https://placekitten.com/732/647

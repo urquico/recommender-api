@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1028,Zachary Stone,donald59@example.net,2025-01-02 08:56:59.602560,2025-01-07 15:18:34.320938,North Jeannefurt,Malaysia,female,20
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1028,James Franklin,denise88@example.com,2025-01-20 17:42:25.431218,2025-01-08 11:59:15.583150,Loritown,Falkland Islands (Malvinas),female,69,https://placekitten.com/154/173

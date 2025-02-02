@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-455,Patricia Banks,curtismiddleton@example.org,2025-01-04 18:48:16.835711,2025-01-24 16:48:47.906235,South Anthony,United Kingdom,male,25
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+455,Regina Gordon,laurenbaker@example.com,2025-02-01 03:11:24.154597,2025-01-11 23:51:24.182902,East Michael,New Zealand,female,18,https://dummyimage.com/394x732

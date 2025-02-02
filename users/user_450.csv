@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-450,Jacob Martin,hammondsarah@example.com,2025-01-27 22:21:52.652529,2025-01-12 18:03:22.016601,Pollardville,Malta,male,49
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+450,Cassandra Burke,pharper@example.com,2025-01-02 18:30:51.685122,2025-02-02 11:02:18.593992,Port Jordanland,Greenland,male,73,https://placekitten.com/1004/941

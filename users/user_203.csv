@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-203,Eric Powell,thicks@example.org,2025-01-27 23:01:47.114002,2025-01-20 08:42:12.511903,Melissaton,Togo,female,50
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+203,Morgan Harrington,zachary82@example.org,2025-01-15 03:45:24.742642,2025-01-10 19:18:49.218449,Paultown,Saint Kitts and Nevis,male,24,https://placekitten.com/825/654

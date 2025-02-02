@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1191,Jennifer Butler,petersonjoy@example.com,2025-01-08 00:53:21.390472,2025-01-02 06:02:57.047222,Nicoleshire,Cuba,female,70
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1191,Nancy Ramos,cjordan@example.net,2025-02-02 03:13:14.622465,2025-01-23 07:19:52.399411,New Jodiland,Iceland,female,28,https://placekitten.com/311/860

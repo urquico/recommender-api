@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1468,Christopher Lucero,elizabethsparks@example.com,2025-01-09 11:46:45.997266,2025-01-21 22:53:34.386209,Ashleyside,Samoa,male,46
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1468,Travis Hernandez,aortiz@example.net,2025-01-05 18:52:34.687093,2025-01-09 08:57:13.923730,East Josephton,Argentina,male,77,https://placekitten.com/699/849

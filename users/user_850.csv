@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-850,Jack Yates,tarahenry@example.net,2025-01-09 15:43:12.845173,2025-01-24 12:52:42.350474,Sanfordfurt,Peru,female,63
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+850,Michael Salazar,sanchezamy@example.com,2025-01-24 04:39:47.975151,2025-01-02 07:43:40.265472,East Miguelland,Macao,female,75,https://dummyimage.com/384x441

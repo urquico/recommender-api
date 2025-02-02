@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-775,Paul Miller,grobertson@example.net,2025-01-23 23:23:37.277321,2025-01-02 10:29:22.593970,Williemouth,Cyprus,female,66
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+775,Mark Huang,ecastaneda@example.com,2025-01-07 22:16:46.712403,2025-01-10 20:07:54.758639,North Philipside,Lebanon,male,33,https://picsum.photos/437/1003

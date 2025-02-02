@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1958,Jamie Townsend,brian95@example.com,2025-01-09 11:51:56.846610,2025-01-26 10:52:04.442918,Jordanbury,Bermuda,female,50
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1958,Amanda Hayes,ashley60@example.org,2025-01-26 10:45:00.952954,2025-01-13 23:29:03.682652,Romeromouth,Guam,male,47,https://picsum.photos/1009/987

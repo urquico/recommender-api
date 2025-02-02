@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1753,Michael Clay,johnsonjohn@example.com,2025-01-12 06:30:10.787452,2025-01-26 05:02:10.544378,Jacksonton,Kiribati,male,34
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1753,Angelica Smith,allison21@example.org,2025-01-28 20:58:07.583889,2025-01-01 16:48:53.107588,Port Devin,Tunisia,female,57,https://dummyimage.com/231x181

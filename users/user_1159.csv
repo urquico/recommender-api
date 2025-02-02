@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1159,Christina Briggs,emily42@example.net,2025-01-21 18:46:55.514873,2025-01-06 02:10:03.281064,Castillochester,Sierra Leone,female,72
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1159,Keith Lowe,laurenvillanueva@example.com,2025-01-24 11:09:47.734846,2025-01-06 19:58:42.456694,South Ashley,Germany,female,65,https://dummyimage.com/974x755

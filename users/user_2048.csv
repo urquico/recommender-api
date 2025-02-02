@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2048,Derrick Patrick,erika49@example.org,2025-01-19 20:36:27.210800,2025-01-16 07:19:13.382354,New Amanda,Serbia,female,61
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2048,Tiffany Dixon,denisejohnson@example.com,2025-01-15 01:12:22.713317,2025-01-31 05:45:31.883794,New Laura,Saint Lucia,male,80,https://dummyimage.com/22x636

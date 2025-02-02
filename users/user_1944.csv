@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1944,David Davis,audrey78@example.org,2025-01-19 16:16:33.481431,2025-01-17 16:00:51.944252,Andrealand,Iraq,female,58
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1944,Judy Chavez,wyattjoel@example.net,2025-01-17 11:48:54.535081,2025-01-04 09:42:18.438000,South Dustinland,Tajikistan,male,44,https://placekitten.com/826/773

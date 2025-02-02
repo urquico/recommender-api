@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1208,Tina Clements,gbennett@example.net,2025-01-14 21:57:00.297733,2025-01-20 04:10:04.379877,New Kevin,Rwanda,male,69
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1208,Nicole Garcia,woodsjustin@example.com,2025-01-29 18:33:08.475524,2025-01-03 01:53:28.168300,New Oscar,Peru,female,49,https://placekitten.com/340/386

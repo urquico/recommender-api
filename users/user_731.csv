@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-731,Crystal Moyer,lisawoods@example.org,2025-01-06 11:43:33.285242,2025-01-03 02:06:15.563035,Samanthaland,Mexico,female,48
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+731,Virginia Fisher,alexandermcdowell@example.org,2025-01-03 18:15:16.976389,2025-01-05 15:02:58.098951,Kellyfurt,Greenland,male,43,https://picsum.photos/699/615

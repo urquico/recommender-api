@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1587,Vincent Miller,jacqueline16@example.net,2025-01-12 17:55:22.807679,2025-01-10 12:09:30.293724,Port Karenburgh,Norway,female,35
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1587,James Stewart,michael00@example.com,2025-01-12 02:15:16.082595,2025-01-01 02:02:14.005389,Martinside,Hong Kong,female,60,https://picsum.photos/216/790

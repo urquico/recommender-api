@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-514,Kathryn James,crystaladams@example.org,2025-01-29 03:39:32.582627,2025-01-31 22:55:25.869170,East David,Mali,male,78
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+514,Edward Thomas,eperez@example.net,2025-01-30 19:18:24.756254,2025-01-08 16:36:34.076161,Fernandezborough,Comoros,female,54,https://placekitten.com/6/982

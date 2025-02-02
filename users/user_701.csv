@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-701,Lisa Parks,baileycaitlin@example.org,2025-01-16 17:31:39.241575,2025-01-14 01:39:03.293746,Port Shawnton,Kiribati,female,68
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+701,Kenneth Olson,benjaminoliver@example.com,2025-01-19 16:58:59.221659,2025-01-11 20:03:29.640891,Benjaminchester,Tunisia,male,18,https://placekitten.com/145/599

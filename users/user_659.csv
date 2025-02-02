@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-659,Brian Walker,veronica40@example.com,2025-01-25 07:45:07.563531,2025-01-19 07:39:22.977565,Lake Madeline,Seychelles,male,45
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+659,Michael White,stevenmiranda@example.com,2025-01-14 17:52:02.286345,2025-01-26 17:26:10.942811,New Samanthatown,Lesotho,female,60,https://picsum.photos/539/484

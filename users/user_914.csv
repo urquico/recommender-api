@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-914,Joy Parks,lvelasquez@example.com,2025-01-09 18:06:46.833243,2025-01-18 06:06:18.654389,North Erika,Togo,female,30
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+914,Mark Russell,moorerebecca@example.org,2025-01-19 15:19:10.111502,2025-01-24 13:27:40.319161,Tatestad,Japan,male,59,https://dummyimage.com/611x54

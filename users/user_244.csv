@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-244,Darren Walker,mary19@example.com,2025-01-04 23:26:01.412049,2025-01-29 15:49:29.190956,North Markstad,Congo,male,51
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+244,Terry Spencer,mark47@example.com,2025-01-21 22:39:37.286858,2025-01-13 09:42:33.173570,Port Jane,Tuvalu,male,79,https://dummyimage.com/304x465

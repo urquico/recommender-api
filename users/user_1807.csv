@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1807,Lindsay Holt,dana90@example.net,2025-01-03 02:06:10.594198,2025-01-27 20:31:04.791297,Lake Meghan,France,female,48
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1807,Sara Mullen,mrussell@example.com,2025-01-23 19:15:30.683687,2025-01-26 19:17:58.168900,New Anna,United States Minor Outlying Islands,female,42,https://dummyimage.com/542x396

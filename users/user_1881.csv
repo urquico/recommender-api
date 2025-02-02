@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1881,Carolyn Scott,fitzgeraldnicole@example.net,2025-01-01 16:58:17.698205,2025-01-18 22:22:46.991136,Rochaland,Congo,female,44
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1881,Charles Alvarado,shane19@example.com,2025-01-15 22:18:43.236935,2025-01-11 10:09:31.869790,East Jamesmouth,Costa Rica,male,43,https://placekitten.com/1020/791

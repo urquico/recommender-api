@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2054,Julia Bailey,philipschmitt@example.org,2025-01-21 12:45:12.941449,2025-01-18 16:21:46.131379,Lake Laurie,Bhutan,male,35
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2054,Marie Hampton,danielle01@example.net,2025-01-17 23:43:37.606672,2025-01-11 14:57:12.969185,Reeseport,South Georgia and the South Sandwich Islands,male,65,https://picsum.photos/979/819

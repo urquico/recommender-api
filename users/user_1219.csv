@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1219,Maria Edwards,kristen17@example.net,2025-02-02 04:44:01.822458,2025-01-05 16:29:23.301029,Lisafurt,Uganda,male,38
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1219,Paul Steele,joshua50@example.org,2025-01-20 01:55:50.075990,2025-01-02 14:43:57.749291,North Rodneyshire,Belgium,male,39,https://dummyimage.com/76x931

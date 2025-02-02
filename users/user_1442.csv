@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1442,Stacy Parker,parksalison@example.org,2025-01-23 20:01:09.392383,2025-01-18 16:10:09.130971,Cabreraside,Denmark,male,33
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1442,Christina Williams,williamedwards@example.net,2025-01-10 14:18:02.375090,2025-01-04 04:11:59.396888,Simstown,Madagascar,male,32,https://placekitten.com/92/547

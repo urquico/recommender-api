@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-483,Roger Murphy,jenniferberry@example.org,2025-01-19 07:36:40.956442,2025-01-05 05:44:10.956913,Port Stevenborough,Martinique,male,35
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+483,David Williams,rachelhayes@example.net,2025-02-02 03:29:37.732506,2025-01-27 22:42:48.319515,Muellerside,British Indian Ocean Territory (Chagos Archipelago),female,45,https://picsum.photos/192/141

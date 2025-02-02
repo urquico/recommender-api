@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1566,Taylor Ellis MD,wesley76@example.net,2025-01-26 18:44:45.761447,2025-01-22 00:34:52.067931,West Leslie,Mayotte,male,43
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1566,Jonathan Hernandez,poolejames@example.com,2025-01-02 07:02:31.595256,2025-01-05 22:32:50.552908,Penatown,Spain,female,48,https://picsum.photos/114/221

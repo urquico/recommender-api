@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1140,Gary Warren,woodsdavid@example.net,2025-01-09 12:31:41.036114,2025-01-28 00:50:05.768224,Gutierrezfort,Saint Vincent and the Grenadines,female,44
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1140,Bryan Hamilton,haydenemily@example.net,2025-01-07 14:23:05.690064,2025-01-09 06:14:06.992641,Williamsmouth,Korea,female,61,https://picsum.photos/488/555

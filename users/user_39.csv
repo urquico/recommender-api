@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-39,Melissa Aguilar,rprice@example.com,2025-01-31 10:04:54.930478,2025-01-31 23:46:19.862314,Robertsberg,Latvia,female,63
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+39,Ricardo Rogers,ingramerica@example.net,2025-01-26 10:26:59.060786,2025-01-15 18:31:35.251882,New Amber,Afghanistan,female,32,https://dummyimage.com/765x217

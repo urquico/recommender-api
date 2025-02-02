@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-51,Samuel Martinez,nicole14@example.org,2025-01-15 03:49:18.510663,2025-01-05 21:45:09.483670,North Amy,Albania,female,38
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+51,Ryan Higgins,charles36@example.net,2025-01-05 23:38:12.602493,2025-01-13 05:52:51.000713,Websterberg,Saint Helena,male,76,https://placekitten.com/555/995

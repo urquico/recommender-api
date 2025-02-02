@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-229,Scott Klein,bboyle@example.org,2025-01-22 07:06:51.224124,2025-01-19 03:00:58.892420,North Brenda,Singapore,male,61
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+229,Michael Swanson,lschneider@example.com,2025-01-04 08:34:36.502012,2025-01-31 00:40:09.988703,Weaverburgh,Netherlands Antilles,female,57,https://dummyimage.com/454x274

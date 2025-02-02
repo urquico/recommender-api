@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-560,Rachel Carlson,bergpreston@example.net,2025-01-23 02:40:02.095082,2025-01-11 13:36:13.493284,North Christinashire,Argentina,male,70
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+560,Kristina Garza,leevanessa@example.com,2025-01-19 09:18:46.927224,2025-01-28 04:47:15.917241,New Kristinshire,Canada,female,72,https://dummyimage.com/816x679

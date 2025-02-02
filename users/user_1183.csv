@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1183,Bianca Thompson,tyler98@example.net,2025-01-03 02:38:54.739724,2025-01-14 08:36:11.801141,South Chelsea,Uganda,female,73
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1183,Karina Booth,hchapman@example.com,2025-01-10 07:50:14.714452,2025-01-26 19:48:57.502311,Port Ashleymouth,Costa Rica,male,77,https://dummyimage.com/290x527

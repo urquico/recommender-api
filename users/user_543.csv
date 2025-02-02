@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-543,Mark Alexander,rsmith@example.net,2025-01-28 08:15:34.377775,2025-01-06 16:50:32.306046,Savagefurt,Macao,female,37
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+543,Stephen Gray,ggreene@example.net,2025-01-03 07:37:33.767777,2025-01-28 01:35:33.520230,Johnmouth,Antigua and Barbuda,female,73,https://placekitten.com/911/949

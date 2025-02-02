@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-524,Donna Rocha,melissafischer@example.net,2025-01-19 09:27:17.304297,2025-01-02 06:35:49.013273,North Veronicaberg,Guinea,male,47
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+524,Rachel Morales,randall30@example.com,2025-01-19 07:46:57.162712,2025-01-12 22:35:48.868435,Evansborough,Chile,male,29,https://placekitten.com/291/35

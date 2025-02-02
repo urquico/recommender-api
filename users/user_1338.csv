@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1338,Kendra James,michael12@example.com,2025-01-31 20:41:05.771305,2025-01-20 03:19:13.391338,South Codystad,Wallis and Futuna,male,25
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1338,Scott Skinner,hillvincent@example.com,2025-01-08 03:04:18.271383,2025-01-07 07:49:02.547128,Riverachester,Bermuda,female,70,https://picsum.photos/261/12

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1076,Tiffany Reed,donna87@example.net,2025-01-05 01:12:37.538718,2025-01-07 22:31:31.394929,Karaville,Micronesia,female,40
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1076,Jessica Tucker,christopherallen@example.net,2025-01-26 08:15:40.131936,2025-01-01 10:34:00.304573,Sherrichester,Sao Tome and Principe,male,70,https://dummyimage.com/305x662

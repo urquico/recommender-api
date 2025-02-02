@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1710,Matthew Joseph,robertmarshall@example.net,2025-01-08 08:29:07.265666,2025-01-29 04:57:55.738888,Mcgeehaven,Solomon Islands,male,53
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1710,Keith Murray,carrsamantha@example.org,2025-01-06 04:21:05.927252,2025-01-23 17:11:48.401467,Wandabury,Guadeloupe,female,65,https://picsum.photos/173/152

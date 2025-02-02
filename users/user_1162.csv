@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1162,Stephanie West,deanjohn@example.com,2025-01-04 18:55:00.410377,2025-01-02 15:52:22.247874,East Jamesshire,Belarus,male,47
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1162,Robert Smith,sonyamartinez@example.com,2025-01-20 16:14:01.568300,2025-01-20 03:29:26.447798,New Connie,Iceland,female,73,https://dummyimage.com/238x168

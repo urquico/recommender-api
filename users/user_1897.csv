@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1897,Samantha Bartlett,macdonaldbryan@example.net,2025-01-23 07:26:41.540609,2025-01-03 11:38:55.516856,Contrerasborough,Uruguay,male,18
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1897,Meredith Lara,qpadilla@example.org,2025-01-21 14:31:14.223722,2025-01-18 21:41:14.059657,Williamton,Lao People's Democratic Republic,male,73,https://dummyimage.com/107x718

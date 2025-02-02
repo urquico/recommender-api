@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1968,Austin Leonard,ruben53@example.net,2025-01-16 19:53:41.559459,2025-01-31 00:45:42.578966,Rubiomouth,Pakistan,female,78
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1968,Jessica Hernandez,vrodriguez@example.net,2025-01-05 19:48:29.038704,2025-01-16 10:21:02.682022,West Kevinfurt,Saint Vincent and the Grenadines,female,30,https://picsum.photos/318/337

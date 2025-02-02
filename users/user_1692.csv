@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1692,Thomas Dominguez,frenchwilliam@example.org,2025-01-14 05:17:02.262975,2025-01-07 09:17:59.994798,East Michael,Burundi,male,67
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1692,Robert Mullins,rthompson@example.com,2025-01-19 22:36:30.531379,2025-01-09 17:58:24.506225,New Kimberly,Mali,male,38,https://picsum.photos/414/153

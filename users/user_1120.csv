@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1120,Jonathan Griffin,chris50@example.net,2025-01-04 16:53:49.283679,2025-01-04 04:22:27.196663,Emilyfort,Gambia,male,61
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1120,Cody Hale,sandramcgrath@example.net,2025-01-01 17:21:13.746933,2025-01-15 08:37:42.048151,Lake Christopherburgh,Libyan Arab Jamahiriya,female,58,https://dummyimage.com/889x217

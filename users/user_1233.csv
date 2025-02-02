@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1233,Ryan Kirby,taylor57@example.net,2025-01-03 06:53:17.462213,2025-01-18 09:42:11.778790,East Derekfort,Swaziland,female,70
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1233,Thomas Herrera,deannolan@example.com,2025-01-15 07:58:36.370941,2025-01-25 18:29:44.255801,Port Alyssa,Korea,male,65,https://placekitten.com/912/126

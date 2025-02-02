@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1417,Jeffrey Perry,wattsgregory@example.com,2025-01-18 14:40:00.221890,2025-01-05 23:06:38.022930,Benjaminstad,Belgium,male,74
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1417,Michael Andrews,moorebrianna@example.org,2025-01-22 06:21:19.622225,2025-02-01 18:40:19.427202,Kimberlyhaven,New Zealand,male,75,https://picsum.photos/987/645

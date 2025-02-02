@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1199,Samantha Henderson,jeffrey37@example.org,2025-01-22 13:10:30.879262,2025-01-12 07:10:37.185423,Port David,Malaysia,male,34
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1199,John Russell,brent12@example.net,2025-01-04 06:19:43.741956,2025-01-04 17:13:06.351789,North Jessicashire,Palau,male,54,https://placekitten.com/619/913

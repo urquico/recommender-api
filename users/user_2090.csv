@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2090,Pamela Reed,breannajones@example.net,2025-01-22 00:53:12.056434,2025-01-27 01:31:51.097456,West Alanbury,Dominica,male,26
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2090,John Hunter,khughes@example.net,2025-02-02 00:24:53.124652,2025-01-11 20:33:25.168683,Port Monica,Bangladesh,male,66,https://dummyimage.com/950x71

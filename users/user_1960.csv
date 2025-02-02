@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1960,Christian Larson,thomaslambert@example.net,2025-01-22 08:09:56.165753,2025-01-25 09:47:58.225504,Bellville,Holy See (Vatican City State),female,41
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1960,Jose Lee,wendyrobinson@example.org,2025-01-29 01:52:54.448555,2025-01-19 21:05:37.941762,North Darius,Maldives,male,68,https://dummyimage.com/579x121

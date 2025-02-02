@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-32,Tyler Meyer,lynchbrenda@example.net,2025-02-02 16:18:40.730993,2025-01-10 00:28:10.660674,Christophermouth,Russian Federation,female,50
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+32,Nathan Harris,brianbenson@example.com,2025-01-24 03:04:55.221830,2025-01-28 22:11:20.430938,Kennedyview,Uzbekistan,female,78,https://placekitten.com/509/949

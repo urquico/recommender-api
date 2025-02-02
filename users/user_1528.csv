@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1528,Lindsay Kim,williamparker@example.org,2025-01-15 04:14:47.981169,2025-02-02 02:24:50.163856,North Robin,Jersey,female,56
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1528,Danny White,cnorris@example.net,2025-01-21 16:32:40.715486,2025-01-15 20:16:48.790694,Port Taylor,American Samoa,female,65,https://picsum.photos/426/988

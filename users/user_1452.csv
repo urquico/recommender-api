@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1452,Joseph Hartman,nielsendavid@example.com,2025-01-06 00:14:43.389557,2025-01-08 12:37:13.188079,Angelabury,Jamaica,male,20
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1452,Richard Goodman,cmorgan@example.com,2025-01-31 17:31:07.514427,2025-01-29 01:19:00.412591,Johnborough,Bhutan,male,49,https://dummyimage.com/193x919

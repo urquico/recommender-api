@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-615,Carlos Ray,petersonchristopher@example.org,2025-01-19 12:34:51.007651,2025-01-08 17:06:52.276556,Landryfort,Antigua and Barbuda,male,61
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+615,Jose Blackwell,melissa15@example.org,2025-01-03 02:22:30.769065,2025-01-20 16:30:56.682281,Lake Natashachester,Reunion,female,64,https://dummyimage.com/807x184

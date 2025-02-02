@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-390,Bryan Turner,alexandralawrence@example.org,2025-01-30 02:57:43.763372,2025-01-09 02:01:50.524453,Lake Stephenbury,Monaco,female,31
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+390,George Anderson,matthew31@example.org,2025-01-30 23:06:22.264114,2025-01-05 08:55:22.033139,Steinton,Japan,female,76,https://placekitten.com/476/990

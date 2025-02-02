@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-760,Jonathan Marks,grantnancy@example.org,2025-01-18 07:54:14.132818,2025-01-28 08:55:27.590735,Lopezmouth,Togo,female,20
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+760,Mark Johnston,stephensonangela@example.com,2025-01-06 06:59:12.515316,2025-01-15 19:08:59.547764,Lake Jason,Belarus,male,25,https://placekitten.com/18/604

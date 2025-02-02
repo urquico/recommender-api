@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1750,Cheryl Wilson,marilyn74@example.org,2025-01-28 22:03:41.492143,2025-01-12 07:18:08.347945,New Shaun,Samoa,male,56
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1750,Geoffrey Shaw,floreshannah@example.com,2025-01-25 10:35:22.191350,2025-01-06 15:59:24.078562,East Amberhaven,Mayotte,female,28,https://dummyimage.com/839x819

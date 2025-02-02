@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1940,Angela Cruz,dshepard@example.net,2025-01-05 23:42:53.030292,2025-01-14 18:49:46.415274,Tuckerview,Kyrgyz Republic,female,48
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1940,Ashley Pierce,ajohnson@example.com,2025-01-01 13:16:03.526137,2025-01-04 23:52:47.424771,Mackmouth,Iceland,female,28,https://dummyimage.com/944x669

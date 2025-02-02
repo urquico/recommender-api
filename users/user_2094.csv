@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2094,James Mitchell,jessebell@example.com,2025-01-01 09:09:07.096073,2025-02-02 08:10:05.311923,East Joseph,Guam,female,39
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2094,Nicole Bentley,coxtimothy@example.com,2025-01-12 20:35:59.422960,2025-01-05 21:00:36.622780,Hughesland,Lebanon,female,66,https://dummyimage.com/568x236

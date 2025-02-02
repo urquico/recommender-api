@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1494,Reginald Wilcox,jrocha@example.com,2025-01-22 08:05:33.142354,2025-01-15 14:46:08.352335,West Robertaton,Namibia,female,77
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1494,Wendy Hayes,amanda00@example.net,2025-02-02 03:52:54.302480,2025-01-26 20:07:12.427151,Port Christine,Indonesia,male,44,https://placekitten.com/501/191

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-46,Sonya Skinner,linda13@example.net,2025-01-02 22:12:17.656785,2025-01-08 03:11:25.547081,Gregoryview,Yemen,female,43
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+46,Chase Crawford,hgriffin@example.net,2025-01-12 05:31:25.014265,2025-01-17 20:30:39.733044,South Rodneychester,Palau,male,45,https://placekitten.com/906/48

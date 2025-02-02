@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1822,Mr. Michael Nguyen,campbellkatherine@example.com,2025-01-15 16:53:30.989945,2025-01-10 05:21:34.361744,West Katrina,Moldova,male,55
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1822,Randy Ortiz,jessica93@example.net,2025-01-19 15:06:17.238617,2025-01-16 12:03:09.712432,Andrewsport,Nigeria,female,38,https://placekitten.com/297/498

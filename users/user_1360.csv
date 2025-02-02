@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1360,Ashley Lawson,cummingsjohn@example.com,2025-01-27 05:39:16.019957,2025-01-27 06:57:41.769371,Joshuafort,French Polynesia,female,18
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1360,Kelly Hunter,donaldhoward@example.com,2025-01-25 14:21:12.561293,2025-01-24 22:54:36.019690,North Christophertown,Nauru,female,72,https://dummyimage.com/66x200

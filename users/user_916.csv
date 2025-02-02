@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-916,Nicole Pearson,wdavis@example.com,2025-01-21 05:08:58.166523,2025-01-30 13:41:53.958133,South Kennethfort,Cyprus,male,60
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+916,Mr. Jack Campbell,joseph51@example.net,2025-01-19 02:20:36.139576,2025-01-12 02:49:58.515017,Mcculloughchester,Grenada,male,66,https://picsum.photos/202/226

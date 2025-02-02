@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-533,Sheila Porter,faulknerjustin@example.com,2025-02-02 01:39:36.266532,2025-01-30 16:28:38.688076,Nicholasstad,Poland,male,18
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+533,Monica Williams,ksmith@example.org,2025-01-02 07:57:43.057489,2025-01-27 03:14:49.054780,Lake Michael,Tonga,female,66,https://placekitten.com/243/913

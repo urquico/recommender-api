@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-655,Brad Ramirez,john14@example.org,2025-01-16 01:04:11.241681,2025-01-19 03:31:10.032017,Port Danielmouth,Nicaragua,male,47
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+655,Melissa Jacobson,qsmith@example.net,2025-01-18 02:20:12.663485,2025-01-31 17:29:32.433403,West Jessica,Liberia,female,69,https://placekitten.com/65/824

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-580,Roberto Aguilar,lopezjeffrey@example.net,2025-01-31 16:54:56.041302,2025-01-22 10:48:28.515440,Port Kimberlystad,Oman,female,69
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+580,Jasmine Acosta,nealandrew@example.com,2025-01-31 09:17:11.699914,2025-01-27 17:01:42.769076,Robertstad,Costa Rica,female,28,https://dummyimage.com/94x688

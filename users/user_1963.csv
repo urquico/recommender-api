@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1963,Eric Foster,barbergina@example.net,2025-01-03 16:50:48.287222,2025-01-21 02:29:05.173425,Nicoleburgh,Dominica,female,78
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1963,Jessica Bryant,joshua19@example.net,2025-01-22 06:00:04.563785,2025-01-04 18:32:37.074187,Vaughanfurt,Russian Federation,female,45,https://dummyimage.com/653x992

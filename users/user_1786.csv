@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1786,Chad Taylor,christopherrios@example.com,2025-01-05 22:12:34.212140,2025-01-16 01:32:25.014754,Danatown,United Arab Emirates,female,63
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1786,Jason Wilkinson,davisdaniel@example.com,2025-01-27 22:14:25.304618,2025-01-16 10:47:11.996613,West Gerald,Bolivia,male,60,https://picsum.photos/386/241

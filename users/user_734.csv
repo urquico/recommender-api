@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-734,Charles Kim,cdickson@example.org,2025-01-26 03:14:22.008784,2025-01-03 16:07:15.219238,Colonburgh,Brunei Darussalam,female,64
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+734,Laurie Stevens,shawbrandon@example.net,2025-01-15 04:31:25.896394,2025-01-30 20:22:31.603308,Markhaven,Nepal,female,62,https://placekitten.com/243/497

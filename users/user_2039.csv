@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2039,Casey Vaughn,wongjeff@example.net,2025-01-12 22:30:31.513269,2025-01-12 21:36:30.031123,East Andreaport,Colombia,female,38
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2039,Susan Potter,landerson@example.com,2025-01-27 06:44:39.487511,2025-01-10 15:40:19.415586,New Matthewhaven,Iraq,male,28,https://placekitten.com/351/824

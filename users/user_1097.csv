@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1097,Jessica Schultz,englishrobert@example.org,2025-01-11 08:04:49.055771,2025-01-19 17:25:06.174799,East Daniel,Nigeria,male,62
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1097,James Kelly,lhayes@example.com,2025-01-26 03:32:21.818136,2025-01-29 19:56:25.394763,East Felicia,Myanmar,male,39,https://placekitten.com/951/398

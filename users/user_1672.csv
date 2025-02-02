@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1672,Mark Bradley,tgill@example.org,2025-01-12 00:21:49.586092,2025-01-23 01:06:06.257712,Lake Matthewton,Cook Islands,female,20
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1672,Jacqueline Graham,dannydunn@example.org,2025-01-07 05:26:14.568440,2025-01-09 01:22:35.015080,Jamesstad,Turks and Caicos Islands,male,27,https://picsum.photos/403/961

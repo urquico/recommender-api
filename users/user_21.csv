@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-21,Dr. Anthony Velasquez,donaldschwartz@example.com,2025-01-05 19:48:12.071752,2025-01-30 23:15:32.269204,Katieville,Zambia,female,32
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+21,Samuel Perez,ronald98@example.com,2025-01-20 09:57:05.004689,2025-01-19 06:29:50.032656,East Thomasville,Taiwan,male,68,https://picsum.photos/303/198

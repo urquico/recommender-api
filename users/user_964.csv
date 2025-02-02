@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-964,Adam Hays,briannadixon@example.net,2025-01-04 16:08:19.197306,2025-01-10 14:02:05.583758,North Edwin,Greenland,male,59
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+964,Kimberly Richardson,hilljason@example.com,2025-01-24 05:20:53.007196,2025-01-20 23:00:38.786315,New Stephaniefurt,Russian Federation,male,43,https://dummyimage.com/265x282

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-276,Michelle Riddle,yknox@example.org,2025-01-04 13:45:20.643170,2025-01-26 09:32:10.031721,East Brendahaven,Bahrain,male,24
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+276,Sara Baldwin,moranmarc@example.com,2025-01-07 14:12:05.323162,2025-01-18 11:49:42.471782,Port Charlesborough,Bhutan,female,24,https://dummyimage.com/933x529

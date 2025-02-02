@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1573,Jennifer Dixon,alexander89@example.org,2025-01-15 21:21:54.719228,2025-01-09 09:07:05.217888,East Wesleyland,Pakistan,male,22
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1573,Janet Jones,damonjones@example.org,2025-01-01 04:19:41.938317,2025-01-25 22:29:55.057526,South Robertstad,Jersey,male,18,https://picsum.photos/269/876

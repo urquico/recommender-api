@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1146,Jennifer Wilson,cameron16@example.com,2025-01-20 03:27:57.436388,2025-01-16 10:57:00.151554,Wrightview,Luxembourg,male,36
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1146,Melissa Hubbard,hilldavid@example.org,2025-01-30 07:33:57.925051,2025-02-02 05:55:08.174548,Austinside,Vanuatu,female,80,https://picsum.photos/765/848

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1524,Thomas Ball,simskevin@example.com,2025-01-12 22:40:47.596910,2025-01-12 10:03:26.131461,North Patricia,Norfolk Island,female,24
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1524,Richard Le,david48@example.net,2025-02-01 13:53:59.757600,2025-01-18 16:59:02.278457,Christianton,Guatemala,male,74,https://placekitten.com/153/133

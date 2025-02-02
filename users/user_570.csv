@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-570,Jerry Rivera,kwoods@example.com,2025-01-27 12:27:16.108907,2025-01-27 08:34:46.809925,North Johnmouth,Saint Vincent and the Grenadines,female,36
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+570,Travis Charles,philipbrown@example.com,2025-01-12 08:03:34.221862,2025-01-20 12:23:36.455231,West Laurenport,Albania,female,62,https://placekitten.com/301/897

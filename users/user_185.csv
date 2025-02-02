@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-185,Janet Abbott,joseph11@example.org,2025-01-30 11:15:54.943364,2025-01-05 22:47:21.476597,Port Monicaview,Czech Republic,female,68
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+185,Ronald Gonzalez,osexton@example.net,2025-01-22 21:11:50.673505,2025-01-14 18:03:32.210203,Lake Jeffreyberg,Norfolk Island,male,37,https://dummyimage.com/587x468

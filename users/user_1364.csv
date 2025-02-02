@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1364,Jessica Farley,vmills@example.org,2025-01-10 21:17:13.408860,2025-01-18 08:39:47.055594,Lake Lisa,Jordan,female,22
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1364,Nathaniel Dunn,jessica16@example.com,2025-01-26 08:50:20.357498,2025-01-09 00:41:12.748042,Leonside,Brazil,male,25,https://placekitten.com/771/97

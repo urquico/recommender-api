@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1849,Daniel Fernandez,whitelisa@example.org,2025-01-23 06:21:15.164918,2025-02-02 06:11:05.358387,Lake Brian,Vanuatu,male,53
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1849,Sarah Shepard,martha80@example.net,2025-01-05 13:34:37.312619,2025-01-02 20:11:16.030536,East Amyhaven,Luxembourg,male,22,https://placekitten.com/43/159

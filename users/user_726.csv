@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-726,John Maxwell,andrewssarah@example.org,2025-01-04 20:23:22.318843,2025-01-03 08:45:13.407771,South Ricardo,China,female,18
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+726,Diane Wong,hamiltoncharles@example.net,2025-01-31 06:21:32.279478,2025-01-18 18:00:42.909244,Christopherside,Jamaica,male,69,https://dummyimage.com/562x13

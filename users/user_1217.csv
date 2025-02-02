@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1217,Elizabeth Turner,alexandrabenjamin@example.org,2025-01-22 08:40:30.030729,2025-01-27 05:34:11.967829,West Paigeland,Puerto Rico,male,53
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1217,Heidi Garza,ruizcatherine@example.org,2025-01-02 07:57:58.196226,2025-01-19 10:07:04.588104,Peckstad,Morocco,male,54,https://picsum.photos/459/132

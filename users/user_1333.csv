@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1333,Omar Henderson,hrubio@example.org,2025-01-25 06:08:35.793335,2025-01-23 12:05:37.355660,Maryport,Cyprus,male,32
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1333,Andrew Kelly,emilymeyer@example.com,2025-01-22 10:26:18.185291,2025-01-23 04:17:04.462663,Matthewchester,Greenland,female,80,https://placekitten.com/104/906

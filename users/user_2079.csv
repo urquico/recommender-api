@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2079,Nathaniel Brown,melissaberger@example.net,2025-01-18 18:48:43.914016,2025-01-01 13:21:41.240795,Lake Joseph,Eritrea,female,24
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2079,Daniel Hendricks,cynthia94@example.net,2025-01-27 03:05:44.206778,2025-01-26 21:04:55.824540,East Kevin,China,female,20,https://placekitten.com/686/310

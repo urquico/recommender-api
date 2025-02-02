@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1420,Jacob Phillips,nortoneric@example.net,2025-01-01 23:51:04.312907,2025-02-01 12:11:16.412458,East Lori,Solomon Islands,female,33
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1420,Todd Webb,lisa82@example.net,2025-01-02 12:41:44.364234,2025-01-29 22:29:26.670755,Port Jason,Ireland,male,48,https://placekitten.com/609/865

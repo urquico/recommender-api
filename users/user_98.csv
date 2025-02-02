@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-98,Dr. Jennifer Crawford PhD,dchaney@example.org,2025-01-24 10:42:29.663128,2025-01-29 17:34:54.336755,West Stevenland,Mauritius,female,57
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+98,Lori Walsh,robertrose@example.com,2025-01-13 09:34:18.743454,2025-01-17 23:48:37.039881,Dylanberg,Guyana,female,36,https://picsum.photos/968/387

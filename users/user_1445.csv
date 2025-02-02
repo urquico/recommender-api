@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1445,Julia Miller,herrerapeter@example.com,2025-01-04 10:25:06.948477,2025-01-09 22:55:44.623324,South Jordan,Botswana,male,32
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1445,Jacob Hurst,williamsjason@example.net,2025-01-13 16:19:24.784367,2025-01-10 06:34:03.750663,Martinberg,American Samoa,male,30,https://picsum.photos/284/770

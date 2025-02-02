@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1698,Kristen Walker,mphillips@example.net,2025-01-04 08:12:30.632166,2025-01-27 04:28:54.063123,Parkertown,Venezuela,female,42
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1698,Kathleen Robinson,vasquezlauren@example.org,2025-01-18 10:38:00.688998,2025-01-18 11:35:46.991784,Gonzalestown,Uganda,male,19,https://dummyimage.com/935x171

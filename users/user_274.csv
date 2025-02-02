@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-274,Benjamin Dickerson,troy20@example.org,2025-01-13 22:38:14.373986,2025-01-27 08:50:11.038209,Scottmouth,Turkey,male,47
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+274,Maria Roman,xgarza@example.com,2025-01-08 15:36:41.502773,2025-01-06 00:12:32.302023,East Hollyside,Faroe Islands,female,19,https://placekitten.com/419/422

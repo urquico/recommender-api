@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1093,Patricia Mcdonald,nicholas61@example.com,2025-01-09 00:18:48.177799,2025-01-09 01:48:28.276622,Lake Danielle,Ukraine,male,28
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1093,Samantha Ross,xbanks@example.com,2025-01-10 18:26:50.738969,2025-01-11 22:47:37.987827,South Michaelfurt,Mongolia,female,61,https://dummyimage.com/842x6

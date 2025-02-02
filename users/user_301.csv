@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-301,Kelsey Mitchell,jensenmary@example.org,2025-01-07 20:14:37.706846,2025-01-18 07:11:27.524411,North Brianport,Saint Barthelemy,female,38
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+301,Monica Barrera,pagechad@example.net,2025-01-05 08:50:08.179146,2025-01-01 01:13:13.981247,West Katherine,French Guiana,male,71,https://picsum.photos/657/1007

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1713,Ashley Mitchell,owenssteven@example.net,2025-01-25 15:14:03.543487,2025-01-08 19:04:04.780736,Wendychester,China,male,49
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1713,Sharon Mason,velazquezkaren@example.net,2025-01-02 20:51:35.136296,2025-01-27 08:25:46.766987,South Jasonville,Madagascar,female,25,https://placekitten.com/769/588

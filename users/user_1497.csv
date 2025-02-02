@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1497,Nicole Hubbard,zmartinez@example.com,2025-01-25 23:47:19.113254,2025-01-21 17:40:16.624216,West Dawnbury,Cocos (Keeling) Islands,female,46
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1497,Christopher Davis,caroljackson@example.org,2025-01-23 05:16:28.637841,2025-02-01 03:55:53.357750,North Michelle,Puerto Rico,male,45,https://dummyimage.com/183x731

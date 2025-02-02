@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-933,Joan Perkins,isutton@example.net,2025-01-09 14:54:31.145031,2025-01-27 23:37:07.918955,Fisherville,Denmark,female,74
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+933,Dustin Griffin,brandonpatterson@example.org,2025-01-27 06:51:53.817657,2025-01-23 17:06:27.260778,North Markborough,Saudi Arabia,male,72,https://picsum.photos/94/315

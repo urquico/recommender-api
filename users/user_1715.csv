@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1715,Maria Wolf MD,rebeccalopez@example.net,2025-01-22 13:41:13.313550,2025-01-07 11:04:46.767828,South Zachary,Turkey,female,56
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1715,Francisco Mccarthy,pamela72@example.com,2025-01-12 16:11:33.117257,2025-01-11 17:40:04.334020,Dicksonfurt,Martinique,male,40,https://dummyimage.com/116x176

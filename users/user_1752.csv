@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1752,Patricia Edwards,xfrederick@example.net,2025-01-26 13:41:51.159266,2025-02-01 06:22:54.145483,Colemanstad,Guinea-Bissau,female,71
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1752,Aaron Smith,dennissmith@example.net,2025-01-05 10:45:03.259787,2025-01-08 20:27:01.362306,North Robertfurt,French Guiana,female,75,https://picsum.photos/541/288

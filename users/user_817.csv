@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-817,Amy Lee,mclaughlinshannon@example.com,2025-01-30 16:33:13.614592,2025-01-17 13:16:51.527038,Glenchester,Trinidad and Tobago,female,33
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+817,Corey Davis,umyers@example.com,2025-01-26 22:46:40.177486,2025-01-29 01:25:54.209013,Romanport,Australia,male,48,https://dummyimage.com/88x557

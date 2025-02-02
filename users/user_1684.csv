@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1684,Melinda Brooks,gsmith@example.com,2025-01-13 11:24:11.463095,2025-01-18 02:35:41.292721,Armstrongside,Falkland Islands (Malvinas),female,71
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1684,Bryan Grant,waynemcdonald@example.com,2025-01-07 05:48:27.543000,2025-01-23 10:56:16.329613,Henrystad,Armenia,male,50,https://picsum.photos/853/559

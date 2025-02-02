@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1441,Ann Roth,jacksonjonathan@example.com,2025-01-17 05:40:40.714363,2025-01-12 12:36:58.181159,Lloydland,Suriname,female,56
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1441,Mark Buckley,greentiffany@example.org,2025-01-04 00:12:13.644458,2025-01-25 11:11:34.725125,Huffbury,Micronesia,female,73,https://placekitten.com/780/205

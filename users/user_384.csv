@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-384,Jasmine Combs,michelleluna@example.org,2025-01-31 18:15:16.742198,2025-01-24 13:44:31.165867,West Juliechester,Vanuatu,female,38
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+384,Bill Cuevas,xavier92@example.org,2025-01-09 20:10:05.441533,2025-01-10 11:09:49.378260,Valerieside,Niue,male,35,https://placekitten.com/495/523

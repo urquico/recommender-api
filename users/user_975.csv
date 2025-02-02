@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-975,Ryan Castillo,bestkimberly@example.net,2025-02-02 10:04:12.830880,2025-01-10 12:29:19.512847,North Pamelafort,Greece,male,62
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+975,Joshua Everett,lanejulie@example.org,2025-01-20 23:15:25.510932,2025-01-25 17:13:31.528423,Feliciaburgh,Afghanistan,female,42,https://placekitten.com/682/723

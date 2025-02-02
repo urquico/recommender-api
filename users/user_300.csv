@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-300,Jerry Ramos,lisamacias@example.net,2025-01-24 22:36:32.267807,2025-01-08 08:51:56.206887,Susanville,Ethiopia,male,55
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+300,Tracy Lucas,samantha45@example.net,2025-01-30 19:20:13.320180,2025-01-21 11:56:00.349630,Lake Barbara,Jordan,male,54,https://dummyimage.com/768x209

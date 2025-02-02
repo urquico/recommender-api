@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1031,Lisa Wilson,monique79@example.net,2025-01-13 09:56:40.222354,2025-01-01 06:59:36.894963,New Victoria,Austria,male,19
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1031,Ariel Hoffman,jennifer18@example.net,2025-01-03 05:00:02.373878,2025-02-02 03:35:49.916100,Grosstown,Myanmar,female,39,https://placekitten.com/9/315

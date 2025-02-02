@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1739,Shannon Gutierrez,shawnsmith@example.com,2025-01-03 06:56:47.908686,2025-01-04 00:53:41.326002,Perezfurt,Ecuador,female,80
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1739,Jennifer Byrd,josborn@example.net,2025-01-28 19:00:04.310452,2025-01-31 22:55:42.227506,West Elizabeth,Yemen,male,59,https://placekitten.com/83/340

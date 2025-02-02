@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-663,Gregory Edwards,lisahampton@example.net,2025-01-13 23:21:09.563539,2025-01-31 14:52:15.630861,West Matthewville,Denmark,female,34
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+663,Michael White,briggsheidi@example.org,2025-01-16 18:23:15.209078,2025-02-01 02:39:00.454468,Larsenmouth,Western Sahara,female,45,https://dummyimage.com/413x357

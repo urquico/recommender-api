@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1697,Rachel Holland,nealjeffery@example.com,2025-02-01 15:37:20.182441,2025-01-22 05:05:43.779102,Lake Samantha,Mauritania,male,25
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1697,Holly Lane,youngwilliam@example.net,2025-01-24 15:56:42.506811,2025-01-12 08:30:42.307583,New Christinechester,Solomon Islands,male,58,https://dummyimage.com/233x974

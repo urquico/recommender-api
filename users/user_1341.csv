@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1341,Teresa Graves,christensenronnie@example.org,2025-01-01 16:31:57.569572,2025-01-12 15:08:35.297210,Parksstad,Aruba,female,54
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1341,Shane Smith,xgamble@example.com,2025-01-29 17:15:27.777126,2025-01-05 23:58:51.466654,Andrewmouth,Sierra Leone,male,22,https://picsum.photos/162/117

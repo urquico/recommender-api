@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-425,Tyler Jones,mitchellbrandi@example.net,2025-01-01 22:56:29.943389,2025-01-04 09:03:19.645970,Lake Michaelborough,Barbados,female,63
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+425,Kirk Castaneda,craigfreeman@example.com,2025-01-26 17:24:07.672187,2025-01-29 01:54:49.023954,South Zacharytown,India,male,79,https://picsum.photos/293/1

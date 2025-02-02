@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-431,Patricia Beard,andrewortiz@example.org,2025-01-30 05:29:08.044359,2025-01-06 00:46:10.438615,East Angela,Oman,male,59
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+431,Andrew Baird,tbeltran@example.com,2025-01-21 04:41:59.344332,2025-01-06 02:58:11.172111,South April,Saint Lucia,female,41,https://placekitten.com/572/980

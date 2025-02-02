@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1611,Matthew Norris,ssharp@example.org,2025-01-26 20:33:15.016146,2025-01-27 06:37:30.767855,Lake Tiffany,Papua New Guinea,male,33
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1611,Courtney Smith,aprilpotter@example.com,2025-01-07 03:10:48.170400,2025-01-16 13:52:28.762309,North Markstad,Timor-Leste,male,28,https://dummyimage.com/491x190

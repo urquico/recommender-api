@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1106,Michele Gonzalez,jenniferreyes@example.net,2025-01-19 03:37:43.832039,2025-01-29 08:37:34.827269,South Wendy,Western Sahara,male,39
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1106,Sabrina Henderson,michaellee@example.com,2025-01-06 21:58:01.564058,2025-01-14 18:19:52.977907,East James,United States Minor Outlying Islands,male,45,https://placekitten.com/576/535

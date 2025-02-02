@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-859,William Fitzpatrick,egarcia@example.com,2025-01-23 20:14:05.010982,2025-01-17 19:00:07.146212,Tammyfort,Guatemala,male,63
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+859,Stephanie Conrad,mturner@example.net,2025-01-08 20:37:34.624398,2025-01-30 21:47:51.709241,North Samuel,Moldova,male,50,https://dummyimage.com/598x246

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-973,Daniel Cox,thompsonelizabeth@example.org,2025-01-14 17:56:16.984401,2025-01-14 21:49:57.978593,Lake Keithburgh,Germany,male,49
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+973,Brendan Smith MD,aschmidt@example.net,2025-01-13 03:50:27.970305,2025-01-08 17:32:19.826887,South Ashleybury,Turks and Caicos Islands,female,34,https://placekitten.com/705/553

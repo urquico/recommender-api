@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1646,James Edwards,collinsgregory@example.net,2025-01-01 22:21:40.590175,2025-01-09 02:49:37.542865,West Karenfurt,Lithuania,male,24
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1646,Chelsea Ingram,frankbarrett@example.net,2025-01-04 05:30:13.841110,2025-01-22 12:21:19.641346,South William,El Salvador,female,26,https://placekitten.com/584/53

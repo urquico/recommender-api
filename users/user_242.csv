@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-242,Catherine Ball,ryan13@example.org,2025-01-03 08:46:43.200865,2025-01-11 11:21:33.928493,West Adamburgh,Gibraltar,female,52
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+242,Chelsea Brown,masseyscott@example.com,2025-01-02 12:49:43.825447,2025-01-15 16:34:01.592012,Warnerport,Slovenia,female,79,https://dummyimage.com/554x936

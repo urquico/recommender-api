@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1745,Mrs. Amanda Torres,hicksapril@example.com,2025-01-07 11:52:21.227759,2025-01-08 22:05:57.516805,Pamelaport,United States Minor Outlying Islands,male,57
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1745,Timothy Jennings,fduffy@example.com,2025-01-31 06:56:09.365534,2025-01-22 09:50:12.353542,Zacharyhaven,Greece,female,66,https://picsum.photos/857/316

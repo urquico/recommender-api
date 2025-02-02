@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-268,Jason Perez,angelaanderson@example.net,2025-01-14 23:23:29.293437,2025-01-13 13:40:14.234094,New Christineborough,Sweden,male,26
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+268,Aaron Paul Jr.,michael96@example.net,2025-02-02 14:57:08.235422,2025-01-28 09:32:54.257249,Jessicaville,Bouvet Island (Bouvetoya),female,21,https://picsum.photos/216/923

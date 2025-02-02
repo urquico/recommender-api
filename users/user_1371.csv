@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1371,Kelly Fischer,fhensley@example.net,2025-01-31 07:10:50.887193,2025-01-05 02:09:08.884557,Benitezton,Congo,female,69
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1371,Taylor Barrett,cruzkyle@example.com,2025-01-22 06:43:10.217760,2025-02-01 14:22:19.012172,Jodyberg,Tunisia,female,35,https://picsum.photos/36/853

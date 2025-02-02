@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1475,Laura Diaz,kylerobinson@example.com,2025-01-29 18:46:54.637277,2025-01-12 01:05:35.542942,Kleinhaven,Saint Barthelemy,male,26
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1475,Kimberly Galvan,baileykathleen@example.com,2025-01-16 21:14:11.025054,2025-01-21 02:23:11.218168,South Susanview,Ethiopia,male,62,https://picsum.photos/988/852

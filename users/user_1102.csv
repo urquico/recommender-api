@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1102,Kristina Ford,rebecca80@example.org,2025-02-01 03:01:13.515972,2025-01-26 06:30:21.616296,West Lorimouth,Holy See (Vatican City State),female,64
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1102,Kirsten Hayes,cparsons@example.org,2025-01-03 11:35:33.857687,2025-01-26 05:05:34.778763,Millerton,Turkmenistan,female,23,https://dummyimage.com/284x745

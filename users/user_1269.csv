@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1269,James Peterson,xhernandez@example.net,2025-01-02 17:24:48.638079,2025-01-09 20:44:09.850451,Pierceton,Guatemala,male,65
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1269,Jonathan White,thompsonsandra@example.net,2025-01-25 12:48:45.632152,2025-01-09 17:51:09.660358,Garciaberg,Pitcairn Islands,female,43,https://dummyimage.com/273x931

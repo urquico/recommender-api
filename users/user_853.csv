@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-853,Gregory Mathis,laura50@example.net,2025-01-22 05:23:37.124416,2025-01-03 03:09:41.496742,Campbellhaven,Heard Island and McDonald Islands,male,37
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+853,Laura Newman,greentimothy@example.org,2025-01-24 04:04:50.129789,2025-01-07 16:23:00.522291,West Benjamin,Solomon Islands,male,80,https://picsum.photos/594/8

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1059,Catherine Black,brandonmann@example.net,2025-01-16 20:18:14.154664,2025-01-23 06:48:47.514918,West Mercedesborough,Botswana,female,18
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1059,Mr. Marc Brown,davidbranch@example.org,2025-01-29 01:23:17.294617,2025-01-02 06:40:52.857196,Baileyfurt,Kuwait,male,27,https://picsum.photos/355/642

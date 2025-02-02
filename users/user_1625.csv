@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1625,Melissa Ruiz,michael44@example.com,2025-01-30 02:44:53.025684,2025-01-12 19:38:57.285824,West Nathaniel,Ghana,female,30
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1625,Jill Brooks,msparks@example.org,2025-01-12 08:34:59.094919,2025-01-09 02:01:40.428751,East Kyleport,Isle of Man,female,77,https://placekitten.com/77/252

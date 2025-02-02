@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1868,Larry Abbott,valenzuelatommy@example.org,2025-01-13 05:09:23.428753,2025-01-02 09:03:16.661408,Lake Jessica,Congo,male,66
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1868,Whitney Barnes,hilljulia@example.org,2025-01-22 02:45:08.804214,2025-01-05 16:02:49.385952,Port Stephanie,Palestinian Territory,male,24,https://dummyimage.com/553x381

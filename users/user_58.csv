@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-58,Thomas Anderson,zbailey@example.net,2025-01-21 11:51:43.947120,2025-01-11 00:12:40.551184,Port Lisa,Mongolia,female,37
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+58,Carl Hartman,shannongrant@example.com,2025-01-30 00:41:37.799735,2025-01-16 11:00:48.681160,West Kevinfort,Falkland Islands (Malvinas),female,23,https://picsum.photos/116/813

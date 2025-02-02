@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-202,Carrie Ortiz,stephenbartlett@example.org,2025-01-08 13:49:52.669002,2025-01-07 16:37:48.817022,Karenberg,Andorra,male,21
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+202,Terry Deleon,michael37@example.com,2025-01-16 13:13:38.247839,2025-01-08 10:20:49.450767,Lake David,Ethiopia,male,61,https://picsum.photos/697/734

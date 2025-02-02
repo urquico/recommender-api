@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1430,Veronica King,rachel90@example.net,2025-01-25 10:23:27.066913,2025-01-05 18:30:39.756355,West Crystalbury,Comoros,male,75
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1430,Sherri Kirk,robertbrown@example.com,2025-01-07 11:04:40.780370,2025-01-04 12:14:52.486251,East Kenneth,Taiwan,male,19,https://placekitten.com/317/1011

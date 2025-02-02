@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2069,Marie Frey,wellis@example.org,2025-01-16 07:19:56.069473,2025-01-12 15:55:19.532079,North Michealbury,Saint Martin,male,56
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2069,Kimberly Scott,robertsjennifer@example.com,2025-01-30 22:32:21.392327,2025-01-30 03:48:56.984835,Tylerton,Luxembourg,male,78,https://picsum.photos/704/680

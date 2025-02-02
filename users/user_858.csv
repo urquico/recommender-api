@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-858,Angelica Henderson,crawfordkevin@example.com,2025-01-03 08:33:55.144710,2025-01-26 02:34:27.133879,New Larrychester,Trinidad and Tobago,male,63
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+858,John Mueller,scottdanielle@example.com,2025-01-02 12:46:45.707717,2025-01-13 18:52:31.591712,Karenshire,French Guiana,male,67,https://dummyimage.com/643x368

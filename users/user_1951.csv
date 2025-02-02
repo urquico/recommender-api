@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1951,Jacqueline Chavez,carriejohnson@example.org,2025-01-09 23:40:01.211653,2025-01-09 02:24:14.512219,New Samuel,Heard Island and McDonald Islands,female,69
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1951,Alexandria Willis,mark33@example.org,2025-01-08 20:29:58.695333,2025-01-24 04:10:05.409342,Annmouth,Turks and Caicos Islands,male,80,https://dummyimage.com/203x502

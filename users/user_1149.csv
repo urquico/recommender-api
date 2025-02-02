@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1149,Matthew Barnett,martinsteven@example.net,2025-01-11 20:24:09.821315,2025-01-21 23:30:02.264856,Coreyhaven,North Macedonia,male,56
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1149,Sandra Stark,matthew73@example.com,2025-01-03 20:29:11.070035,2025-01-26 02:31:56.409588,Kevinborough,Taiwan,female,65,https://picsum.photos/120/916

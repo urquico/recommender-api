@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1667,Mark Morgan,wwagner@example.net,2025-01-06 00:11:55.776103,2025-01-12 19:42:40.964147,Masonfurt,Macao,female,76
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1667,Ashley Martin,parkrichard@example.com,2025-01-30 18:59:06.275904,2025-01-16 11:34:55.969360,South Amandaland,Cook Islands,male,69,https://picsum.photos/710/15

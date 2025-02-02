@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1699,Latoya Cordova,toddbutler@example.net,2025-01-25 22:35:25.857658,2025-01-27 14:56:43.493594,Shawton,Maldives,male,70
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1699,Joseph Simmons,kaylahanna@example.com,2025-01-11 03:50:38.042388,2025-01-24 00:25:25.789577,South James,Bosnia and Herzegovina,male,75,https://dummyimage.com/857x730

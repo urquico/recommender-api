@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1302,Robert Black,mary94@example.net,2025-01-28 17:50:06.408864,2025-01-13 00:47:41.327895,Markstad,Isle of Man,female,56
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1302,Lauren Thomas,wcohen@example.com,2025-01-06 20:18:01.795567,2025-01-21 00:49:01.462876,Johnfurt,Chad,female,24,https://picsum.photos/302/766

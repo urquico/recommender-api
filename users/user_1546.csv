@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1546,Sandra Bentley,lisa15@example.net,2025-01-26 11:56:35.966438,2025-01-30 09:40:17.684825,Port Rose,North Macedonia,female,23
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1546,Jessica Adams,amy28@example.org,2025-01-18 19:32:01.575819,2025-01-26 12:24:36.384666,Schneiderbury,Sudan,male,79,https://dummyimage.com/733x42

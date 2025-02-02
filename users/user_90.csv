@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-90,Michael Hammond,ydalton@example.net,2025-01-27 03:08:09.831843,2025-02-01 23:02:13.339433,South Ronaldmouth,Latvia,female,26
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+90,Raymond Giles,znelson@example.com,2025-01-27 00:47:22.765432,2025-01-07 10:58:38.852159,Christinahaven,Guadeloupe,female,56,https://dummyimage.com/516x794

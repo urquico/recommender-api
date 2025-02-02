@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1223,Lauren Vega,rodneybooker@example.org,2025-01-15 16:42:59.256135,2025-01-09 02:33:02.373139,Pettyton,British Virgin Islands,female,30
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1223,Tammy Harris,kyle15@example.org,2025-01-05 19:23:11.148630,2025-01-24 06:29:50.704584,North Karenville,Uzbekistan,male,37,https://placekitten.com/201/203

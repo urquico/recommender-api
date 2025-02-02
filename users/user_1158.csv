@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1158,Dwayne Ayala,nicholas52@example.org,2025-01-17 07:16:23.603710,2025-01-20 22:17:48.578868,South Toddmouth,Gambia,female,22
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1158,Jill Lee,lelliott@example.org,2025-01-27 15:08:15.638068,2025-01-27 02:20:15.695064,Evansburgh,Moldova,female,67,https://picsum.photos/925/22

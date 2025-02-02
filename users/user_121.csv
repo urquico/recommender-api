@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-121,Misty Barr,ppark@example.net,2025-01-31 21:31:02.190530,2025-01-02 16:35:55.131364,Lihaven,Israel,female,73
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+121,Molly Hill,yhuerta@example.com,2025-01-01 12:44:16.973898,2025-01-04 02:07:33.767576,East Hannah,Armenia,female,69,https://placekitten.com/938/642

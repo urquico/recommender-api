@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1570,Megan Martin,makayla83@example.org,2025-01-13 01:58:53.242553,2025-01-13 16:20:30.145570,Crosbyton,Ecuador,female,32
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1570,Mary Henson,pamelaphillips@example.org,2025-01-21 04:55:16.585295,2025-01-30 07:12:33.042462,East Ronaldmouth,Thailand,female,42,https://dummyimage.com/596x818

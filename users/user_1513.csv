@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1513,Garrett Jones,dillonchapman@example.org,2025-01-22 18:04:25.107483,2025-01-27 00:25:20.851888,West John,British Indian Ocean Territory (Chagos Archipelago),female,71
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1513,Amber Davis,austinamy@example.org,2025-01-28 19:14:20.458270,2025-01-08 23:00:06.037511,North Catherine,Guatemala,male,72,https://dummyimage.com/124x679

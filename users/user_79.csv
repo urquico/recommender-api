@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-79,Bryan Macdonald,jacob76@example.net,2025-02-01 22:05:57.389677,2025-01-02 02:01:41.761606,West Markville,Panama,male,68
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+79,Deanna Buchanan,lholland@example.org,2025-01-10 23:41:55.103540,2025-01-21 12:56:17.546829,Lake Georgeborough,Russian Federation,female,57,https://dummyimage.com/293x241

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1761,Donna Lynch,swilliams@example.net,2025-01-17 19:14:09.191416,2025-01-10 00:07:35.034240,Doyleville,Belarus,female,46
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1761,Steven Day,fergusonmadison@example.net,2025-01-15 00:43:33.680837,2025-01-15 09:53:07.648705,South Taylor,Taiwan,female,29,https://placekitten.com/349/66

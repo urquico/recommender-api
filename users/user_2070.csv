@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2070,Mia Hunter,billyjohnson@example.com,2025-01-22 00:04:18.224411,2025-01-08 15:55:01.606082,Amberview,Finland,female,45
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2070,Jenna Dickson,lisa85@example.com,2025-01-01 01:46:51.854754,2025-01-02 10:29:48.832987,North Sarah,Mauritania,female,80,https://picsum.photos/578/742

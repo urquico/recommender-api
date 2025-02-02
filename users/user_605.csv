@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-605,Mary Wood,washingtontabitha@example.org,2025-01-30 13:08:30.267397,2025-01-09 14:02:14.348862,New Karen,Papua New Guinea,female,36
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+605,Kyle Patel,jeffrey63@example.com,2025-01-13 14:01:50.278134,2025-01-30 04:14:11.778089,Benjaminland,Congo,male,78,https://placekitten.com/863/663

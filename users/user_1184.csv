@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1184,Michelle Harris,perezjessica@example.net,2025-01-06 00:46:45.253334,2025-01-09 03:13:10.418884,Kristopherfurt,Sao Tome and Principe,female,30
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1184,Deborah Molina,jorgekennedy@example.net,2025-01-18 08:22:51.007935,2025-01-25 05:29:04.263049,New Lorihaven,Sierra Leone,female,34,https://placekitten.com/491/903

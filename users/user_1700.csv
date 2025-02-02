@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1700,Cindy Brown,coopercraig@example.org,2025-01-18 00:59:29.951303,2025-01-04 06:15:26.041638,Stephaniebury,Zimbabwe,male,53
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1700,Christine Harris,joanne55@example.org,2025-01-15 17:32:42.692011,2025-01-06 01:03:05.535981,Hernandezville,Morocco,male,28,https://placekitten.com/534/625

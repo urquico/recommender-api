@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-223,Megan Montoya,josephsmith@example.net,2025-01-15 16:31:57.271257,2025-01-17 20:59:48.339525,New Michaeltown,Vanuatu,male,78
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+223,Thomas Morales,justinbaker@example.org,2025-02-02 09:54:52.025314,2025-01-06 19:15:19.916366,Kimview,Saint Martin,female,53,https://picsum.photos/247/739

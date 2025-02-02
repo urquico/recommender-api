@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1261,Tiffany Richards,ellen23@example.com,2025-01-23 03:23:57.648919,2025-01-05 15:05:51.918487,West Donaldshire,French Southern Territories,male,47
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1261,Benjamin Wilson,higginsmonica@example.net,2025-01-30 21:20:16.343922,2025-01-12 05:16:26.922732,East Tanyaborough,Svalbard & Jan Mayen Islands,male,37,https://dummyimage.com/283x171

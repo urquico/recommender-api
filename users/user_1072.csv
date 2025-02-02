@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1072,Nancy Davis,martinezteresa@example.com,2025-01-26 14:33:51.229175,2025-01-04 06:44:49.037703,Lake Jamie,North Macedonia,female,45
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1072,Andrea Aguirre,kruegerjames@example.net,2025-01-23 02:39:04.559598,2025-01-27 18:53:03.469197,Port Paulaborough,Portugal,female,67,https://dummyimage.com/352x733

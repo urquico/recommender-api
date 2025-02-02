@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2037,Linda Bowen,tgomez@example.net,2025-01-18 12:24:46.528076,2025-01-22 16:32:30.471798,Bradleyside,Pakistan,male,49
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2037,Mckenzie Lopez,tzamora@example.org,2025-01-21 03:42:39.921728,2025-01-30 01:13:41.135513,East Susantown,Cyprus,male,34,https://dummyimage.com/663x605

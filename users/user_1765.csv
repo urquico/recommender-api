@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1765,Joseph Martin,matalori@example.com,2025-01-26 14:34:00.691564,2025-01-08 02:19:25.913558,Jeffreyside,Cayman Islands,male,59
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1765,David Castro,nhenson@example.net,2025-01-21 23:45:57.064844,2025-01-05 17:09:58.238098,Hoffmanport,Guyana,female,23,https://placekitten.com/538/744

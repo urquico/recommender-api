@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1708,Marcus Fields,craigbarrera@example.org,2025-01-18 00:14:56.036421,2025-02-01 08:20:27.740042,Mccartystad,Tunisia,male,76
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1708,Jessica Mathis MD,castanedalaura@example.com,2025-01-05 04:15:58.217466,2025-01-15 10:49:15.468910,Kelleyland,Netherlands,female,55,https://placekitten.com/171/812

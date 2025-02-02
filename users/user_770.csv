@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-770,Michael Mcdonald,tharris@example.com,2025-01-07 14:36:59.758754,2025-01-15 07:48:46.322037,East Scottberg,Mozambique,male,26
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+770,Darren Robinson,santiagobrian@example.com,2025-01-23 22:31:37.680589,2025-01-05 03:39:39.874571,Rodneyside,Holy See (Vatican City State),male,59,https://picsum.photos/242/6

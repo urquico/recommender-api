@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1656,Joan Gutierrez,johngarcia@example.net,2025-01-04 00:52:18.156965,2025-01-26 05:02:17.385717,Port Danny,Pakistan,male,32
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1656,Christopher Moore,jessica88@example.com,2025-01-01 17:48:28.323883,2025-01-30 01:40:30.178998,Wilsonburgh,Liechtenstein,male,30,https://placekitten.com/315/126

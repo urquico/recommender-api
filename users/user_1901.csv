@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1901,Ronald Rice,bondkristen@example.com,2025-01-14 19:44:00.623342,2025-01-18 16:42:16.616916,West Amy,Papua New Guinea,female,40
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1901,John King,parksyvonne@example.org,2025-01-08 17:58:40.125220,2025-01-12 09:47:23.157979,South Jenniferland,United Kingdom,female,69,https://picsum.photos/153/841

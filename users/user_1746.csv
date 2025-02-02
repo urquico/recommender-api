@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1746,Anthony Parker,julielee@example.com,2025-02-02 04:07:59.624046,2025-01-10 10:13:53.287382,Tonyfort,Sao Tome and Principe,male,79
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1746,Karen Campbell,padillarandy@example.com,2025-02-02 07:53:12.561283,2025-02-02 20:15:57.216558,Butlerchester,South Georgia and the South Sandwich Islands,male,77,https://placekitten.com/962/969

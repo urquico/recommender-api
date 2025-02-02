@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-983,Holly Jackson,fosterchristine@example.org,2025-02-01 23:26:17.693452,2025-01-01 22:43:04.764930,Sharonton,Switzerland,female,56
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+983,Ricardo Bradshaw,okline@example.org,2025-01-04 13:36:43.487290,2025-01-19 22:21:51.340919,Perezbury,Bermuda,female,40,https://placekitten.com/271/296

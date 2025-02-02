@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1020,Fernando Fields,christensencameron@example.net,2025-01-09 02:57:42.950003,2025-01-09 02:54:08.313869,Mcdowellport,Guam,male,52
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1020,Steven Dunn,andrew14@example.org,2025-01-15 10:12:04.468080,2025-01-24 03:13:53.258512,Timbury,Malaysia,male,69,https://picsum.photos/457/775

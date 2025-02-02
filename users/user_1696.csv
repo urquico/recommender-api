@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1696,Stephen Rocha,williamstony@example.com,2025-01-17 21:40:51.677040,2025-01-16 04:46:13.619805,North Michaelshire,Isle of Man,male,21
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1696,Jason Williams,award@example.com,2025-01-13 09:27:55.966407,2025-01-27 01:50:17.257063,Johnsonville,Indonesia,female,28,https://placekitten.com/439/835

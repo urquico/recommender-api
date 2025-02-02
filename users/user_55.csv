@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-55,Heather Morales,vanessa47@example.net,2025-01-22 19:58:48.058798,2025-02-02 02:56:20.399829,Port Tiffany,Kazakhstan,female,36
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+55,Ashley Cantu,uwalter@example.com,2025-01-07 08:44:31.884113,2025-01-07 21:45:38.583977,Jacobbury,Bhutan,male,44,https://dummyimage.com/949x725

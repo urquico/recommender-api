@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-215,Darren Reilly,cherylgutierrez@example.net,2025-01-14 05:22:26.609439,2025-01-03 08:41:03.394254,North Michaelmouth,Suriname,male,20
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+215,Michael Gonzalez,justingarcia@example.com,2025-01-09 02:41:11.265969,2025-01-25 15:14:48.449807,Wumouth,Mozambique,female,31,https://picsum.photos/22/690

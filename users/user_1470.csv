@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1470,Joseph Jones,gproctor@example.com,2025-01-16 05:36:13.336079,2025-01-10 21:28:22.823508,East Jade,Northern Mariana Islands,female,78
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1470,Corey Harris,lawsonamber@example.net,2025-01-04 18:48:14.985940,2025-01-03 11:41:55.051469,North Joshua,Netherlands Antilles,female,50,https://placekitten.com/216/676

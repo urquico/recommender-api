@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-767,Megan Moyer,froberson@example.com,2025-01-23 05:21:06.669705,2025-01-09 10:09:57.473418,Meganton,Saint Lucia,male,21
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+767,Terry Garner,meganthompson@example.net,2025-01-29 01:06:40.994037,2025-01-21 19:10:15.980884,South Robertmouth,Reunion,male,62,https://placekitten.com/502/548

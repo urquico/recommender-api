@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-59,Leah Maddox,qdaugherty@example.com,2025-01-16 03:09:26.609081,2025-02-01 22:40:53.774810,Adamsside,Syrian Arab Republic,female,24
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+59,Louis Hoffman,jimenezjuan@example.com,2025-01-30 05:19:02.260699,2025-01-27 13:49:52.619245,Hopkinshaven,Ghana,female,36,https://picsum.photos/756/295

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1971,Ashley Bell,jenny90@example.net,2025-01-30 11:11:43.136369,2025-01-01 19:04:14.782767,Cooperbury,Isle of Man,male,46
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1971,Emily Houston,vdavies@example.net,2025-01-08 12:20:11.712473,2025-01-24 03:22:29.365039,Powellville,Bulgaria,female,58,https://dummyimage.com/230x838

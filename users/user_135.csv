@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-135,Carla Simpson,whitejackson@example.org,2025-01-29 16:49:07.130182,2025-01-22 22:14:45.562384,West John,United States Virgin Islands,male,41
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+135,John Moss,loricunningham@example.org,2025-01-28 14:04:40.720487,2025-01-18 05:26:02.903771,Joemouth,Saudi Arabia,male,43,https://dummyimage.com/261x558

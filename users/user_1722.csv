@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1722,Barbara Rodgers,nicole31@example.org,2025-01-29 04:22:03.150462,2025-01-20 07:39:09.099426,Kevintown,Liechtenstein,male,80
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1722,Jill Clark,andrewturner@example.org,2025-01-16 02:01:43.498642,2025-01-06 17:03:13.577353,Lake Michael,Netherlands Antilles,male,30,https://picsum.photos/808/839

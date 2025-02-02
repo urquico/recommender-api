@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-730,Sheila Cross,mckeedavid@example.com,2025-01-13 06:01:15.733750,2025-01-14 14:28:09.691925,Taylortown,Botswana,male,24
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+730,Matthew Norris,laurenevans@example.com,2025-01-29 05:00:32.141574,2025-01-11 13:42:40.522373,East Christian,Cocos (Keeling) Islands,male,31,https://placekitten.com/139/301

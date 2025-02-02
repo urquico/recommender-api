@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-218,Robin Castillo,mckinneyjason@example.net,2025-01-06 12:02:28.533248,2025-01-25 12:03:54.494044,Amandashire,Bahrain,male,24
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+218,Megan Rogers,wholmes@example.net,2025-01-14 05:55:26.800741,2025-01-23 21:50:17.346787,Sonyamouth,Maldives,female,30,https://placekitten.com/131/777

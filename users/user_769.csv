@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-769,Keith Chandler,hicksjeanette@example.org,2025-01-15 16:44:05.009305,2025-01-16 10:18:16.279715,Port Scotthaven,Lithuania,female,78
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+769,Sherri Lewis,jake69@example.net,2025-01-06 11:31:10.826859,2025-01-12 19:16:58.679696,Timothyville,Lesotho,female,71,https://dummyimage.com/701x992

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1484,Kathryn Padilla,pamelaharper@example.net,2025-01-13 10:11:39.474369,2025-01-12 21:37:29.062789,North Emily,Guadeloupe,male,45
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1484,Thomas Flynn,simpsondavid@example.org,2025-01-28 06:24:31.010716,2025-01-04 02:20:03.892249,West Bruce,Trinidad and Tobago,male,38,https://picsum.photos/733/821

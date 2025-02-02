@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-826,Daniel Maynard,donaldpaul@example.net,2025-01-12 02:02:52.340013,2025-01-11 03:28:15.742567,Hayesland,Micronesia,female,60
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+826,Melissa Mejia,dgriffin@example.org,2025-02-01 22:02:43.282381,2025-01-03 15:04:52.155987,New Stevenport,Haiti,male,45,https://placekitten.com/41/197

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-702,David Black,adamphillips@example.net,2025-01-22 15:11:49.316536,2025-01-28 23:16:55.119055,South Lisa,Jordan,male,59
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+702,Samantha Cabrera,manderson@example.org,2025-01-28 11:00:15.536161,2025-01-24 15:20:45.781907,Cynthiaville,Uzbekistan,male,27,https://picsum.photos/688/254

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-538,Michael Hall,hamiltonwilliam@example.com,2025-01-12 02:04:31.060079,2025-01-08 17:47:15.948125,Johnmouth,Togo,male,79
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+538,Angelica Howell,david10@example.net,2025-01-19 19:28:48.197846,2025-01-08 01:10:08.940073,Campbellton,Croatia,male,70,https://picsum.photos/50/606

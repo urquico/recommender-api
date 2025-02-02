@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-330,Sharon Morris,ibarranathaniel@example.org,2025-01-30 12:05:13.428749,2025-01-05 07:18:00.255094,East Tony,Norway,male,57
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+330,Eric Peterson,james68@example.net,2025-01-02 20:04:02.105236,2025-01-09 12:52:35.764550,Hartton,Timor-Leste,female,28,https://dummyimage.com/853x1021

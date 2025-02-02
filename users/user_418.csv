@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-418,Angel Pittman,christina13@example.com,2025-02-02 17:42:37.340290,2025-01-03 20:22:27.339703,Whiteheadland,Tajikistan,female,62
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+418,Kenneth Nelson,wrobinson@example.net,2025-01-17 06:56:49.758011,2025-01-22 11:39:49.448863,Murphychester,Macao,male,24,https://dummyimage.com/683x653

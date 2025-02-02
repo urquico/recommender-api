@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1331,James Hoffman,shawn74@example.com,2025-01-07 03:06:21.115793,2025-01-18 01:55:25.027599,Jasonchester,Puerto Rico,male,20
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1331,Jennifer Manning,brittneymeadows@example.net,2025-01-18 13:05:41.621686,2025-01-31 03:29:03.887079,South Paul,Italy,female,24,https://placekitten.com/168/436

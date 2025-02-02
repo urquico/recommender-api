@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1009,Crystal Avery,madisongray@example.org,2025-01-04 20:35:57.857093,2025-01-01 15:31:27.881594,South Michael,Israel,male,59
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1009,Brittany Barton,collinkennedy@example.org,2025-01-19 01:56:43.008408,2025-01-27 11:22:39.368412,Wendyside,Bosnia and Herzegovina,female,58,https://placekitten.com/901/849

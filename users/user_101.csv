@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-101,Jennifer Miller,timothybyrd@example.net,2025-01-14 02:38:13.930929,2025-01-20 20:09:21.493222,Hayesmouth,Singapore,female,38
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+101,Phillip Jordan,gonzalezlaura@example.com,2025-01-04 21:49:49.309751,2025-01-31 12:17:04.059161,Port Jaime,Saint Vincent and the Grenadines,male,42,https://dummyimage.com/772x1012

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1395,Karen Fuentes,tcrane@example.net,2025-01-14 21:29:09.669813,2025-01-25 18:23:17.525973,Dustinbury,Central African Republic,male,50
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1395,Catherine Price,jordanjessica@example.net,2025-01-28 06:38:05.071065,2025-01-17 21:17:21.265616,Wrighthaven,Latvia,female,20,https://dummyimage.com/876x822

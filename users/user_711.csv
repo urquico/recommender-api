@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-711,Colleen Aguilar,smithsusan@example.org,2025-01-10 22:06:57.260077,2025-01-23 03:28:24.119267,Carrollborough,Marshall Islands,female,46
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+711,Jessica Graham,santiagomary@example.com,2025-01-19 06:28:38.830002,2025-01-21 16:20:32.614656,Andrewville,Norway,male,56,https://picsum.photos/448/451

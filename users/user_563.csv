@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-563,Nicole Jackson,umeyer@example.org,2025-01-26 05:17:38.173365,2025-01-05 03:41:08.276619,West Ruth,Cote d'Ivoire,male,52
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+563,Jeffrey Burnett,jasmine17@example.net,2025-01-21 12:38:19.406986,2025-01-11 12:19:13.523061,West Robertburgh,Central African Republic,female,70,https://picsum.photos/453/288

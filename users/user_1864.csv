@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1864,Jennifer Bass,bridget23@example.org,2025-01-11 09:29:45.794796,2025-01-18 05:40:19.235980,Port Jacobland,Burkina Faso,male,25
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1864,Samantha Escobar,taramontgomery@example.org,2025-01-07 10:47:04.463327,2025-01-29 18:42:04.188016,Eatonburgh,Singapore,male,67,https://dummyimage.com/393x606

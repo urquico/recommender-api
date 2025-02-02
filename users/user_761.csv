@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-761,Jonathan Ramirez,marycampos@example.org,2025-01-28 21:17:03.795199,2025-01-04 16:22:11.101358,Bakerbury,Barbados,male,80
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+761,Alexis Cunningham,michaeljackson@example.net,2025-01-17 04:22:50.746308,2025-01-22 05:22:39.410207,Flemingstad,Gabon,male,35,https://placekitten.com/735/231

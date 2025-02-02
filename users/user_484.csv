@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-484,Kelly Peterson,smithjennifer@example.org,2025-01-20 23:36:18.162730,2025-01-22 06:19:56.733281,Josephton,Belarus,male,56
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+484,Elizabeth Powell,ryanfrazier@example.org,2025-01-12 09:12:06.885309,2025-02-01 12:28:47.591285,North Brandonbury,Liechtenstein,female,34,https://dummyimage.com/7x16

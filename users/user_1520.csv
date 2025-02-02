@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1520,Jonathan Jones,beckjason@example.com,2025-01-12 11:57:39.041731,2025-01-29 13:28:54.548669,West Deborah,Madagascar,male,31
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1520,Jason Flynn,christianwood@example.net,2025-01-09 06:03:30.017879,2025-02-02 11:01:04.739710,Swansonstad,Guadeloupe,female,53,https://picsum.photos/484/365

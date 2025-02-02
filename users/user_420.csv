@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-420,Jeffrey Johnson,nelsonanthony@example.com,2025-01-30 16:03:09.886529,2025-02-02 10:36:34.746146,Colechester,Liechtenstein,male,63
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+420,Michelle Steele,michael57@example.net,2025-01-03 08:07:53.301843,2025-01-16 01:31:38.085063,Jocelynland,Mauritania,male,25,https://picsum.photos/843/481

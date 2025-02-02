@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1621,Wesley Mcguire,kellywilcox@example.net,2025-01-18 18:16:54.042983,2025-01-04 00:05:58.746403,Vanessaland,Morocco,female,31
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1621,David Campbell,richard30@example.net,2025-02-02 14:42:27.553401,2025-01-23 08:03:08.897277,North Charles,Cape Verde,female,34,https://placekitten.com/299/669

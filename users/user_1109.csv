@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1109,Kim Mcdonald,david84@example.net,2025-01-31 16:54:26.512682,2025-01-31 14:11:04.171905,Ramseyside,Bulgaria,female,51
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1109,Brandy Grimes,danasalinas@example.net,2025-01-25 00:44:10.775724,2025-02-02 11:30:13.202440,South Josephtown,Saint Helena,female,28,https://picsum.photos/435/340

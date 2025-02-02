@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1151,Cody Moore,william50@example.com,2025-01-31 13:37:10.248065,2025-01-20 18:25:02.180613,Angelashire,Iceland,male,50
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1151,Rhonda Ingram,hoodsheena@example.com,2025-01-26 21:34:48.235741,2025-01-07 21:41:46.438352,South Tina,Turks and Caicos Islands,male,20,https://picsum.photos/179/252

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1201,Amber Henderson,nstevens@example.net,2025-01-06 19:53:23.155246,2025-01-07 07:08:07.644072,Brittanyshire,Cook Islands,male,37
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1201,Catherine Logan,jermaine52@example.com,2025-01-14 20:03:01.838536,2025-01-31 02:20:40.151762,Clarkhaven,Mozambique,male,47,https://placekitten.com/290/308

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1147,Lawrence Freeman,debbie57@example.com,2025-01-05 02:51:26.645473,2025-01-01 17:55:42.619836,Hamiltonmouth,Luxembourg,female,66
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1147,Kimberly Clarke,shannonfowler@example.net,2025-01-08 08:54:07.025598,2025-01-28 22:49:37.547371,Riverabury,North Macedonia,male,47,https://picsum.photos/917/315

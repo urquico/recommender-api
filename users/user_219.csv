@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-219,Rhonda Warren,qhogan@example.org,2025-01-27 23:00:28.506332,2025-01-10 02:47:07.593101,North Susanborough,Hungary,male,38
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+219,Marie Jones,evansmonica@example.net,2025-01-21 09:46:33.762377,2025-01-25 16:58:29.073321,Ashleyfort,Mozambique,male,47,https://picsum.photos/219/598

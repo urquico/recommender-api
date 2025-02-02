@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-819,Chad Armstrong,benjaminfuller@example.com,2025-01-01 02:50:10.704160,2025-01-17 06:56:02.944493,Taylortown,Holy See (Vatican City State),male,57
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+819,Christopher Freeman,dhoward@example.com,2025-01-14 11:19:19.226578,2025-01-08 10:50:24.707465,Donaldfort,United Kingdom,male,56,https://picsum.photos/292/329

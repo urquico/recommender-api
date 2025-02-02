@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1265,John Wilson,ronald47@example.com,2025-01-04 05:56:03.156029,2025-01-04 07:16:12.650514,Tracyville,Pakistan,male,63
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1265,Andrea Green,brownpatricia@example.org,2025-01-01 05:37:53.287541,2025-01-01 10:30:13.794685,East Davidton,South Georgia and the South Sandwich Islands,male,39,https://dummyimage.com/817x179

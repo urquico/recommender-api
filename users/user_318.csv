@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-318,James Morris,samuel88@example.com,2025-01-25 01:08:28.915433,2025-01-01 22:32:35.912241,Port Daniel,Nauru,male,47
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+318,John Thompson,myersscott@example.org,2025-01-15 22:01:14.185245,2025-01-03 03:27:12.375902,Jasonberg,Sao Tome and Principe,female,37,https://dummyimage.com/400x381

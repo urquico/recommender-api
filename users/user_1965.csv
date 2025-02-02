@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1965,Kathy Ross,josephbrown@example.org,2025-01-09 22:02:53.358943,2025-01-04 21:13:27.011899,Port Nicolemouth,Estonia,female,22
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1965,Benjamin Miller,mitchellgina@example.net,2025-01-18 20:35:41.062137,2025-01-26 15:10:17.967015,East James,Canada,male,76,https://placekitten.com/837/785

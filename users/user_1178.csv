@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1178,Dustin Reyes,johnsonrebecca@example.net,2025-01-26 13:19:32.583014,2025-01-09 16:57:53.508770,Port Michael,Montserrat,male,56
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1178,Martin Salas,melissareyes@example.com,2025-01-09 10:59:26.389679,2025-01-05 03:44:51.525645,North Cheryltown,Nigeria,male,24,https://picsum.photos/432/1

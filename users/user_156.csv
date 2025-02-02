@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-156,Elizabeth Munoz MD,rebecca11@example.org,2025-01-12 09:17:32.109066,2025-01-22 20:56:59.070824,West Loriport,Djibouti,male,38
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+156,Danielle Kelly,timothy70@example.com,2025-01-18 22:23:24.169698,2025-01-09 02:54:50.780368,Grayville,New Caledonia,male,58,https://dummyimage.com/143x849

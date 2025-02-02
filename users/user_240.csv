@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-240,Becky Williams,asimmons@example.com,2025-02-01 14:12:33.471512,2025-02-01 08:03:29.188578,Fisherland,Saint Martin,female,63
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+240,Ashley Dominguez,uedwards@example.com,2025-01-02 14:03:29.098496,2025-01-16 10:02:02.593545,North Adamfurt,Guernsey,female,23,https://picsum.photos/156/709

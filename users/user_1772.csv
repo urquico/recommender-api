@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1772,Jennifer Warren,orussell@example.org,2025-01-25 14:24:16.349099,2025-01-16 17:43:04.176901,Gomezton,Korea,female,56
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1772,James Walter,jamierollins@example.org,2025-01-27 03:39:47.560090,2025-01-27 00:02:39.478365,New Johnburgh,Jordan,female,71,https://dummyimage.com/293x356

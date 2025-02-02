@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-612,Matthew Bright,julie67@example.com,2025-01-03 09:20:24.614660,2025-01-19 15:00:18.451672,Nicoleton,Vietnam,male,32
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+612,Steven Hutchinson,eric35@example.net,2025-01-02 10:47:01.727638,2025-01-15 12:14:57.365734,Lorichester,Kazakhstan,female,66,https://picsum.photos/456/185

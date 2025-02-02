@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-607,Teresa Brady,mthompson@example.org,2025-01-16 12:39:21.254774,2025-01-16 15:12:11.260456,Shawland,Slovenia,female,80
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+607,Mr. John Malone,jmalone@example.net,2025-01-19 22:46:49.844933,2025-01-21 08:50:17.346667,Aaronland,Taiwan,male,39,https://picsum.photos/961/165

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1351,Donald Parker,swarner@example.net,2025-01-10 08:46:46.483927,2025-01-04 14:15:28.696262,West Nathanielview,Niger,male,64
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1351,Michael Whitehead,hannahfisher@example.com,2025-01-19 20:11:29.028557,2025-01-28 00:04:37.562752,Scottville,Aruba,female,68,https://dummyimage.com/574x846

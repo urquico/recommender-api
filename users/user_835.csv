@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-835,Steven Blair,deleonbarbara@example.com,2025-01-01 21:27:42.120921,2025-01-16 16:04:43.241159,Gilbertview,Andorra,male,77
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+835,Shane Bennett,waynephillips@example.com,2025-01-26 12:04:49.612966,2025-01-26 14:36:17.930465,Moonmouth,Italy,male,72,https://placekitten.com/925/777

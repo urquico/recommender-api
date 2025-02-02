@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-25,James Allen,george29@example.com,2025-01-08 23:22:28.872285,2025-01-24 01:56:33.369355,Mullinsside,Malaysia,female,39
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+25,Ryan Lee,boydscott@example.org,2025-01-16 02:35:53.614462,2025-01-19 01:56:35.938831,West Matthew,Mongolia,female,62,https://placekitten.com/361/36

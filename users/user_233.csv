@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-233,Andre Kim,ann91@example.com,2025-01-12 01:06:07.177177,2025-01-03 14:30:04.016850,New Charlesfurt,Grenada,female,52
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+233,Maria Harrison,deborahwilliams@example.org,2025-01-13 21:39:38.489808,2025-01-10 21:22:19.223685,Hicksbury,Gambia,male,26,https://placekitten.com/652/1022

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1788,Laura Nolan,garzalisa@example.org,2025-01-13 01:49:21.464444,2025-01-11 19:58:25.972406,Lake Larry,Mozambique,female,50
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1788,Christopher Becker,bentonjane@example.com,2025-01-17 12:24:04.308046,2025-01-15 02:23:48.687799,Lake Karastad,Uzbekistan,male,66,https://picsum.photos/703/660

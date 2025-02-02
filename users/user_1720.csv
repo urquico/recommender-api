@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1720,Sheila Holt,jwoods@example.net,2025-01-20 09:52:20.110452,2025-01-03 12:05:49.192300,Millerberg,Uganda,female,71
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1720,Barbara Roy,angela99@example.com,2025-01-03 00:59:04.089433,2025-01-14 04:40:46.245640,Chapmanchester,Chile,female,59,https://dummyimage.com/747x394

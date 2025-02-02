@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1874,Michael Buckley,fmullins@example.com,2025-01-14 17:50:55.757522,2025-01-30 04:37:14.730357,Brianview,Australia,male,29
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1874,Devin Barber,williamspatty@example.net,2025-01-15 04:18:30.113591,2025-01-23 13:20:08.486214,New Brian,Gambia,male,43,https://dummyimage.com/568x185

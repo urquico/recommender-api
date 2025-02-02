@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-444,Julie Chapman,steven16@example.net,2025-01-07 02:57:50.452583,2025-01-31 03:08:39.225923,Katherinehaven,Estonia,male,74
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+444,Gerald Vargas,amberharris@example.com,2025-01-20 17:18:25.463634,2025-01-14 17:33:21.766921,Joseshire,Christmas Island,female,65,https://picsum.photos/825/704

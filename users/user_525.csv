@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-525,Gregory Robinson,lesliefarrell@example.net,2025-01-31 06:08:11.687523,2025-01-22 13:13:11.088150,East Ryanshire,Algeria,female,36
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+525,Gina Ware,carlosbrown@example.com,2025-01-23 08:43:02.867091,2025-01-05 09:37:12.438225,Randallside,Jersey,male,34,https://picsum.photos/652/631

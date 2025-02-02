@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1921,Robert Larson,kdodson@example.net,2025-01-20 21:20:31.813575,2025-01-25 00:56:13.798246,Hillbury,Azerbaijan,female,69
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1921,William Cherry,garciaomar@example.org,2025-01-16 14:53:48.366525,2025-01-18 16:45:47.264606,New Justinburgh,Isle of Man,male,33,https://picsum.photos/402/243

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1654,Thomas Douglas,robert47@example.com,2025-01-11 14:23:40.631202,2025-01-22 01:21:09.971264,Stephanieport,Maldives,female,19
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1654,Francisco Martin,cory78@example.org,2025-01-21 23:34:11.260790,2025-01-27 20:57:54.537840,New Jocelyn,Haiti,female,62,https://dummyimage.com/724x897

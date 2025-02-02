@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1177,Kristina Bishop,krivera@example.net,2025-01-18 02:31:07.785772,2025-01-26 16:45:39.905164,Johnsonland,Suriname,male,42
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1177,Sarah Ayala,xmiller@example.com,2025-01-04 10:30:13.316402,2025-01-20 20:59:56.564817,Joshuaport,Tuvalu,male,23,https://placekitten.com/362/547

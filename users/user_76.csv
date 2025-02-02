@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-76,Tanya Lee,brandon20@example.net,2025-01-05 04:18:58.408164,2025-01-09 07:31:47.197668,South Matthewton,Angola,female,53
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+76,Cynthia Collins,guzmanhenry@example.net,2025-01-12 00:41:46.866423,2025-01-14 06:18:04.855085,Paulfort,Bouvet Island (Bouvetoya),male,61,https://picsum.photos/664/544

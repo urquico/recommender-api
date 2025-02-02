@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1419,Henry Rivera,hthomas@example.org,2025-02-02 00:55:14.844262,2025-02-01 14:55:51.562025,New Louis,Slovakia (Slovak Republic),male,80
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1419,Samuel Hall,michelle40@example.net,2025-01-31 10:56:10.346587,2025-01-19 06:02:12.046477,Mannburgh,Germany,female,45,https://dummyimage.com/886x741

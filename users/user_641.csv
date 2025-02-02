@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-641,Mary Jimenez,brownjamie@example.com,2025-01-25 11:08:06.095619,2025-01-30 17:45:27.536562,Mathewchester,Switzerland,female,71
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+641,Curtis Turner,jennifer41@example.org,2025-01-26 00:47:21.778950,2025-01-13 15:55:21.506033,Port Mike,Jersey,male,34,https://placekitten.com/241/795

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2023,Stephanie Garza,amandamiller@example.net,2025-01-26 11:18:50.283528,2025-01-22 09:29:44.712703,North Donaldfort,Nigeria,male,19
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2023,Tasha King,erin02@example.org,2025-01-21 03:10:32.053914,2025-01-01 15:34:18.346011,Danielberg,French Polynesia,female,79,https://picsum.photos/729/627

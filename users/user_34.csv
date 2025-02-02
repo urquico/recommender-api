@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-34,Christopher Anderson,timothybarr@example.com,2025-01-23 10:26:53.477086,2025-01-13 16:48:54.627721,South Calvin,Taiwan,male,66
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+34,Heidi Smith,natalie08@example.org,2025-01-15 01:46:38.407088,2025-01-07 20:41:37.098540,Amandabury,Anguilla,female,25,https://placekitten.com/1005/497

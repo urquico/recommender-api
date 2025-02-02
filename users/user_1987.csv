@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1987,John Koch,reyesamy@example.com,2025-01-30 03:16:24.127529,2025-01-28 19:09:33.546872,Emilybury,South Georgia and the South Sandwich Islands,male,57
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1987,Thomas Jacobs,williamsalicia@example.com,2025-01-22 17:08:30.672640,2025-02-02 02:54:13.664234,Brownberg,Vietnam,male,80,https://dummyimage.com/489x594

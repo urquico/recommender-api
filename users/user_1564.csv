@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1564,Brittany Cline,mckinneyashley@example.net,2025-01-26 08:26:30.808357,2025-01-09 17:32:57.707015,Wrightside,Luxembourg,female,48
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1564,Neil Douglas,sjohnson@example.net,2025-01-04 22:12:41.803670,2025-01-23 16:26:31.107226,North Mark,Ethiopia,female,27,https://picsum.photos/864/123

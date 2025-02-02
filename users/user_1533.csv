@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1533,Rachel Patel,estradavictoria@example.com,2025-01-28 15:03:40.936198,2025-01-26 02:39:09.251096,West James,Barbados,female,55
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1533,Timothy Banks,denise38@example.com,2025-01-15 04:09:33.206707,2025-01-04 05:42:55.772846,South Stephanieshire,Fiji,male,25,https://picsum.photos/460/237

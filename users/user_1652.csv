@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1652,Melissa Morrison,crystal31@example.org,2025-01-09 03:08:34.250982,2025-01-27 23:38:58.803948,Morrisonshire,Burkina Faso,male,80
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1652,Aaron Ruiz,murphystephanie@example.net,2025-02-01 12:16:54.876893,2025-01-18 09:33:55.767423,East Sandra,Lesotho,male,75,https://dummyimage.com/694x330

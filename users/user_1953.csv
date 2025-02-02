@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1953,Karina Ochoa,todd52@example.org,2025-02-01 13:05:28.043415,2025-01-07 22:30:30.992628,Jacksonland,Dominican Republic,male,78
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1953,Lori Tucker,weissjeremy@example.org,2025-01-03 21:49:52.790335,2025-01-19 07:05:00.663627,New Victoriachester,Paraguay,male,36,https://dummyimage.com/831x815

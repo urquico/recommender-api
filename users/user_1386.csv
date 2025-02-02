@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1386,Sharon Matthews,michaelpierce@example.net,2025-01-19 06:11:48.106730,2025-01-22 20:57:30.178913,South Jason,Korea,male,20
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1386,Chris Grant,ycummings@example.net,2025-01-07 20:07:30.550669,2025-02-01 18:48:11.149615,Warrenville,United States Virgin Islands,male,20,https://placekitten.com/595/830

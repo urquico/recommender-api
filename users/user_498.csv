@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-498,Mrs. Megan Gentry,diazkirk@example.net,2025-01-31 20:39:30.868748,2025-01-13 18:01:02.735295,Johnsonside,Bhutan,male,48
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+498,Duane Clarke,kirsten09@example.com,2025-01-29 03:29:20.900207,2025-01-30 22:01:26.686448,Hudsontown,Suriname,male,41,https://dummyimage.com/909x1000

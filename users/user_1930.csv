@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1930,Paul Vargas,jasmin19@example.net,2025-01-22 13:12:53.808021,2025-01-03 14:22:11.438293,South Patriciaborough,Slovakia (Slovak Republic),female,48
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1930,Eddie Lopez,pfoster@example.org,2025-01-04 18:57:15.420223,2025-01-05 22:28:03.674890,New Christophershire,Belize,female,44,https://picsum.photos/988/155

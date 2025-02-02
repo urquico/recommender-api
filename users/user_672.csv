@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-672,Kelly Holmes,jessica44@example.net,2025-01-09 13:10:30.865076,2025-01-07 15:47:19.870280,Anthonyborough,Sao Tome and Principe,male,35
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+672,Rodney Malone,salazarchristopher@example.com,2025-01-22 03:02:53.898989,2025-01-03 10:44:11.974519,West Denise,Senegal,female,25,https://picsum.photos/511/394

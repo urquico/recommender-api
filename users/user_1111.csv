@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1111,Sheila Smith,vsantos@example.org,2025-01-25 14:53:07.281521,2025-01-03 17:07:12.499820,Hallshire,Congo,male,53
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1111,Autumn Anderson,ricardowillis@example.com,2025-01-14 02:20:44.984748,2025-01-19 02:58:30.893326,East Philipmouth,Algeria,male,26,https://picsum.photos/683/563

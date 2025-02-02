@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-642,Teresa Russell,ynelson@example.net,2025-01-12 09:50:54.634848,2025-01-17 12:40:04.665561,Port Jonathan,Guyana,female,73
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+642,Shannon Martinez,rebeccariley@example.com,2025-01-08 04:38:21.258641,2025-01-10 03:25:21.534235,West Theresa,South Africa,male,25,https://dummyimage.com/898x188

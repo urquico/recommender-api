@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1747,Lydia Norton,rspears@example.org,2025-02-01 13:41:15.129250,2025-01-09 14:32:22.700668,Armstrongborough,Norfolk Island,male,21
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1747,Anthony Thomas,hollynguyen@example.org,2025-01-07 13:24:16.067748,2025-01-07 21:38:35.102303,East Debra,Antarctica (the territory South of 60 deg S),male,27,https://dummyimage.com/482x841

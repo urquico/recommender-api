@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-355,Aaron Thompson,marksjacob@example.net,2025-01-15 05:06:05.003290,2025-01-09 16:48:23.839354,West Ruben,Jersey,female,45
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+355,Mary Vaughn,webermelissa@example.com,2025-01-09 11:20:27.949927,2025-01-09 22:10:18.987610,Jonesborough,Honduras,female,21,https://dummyimage.com/254x977

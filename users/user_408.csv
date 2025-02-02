@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-408,Donald Powell,promero@example.com,2025-01-14 10:10:45.361504,2025-01-19 19:34:54.873247,East Elizabeth,Svalbard & Jan Mayen Islands,male,70
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+408,Julie Bell,kimberlyramirez@example.org,2025-01-26 12:12:17.567378,2025-01-29 00:35:54.706144,Murphybury,Lao People's Democratic Republic,male,23,https://placekitten.com/243/392

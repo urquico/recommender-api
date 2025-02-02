@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1170,Christopher Willis MD,qhernandez@example.org,2025-01-16 17:21:56.219258,2025-01-19 05:17:31.755558,Scottshire,Mongolia,female,76
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1170,Bonnie Wade,frederickedward@example.com,2025-01-23 08:55:28.877628,2025-01-04 23:15:32.540642,New Tamiville,Lithuania,female,20,https://placekitten.com/1009/870

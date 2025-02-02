@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1344,Mrs. Amy Turner DDS,logan68@example.net,2025-01-01 05:59:40.463435,2025-01-16 17:14:50.670768,New Brittany,Mauritania,female,25
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1344,Regina Sanders,richardmcdonald@example.com,2025-01-09 14:45:42.608855,2025-01-03 06:37:25.296710,Heidiport,Saint Martin,male,62,https://picsum.photos/159/274

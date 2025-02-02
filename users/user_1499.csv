@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1499,Stacey Taylor,stephanie62@example.org,2025-02-02 19:36:26.402339,2025-01-10 21:32:11.407597,North Christopherfurt,Croatia,female,49
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1499,Samantha Brewer,nicolesmith@example.org,2025-01-15 12:26:08.833442,2025-01-11 17:19:42.678386,Jeremystad,Syrian Arab Republic,female,34,https://placekitten.com/957/20

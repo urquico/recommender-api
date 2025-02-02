@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-773,Joseph Myers,stevenmoody@example.org,2025-01-16 21:39:50.140385,2025-01-01 05:42:31.238960,Murphytown,Spain,female,67
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+773,Elizabeth Gordon,vdavila@example.com,2025-01-05 13:04:03.321169,2025-01-26 04:26:50.178700,Marychester,Saudi Arabia,male,49,https://picsum.photos/994/172

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2022,Lisa Robinson,sara32@example.org,2025-01-15 17:13:58.361887,2025-01-14 14:34:42.931773,Danielleville,Yemen,male,35
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2022,Ashley Schaefer,anthonysparks@example.net,2025-01-26 05:40:00.519708,2025-01-02 03:48:10.375563,South Seanborough,Costa Rica,female,35,https://dummyimage.com/602x249

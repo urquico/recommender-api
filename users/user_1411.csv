@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1411,Justin Miller,fernandezjamie@example.com,2025-01-04 16:14:16.137669,2025-01-12 01:07:43.468799,Davenportstad,Israel,female,48
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1411,Mrs. Jennifer Sims,andreahale@example.net,2025-01-10 03:56:42.382986,2025-01-14 03:07:04.492573,Lake Lawrenceberg,Moldova,female,48,https://placekitten.com/198/516

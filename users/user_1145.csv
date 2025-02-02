@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1145,Caitlin Price,blankenshipsharon@example.org,2025-01-23 03:18:44.760126,2025-01-30 19:52:16.575115,Oconnorberg,Guinea-Bissau,male,48
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1145,Linda Martinez,marissa57@example.net,2025-01-22 11:18:07.039837,2025-01-11 06:36:26.840677,Jeremiahbury,Sweden,female,72,https://placekitten.com/125/468

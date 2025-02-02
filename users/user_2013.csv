@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2013,Patricia Tran,roblesbrenda@example.com,2025-01-08 22:57:30.834633,2025-01-19 23:38:14.857265,Jessicaland,Senegal,female,36
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2013,Danielle Herrera,katherine11@example.net,2025-01-29 13:29:54.468748,2025-01-07 09:09:49.051816,South Lisafurt,Poland,female,77,https://picsum.photos/328/470

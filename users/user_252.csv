@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-252,Robert White,davidmartin@example.net,2025-01-16 09:15:31.869845,2025-01-30 13:23:49.799758,Chasefort,Aruba,female,70
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+252,Ryan Bruce,khicks@example.org,2025-01-10 02:57:28.446342,2025-01-11 00:49:55.499208,Steventon,Slovenia,female,60,https://picsum.photos/519/157

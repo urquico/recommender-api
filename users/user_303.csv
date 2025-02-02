@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-303,Steven Novak,joneskristina@example.net,2025-01-17 13:00:07.078403,2025-01-31 02:01:27.854213,Kingview,Chad,female,69
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+303,Brent Wong,thomassmith@example.org,2025-01-23 14:55:47.439826,2025-01-08 17:14:22.095533,Emilystad,Pakistan,male,23,https://dummyimage.com/767x385

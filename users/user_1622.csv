@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1622,Alan Bowman,bdavis@example.org,2025-01-21 17:52:52.263730,2025-01-16 14:30:48.082417,East Cynthiaville,Guam,female,42
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1622,Justin Garcia,mark22@example.org,2025-01-23 10:13:27.672632,2025-01-01 06:09:47.757972,Lake Sarahfort,Singapore,female,61,https://dummyimage.com/537x11

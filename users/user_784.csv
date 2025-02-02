@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-784,Alexa Smith,lindsay91@example.net,2025-01-14 17:51:09.707242,2025-01-19 10:59:07.715857,Lake Ana,Greece,male,71
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+784,Robert Braun,james00@example.com,2025-01-27 17:49:28.776222,2025-01-21 01:45:00.989279,West Amyfurt,Cayman Islands,female,65,https://picsum.photos/228/201

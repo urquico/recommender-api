@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-786,Robert Pollard,timothy61@example.com,2025-01-31 13:46:34.104562,2025-01-25 09:26:22.135359,Shafferside,New Caledonia,male,60
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+786,Adam Burnett,santanadrew@example.com,2025-01-05 18:34:29.704909,2025-01-02 00:44:49.831381,Lisaland,Saint Vincent and the Grenadines,female,51,https://picsum.photos/743/9

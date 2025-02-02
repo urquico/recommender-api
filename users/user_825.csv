@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-825,Matthew French MD,rhondaduncan@example.net,2025-01-07 09:08:25.215322,2025-01-24 20:30:51.063263,East Danielleview,Sweden,male,55
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+825,Jason Peters,rpadilla@example.org,2025-01-23 15:58:42.344049,2025-02-01 14:11:52.223006,Smithview,Hong Kong,female,76,https://placekitten.com/414/474

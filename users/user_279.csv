@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-279,Stephanie Levine,nicolemcpherson@example.com,2025-01-10 09:20:24.776996,2025-01-16 01:17:57.583239,New Meghan,Saudi Arabia,male,35
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+279,Robert Gomez,cwest@example.org,2025-01-09 14:54:13.723417,2025-01-20 06:28:51.368793,West Troy,Latvia,male,41,https://picsum.photos/733/263

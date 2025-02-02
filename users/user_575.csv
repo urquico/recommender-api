@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-575,Craig Daniels,ethancooke@example.net,2025-01-26 14:09:57.547792,2025-01-14 22:40:11.079820,Robersonmouth,Kuwait,female,50
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+575,Tiffany Villarreal,susan53@example.org,2025-01-15 03:20:18.818374,2025-01-09 09:51:46.645042,Murraymouth,Falkland Islands (Malvinas),male,58,https://dummyimage.com/962x233

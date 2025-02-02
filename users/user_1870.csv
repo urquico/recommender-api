@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1870,Tanya Reyes,soniapierce@example.org,2025-01-04 22:18:46.573550,2025-01-07 23:09:37.063934,Jeffreyborough,Reunion,male,78
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1870,Kara Dunlap,david36@example.org,2025-01-03 08:19:25.550522,2025-01-18 20:23:52.491081,Lopezport,Pitcairn Islands,male,52,https://dummyimage.com/92x887

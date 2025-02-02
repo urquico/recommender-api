@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1187,Joshua Hayden,bhughes@example.net,2025-01-15 17:32:22.764086,2025-01-23 10:26:04.046146,Crystalmouth,Lao People's Democratic Republic,female,63
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1187,Zachary Brown PhD,lisahill@example.org,2025-01-19 18:40:10.261022,2025-01-06 20:32:20.399427,Reillyfurt,Haiti,male,44,https://picsum.photos/570/66

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-230,Ashley Anderson,jclark@example.com,2025-01-23 09:30:04.442882,2025-01-07 18:45:54.655656,New Eric,Guinea-Bissau,male,61
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+230,Kristy Sanchez,courtney16@example.com,2025-01-19 20:00:22.280782,2025-01-28 04:29:34.814092,Emilyfurt,Belize,male,22,https://dummyimage.com/772x643

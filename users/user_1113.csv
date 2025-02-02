@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1113,Chelsea Smith,ahorn@example.com,2025-01-27 20:27:19.560069,2025-01-11 13:18:34.433436,Leeville,British Indian Ocean Territory (Chagos Archipelago),male,45
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1113,Michael Pacheco,ywells@example.com,2025-01-26 09:30:50.026246,2025-01-31 03:24:28.730392,Brendaborough,Ukraine,male,20,https://dummyimage.com/608x879

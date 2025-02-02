@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1948,Daniel Martin,josehall@example.net,2025-01-25 09:45:13.307960,2025-01-04 01:39:35.419940,Port Julieburgh,Congo,male,75
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1948,Rebecca Garcia,vbrewer@example.org,2025-01-09 08:50:02.684030,2025-01-26 11:44:16.054187,Dunntown,Belgium,female,42,https://placekitten.com/920/446

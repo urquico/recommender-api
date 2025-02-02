@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1214,Kelly Miller,williamsjames@example.net,2025-01-10 21:21:54.077883,2025-01-13 23:54:59.643677,East Annhaven,Palau,male,37
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1214,Steven Glover,hayley72@example.net,2025-01-10 14:02:35.244820,2025-01-08 21:28:03.657427,Lake Brandonbury,Turkey,female,80,https://placekitten.com/188/260

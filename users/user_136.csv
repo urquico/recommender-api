@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-136,Daniel Riggs,ronald66@example.net,2025-01-05 11:11:45.989302,2025-01-08 11:40:04.981108,Debraberg,British Indian Ocean Territory (Chagos Archipelago),female,73
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+136,Nicholas Robinson,heatherjohnson@example.org,2025-01-28 04:06:41.019555,2025-01-08 22:36:48.518271,Port Patricia,Tonga,female,36,https://picsum.photos/986/741

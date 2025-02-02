@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-843,Kimberly Jones,kimrussell@example.net,2025-01-17 08:42:47.193925,2025-01-02 01:14:39.646650,Port Katrina,Guadeloupe,male,47
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+843,Joseph Martinez,jramirez@example.org,2025-01-19 03:20:44.231447,2025-01-03 12:15:15.207815,Port Anitaside,Gabon,female,70,https://dummyimage.com/665x800

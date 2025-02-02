@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-277,Dawn Williamson,oford@example.org,2025-01-29 15:21:43.801677,2025-01-09 09:15:51.112705,Scottland,Northern Mariana Islands,female,32
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+277,Nathan Hudson,melissa60@example.net,2025-01-10 03:55:28.010025,2025-01-21 16:22:28.872786,New Travis,Uruguay,male,56,https://dummyimage.com/841x205

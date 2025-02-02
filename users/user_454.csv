@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-454,Erica Rogers,whunter@example.com,2025-01-13 13:00:32.113509,2025-01-04 10:37:40.979253,New Carol,Eritrea,male,78
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+454,Chloe Ellison DDS,lynndavid@example.net,2025-01-16 05:15:41.361986,2025-01-13 15:12:36.832077,East Alan,Holy See (Vatican City State),female,29,https://picsum.photos/8/393

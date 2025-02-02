@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1244,Robert Wilson,jacqueline46@example.com,2025-01-30 12:53:00.575248,2025-01-17 13:44:42.876210,Phillipsburgh,Mali,male,66
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1244,Sally Cannon,harristammy@example.org,2025-01-09 16:12:55.953050,2025-01-26 05:43:46.750289,South Christopherborough,Aruba,female,22,https://dummyimage.com/90x236

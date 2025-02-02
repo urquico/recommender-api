@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1689,Jay Oconnell,charles62@example.com,2025-01-27 20:35:34.663963,2025-01-31 22:30:34.190483,Susanville,India,male,59
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1689,Craig Garza DDS,reyessarah@example.org,2025-01-04 08:37:16.434618,2025-01-15 19:01:34.984194,Josephberg,Guadeloupe,female,36,https://picsum.photos/496/707

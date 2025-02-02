@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2031,Kimberly Griffin,sarahschmidt@example.org,2025-01-04 11:50:40.431685,2025-02-02 15:59:53.001211,Collinview,Chile,female,19
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2031,Latoya Hansen,barrdoris@example.net,2025-01-24 18:56:32.031291,2025-01-26 13:50:39.321184,Oliverville,Belarus,female,37,https://placekitten.com/613/439

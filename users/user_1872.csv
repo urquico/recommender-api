@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1872,Aaron Huang,ffranklin@example.net,2025-01-27 08:48:51.579601,2025-01-30 07:18:14.755038,South Jessica,Hungary,female,41
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1872,Lori Hicks,rowlandsteve@example.org,2025-01-05 22:12:23.216581,2025-01-05 10:33:01.591860,North Michellemouth,Seychelles,female,34,https://picsum.photos/530/343

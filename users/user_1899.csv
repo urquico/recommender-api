@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1899,Jennifer Frey,kallen@example.com,2025-01-26 00:03:13.480752,2025-01-06 18:33:15.680921,South Kyle,Guyana,male,54
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1899,Ashlee Marshall,hamiltoncarl@example.com,2025-01-20 07:08:47.242868,2025-01-21 12:23:00.042689,Lake Deborahchester,Latvia,female,56,https://picsum.photos/189/13

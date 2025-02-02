@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-845,Charles Burton DDS,huffmantimothy@example.com,2025-01-30 10:51:14.235922,2025-01-27 21:54:17.535935,New Leahfurt,Dominica,male,52
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+845,Jason Foster,adam30@example.net,2025-02-02 10:25:19.139383,2025-01-06 04:01:08.276409,Maldonadoview,Yemen,female,62,https://placekitten.com/949/897

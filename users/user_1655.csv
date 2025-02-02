@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1655,Andrew Russell,whall@example.com,2025-01-30 18:11:10.509979,2025-01-27 09:58:43.410828,East Arthur,Mozambique,female,67
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1655,Candice Robertson,debra76@example.org,2025-01-02 20:05:16.424078,2025-01-27 16:39:36.701979,New Danielle,Montserrat,male,66,https://picsum.photos/355/728

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1551,Sarah Barnes,lpearson@example.com,2025-01-08 18:21:10.156832,2025-01-01 03:22:40.241473,North Anthonyland,Djibouti,male,36
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1551,Sarah Poole,yfinley@example.com,2025-01-28 11:44:24.942543,2025-02-01 04:58:00.549793,Ortegastad,France,female,38,https://dummyimage.com/21x667

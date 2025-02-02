@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-116,Brent Velasquez,danielle90@example.com,2025-01-25 21:50:10.899765,2025-01-20 01:55:35.324000,Lawrenceborough,Saint Barthelemy,female,50
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+116,Nicholas Green,davidphillips@example.net,2025-01-31 07:20:49.301571,2025-01-05 16:38:21.395912,South Johnbury,Marshall Islands,female,70,https://picsum.photos/178/365

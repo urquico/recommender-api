@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2072,Ronald Chen,bentonlarry@example.com,2025-01-16 12:06:40.556054,2025-02-02 17:24:12.698428,East Melissa,Senegal,male,56
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2072,Thomas Holt,ipollard@example.org,2025-01-31 18:19:35.227358,2025-01-31 05:17:03.061165,Leechester,Syrian Arab Republic,male,66,https://picsum.photos/1020/491

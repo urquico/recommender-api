@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1635,Raymond Reyes,kaitlyn85@example.net,2025-01-01 04:19:55.307889,2025-01-21 02:13:14.411529,South Cynthia,Libyan Arab Jamahiriya,male,51
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1635,Amy Harris,charlesprice@example.net,2025-01-06 15:01:08.462679,2025-01-19 13:22:54.557124,Solomonland,Central African Republic,male,24,https://picsum.photos/1010/718

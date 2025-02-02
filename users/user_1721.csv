@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1721,Dawn Howell,martinezsteven@example.com,2025-01-02 16:45:30.261125,2025-01-13 04:10:34.718055,Lake Casey,Taiwan,female,32
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1721,Vickie Holmes,brownjohn@example.org,2025-01-29 07:24:44.937809,2025-01-03 21:38:51.426568,Kelleyville,Benin,male,59,https://dummyimage.com/198x946

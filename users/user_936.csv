@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-936,Stacy Sanchez,panderson@example.org,2025-01-16 00:02:02.484422,2025-01-10 22:30:31.009694,Lopezberg,Zimbabwe,female,61
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+936,Susan Martin,kevin64@example.org,2025-01-13 05:14:20.472302,2025-01-12 08:10:46.032691,Jorgeland,Australia,male,31,https://picsum.photos/785/505

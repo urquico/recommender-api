@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1504,Amanda Gonzalez,lmiranda@example.com,2025-01-06 09:08:13.192286,2025-01-09 08:44:09.863098,Port Alicia,Dominican Republic,female,35
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1504,Lisa Williamson,dthompson@example.net,2025-01-17 16:07:10.853721,2025-01-19 13:51:26.872876,Lake Shelbyborough,United States Minor Outlying Islands,male,62,https://dummyimage.com/523x749

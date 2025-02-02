@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1286,Andrew Curtis,robertsexton@example.net,2025-01-08 21:32:29.371150,2025-01-15 03:09:34.872416,Port Nathanbury,Albania,female,31
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1286,Joseph Chapman,austinjames@example.org,2025-01-30 18:31:36.332626,2025-01-09 07:53:51.961590,Mannhaven,Jamaica,male,68,https://placekitten.com/367/990

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-899,Linda Bean,gibsonkimberly@example.org,2025-01-10 02:13:59.046973,2025-01-23 17:47:44.514751,East Jason,Colombia,female,70
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+899,Gina Gates,cody03@example.com,2025-01-25 07:00:52.120882,2025-01-09 17:28:42.085933,Kevinshire,Holy See (Vatican City State),male,50,https://picsum.photos/227/1007

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-103,Roy Howell,holderveronica@example.net,2025-01-03 10:10:36.732676,2025-01-28 12:10:43.482085,South Kevinhaven,Austria,male,31
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+103,Alan Bautista,kaiserstephen@example.net,2025-01-21 00:03:47.812837,2025-01-27 09:49:47.121932,Adkinsfort,Andorra,male,20,https://picsum.photos/844/982

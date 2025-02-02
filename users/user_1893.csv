@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1893,Margaret Dunn,cruzstephanie@example.com,2025-01-28 20:27:16.339151,2025-01-31 23:13:16.211040,Port Victoriaberg,Aruba,female,78
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1893,Anthony Oconnell,patriciabailey@example.net,2025-02-01 09:02:08.276699,2025-02-02 08:43:25.173252,South Kristinmouth,Palau,female,41,https://dummyimage.com/301x112

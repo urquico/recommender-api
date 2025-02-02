@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1345,Alexander Russell,barbara20@example.com,2025-01-29 17:49:56.907930,2025-01-20 13:04:25.446947,South Juanborough,South Georgia and the South Sandwich Islands,male,39
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1345,Edward Burns,rickysandoval@example.com,2025-01-05 13:11:18.159586,2025-01-15 20:19:59.571566,East Tara,Russian Federation,female,52,https://dummyimage.com/856x686

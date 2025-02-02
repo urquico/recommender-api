@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-545,Corey Harris,khanjose@example.org,2025-01-22 00:34:03.093921,2025-01-02 23:42:01.857306,Abbottburgh,Malta,female,60
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+545,Kelsey Gonzalez,markhumphrey@example.net,2025-01-13 19:25:56.406676,2025-01-03 13:42:26.334343,Colonbury,Ethiopia,male,48,https://picsum.photos/630/96

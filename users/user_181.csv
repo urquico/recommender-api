@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-181,Christopher Morgan,michaelharding@example.org,2025-01-30 01:26:31.487168,2025-01-04 17:32:26.197284,Lake Carolynville,Korea,female,65
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+181,Philip Williams,juanbrooks@example.net,2025-01-07 19:06:36.723826,2025-01-08 01:14:25.599432,East Jeremyhaven,Bermuda,female,64,https://picsum.photos/1022/727

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1296,Ryan Miller,zsuarez@example.org,2025-01-14 08:36:25.151600,2025-01-27 13:06:54.521297,Port Tinaview,Russian Federation,male,65
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1296,Logan Best,christopher66@example.net,2025-01-19 20:16:28.830919,2025-01-24 08:44:17.055437,Lake Mandy,Montserrat,female,60,https://picsum.photos/63/786

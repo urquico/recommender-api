@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-836,Michael Garcia,bartonchristina@example.net,2025-01-04 22:47:23.015684,2025-01-31 01:42:09.436548,Shirleyfort,Oman,male,63
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+836,Emily Norton,sherri24@example.com,2025-01-23 11:39:33.785123,2025-01-13 03:49:34.280043,East Geoffrey,New Caledonia,male,34,https://dummyimage.com/838x1016

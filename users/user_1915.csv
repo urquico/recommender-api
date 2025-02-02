@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1915,Andre Day,johnbest@example.com,2025-01-30 07:31:17.537049,2025-01-07 22:54:07.684661,Port Justinchester,Eritrea,female,29
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1915,David Wilkins,christopherkoch@example.com,2025-02-02 20:08:53.709016,2025-01-23 20:44:26.717931,Jamesshire,Niger,male,49,https://picsum.photos/287/478

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-199,Jeffrey Davis,vbarnes@example.com,2025-01-04 11:10:51.244675,2025-01-21 09:42:33.308783,Wongchester,Isle of Man,male,23
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+199,Ricardo Jackson,tiffanyshaffer@example.com,2025-01-02 10:42:49.488899,2025-01-30 00:22:30.519576,Carlosview,Sudan,male,78,https://placekitten.com/896/131

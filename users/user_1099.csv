@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1099,Cody Small,courtneyjohns@example.org,2025-01-25 02:30:50.510715,2025-01-23 15:29:51.994288,West Stephanie,Benin,male,28
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1099,Samuel Lee,carolinemoore@example.com,2025-01-03 19:08:41.816601,2025-01-11 02:51:39.281876,North Heatherville,Sierra Leone,male,63,https://placekitten.com/311/641

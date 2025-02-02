@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-648,Sherry Thomas,joe12@example.org,2025-01-13 12:40:37.810430,2025-01-06 21:47:16.237195,Austinburgh,Cayman Islands,female,60
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+648,Courtney Mack,dennisjesus@example.org,2025-01-09 23:06:07.003976,2025-01-03 16:18:41.587222,West Benjamin,Italy,female,21,https://placekitten.com/865/310

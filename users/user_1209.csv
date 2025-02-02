@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1209,Debbie Thompson,uhunter@example.org,2025-01-05 09:19:19.061279,2025-01-31 09:07:21.090208,Matthewsborough,United States Minor Outlying Islands,female,74
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1209,Joshua Peterson,bryantjanet@example.net,2025-01-04 18:13:23.816812,2025-01-04 12:48:24.565319,Meganbury,Nigeria,female,49,https://placekitten.com/399/208

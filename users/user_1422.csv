@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1422,Donna Bartlett,mcdonaldbrett@example.org,2025-01-03 17:49:20.258902,2025-01-31 01:11:32.220215,Wilsonborough,American Samoa,male,37
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1422,Daniel Peters,stevensonjustin@example.org,2025-01-16 22:17:01.399059,2025-01-17 12:44:53.673986,Durhamberg,Sri Lanka,female,18,https://dummyimage.com/677x861

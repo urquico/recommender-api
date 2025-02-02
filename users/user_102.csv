@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-102,Eric Estrada,justin71@example.com,2025-01-03 06:44:17.760507,2025-01-02 05:22:40.478791,North Stephanie,Puerto Rico,male,73
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+102,Shannon Cruz,graysummer@example.net,2025-01-05 14:04:53.986919,2025-01-26 15:38:51.081113,Williamsville,Greenland,male,77,https://picsum.photos/1023/1005

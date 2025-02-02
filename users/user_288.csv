@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-288,Diana Parker,ericnorton@example.com,2025-01-04 12:15:23.885386,2025-01-26 13:47:56.683478,North Markton,Turks and Caicos Islands,female,24
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+288,David Warren,hernandezmegan@example.net,2025-01-23 21:31:54.605780,2025-01-04 11:52:48.809554,Lake Lisastad,Japan,female,21,https://placekitten.com/477/101

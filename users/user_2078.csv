@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2078,Vicki Hernandez,doyletommy@example.com,2025-01-22 20:20:52.842905,2025-01-26 03:04:51.329133,Lake Calvinview,Kyrgyz Republic,male,43
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2078,George Parks,william58@example.net,2025-02-01 10:30:16.153176,2025-01-21 11:48:28.595650,Jasonberg,Chile,male,18,https://picsum.photos/205/106

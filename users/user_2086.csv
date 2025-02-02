@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2086,Shelby Smith,jessicamorrison@example.org,2025-01-21 23:06:10.812841,2025-01-16 17:13:36.958278,Carrollville,Cape Verde,male,78
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2086,Shawn Cook,gmelton@example.net,2025-01-18 12:32:27.270308,2025-01-21 23:36:43.598374,New Nancyton,Montserrat,male,60,https://picsum.photos/578/391

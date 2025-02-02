@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-395,Jacob Peterson,huynhangel@example.org,2025-01-11 12:12:40.539549,2025-01-08 08:10:31.183743,South Timothymouth,Bolivia,female,73
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+395,Miranda Anderson,perezjohn@example.org,2025-01-07 08:56:56.695013,2025-01-21 04:16:59.742717,East Xavierport,Micronesia,male,31,https://picsum.photos/807/353

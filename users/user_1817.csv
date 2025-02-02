@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1817,Ashley Summers,rrobinson@example.net,2025-01-05 02:25:20.166914,2025-01-11 10:58:02.178151,West Maryville,Greenland,female,22
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1817,Stephanie Mcdonald,ann95@example.net,2025-01-23 00:28:55.611268,2025-01-20 05:07:25.327959,Yodermouth,Greece,female,80,https://placekitten.com/722/919

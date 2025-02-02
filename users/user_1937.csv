@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1937,Christopher Williams MD,fbrown@example.com,2025-01-13 00:15:00.349388,2025-01-11 22:47:09.062988,Marioview,Congo,female,69
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1937,Shawn Orr,schaeferanthony@example.org,2025-01-25 08:02:01.351842,2025-01-30 23:00:40.584224,South Troystad,Tonga,male,30,https://picsum.photos/580/2

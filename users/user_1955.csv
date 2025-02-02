@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1955,Curtis Davidson,michaelhunt@example.org,2025-01-29 20:34:44.667633,2025-01-06 21:24:42.559008,Tylerchester,Maldives,male,28
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1955,Elizabeth Webster,natasha06@example.com,2025-01-16 02:28:55.309562,2025-01-27 03:57:55.780730,Webbberg,United States Virgin Islands,female,33,https://placekitten.com/315/666

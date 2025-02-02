@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1359,Michael Wolf,kristi14@example.com,2025-01-23 02:16:24.272344,2025-01-14 12:04:36.112605,North Diana,Wallis and Futuna,female,40
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1359,Stephanie Clark,halljoseph@example.com,2025-01-18 10:25:21.803836,2025-01-07 03:13:15.015422,Port Cory,Moldova,male,18,https://placekitten.com/843/59

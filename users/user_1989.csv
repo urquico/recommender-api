@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1989,Morgan Shaw,stephen98@example.org,2025-01-16 04:59:26.261211,2025-01-29 05:37:39.191468,East Meghanland,Guinea,male,35
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1989,Sarah Mason,crowe@example.org,2025-01-20 08:08:31.372536,2025-01-05 15:34:57.412597,Port Michael,Turks and Caicos Islands,female,62,https://dummyimage.com/392x587

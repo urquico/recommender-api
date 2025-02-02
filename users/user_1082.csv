@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1082,Julie Fisher,sanchezkimberly@example.org,2025-01-07 06:42:34.941575,2025-01-13 16:24:09.252067,Griffinfort,Chile,female,42
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1082,Ethan Brooks,wbrown@example.net,2025-01-23 20:14:17.535704,2025-01-31 17:37:50.816694,Ortegafurt,Korea,female,20,https://picsum.photos/0/646

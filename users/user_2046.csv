@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2046,Kathy Hill,vwilson@example.org,2025-01-05 16:53:04.280738,2025-01-02 02:02:22.817137,Port Kevin,Niue,female,34
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2046,Brandon Johnson,jesuswood@example.org,2025-01-16 04:10:34.261151,2025-01-23 08:16:13.538815,Rodriguezland,Cook Islands,male,67,https://picsum.photos/823/660

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1426,Sara Evans,matthewcaldwell@example.org,2025-01-03 18:15:11.705979,2025-01-05 19:03:22.976906,Lake Isabellaview,Jamaica,female,36
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1426,Willie Duke,carrashley@example.net,2025-01-29 01:03:55.845614,2025-01-02 12:39:30.764613,Evelynberg,Dominica,female,60,https://dummyimage.com/807x71

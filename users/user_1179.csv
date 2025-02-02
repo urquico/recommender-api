@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1179,Terri Lee,palmerlinda@example.com,2025-02-02 02:55:58.126195,2025-01-24 14:51:02.476953,South Kelly,Lesotho,male,41
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1179,Jason Evans,luis51@example.net,2025-01-05 06:07:31.590126,2025-01-18 00:10:51.969980,Karenburgh,Croatia,male,35,https://placekitten.com/974/207

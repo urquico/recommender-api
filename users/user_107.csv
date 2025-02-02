@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-107,Lauren Park,scott47@example.net,2025-01-02 21:31:06.679890,2025-01-18 12:45:02.165799,North Brent,Peru,female,28
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+107,Michele Lloyd,maynardjames@example.org,2025-01-04 12:00:52.135065,2025-01-28 23:45:18.085903,South Judith,Isle of Man,male,33,https://placekitten.com/625/971

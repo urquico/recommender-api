@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1716,Megan Mitchell,bruiz@example.net,2025-01-04 23:34:43.208658,2025-01-19 08:08:33.643630,South Maryhaven,Niue,male,78
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1716,Leslie Spencer,kbrennan@example.net,2025-01-09 00:47:26.599013,2025-01-12 11:34:40.857386,East Robinville,Benin,female,64,https://placekitten.com/845/653

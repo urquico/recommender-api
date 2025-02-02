@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-978,Stephen Thomas,gabriel26@example.com,2025-02-01 00:57:20.880534,2025-01-18 04:47:49.399861,East Teresa,Pakistan,male,50
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+978,Anita Dillon,jennydunn@example.com,2025-01-14 12:24:11.386862,2025-01-13 13:47:06.001795,Collinshaven,Norfolk Island,male,44,https://dummyimage.com/1006x299

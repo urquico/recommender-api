@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1727,Roy Thompson,blackkevin@example.net,2025-01-01 07:28:01.896279,2025-01-19 07:38:13.170165,New Caitlinton,Montenegro,male,22
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1727,Emily Campbell,tsims@example.com,2025-01-20 05:19:53.462981,2025-01-25 04:43:00.797627,Josephport,Honduras,female,51,https://dummyimage.com/389x27

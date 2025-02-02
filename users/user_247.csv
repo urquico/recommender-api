@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-247,Jessica Cook,christopher91@example.org,2025-01-12 21:23:48.575636,2025-01-29 02:47:57.151100,Jessicamouth,Hong Kong,female,59
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+247,Donald Greer,skennedy@example.net,2025-01-12 00:22:27.812857,2025-01-04 09:24:52.113137,Crystalland,New Zealand,male,46,https://picsum.photos/1006/646

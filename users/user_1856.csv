@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1856,Jacob Stark,owade@example.com,2025-01-12 19:36:31.484870,2025-01-10 00:30:54.103100,West Jesseland,Swaziland,female,22
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1856,Hannah Lang,rebecca85@example.com,2025-01-25 12:51:43.719643,2025-01-08 08:18:12.824675,East Patrick,Mauritania,male,42,https://picsum.photos/726/913

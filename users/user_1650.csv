@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1650,Dylan Evans,vincent51@example.net,2025-01-22 00:15:13.614787,2025-01-05 11:21:33.416512,East Jenniferberg,United States Minor Outlying Islands,female,74
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1650,Carol Kelly,stephanie98@example.com,2025-01-07 14:03:23.625894,2025-01-19 05:28:23.363763,Mclaughlinmouth,Belgium,male,30,https://picsum.photos/657/508

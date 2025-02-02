@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2080,Johnathan Payne,kmitchell@example.net,2025-02-02 00:44:04.543850,2025-01-04 00:32:19.039230,Edwardport,Senegal,male,36
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2080,Sharon Gutierrez,karina08@example.org,2025-01-09 20:06:57.906724,2025-01-02 15:26:41.051536,Thomasfort,Cuba,male,44,https://picsum.photos/220/328

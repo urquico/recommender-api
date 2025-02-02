@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-684,Jessica Perez,meyersalisha@example.net,2025-01-03 01:54:28.067840,2025-01-28 00:16:36.202864,Joshuaville,Tanzania,female,46
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+684,Nicole Carlson,debbie46@example.net,2025-01-12 00:22:13.972411,2025-01-16 16:10:01.134493,Shawbury,Palestinian Territory,female,23,https://picsum.photos/156/530

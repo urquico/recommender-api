@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-270,Theresa Hall,webbthomas@example.net,2025-01-25 06:57:17.060666,2025-01-13 17:15:57.872833,West Ryantown,Mozambique,female,20
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+270,Cindy Henry,darlene33@example.org,2025-01-27 17:26:01.979220,2025-01-10 20:34:46.238827,New Larry,Dominican Republic,male,53,https://placekitten.com/614/1016

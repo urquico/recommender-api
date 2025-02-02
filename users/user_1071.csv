@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1071,Michelle Smith,adam07@example.net,2025-01-19 12:10:19.499308,2025-01-06 10:45:50.542287,Port Lawrence,Mali,male,28
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1071,Austin Fisher,earlsmith@example.net,2025-01-13 10:08:04.288009,2025-01-17 14:24:56.477234,Lake Isaacmouth,Portugal,male,29,https://picsum.photos/493/312

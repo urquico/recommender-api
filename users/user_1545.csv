@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1545,Ryan Cross,davisstephanie@example.com,2025-01-18 15:18:34.278386,2025-01-23 20:37:49.832193,Rodriguezshire,Belgium,female,22
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1545,Jerry Davis,woodarddaniel@example.com,2025-01-26 10:26:13.542731,2025-01-14 18:43:49.508415,Robertton,Cambodia,male,71,https://dummyimage.com/391x788

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-990,Jane Bennett,scox@example.org,2025-02-01 10:54:24.566730,2025-01-20 15:45:42.055704,Whitneyfurt,Turkmenistan,female,66
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+990,Debra Allen,kellerelaine@example.org,2025-01-01 12:13:58.782606,2025-01-21 07:47:55.276222,Lake Richardburgh,Indonesia,female,34,https://placekitten.com/593/459

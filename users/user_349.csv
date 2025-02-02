@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-349,Melinda Walker,tuckerdouglas@example.com,2025-02-01 22:26:57.043434,2025-01-04 15:17:33.700562,Charlesside,Brunei Darussalam,male,80
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+349,Melanie Garcia,misty82@example.org,2025-01-08 03:08:21.906812,2025-01-25 06:18:24.734234,South Kelly,Tunisia,male,20,https://picsum.photos/807/606

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2096,Richard Houston,huberveronica@example.org,2025-01-03 19:36:12.715780,2025-02-02 19:22:25.047674,East Ashley,Dominican Republic,female,69
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2096,Matthew Hahn,xchavez@example.org,2025-01-30 09:40:12.241359,2025-01-12 20:31:29.404305,Lake Karen,Cape Verde,male,18,https://dummyimage.com/358x812

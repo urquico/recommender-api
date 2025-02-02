@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1649,Elizabeth Page,pateljoshua@example.net,2025-02-02 06:20:12.300968,2025-01-07 12:56:33.374061,South Eugene,Maldives,male,53
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1649,Whitney Williams,michael84@example.net,2025-01-12 10:56:47.864883,2025-01-28 13:41:06.715600,Lake Christopher,Kazakhstan,male,62,https://picsum.photos/862/565

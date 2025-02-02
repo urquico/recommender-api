@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1884,Reginald Washington,lhenry@example.com,2025-01-29 23:12:29.781424,2025-01-10 10:21:37.105326,Coleside,Lao People's Democratic Republic,female,74
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1884,Tonya Tucker MD,fowlerjamie@example.com,2025-01-13 02:01:44.845704,2025-01-16 18:52:42.579820,New Christina,United Arab Emirates,male,51,https://dummyimage.com/325x613

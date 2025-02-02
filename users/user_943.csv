@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-943,Drew Arnold,shari77@example.com,2025-01-11 01:52:17.296884,2025-01-02 00:30:52.383089,Kelseyshire,Comoros,male,38
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+943,Sheila Clark,yatesshannon@example.com,2025-01-25 05:21:34.594169,2025-01-29 23:38:39.064386,South Kelly,Guam,female,38,https://placekitten.com/849/257

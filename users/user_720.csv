@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-720,Karen Singleton,elambert@example.org,2025-01-31 10:57:53.348108,2025-01-03 01:33:08.438366,New Christina,Norway,male,70
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+720,Julian Floyd,oconnelldiane@example.com,2025-01-08 08:53:33.868854,2025-01-30 20:56:08.384310,Lake Michaelview,Senegal,female,23,https://placekitten.com/944/971

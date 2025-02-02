@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1642,Bonnie Baker,emunoz@example.org,2025-01-24 18:11:45.384299,2025-01-21 04:42:47.647068,West Carol,Belgium,female,30
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1642,Stephen Schmidt,kelseyacevedo@example.net,2025-01-15 01:22:17.967387,2025-01-25 17:43:44.759297,West William,Micronesia,male,35,https://dummyimage.com/336x686

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1181,Jeffrey Vaughn,carsonlonnie@example.org,2025-01-24 04:47:37.631435,2025-01-07 04:44:11.763277,Erinland,Togo,female,50
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1181,Amanda Lopez,john28@example.com,2025-01-16 15:27:36.183247,2025-01-28 01:36:44.984891,Robertland,Malawi,male,70,https://picsum.photos/830/580

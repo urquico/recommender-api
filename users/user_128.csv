@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-128,Deborah Cook,francosara@example.com,2025-01-25 07:25:43.231503,2025-01-22 17:24:13.750233,East Erikborough,Holy See (Vatican City State),female,60
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+128,Brooke Bell,christopherdiaz@example.net,2025-01-09 13:18:05.309550,2025-01-16 18:20:06.816814,Port Donna,El Salvador,male,27,https://dummyimage.com/384x330

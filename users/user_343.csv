@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-343,Hannah Snyder,benjaminmccarthy@example.net,2025-01-04 21:41:34.103930,2025-01-26 15:37:15.343167,Lake Virginia,Namibia,female,30
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+343,Wesley Carter,nguyenjohn@example.net,2025-01-16 23:38:06.887643,2025-02-02 08:49:56.700966,Karenshire,Iraq,female,32,https://placekitten.com/321/321

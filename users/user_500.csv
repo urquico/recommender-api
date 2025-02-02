@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-500,Lauren Rivera,iharper@example.org,2025-01-28 19:08:33.983603,2025-01-29 03:38:43.717930,Wardmouth,Yemen,female,65
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+500,Robert Campbell,wagnerjose@example.com,2025-01-24 23:12:01.334371,2025-01-11 09:15:24.122883,East Matthew,Central African Republic,male,28,https://picsum.photos/836/460

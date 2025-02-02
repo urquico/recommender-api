@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-727,Christopher Gray,josephwilson@example.org,2025-01-27 15:38:10.163115,2025-02-01 18:38:22.008324,Roseburgh,Kazakhstan,male,44
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+727,Olivia Hood,nroy@example.net,2025-01-18 00:19:46.854379,2025-01-23 03:32:45.289662,West Michael,Namibia,male,72,https://dummyimage.com/990x985

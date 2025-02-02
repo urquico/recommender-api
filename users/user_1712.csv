@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1712,Michelle Lawrence,brent09@example.net,2025-02-02 15:40:45.190933,2025-01-05 06:54:34.449238,Wallacemouth,Finland,female,63
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1712,Daniel Stout,ecook@example.com,2025-01-18 04:12:32.315732,2025-01-01 18:34:59.581964,Gonzalezland,Bolivia,male,71,https://placekitten.com/902/752

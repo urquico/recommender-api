@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1309,David Duarte,dstewart@example.org,2025-01-26 18:47:20.119882,2025-01-31 21:56:53.669613,Summersview,Northern Mariana Islands,female,51
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1309,Connie Hudson,marcus84@example.com,2025-01-11 00:43:02.228779,2025-01-31 14:31:06.128044,Bruceport,Qatar,male,62,https://placekitten.com/742/65

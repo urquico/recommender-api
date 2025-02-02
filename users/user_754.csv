@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-754,Lisa Santos,sperez@example.org,2025-01-06 16:54:00.035501,2025-01-24 16:25:01.182437,Williamview,Uganda,female,40
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+754,Rachel Golden,jacobhouse@example.com,2025-01-16 16:28:44.924861,2025-01-19 12:17:16.404033,East Kevin,Colombia,male,77,https://picsum.photos/29/112

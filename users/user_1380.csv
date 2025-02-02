@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1380,Carolyn Patton,erikawilliams@example.org,2025-01-27 04:50:18.151136,2025-02-02 20:43:58.229137,Maryland,Rwanda,female,40
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1380,Sandra Huff,tjohnson@example.org,2025-01-14 22:04:43.590754,2025-01-01 11:11:40.170246,North Jeffreyside,Ethiopia,female,61,https://picsum.photos/49/344

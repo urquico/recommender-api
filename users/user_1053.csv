@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1053,Justin Thomas,yorkkatherine@example.net,2025-01-09 00:38:50.728565,2025-01-05 19:03:04.768636,Lake Nicholas,Switzerland,male,71
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1053,Billy Rowland,kaitlynmcclure@example.org,2025-01-20 19:48:58.698023,2025-01-24 08:31:05.216699,Powersview,Kiribati,female,23,https://picsum.photos/683/1002

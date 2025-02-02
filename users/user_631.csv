@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-631,Donald Brown,njarvis@example.org,2025-01-29 12:56:43.060797,2025-01-09 19:40:09.178323,Sarahfurt,Saint Barthelemy,male,54
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+631,Christie Thompson,ewebb@example.org,2025-01-01 16:44:21.954154,2025-01-10 14:15:16.387449,North Stephenstad,North Macedonia,male,79,https://placekitten.com/905/200

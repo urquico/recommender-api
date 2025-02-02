@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1416,Anthony Bass,oberry@example.org,2025-01-21 07:51:09.667306,2025-01-19 03:34:23.644326,Lake Stephaniebury,Gambia,female,76
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1416,Douglas Bell,olivertheresa@example.com,2025-01-11 17:24:33.385418,2025-01-13 00:05:34.787663,West Monicaberg,Saint Pierre and Miquelon,female,18,https://dummyimage.com/325x138

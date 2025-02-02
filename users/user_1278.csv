@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1278,David Davis,lsmith@example.org,2025-01-30 03:20:47.473246,2025-01-30 05:39:52.926996,Port Steven,Burkina Faso,male,55
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1278,Victoria Herring,matthewduncan@example.org,2025-01-18 11:42:27.406542,2025-01-26 16:44:27.377693,Lake Victoria,Burundi,female,40,https://picsum.photos/112/841

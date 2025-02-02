@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-6,Henry Garcia,jonathan18@example.com,2025-01-14 01:35:07.789886,2025-01-13 18:26:50.806461,North Kimberlyburgh,Estonia,male,25
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+6,Eric Miller,samantha35@example.org,2025-01-23 11:42:25.759350,2025-01-18 03:00:01.999731,North Patriciaton,Saint Lucia,male,49,https://placekitten.com/528/121

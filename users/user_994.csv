@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-994,Kevin Arnold,martindavid@example.org,2025-01-24 14:56:07.477348,2025-01-03 04:53:01.251526,Gregoryport,United Arab Emirates,male,44
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+994,Pamela Davis,fjohnston@example.com,2025-01-21 11:37:18.203288,2025-01-11 08:04:08.331761,Longtown,Dominican Republic,female,46,https://placekitten.com/273/279

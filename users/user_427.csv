@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-427,Benjamin Bright,fwilcox@example.com,2025-01-15 03:27:18.855200,2025-01-08 10:10:49.266035,South Edward,Sao Tome and Principe,female,47
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+427,Kristen Jones,christian33@example.com,2025-01-21 12:35:15.542469,2025-01-09 17:18:06.261401,Morganburgh,Kenya,female,46,https://picsum.photos/183/619

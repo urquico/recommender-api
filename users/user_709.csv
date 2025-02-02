@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-709,Christine Harris,kimberlywhite@example.org,2025-01-28 04:18:21.667448,2025-01-11 06:33:59.257341,Lake Michael,Saint Helena,male,71
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+709,David Pratt,jonathangarcia@example.net,2025-01-05 03:15:30.812599,2025-01-06 14:01:44.607202,Laurachester,American Samoa,female,46,https://dummyimage.com/748x447

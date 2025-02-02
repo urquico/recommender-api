@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-898,Jaime Rose,byrdalexandra@example.org,2025-01-14 20:26:30.141049,2025-01-07 07:37:23.096728,Port Bradleyburgh,French Guiana,male,34
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+898,Michelle Bush,ybennett@example.org,2025-01-16 01:21:20.114284,2025-01-31 15:22:16.421912,West Jameshaven,Bouvet Island (Bouvetoya),male,63,https://placekitten.com/575/25

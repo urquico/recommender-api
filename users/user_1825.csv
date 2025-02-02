@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1825,Joshua Johnson II,powellashley@example.org,2025-01-10 15:39:37.453600,2025-01-23 23:32:08.684402,Christopherton,Colombia,female,37
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1825,Alexis Le,gregory95@example.com,2025-01-03 14:01:46.881570,2025-01-14 05:58:36.370890,Doughertytown,Trinidad and Tobago,male,37,https://dummyimage.com/820x335

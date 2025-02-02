@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2040,Kathy Fisher,zlane@example.org,2025-01-11 12:24:40.051186,2025-01-30 23:29:43.000912,Garciahaven,Taiwan,male,42
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2040,Scott Salas,jackiejordan@example.com,2025-01-31 17:34:11.137441,2025-02-02 02:31:38.017619,Williamhaven,Saint Vincent and the Grenadines,female,33,https://dummyimage.com/540x466

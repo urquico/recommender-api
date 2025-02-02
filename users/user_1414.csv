@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1414,Benjamin Perez,jeffreycollins@example.net,2025-01-26 03:35:32.129843,2025-01-21 13:25:15.554020,South Michaelland,Georgia,male,53
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1414,John Miller,nelsonerica@example.org,2025-01-05 00:53:46.988284,2025-01-17 15:11:23.936102,Lake Kevin,Nicaragua,male,47,https://picsum.photos/437/901

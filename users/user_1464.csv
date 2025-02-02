@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1464,Raymond West,andersonthomas@example.org,2025-01-07 12:15:53.834385,2025-01-05 03:13:54.597167,Jamesmouth,Bahrain,male,52
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1464,Thomas Cummings,johnsonmichael@example.com,2025-01-12 05:36:32.296442,2025-01-24 12:43:13.166157,Port Amandachester,Turkmenistan,male,59,https://dummyimage.com/1021x54

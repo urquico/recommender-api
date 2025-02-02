@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-490,Angela Martinez MD,judithnelson@example.org,2025-01-15 22:31:34.098819,2025-01-07 09:48:49.998771,South Robertafurt,Samoa,male,19
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+490,April Wade,rebeccasanchez@example.net,2025-01-05 05:26:40.035039,2025-01-10 18:36:02.983807,South Laura,French Polynesia,male,39,https://placekitten.com/378/468

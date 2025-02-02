@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-690,Charles Griffith,zliu@example.org,2025-01-23 00:20:21.436148,2025-01-08 08:40:18.901088,Jennifertown,United Arab Emirates,male,25
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+690,Jessica Hart,urobinson@example.org,2025-01-30 17:49:33.377092,2025-01-29 02:52:01.574011,West Zacharytown,Australia,female,61,https://picsum.photos/413/639

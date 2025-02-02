@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1232,Danielle Bartlett,medwards@example.net,2025-01-30 23:46:02.128153,2025-01-19 23:39:30.954392,West Abigail,Namibia,male,41
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1232,Brendan Fleming,virginiahenry@example.com,2025-01-09 03:18:53.356752,2025-02-02 03:20:46.201284,Port Sara,Kuwait,male,40,https://placekitten.com/809/213

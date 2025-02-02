@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-938,Steven Lopez,christinabrowning@example.net,2025-01-25 22:07:23.489002,2025-01-04 01:31:02.456875,Lake Hayleyburgh,Sao Tome and Principe,female,23
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+938,Daniel Oliver,myoung@example.org,2025-01-30 23:54:45.104191,2025-01-24 01:30:42.573571,North Garyland,Mauritania,female,35,https://placekitten.com/317/892

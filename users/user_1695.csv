@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1695,Joe Vaughn,arthur15@example.org,2025-01-19 05:15:11.388461,2025-01-25 02:54:39.766577,Paulton,Togo,male,38
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1695,Sydney Mann,josephthompson@example.com,2025-01-26 07:59:26.106764,2025-01-17 02:19:25.048891,Carrburgh,Monaco,female,19,https://placekitten.com/105/398

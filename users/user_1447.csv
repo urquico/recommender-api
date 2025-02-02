@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1447,Jamie Taylor,stephanie52@example.com,2025-01-12 00:55:50.265074,2025-01-19 19:04:14.032911,Sharonburgh,Romania,male,28
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1447,Wesley Smith,kbell@example.com,2025-01-19 13:26:12.797231,2025-01-19 03:50:58.573278,New Petershire,Azerbaijan,male,61,https://placekitten.com/428/1002

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-697,Brittany Mcknight,smithcindy@example.net,2025-01-11 21:58:38.997548,2025-01-19 05:31:50.158659,Meganside,Pitcairn Islands,female,55
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+697,Alicia Taylor,patriciavaldez@example.com,2025-01-14 07:08:14.680870,2025-01-16 14:27:22.798502,West Michaelmouth,Niger,male,21,https://placekitten.com/950/1023

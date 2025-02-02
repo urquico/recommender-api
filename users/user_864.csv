@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-864,Samuel Wilcox,joshuabrandt@example.org,2025-01-23 09:48:19.565174,2025-01-23 23:36:06.079989,Barrettton,Svalbard & Jan Mayen Islands,male,64
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+864,Cassandra Diaz,andrewsjustin@example.net,2025-01-14 05:16:05.554018,2025-01-18 20:36:00.878860,South Shannon,Libyan Arab Jamahiriya,male,76,https://dummyimage.com/601x463

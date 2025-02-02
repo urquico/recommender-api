@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1141,Michele Meyer,mistykirby@example.org,2025-01-18 12:48:17.239012,2025-01-21 16:55:56.871277,North Todd,Aruba,male,27
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1141,Charles Gonzales,parkgregory@example.com,2025-01-15 11:13:42.941208,2025-01-14 23:40:53.869714,New Heatherville,Cape Verde,female,45,https://dummyimage.com/993x999

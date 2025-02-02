@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1231,Jorge Wells,xjones@example.com,2025-01-10 05:19:26.337106,2025-02-01 22:56:56.703228,Floydchester,Portugal,female,51
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1231,Craig Hamilton,woodskyle@example.com,2025-02-01 21:13:00.399123,2025-01-05 17:36:47.630826,Port Pamelahaven,Bolivia,female,71,https://placekitten.com/89/161

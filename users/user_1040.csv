@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1040,Ashley Bishop,wramos@example.com,2025-01-01 12:00:54.072086,2025-01-31 06:04:23.500601,Matthewville,Saint Kitts and Nevis,male,29
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1040,Meredith Jones,stewartsamantha@example.com,2025-01-12 20:34:36.129899,2025-01-30 21:57:11.160051,Lake Jenniferfort,Mayotte,female,39,https://picsum.photos/526/976

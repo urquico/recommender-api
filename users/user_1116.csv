@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1116,Jackie Lawson,bryanchavez@example.org,2025-01-30 06:36:31.944389,2025-01-09 04:26:04.134311,Sheltonfurt,Marshall Islands,female,79
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1116,Latoya Hinton,reedvanessa@example.com,2025-01-15 18:35:46.691796,2025-01-28 18:34:14.786131,Staceyview,Gibraltar,female,21,https://picsum.photos/232/742

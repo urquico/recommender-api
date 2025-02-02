@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-951,Melinda Hebert,jennifer25@example.com,2025-01-14 00:13:19.201022,2025-01-26 10:45:19.022169,New Nancyborough,Vanuatu,male,38
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+951,Ashley Johnson,rallen@example.org,2025-01-08 03:52:00.775679,2025-01-21 00:34:08.493807,Jamesbury,China,female,30,https://dummyimage.com/327x387

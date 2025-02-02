@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1683,Michelle Zimmerman,pnorris@example.org,2025-01-31 19:15:43.454581,2025-01-18 20:07:10.825830,South Pamela,Ukraine,male,51
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1683,Amber Edwards,edwardspamela@example.net,2025-01-24 22:21:40.893300,2025-01-23 05:40:18.273820,New Richardland,United States of America,female,59,https://picsum.photos/885/193

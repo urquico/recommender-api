@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1823,Kevin Sherman,thomas44@example.com,2025-02-01 23:21:25.210435,2025-01-01 10:24:15.631551,Lake Molly,Aruba,male,61
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1823,Alicia Gillespie,walexander@example.net,2025-01-14 12:31:33.619655,2025-01-16 02:25:42.962253,Lake Karen,Uzbekistan,female,55,https://picsum.photos/478/897

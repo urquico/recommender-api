@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1248,Mr. Paul Leblanc PhD,denise01@example.com,2025-01-21 14:12:22.656330,2025-01-01 19:06:45.431712,East Davidfurt,Azerbaijan,female,62
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1248,Terri Walter,cervantescatherine@example.com,2025-01-22 17:00:16.219898,2025-01-23 07:45:47.325817,Sydneyview,Comoros,male,78,https://picsum.photos/23/64

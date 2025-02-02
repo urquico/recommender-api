@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-110,James Horne,patrick70@example.org,2025-01-19 07:25:53.319024,2025-01-19 06:00:37.749201,Port Christopher,Korea,male,27
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+110,Sarah Thomas,jenniferlara@example.com,2025-01-26 20:10:49.545086,2025-01-07 00:37:19.465015,Hartton,Kuwait,male,67,https://placekitten.com/775/378

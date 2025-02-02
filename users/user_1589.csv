@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1589,Larry Santos,alam@example.org,2025-01-30 02:59:31.789115,2025-01-12 12:16:46.564040,South Jeffreybury,Brazil,female,40
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1589,Samantha Moore,randallhernandez@example.com,2025-01-20 23:39:14.170782,2025-01-07 16:54:40.904253,Estesstad,Estonia,female,72,https://picsum.photos/432/441

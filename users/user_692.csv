@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-692,Erika Rios,phillipzhang@example.net,2025-01-30 08:44:22.646305,2025-01-13 06:59:30.166889,Rodneyfurt,United States Virgin Islands,female,42
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+692,Stanley Jones,raymond10@example.com,2025-01-17 04:23:43.163527,2025-01-27 20:32:10.202398,Nicholasmouth,Namibia,female,27,https://picsum.photos/545/774

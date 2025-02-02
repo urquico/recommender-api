@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2007,Eric White,vperry@example.com,2025-01-27 16:20:10.507751,2025-01-30 23:44:46.615787,Holmesfort,Djibouti,male,39
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2007,Yvette Norman,jenniferrussell@example.org,2025-01-28 09:52:36.798032,2025-01-10 16:25:59.625134,Lake Andrewton,Saint Vincent and the Grenadines,male,74,https://placekitten.com/877/306

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1421,Sherry James,bradsmith@example.com,2025-01-24 01:56:05.582695,2025-02-02 15:25:27.760120,Teresabury,Cook Islands,male,51
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1421,Geoffrey Jacobs,terrimcmahon@example.com,2025-01-11 13:13:02.112389,2025-01-03 03:10:40.186932,North Richard,Myanmar,female,60,https://dummyimage.com/30x70

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-793,Laura Cooper,choibrian@example.net,2025-01-23 18:39:03.132448,2025-01-08 22:38:48.021558,Stewartchester,Tanzania,male,66
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+793,Tyrone Malone,wmorrison@example.org,2025-01-07 19:42:18.419193,2025-01-22 00:04:37.661287,Ericafurt,Cyprus,male,20,https://placekitten.com/975/529

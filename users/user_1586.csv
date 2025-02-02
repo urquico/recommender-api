@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1586,Patricia Dyer,wmcbride@example.com,2025-01-22 11:27:40.227441,2025-01-04 14:22:04.250887,Nicholschester,Cyprus,female,78
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1586,Amy Fitzgerald,melissa59@example.com,2025-01-26 13:29:12.864411,2025-01-19 01:17:42.605853,Austinburgh,South Georgia and the South Sandwich Islands,male,32,https://placekitten.com/942/208

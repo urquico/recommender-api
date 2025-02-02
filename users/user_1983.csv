@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1983,Brandon Brewer,brandon61@example.org,2025-02-01 09:38:03.831829,2025-01-18 08:09:50.222369,North Kennethport,Djibouti,female,33
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1983,Michael Byrd,valvarez@example.org,2025-01-18 19:36:48.167866,2025-01-23 12:05:53.507658,East Crystal,New Caledonia,male,64,https://picsum.photos/102/174

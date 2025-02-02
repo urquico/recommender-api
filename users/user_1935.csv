@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1935,John Barker,rosebrooke@example.org,2025-01-18 06:13:47.491884,2025-02-02 03:29:48.403815,Beardchester,Mexico,female,30
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1935,Erin Campos,miguelcolon@example.org,2025-01-16 21:20:54.597014,2025-01-06 14:57:37.169991,Lake Charlotteland,Palau,male,61,https://placekitten.com/812/545

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-410,Joshua Oconnor,michelleblevins@example.org,2025-01-18 02:00:46.260326,2025-01-23 06:55:01.921777,Lake Sophiahaven,United States Minor Outlying Islands,female,75
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+410,Jeffery Cline,smithmichelle@example.org,2025-01-05 12:30:00.262874,2025-01-02 14:21:44.611668,New Maria,Madagascar,female,58,https://placekitten.com/144/770

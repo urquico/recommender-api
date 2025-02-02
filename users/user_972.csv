@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-972,Veronica White,josewilliams@example.net,2025-01-03 17:10:06.545491,2025-02-02 20:35:24.632585,West Elizabethburgh,Niger,male,33
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+972,Dr. Tyrone Dickson,cphillips@example.net,2025-01-13 18:22:17.809502,2025-01-17 15:45:15.909764,North Jamie,Central African Republic,male,68,https://dummyimage.com/513x91

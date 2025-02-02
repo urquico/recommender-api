@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-241,Linda Davis,mcmillandebra@example.com,2025-01-22 17:20:41.602006,2025-01-02 06:12:33.625799,North James,Rwanda,female,55
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+241,Craig Larsen,grace66@example.net,2025-02-02 20:26:53.430869,2025-01-31 20:40:33.292431,West Stacy,Haiti,female,58,https://dummyimage.com/659x482

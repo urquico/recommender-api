@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-476,Jennifer Prince,kbridges@example.net,2025-01-22 16:50:19.119653,2025-01-13 05:03:36.198117,South Brianbury,Bhutan,male,71
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+476,Richard Oneal,james50@example.org,2025-01-14 18:53:35.060312,2025-01-29 06:32:54.318560,West Stephen,Maldives,female,76,https://dummyimage.com/114x98

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1978,Christopher Lewis,shawrobert@example.org,2025-01-13 15:50:17.810226,2025-01-03 21:58:54.850680,Cameronside,Finland,male,60
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1978,Stephen Baker,angelicamoran@example.org,2025-01-21 13:28:16.452350,2025-01-12 16:39:28.720107,Nicolefurt,Wallis and Futuna,female,39,https://dummyimage.com/651x625

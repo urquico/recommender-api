@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1063,Miss Maria Jimenez,kgomez@example.com,2025-01-28 13:51:33.070565,2025-01-30 12:01:29.321084,Whitechester,Nepal,male,79
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1063,Kristie Black,gnorris@example.com,2025-01-02 11:07:53.680036,2025-01-17 05:16:08.928250,North Lisafurt,Liberia,male,20,https://dummyimage.com/684x941

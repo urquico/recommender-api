@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1673,Timothy Kennedy,brianhobbs@example.com,2025-01-23 23:07:58.933581,2025-01-24 01:50:59.269848,Lake Lisabury,Kenya,female,68
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1673,Barry Saunders,keith98@example.com,2025-01-10 15:53:26.615549,2025-01-07 22:46:31.048146,West Taylormouth,Trinidad and Tobago,male,52,https://dummyimage.com/782x628

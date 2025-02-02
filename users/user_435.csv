@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-435,Mark Buchanan,ggonzalez@example.com,2025-01-26 19:38:56.471457,2025-01-24 08:31:38.371199,East Tammy,Saint Martin,male,72
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+435,Gabrielle Green,ramirezjennifer@example.com,2025-01-24 10:15:30.991263,2025-01-21 09:12:48.844013,Lake Stefanie,Cambodia,male,66,https://dummyimage.com/354x650

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2065,Lydia Reynolds,arroyocassandra@example.net,2025-01-06 18:55:06.806523,2025-01-16 22:59:35.258739,Stevenfurt,Solomon Islands,female,35
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2065,Sara Robinson,morrisjeremy@example.com,2025-02-01 14:07:54.142005,2025-01-26 06:22:24.101676,Brockbury,Albania,male,41,https://picsum.photos/647/611

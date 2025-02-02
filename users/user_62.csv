@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-62,Leslie Kennedy,chrisjoseph@example.com,2025-01-23 20:30:12.717170,2025-01-15 18:48:43.169924,New Debbiebury,Zambia,male,69
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+62,Randy Jenkins,tracy98@example.net,2025-01-13 09:23:12.131064,2025-01-10 16:47:15.370891,Davisbury,French Southern Territories,female,37,https://dummyimage.com/872x399

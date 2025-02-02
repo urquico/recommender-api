@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1410,Dawn Lang,scott96@example.org,2025-01-04 14:30:02.270729,2025-01-17 19:36:57.692062,Carlosbury,Saint Lucia,male,53
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1410,Kevin Terry,khicks@example.org,2025-02-01 15:45:20.313111,2025-01-03 08:20:34.537270,Kathytown,Mayotte,male,79,https://dummyimage.com/781x789

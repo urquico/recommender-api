@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-47,Karen Webb,jbrown@example.net,2025-01-13 07:08:13.957964,2025-02-01 02:04:14.947197,New Edward,Lithuania,female,68
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+47,Tricia Anderson,dianadavidson@example.org,2025-01-21 01:38:14.439098,2025-01-15 01:08:10.795907,Port Stacey,Taiwan,female,52,https://dummyimage.com/289x819

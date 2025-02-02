@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1781,Taylor Dillon,marissa86@example.net,2025-01-23 07:28:25.552881,2025-01-11 01:46:42.751032,South Stephanieland,Greenland,male,71
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1781,Barbara Rice,maldonadodale@example.com,2025-01-23 00:36:30.900076,2025-02-01 13:40:19.419528,Port Kevin,Sri Lanka,female,18,https://dummyimage.com/813x527

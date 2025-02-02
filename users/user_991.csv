@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-991,Michael Perez,flowe@example.com,2025-01-01 23:18:35.094207,2025-01-23 01:22:57.812034,Elizabethtown,Trinidad and Tobago,male,39
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+991,Victoria Fisher,matthew10@example.com,2025-01-02 16:29:42.022099,2025-01-02 23:32:03.277946,Port Danielport,Germany,male,63,https://picsum.photos/593/167

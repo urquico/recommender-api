@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-94,Michelle Brewer,blackwellcharles@example.com,2025-01-21 05:36:51.166181,2025-01-06 22:37:55.660359,Amandatown,Canada,male,57
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+94,Laura Foster,steven86@example.com,2025-01-21 16:59:44.263792,2025-01-23 06:38:25.943289,Jacksonberg,France,male,64,https://dummyimage.com/777x720

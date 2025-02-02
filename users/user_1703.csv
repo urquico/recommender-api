@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1703,Bryce Johnston,kaitlynross@example.org,2025-01-24 01:11:41.605083,2025-01-16 11:02:54.620680,Lake Kennethberg,Rwanda,female,57
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1703,Bradley Jensen,richardjones@example.net,2025-01-20 04:49:51.844824,2025-01-12 10:05:08.880798,North Paul,Maldives,male,23,https://dummyimage.com/789x426

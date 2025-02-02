@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-558,Daniel Dunn,wrightmichaela@example.com,2025-02-02 21:03:17.476482,2025-01-24 04:19:06.270695,South Williamville,Monaco,female,80
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+558,Jimmy Cox,yprice@example.com,2025-01-04 03:29:40.531799,2025-01-08 03:13:08.702224,Larsontown,Western Sahara,female,44,https://placekitten.com/778/846

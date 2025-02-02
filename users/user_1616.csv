@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1616,Rhonda Wyatt,rchandler@example.org,2025-01-29 08:22:55.352601,2025-01-17 12:04:19.220810,Johnsonberg,Madagascar,male,78
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1616,Jared Adkins,davidmartin@example.net,2025-01-28 21:24:52.086681,2025-01-30 22:17:03.332226,Ashleyshire,Albania,female,74,https://dummyimage.com/737x251

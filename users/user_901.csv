@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-901,Julie Murphy,qjohnson@example.org,2025-01-16 07:36:16.357617,2025-01-24 09:37:09.884427,Daniellechester,Congo,male,34
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+901,Kimberly Garcia MD,costanicole@example.net,2025-01-05 10:25:14.076157,2025-01-28 09:25:11.288530,Port Katherine,Gambia,female,69,https://dummyimage.com/890x875

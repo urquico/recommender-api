@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1540,Michael Chavez,james63@example.com,2025-01-05 13:51:01.371240,2025-01-21 03:20:04.253317,Lake Jasmine,Morocco,male,18
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1540,Jeffrey Ruiz,william81@example.org,2025-01-17 03:54:56.501560,2025-01-12 05:06:37.242513,Hickmanmouth,Canada,female,28,https://dummyimage.com/148x773

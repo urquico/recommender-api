@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-193,Autumn Barr,vanessasanchez@example.com,2025-01-15 10:59:02.490229,2025-01-24 06:20:15.084557,Harrisshire,Mauritius,female,53
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+193,Karen Bennett,gsmith@example.net,2025-01-13 21:58:49.764946,2025-01-21 13:45:26.108381,West Robert,Slovakia (Slovak Republic),female,61,https://placekitten.com/478/312

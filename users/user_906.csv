@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-906,Joshua Morales,timothy23@example.org,2025-02-01 09:07:07.384380,2025-01-18 08:45:29.640470,Ravenland,Montenegro,female,41
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+906,Hector Silva,caseymichael@example.org,2025-01-07 16:39:10.845903,2025-01-11 01:39:10.627214,Rossfort,Palestinian Territory,female,74,https://placekitten.com/159/883

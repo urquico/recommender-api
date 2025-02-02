@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1796,Mr. Jeffrey Jenkins MD,monicabailey@example.org,2025-01-12 18:43:08.484343,2025-01-27 08:28:00.704302,East April,Paraguay,female,63
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1796,Patrick Lee,longvalerie@example.com,2025-01-16 00:31:00.251274,2025-01-10 02:30:15.481159,Jayfort,South Georgia and the South Sandwich Islands,female,77,https://placekitten.com/709/719

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-362,Edwin Brooks,jennifer59@example.net,2025-01-13 19:52:19.620862,2025-01-14 20:58:12.185316,East David,Ghana,male,20
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+362,Lauren Caldwell,alexandrahawkins@example.com,2025-01-24 03:21:56.032187,2025-01-05 12:14:52.587517,New Scotthaven,Eritrea,female,78,https://picsum.photos/576/564

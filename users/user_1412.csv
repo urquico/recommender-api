@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1412,Vincent Holmes,stevenpierce@example.net,2025-01-22 20:25:56.310715,2025-01-12 05:37:18.083131,East Lauraton,British Virgin Islands,male,32
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1412,Tonya Thomas,ucasey@example.com,2025-01-23 08:15:47.189895,2025-01-28 12:15:30.126951,Bradland,Afghanistan,male,75,https://placekitten.com/802/707

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1374,William Harmon,loriclark@example.net,2025-01-02 22:33:19.023144,2025-01-29 09:39:11.166123,Port Dale,France,female,27
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1374,Kyle Mitchell,robertschmitt@example.org,2025-01-13 13:40:33.079950,2025-01-26 16:39:25.576801,New Annfort,Botswana,female,54,https://picsum.photos/41/574

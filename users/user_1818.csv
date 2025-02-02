@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1818,Carol Clark,harry96@example.net,2025-01-03 17:47:32.544845,2025-01-13 01:08:27.817183,New Susanville,Georgia,female,73
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1818,Michael Garcia,zpeterson@example.com,2025-01-11 09:01:47.925117,2025-01-08 08:10:08.762125,North Laurenville,Tuvalu,female,58,https://dummyimage.com/841x823

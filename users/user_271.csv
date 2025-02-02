@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-271,Frank Ortega,david81@example.net,2025-01-22 05:05:30.682141,2025-01-08 01:04:54.440645,East Derrick,Uganda,female,39
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+271,Lauren Moreno,caldwellanthony@example.com,2025-01-21 22:48:51.939230,2025-01-26 22:39:32.142103,East Jessicafurt,Guinea,female,59,https://dummyimage.com/971x13

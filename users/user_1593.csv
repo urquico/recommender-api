@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1593,David Johnson,ntate@example.org,2025-01-14 15:23:41.890510,2025-01-28 09:17:31.665791,East Taylorbury,Algeria,male,37
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1593,Deanna Powers,glawson@example.com,2025-01-02 08:44:59.788455,2025-01-09 05:33:13.491011,Ericmouth,New Zealand,male,63,https://picsum.photos/139/501

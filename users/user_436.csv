@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-436,Kelly Lewis,jennifer66@example.org,2025-01-02 05:12:26.263098,2025-02-02 08:01:18.599710,Chelseafort,Mauritius,male,27
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+436,Anthony Wilson,joshua41@example.com,2025-01-04 19:34:37.823913,2025-01-01 10:29:20.803348,East Shane,Algeria,male,78,https://placekitten.com/127/386

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1486,Carla Gomez,jgray@example.net,2025-01-17 09:44:40.869414,2025-01-07 05:05:33.704460,Lake Luis,Liechtenstein,male,58
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1486,Dr. Carol Morrison,joelhill@example.net,2025-01-24 00:21:52.689096,2025-01-16 11:57:29.255904,New Jason,Panama,male,59,https://placekitten.com/641/721

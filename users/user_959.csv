@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-959,Jason Harvey,douglas67@example.net,2025-01-29 11:13:48.560949,2025-01-16 00:09:19.313617,West Brittany,Australia,male,45
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+959,Brandon Thompson,michael75@example.org,2025-01-22 04:39:17.676419,2025-01-29 06:57:55.194493,Sandovalmouth,Jordan,female,70,https://placekitten.com/162/866

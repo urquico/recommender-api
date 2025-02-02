@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-834,David Flores,morrishannah@example.org,2025-01-26 10:56:36.877249,2025-01-02 02:14:10.321416,Payneshire,British Virgin Islands,male,26
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+834,Christopher Sanchez,shart@example.org,2025-01-16 07:50:54.842757,2025-02-02 08:06:11.609142,Ronniefort,Northern Mariana Islands,male,40,https://dummyimage.com/343x477

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-913,Paula Villanueva,gadams@example.com,2025-01-23 08:15:54.243781,2025-01-19 15:20:57.416315,New Victorland,Sri Lanka,male,21
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+913,Brian Patterson,alexandra47@example.net,2025-01-07 12:22:16.621572,2025-02-02 06:51:44.826792,Greeneview,Latvia,female,71,https://picsum.photos/614/887

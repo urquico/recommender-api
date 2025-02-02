@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-429,Kristin Taylor,sotoleah@example.com,2025-01-09 18:24:12.126724,2025-01-04 03:05:16.527450,Ryanshire,Timor-Leste,female,71
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+429,Debra Fox,carla45@example.org,2025-01-17 09:44:04.551441,2025-01-04 05:00:15.550243,Wattsmouth,Indonesia,female,60,https://picsum.photos/876/268

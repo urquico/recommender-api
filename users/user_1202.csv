@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1202,David Farley,mckaymeagan@example.com,2025-01-28 05:27:15.036617,2025-01-06 00:47:39.693967,East Harold,Malaysia,female,62
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1202,Lori Berry,xgill@example.org,2025-01-13 02:26:47.577660,2025-01-16 16:11:01.563470,West Justin,Madagascar,male,49,https://picsum.photos/75/909

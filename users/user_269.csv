@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-269,Stacy Jackson,tyler24@example.com,2025-01-23 07:53:17.688247,2025-01-16 17:03:28.687011,Amandashire,Liberia,female,26
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+269,Juan Austin,elizabethjensen@example.org,2025-01-12 23:16:27.817804,2025-01-31 06:00:37.395122,Tonyaton,Papua New Guinea,female,70,https://picsum.photos/657/96

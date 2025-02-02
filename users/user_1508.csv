@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1508,Hailey Floyd,mhughes@example.net,2025-01-11 07:06:45.205564,2025-01-11 01:09:27.122199,Gonzalezshire,Kiribati,female,30
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1508,Diana Foster,lgarcia@example.org,2025-01-26 16:44:14.943398,2025-01-16 02:33:46.960613,New Annaville,Western Sahara,male,71,https://dummyimage.com/92x158

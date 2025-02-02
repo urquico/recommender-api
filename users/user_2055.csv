@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2055,Nathan Obrien,fbrown@example.com,2025-01-28 04:06:38.470196,2025-01-23 10:40:22.068724,Reesechester,Burundi,female,55
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2055,Jennifer Rios,fsaunders@example.org,2025-01-10 16:59:14.012581,2025-01-03 08:25:05.584566,Troystad,Burundi,male,36,https://dummyimage.com/625x256

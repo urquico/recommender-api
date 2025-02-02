@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-352,Katie Garcia,robertsmichael@example.net,2025-01-11 03:29:43.123298,2025-01-07 02:01:56.797497,South Daniel,Brunei Darussalam,female,59
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+352,Jessica Gibson,michael23@example.com,2025-01-14 07:42:30.190489,2025-01-02 12:44:05.017035,West Meganmouth,Switzerland,female,74,https://placekitten.com/396/607

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1980,Melissa Wagner,beckcharles@example.org,2025-01-30 02:01:20.392540,2025-01-23 05:35:15.363133,Richardchester,Jersey,female,25
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1980,Jesse Pham,leonmichael@example.net,2025-01-08 15:03:22.814229,2025-01-24 12:16:05.616253,Johnshire,Denmark,female,39,https://picsum.photos/877/500

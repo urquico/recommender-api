@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-68,Carla Davis,deborah44@example.org,2025-01-08 02:57:12.867384,2025-01-27 09:58:05.170066,Millerstad,Equatorial Guinea,male,75
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+68,Jesus Williams,aaron88@example.com,2025-01-10 22:19:54.794103,2025-01-29 17:01:18.800171,Conniechester,Wallis and Futuna,male,63,https://picsum.photos/378/175

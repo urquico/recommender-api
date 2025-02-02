@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-879,Stephanie Hull,daniel34@example.net,2025-01-23 01:02:05.409883,2025-01-11 03:32:47.224472,North Ashley,Mali,female,34
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+879,Michael King,stephanieestrada@example.com,2025-01-09 23:56:11.765401,2025-01-17 04:04:25.939914,Lake Joseph,New Zealand,male,35,https://placekitten.com/941/122

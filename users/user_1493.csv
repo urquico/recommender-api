@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1493,Samuel Montgomery,danielle00@example.org,2025-01-29 17:21:14.047168,2025-01-02 05:36:54.895077,New Robin,Wallis and Futuna,male,73
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1493,Mike Mathis,thompsongina@example.com,2025-01-16 14:39:58.634731,2025-02-02 20:05:33.852870,Port Amyburgh,Micronesia,female,41,https://picsum.photos/723/183

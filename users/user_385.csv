@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-385,Gail Gillespie,lowegregory@example.org,2025-01-12 10:43:41.660941,2025-01-09 03:27:26.707185,South Carolbury,Canada,male,29
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+385,Donna Warner,derekpham@example.net,2025-01-24 10:37:10.987523,2025-01-10 06:06:24.327421,New Charlesmouth,Hong Kong,male,27,https://dummyimage.com/957x832

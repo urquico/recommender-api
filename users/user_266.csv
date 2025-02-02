@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-266,Dawn Alvarez,christopherrios@example.org,2025-02-02 14:03:08.730604,2025-01-01 05:38:22.820007,Parkerburgh,Philippines,male,76
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+266,Mr. Richard Adams,shannon95@example.org,2025-01-13 07:57:02.689749,2025-01-19 12:38:49.972677,Millerburgh,Mayotte,male,57,https://dummyimage.com/528x405

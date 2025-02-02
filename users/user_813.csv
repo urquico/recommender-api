@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-813,Christian Johns,barbara21@example.net,2025-01-18 16:40:12.437484,2025-01-27 03:51:50.930497,North Brittanybury,Northern Mariana Islands,female,20
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+813,Michael Barrera,lsantiago@example.com,2025-01-18 21:02:56.043254,2025-01-01 12:54:10.900403,West Nathaniel,South Georgia and the South Sandwich Islands,male,25,https://picsum.photos/858/314

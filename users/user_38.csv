@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-38,Christopher Jenkins,twang@example.net,2025-01-01 08:17:12.978934,2025-01-16 21:40:54.849615,West Jonathan,Egypt,female,41
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+38,Thomas Lewis,bwilliams@example.com,2025-01-14 00:35:49.652022,2025-01-23 05:42:24.628800,West Jasonville,Portugal,male,80,https://picsum.photos/941/769

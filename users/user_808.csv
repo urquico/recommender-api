@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-808,Laura Walker,tiffanybriggs@example.net,2025-01-05 20:17:11.195379,2025-01-27 14:53:27.601235,Keithberg,Egypt,male,43
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+808,Laura Horn,fneal@example.net,2025-01-30 20:27:58.209682,2025-01-15 09:57:16.294230,West Katherine,Thailand,male,36,https://dummyimage.com/384x567

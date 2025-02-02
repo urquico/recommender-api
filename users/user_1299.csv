@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1299,Antonio Pham,allisonvasquez@example.com,2025-01-02 13:56:47.459306,2025-01-16 22:08:52.015342,North Sharonmouth,Angola,male,22
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1299,John Wheeler,renee29@example.net,2025-01-01 06:37:50.782815,2025-01-22 11:54:04.030832,East Matthew,Bulgaria,male,46,https://placekitten.com/258/800

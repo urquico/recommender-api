@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-28,William Lewis,dustintucker@example.org,2025-01-02 10:00:54.226374,2025-01-16 00:57:34.057907,Tinaberg,Djibouti,female,32
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+28,Steven Price,eric70@example.net,2025-01-22 15:40:42.004932,2025-01-12 08:19:47.115583,Amymouth,Mauritius,female,24,https://picsum.photos/216/449

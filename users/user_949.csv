@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-949,Leslie Walker,vobrien@example.com,2025-01-31 18:20:29.006159,2025-01-27 14:04:13.512864,Lake Annaborough,Antigua and Barbuda,female,26
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+949,Elizabeth Flores,hernandezjessica@example.net,2025-01-26 16:00:38.011940,2025-01-09 22:06:13.696956,Kristinland,Wallis and Futuna,male,68,https://dummyimage.com/931x275

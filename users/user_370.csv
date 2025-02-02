@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-370,Adam Clark,alexanderfischer@example.com,2025-01-14 09:07:51.004591,2025-02-02 06:53:51.297492,Chapmanview,Belarus,male,25
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+370,Carol Perez,tracy98@example.net,2025-01-11 09:10:08.383832,2025-01-16 02:32:31.444151,Susanhaven,Cayman Islands,female,57,https://dummyimage.com/234x357

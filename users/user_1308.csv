@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1308,Richard Meza,barkermatthew@example.org,2025-01-25 03:09:28.374204,2025-01-28 09:11:07.045666,New Larry,Palestinian Territory,female,79
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1308,Kevin Rogers,jillwalsh@example.com,2025-01-11 12:30:24.370192,2025-01-29 11:45:28.272394,South Molly,British Indian Ocean Territory (Chagos Archipelago),female,39,https://picsum.photos/728/219

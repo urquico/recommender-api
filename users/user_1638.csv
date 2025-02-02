@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1638,Glenn Garcia,hannahpacheco@example.com,2025-01-18 08:45:01.070142,2025-01-31 05:24:28.018370,Westborough,North Macedonia,female,54
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1638,Nicole Farmer,susanarcher@example.org,2025-01-10 02:06:22.061630,2025-01-05 06:44:24.601788,North Jason,Rwanda,male,51,https://picsum.photos/103/784

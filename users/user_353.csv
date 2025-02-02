@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-353,Katie Weeks,randyrodriguez@example.net,2025-01-18 09:03:28.826552,2025-01-17 15:04:47.965546,Paulborough,Burundi,male,50
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+353,Daniel Kramer,manuelwest@example.org,2025-01-02 22:59:47.532631,2025-01-27 00:55:31.288746,South Deanna,United States of America,male,46,https://placekitten.com/152/321

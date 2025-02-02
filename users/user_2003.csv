@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2003,Rachel Sweeney,ikey@example.com,2025-01-05 17:35:24.539898,2025-01-23 13:53:48.977620,East Angela,Angola,female,29
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2003,Bobby Williams,abigaildavis@example.org,2025-01-27 22:54:17.393726,2025-01-15 16:41:03.017395,Port David,Algeria,male,45,https://picsum.photos/364/328

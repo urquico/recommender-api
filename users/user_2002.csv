@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2002,Alicia Bryant,ryan44@example.net,2025-02-01 07:50:44.619143,2025-01-26 18:25:05.235757,Mooreborough,South Georgia and the South Sandwich Islands,male,29
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2002,Sarah Cohen,drew76@example.org,2025-01-12 11:59:38.474660,2025-01-03 07:17:12.921159,Jonesfurt,Libyan Arab Jamahiriya,female,50,https://dummyimage.com/614x717

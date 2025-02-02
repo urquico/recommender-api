@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-494,Melanie Lee,jonesjudith@example.com,2025-01-31 13:50:12.186291,2025-01-13 08:37:57.701804,South John,Somalia,female,55
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+494,Kristi Arnold,allenzachary@example.com,2025-02-02 01:04:19.618396,2025-01-03 02:19:30.990660,Port Robertofort,Latvia,male,70,https://dummyimage.com/216x435

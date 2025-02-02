@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1397,Sarah Chavez,kelleybrian@example.net,2025-01-31 08:18:29.171064,2025-01-26 12:50:45.136283,Lake Matthew,Anguilla,male,69
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1397,Kathryn Hunter,trujilloluke@example.org,2025-01-04 16:50:17.353443,2025-01-24 18:59:10.643943,Ricardofort,Guatemala,male,22,https://placekitten.com/231/433

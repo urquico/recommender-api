@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1165,Rebecca Morales,grace28@example.net,2025-01-20 01:43:12.999648,2025-01-04 22:25:49.890573,Sheribury,Rwanda,female,64
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1165,Jared Baker,bradleycaldwell@example.org,2025-01-01 15:36:42.675611,2025-01-14 09:00:42.548050,North Cassie,South Africa,female,42,https://picsum.photos/39/413

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2034,Jennifer Richards,kelly93@example.org,2025-01-17 21:22:05.284557,2025-01-03 00:17:33.662154,North Michaelmouth,Cyprus,male,25
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2034,Joseph Mitchell,hayescraig@example.net,2025-01-21 22:41:05.403225,2025-01-04 07:36:40.672285,East Edwin,Cyprus,female,38,https://dummyimage.com/447x53

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1471,Benjamin Davies,kristy40@example.net,2025-01-11 17:53:10.568819,2025-01-25 02:08:29.425732,Ashleyton,Qatar,male,79
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1471,Barbara Wilson,christinaberger@example.com,2025-01-25 03:25:31.897941,2025-01-03 19:53:26.389170,Lake Janicetown,Isle of Man,male,27,https://dummyimage.com/465x918

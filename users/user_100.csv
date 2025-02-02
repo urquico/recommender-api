@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-100,Christopher Barton,jamesholmes@example.org,2025-01-06 17:44:10.892174,2025-01-01 16:57:31.080756,West Christine,Argentina,male,77
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+100,James Adams,ashley36@example.net,2025-01-12 04:48:08.318289,2025-01-13 16:35:16.544470,Rileyfurt,Libyan Arab Jamahiriya,female,19,https://picsum.photos/334/364

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-195,Bobby Stark,washingtonnatalie@example.org,2025-01-08 05:05:38.244411,2025-01-10 04:13:07.922595,West Daleland,Croatia,male,53
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+195,William Castillo,vwagner@example.net,2025-02-02 05:01:25.295653,2025-01-25 18:19:01.306601,Elizabethland,Bahamas,male,31,https://dummyimage.com/319x630

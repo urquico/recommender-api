@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1293,Andrew Paul,christopher12@example.org,2025-01-26 06:56:06.881194,2025-01-07 09:42:58.744651,Port Ricardoshire,Ireland,female,62
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1293,Bryan Lopez,kevin01@example.net,2025-01-19 21:50:25.908011,2025-02-01 04:24:26.492401,South Donald,France,female,27,https://placekitten.com/349/575

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-778,Virginia Bentley,dlewis@example.org,2025-01-30 19:56:05.940151,2025-01-26 06:13:01.243246,Lake Martin,Paraguay,male,43
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+778,Francisco Chen,tyler10@example.org,2025-01-14 15:15:42.031771,2025-01-08 00:12:28.353224,East Carmen,Dominica,male,43,https://dummyimage.com/166x717

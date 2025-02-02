@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1991,Lawrence Taylor,kwarren@example.org,2025-01-05 03:28:44.546987,2025-01-02 11:49:38.405151,East Robert,Brazil,female,44
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1991,John Williams,kara69@example.net,2025-01-21 13:24:26.357298,2025-01-23 09:39:42.630683,Matthewshire,Congo,male,21,https://dummyimage.com/499x451

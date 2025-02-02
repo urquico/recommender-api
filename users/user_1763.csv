@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1763,Kevin Greene,nancydonovan@example.org,2025-01-30 20:06:20.413943,2025-01-29 12:33:04.099939,Bennettview,Tunisia,male,79
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1763,Robert Bailey,twall@example.com,2025-01-03 23:16:34.854800,2025-01-29 23:05:03.671695,East Jenniferton,British Virgin Islands,male,57,https://dummyimage.com/548x470

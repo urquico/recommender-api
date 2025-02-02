@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-503,Andre Davis,daniel71@example.com,2025-01-26 22:53:08.573080,2025-01-08 04:05:08.874508,South Michellefurt,Guyana,female,51
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+503,Heather Sanchez,juliawelch@example.net,2025-01-18 05:28:06.996482,2025-01-24 16:19:17.367461,South Eugenebury,Djibouti,male,48,https://placekitten.com/869/65

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-120,James Duffy,michael58@example.org,2025-01-23 05:59:43.420621,2025-01-10 08:28:16.104801,Port Linda,Cuba,female,22
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+120,Dr. John Hernandez,walkerselena@example.org,2025-01-05 05:36:37.228451,2025-01-31 19:14:37.091470,Port Anthony,United Arab Emirates,male,28,https://dummyimage.com/933x216

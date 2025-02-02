@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-785,Julia Barker,stephanie75@example.net,2025-01-02 00:56:37.323124,2025-01-24 01:26:58.693132,East Jason,Burundi,female,53
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+785,Amy Church,pfox@example.com,2025-01-25 17:56:52.278015,2025-01-21 20:14:46.800483,Lake Tiffanybury,South Africa,female,37,https://picsum.photos/1010/52

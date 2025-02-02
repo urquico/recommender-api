@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1748,Leslie Brown,jonathan33@example.net,2025-01-31 17:38:22.288924,2025-01-06 12:08:48.058241,East Megan,Indonesia,male,71
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1748,Christopher Jefferson,robert80@example.net,2025-01-31 20:28:52.234501,2025-01-01 22:19:19.570503,Port Joseph,Guinea,male,22,https://dummyimage.com/135x965

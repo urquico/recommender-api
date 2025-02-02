@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-812,Micheal Martin,paula48@example.org,2025-01-29 00:30:08.085385,2025-01-15 03:00:05.652530,East Jason,Solomon Islands,male,20
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+812,Pamela Guerrero DDS,jennifer57@example.org,2025-01-06 07:55:21.263262,2025-01-15 03:35:48.353681,East Brandon,Saint Kitts and Nevis,male,23,https://placekitten.com/764/209

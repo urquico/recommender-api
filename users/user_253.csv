@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-253,Tamara Ramirez,katherine13@example.org,2025-01-02 05:18:52.881505,2025-01-05 09:30:05.604256,Port Connor,Chile,female,56
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+253,Michael Daniel,prattnathan@example.net,2025-01-14 22:59:44.351520,2025-01-15 05:50:56.468279,Mollyburgh,Kuwait,male,32,https://picsum.photos/488/1007

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1284,Jessica West,catherinelee@example.net,2025-01-16 03:09:04.668010,2025-01-09 21:59:08.384090,Andreatown,Tokelau,male,54
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1284,Cody Washington,deborah75@example.net,2025-01-28 07:49:22.178884,2025-01-12 22:42:33.782482,New Jacob,San Marino,female,57,https://dummyimage.com/893x888

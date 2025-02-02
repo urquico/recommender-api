@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1237,Michael Levine,wblair@example.org,2025-01-23 16:43:08.045389,2025-01-25 05:08:24.593654,West Kaitlin,Burundi,female,43
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1237,Melinda Williams MD,carrollnicholas@example.org,2025-01-14 21:27:56.828901,2025-01-04 22:59:26.592673,South Johnshire,Guinea-Bissau,male,51,https://placekitten.com/321/904

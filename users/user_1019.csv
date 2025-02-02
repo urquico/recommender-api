@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1019,George Fields,brianphillips@example.net,2025-01-08 01:54:22.851311,2025-01-22 03:37:08.136240,Port Roger,Gabon,female,72
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1019,Bryan Edwards,craigshannon@example.com,2025-01-09 15:59:10.271138,2025-01-12 23:32:55.532492,Mirandashire,Jordan,male,67,https://placekitten.com/222/590

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-77,Anthony Good,nicholas06@example.net,2025-01-17 14:12:07.563351,2025-02-02 13:32:11.776890,Courtneyfurt,Tonga,male,43
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+77,William Duran,gregoryerik@example.net,2025-01-10 05:54:41.865526,2025-01-29 20:10:45.401417,South Katherinefort,France,male,71,https://picsum.photos/657/869

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-718,Crystal Hernandez,meganroberts@example.org,2025-01-28 08:09:57.099266,2025-01-14 00:11:58.865808,Lake Shannon,Uzbekistan,female,47
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+718,Anthony Mooney,rlopez@example.org,2025-01-31 13:41:23.804276,2025-01-26 05:34:33.310674,Reesemouth,Dominica,male,47,https://dummyimage.com/966x332

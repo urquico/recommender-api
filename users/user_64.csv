@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-64,Drew Frazier,macdonalddaniel@example.com,2025-01-04 11:18:00.422889,2025-01-04 07:45:45.444293,Port Matthewport,Iraq,female,57
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+64,Tammy Patel,nathan16@example.org,2025-01-05 08:01:17.353457,2025-01-06 02:56:55.563043,East Cynthiashire,Slovenia,female,26,https://picsum.photos/134/291

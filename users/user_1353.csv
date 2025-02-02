@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1353,Alexander Carr,markgonzales@example.org,2025-01-18 23:42:20.379591,2025-01-12 21:35:10.647363,Aprilbury,Micronesia,female,59
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1353,Gail Smith,devin09@example.com,2025-01-29 12:13:39.730078,2025-01-13 14:42:49.587010,North Kristin,Cameroon,male,68,https://dummyimage.com/347x901

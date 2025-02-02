@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1996,William Silva,alejandra51@example.com,2025-01-26 12:46:50.559990,2025-01-23 13:24:27.591812,Lake Shane,Cambodia,male,58
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1996,Brandon Brown,david63@example.net,2025-01-06 17:12:29.673384,2025-01-12 15:32:49.558809,East Ronald,Algeria,male,75,https://picsum.photos/329/973

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1532,Stacy Day,longmonica@example.org,2025-01-09 04:38:10.002319,2025-01-04 17:54:35.310036,Lake Saraport,Tonga,male,41
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1532,Candace Diaz,greenstephanie@example.com,2025-01-16 00:03:09.990516,2025-01-23 08:30:15.733404,Jennifertown,Hungary,male,24,https://dummyimage.com/794x754

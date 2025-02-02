@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-694,Michele Vincent,gravesdustin@example.net,2025-01-12 11:05:16.263107,2025-01-03 01:04:26.060224,Justinside,Moldova,female,77
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+694,Debra Brown,richardgarcia@example.net,2025-01-19 22:02:05.365301,2025-01-01 06:38:21.967081,New Nicolebury,Guadeloupe,female,79,https://picsum.photos/578/844

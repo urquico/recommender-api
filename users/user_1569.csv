@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1569,Debra Wilkinson,jessicagutierrez@example.net,2025-01-11 01:38:28.874798,2025-01-10 02:51:33.294450,Wellsmouth,Barbados,female,43
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1569,Katie Jackson,leslieandrade@example.net,2025-01-01 06:58:47.417636,2025-01-07 19:48:18.532295,Matthewberg,Eritrea,female,75,https://dummyimage.com/399x383

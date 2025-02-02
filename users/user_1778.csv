@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1778,Walter Carrillo,jody60@example.net,2025-01-31 23:14:05.893655,2025-01-20 17:03:50.815173,Antoniobury,Suriname,male,37
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1778,Anthony Johnson,jamesfrederick@example.org,2025-01-26 01:04:17.993871,2025-01-01 21:41:59.530730,West Gail,Montenegro,female,37,https://dummyimage.com/379x221

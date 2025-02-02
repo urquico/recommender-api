@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-438,Cindy Martinez,hillkevin@example.org,2025-01-09 17:39:05.165797,2025-01-20 03:00:08.033007,Kathleenhaven,United States Minor Outlying Islands,male,27
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+438,Cynthia Mitchell,patriciamarshall@example.org,2025-01-25 03:34:22.445658,2025-01-23 11:42:54.779901,Jenniferberg,Kiribati,female,33,https://dummyimage.com/557x469

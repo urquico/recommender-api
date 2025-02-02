@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-680,David Saunders,ray99@example.com,2025-01-21 22:58:43.371819,2025-01-05 01:15:04.670741,Lake Timothyport,Rwanda,female,48
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+680,Mason Olson,ashleemartinez@example.com,2025-01-13 19:58:20.904647,2025-01-20 17:09:10.829467,North Debra,Togo,female,52,https://dummyimage.com/691x558

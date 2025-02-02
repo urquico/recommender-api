@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-226,Curtis Thomas,hatfieldmichael@example.com,2025-01-23 19:03:06.258377,2025-01-27 21:07:30.494913,Yolandamouth,Montenegro,female,56
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+226,Mrs. Tara George,laurenmartinez@example.com,2025-01-25 06:33:00.763028,2025-01-22 08:06:53.313032,New Jeremy,Kuwait,female,62,https://placekitten.com/723/483

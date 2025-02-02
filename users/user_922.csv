@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-922,Karen Lee,deannaodonnell@example.com,2025-01-21 22:26:02.172165,2025-01-02 16:11:06.159456,Hooverport,Saint Helena,male,73
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+922,Tara Duncan,leesamuel@example.org,2025-01-03 14:11:08.709947,2025-01-22 19:16:22.170132,East Kara,Falkland Islands (Malvinas),male,38,https://dummyimage.com/591x660

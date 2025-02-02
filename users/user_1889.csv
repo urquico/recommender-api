@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1889,Casey Craig,erikarobinson@example.com,2025-01-26 09:00:36.458932,2025-01-16 16:48:43.744818,Phillipstad,Martinique,female,54
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1889,Malik King,slewis@example.net,2025-01-30 12:47:52.856430,2025-01-03 23:54:45.789211,Charlesport,New Zealand,male,21,https://dummyimage.com/855x920

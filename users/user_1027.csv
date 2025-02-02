@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1027,John Wall,patriciasmith@example.org,2025-01-18 12:38:35.216997,2025-01-01 00:33:22.931844,Angelamouth,Serbia,male,29
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1027,Lisa Vargas,ortegajeffrey@example.com,2025-01-18 02:23:12.258147,2025-01-11 13:02:38.929886,Sloanmouth,Kyrgyz Republic,female,76,https://picsum.photos/46/329

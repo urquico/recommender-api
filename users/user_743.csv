@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-743,Patricia Pennington,karlagonzales@example.org,2025-01-03 04:34:25.157425,2025-01-12 19:56:12.751366,West Melissaburgh,Botswana,female,35
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+743,Gerald Russell,qsmith@example.net,2025-01-07 13:32:32.521066,2025-01-12 08:34:49.154184,Traciefurt,Czech Republic,male,21,https://picsum.photos/848/854

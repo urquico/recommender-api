@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1634,David White,amorgan@example.org,2025-01-30 15:42:39.126977,2025-01-02 22:04:16.206194,Lake Joseph,Congo,female,54
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1634,Samantha Smith,carol48@example.net,2025-01-10 00:52:28.373210,2025-02-02 08:20:23.030408,West Sarahside,Korea,female,63,https://dummyimage.com/225x1007

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-837,Tyler Lambert,thompsonalex@example.com,2025-01-01 16:12:35.689324,2025-02-01 08:10:44.696343,North Veronicaport,Honduras,male,36
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+837,Charles Hayes,simpsonvalerie@example.org,2025-02-01 06:42:15.265953,2025-01-10 14:36:14.867602,New Melissa,Indonesia,female,49,https://placekitten.com/39/752

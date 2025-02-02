@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1252,Laurie Taylor,destiny99@example.com,2025-01-25 02:50:48.889964,2025-01-31 14:37:58.480556,West Carla,Sudan,female,39
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1252,Shawn Baxter,thomasjessica@example.com,2025-01-03 11:40:53.865784,2025-01-24 18:30:13.760324,Medinaview,Jordan,male,33,https://dummyimage.com/87x431

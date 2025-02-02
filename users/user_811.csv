@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-811,Jason Peterson,william35@example.net,2025-01-09 05:15:45.601502,2025-01-12 17:46:36.050340,Jessicaborough,Bulgaria,male,22
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+811,Anna Cooper,francokarina@example.net,2025-01-18 09:21:22.989470,2025-01-23 03:34:33.990799,Hebertshire,Barbados,male,40,https://dummyimage.com/868x738

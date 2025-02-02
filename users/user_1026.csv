@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1026,Yesenia Berger,albert29@example.net,2025-01-02 06:50:01.014953,2025-01-16 06:24:36.900662,East Sylviaborough,Nicaragua,female,52
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1026,Peter Hamilton,leah73@example.org,2025-01-15 23:17:58.429016,2025-01-13 21:17:45.049159,New Christopher,Taiwan,male,54,https://dummyimage.com/64x106

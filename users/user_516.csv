@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-516,Donald Williams,tiffany57@example.net,2025-01-29 14:10:49.711103,2025-01-29 07:40:39.700687,Mcguireville,Senegal,female,20
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+516,Charles Williams,geraldcollins@example.net,2025-01-19 23:41:47.117064,2025-01-01 21:29:45.088031,Joneston,Guatemala,male,59,https://dummyimage.com/17x65

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-598,Paul Chavez,jacobstevenson@example.com,2025-01-19 20:46:47.983204,2025-01-11 00:42:17.915476,Loveshire,Indonesia,male,68
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+598,Joseph Owens,kellerclaire@example.net,2025-01-18 05:00:40.589473,2025-01-22 17:46:15.003338,Lake Joshuaview,Puerto Rico,female,29,https://picsum.photos/155/554

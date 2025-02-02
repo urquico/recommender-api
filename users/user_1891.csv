@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1891,Heidi Berry,fernandezluis@example.org,2025-01-07 01:50:40.011975,2025-01-02 19:31:46.434363,North Sandra,Eritrea,male,68
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1891,Richard Drake,ginabrown@example.com,2025-01-03 05:00:22.535096,2025-01-12 04:24:24.266291,North Elizabethfort,New Caledonia,male,52,https://placekitten.com/565/264

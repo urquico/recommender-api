@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1815,Heather Bowman,englishrichard@example.net,2025-01-08 04:31:19.438203,2025-01-10 11:21:34.440213,South Jessica,Peru,male,48
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1815,Leslie Webb,kimrodriguez@example.net,2025-01-17 04:26:14.380104,2025-01-04 19:44:07.201281,Meyersshire,Saint Helena,male,71,https://dummyimage.com/124x162

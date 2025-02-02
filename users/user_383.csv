@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-383,Michael Collins,gonzalezkim@example.com,2025-01-27 03:03:55.812741,2025-01-21 18:55:36.015758,Port Kathleen,Jamaica,female,73
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+383,Suzanne Middleton,josephking@example.com,2025-01-27 03:14:13.563336,2025-01-02 07:15:28.548464,North Ana,Antigua and Barbuda,female,69,https://placekitten.com/318/757

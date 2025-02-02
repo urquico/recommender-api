@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-380,Randy Ryan,dwoods@example.org,2025-01-08 10:39:55.335142,2025-01-13 04:17:43.130759,Lake Pamela,Netherlands,male,46
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+380,Justin Miller,vbarnes@example.com,2025-01-04 19:34:22.510606,2025-01-01 10:10:40.656690,Davidburgh,United States of America,male,39,https://placekitten.com/888/912

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1618,Daniel Acosta,stephanie78@example.net,2025-01-02 13:28:24.354598,2025-01-21 05:02:20.668884,Anthonyshire,Congo,female,57
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1618,Rachel Gray,sean89@example.org,2025-01-10 20:57:59.922805,2025-02-01 22:51:02.389523,Grantberg,Saint Pierre and Miquelon,female,66,https://picsum.photos/274/350

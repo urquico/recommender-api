@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-95,Shirley Clark,richardsmith@example.org,2025-01-04 15:41:12.754693,2025-01-04 09:42:13.858951,New Danielleview,Panama,male,45
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+95,Leah Jimenez,lmacias@example.net,2025-01-18 08:54:07.058288,2025-01-20 18:05:33.130793,Michelleside,Oman,male,39,https://picsum.photos/458/694

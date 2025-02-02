@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-802,Taylor King,allen80@example.com,2025-01-03 11:09:26.505927,2025-01-11 22:02:41.797587,Beckertown,Denmark,male,65
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+802,Craig Morris,rodriguezhunter@example.net,2025-01-30 16:14:24.213382,2025-01-17 00:44:33.175332,Stewartton,El Salvador,male,64,https://dummyimage.com/411x958

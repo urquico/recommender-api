@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-861,Christopher Lee,marthastuart@example.org,2025-01-18 03:13:12.521319,2025-01-23 06:36:05.345652,Port Larry,Sierra Leone,male,79
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+861,Adam Lopez,zthomas@example.org,2025-01-15 16:49:50.431628,2025-02-02 01:14:17.760452,Stevenville,Germany,female,77,https://picsum.photos/70/84

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1662,William Reed,adam10@example.org,2025-01-31 08:35:30.320265,2025-01-01 02:40:33.627770,South Kevinshire,Australia,male,46
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1662,Anthony Miller,jmendez@example.net,2025-01-28 20:36:39.974122,2025-01-17 21:21:45.407198,North Reginaldmouth,Gabon,male,21,https://placekitten.com/63/232

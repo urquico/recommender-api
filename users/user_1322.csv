@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1322,Gabriel Dominguez,wagnermarc@example.org,2025-01-11 10:51:39.439449,2025-02-01 08:07:40.977046,East Coryborough,Nicaragua,male,77
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1322,Joshua Anthony,oanderson@example.net,2025-01-26 15:06:52.006950,2025-01-01 15:05:08.984051,North Beckytown,Ghana,female,65,https://picsum.photos/709/30

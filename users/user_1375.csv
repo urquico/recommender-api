@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1375,Ms. Peggy Mcconnell,jromero@example.org,2025-02-02 08:42:51.930834,2025-01-26 19:04:21.894347,Port William,North Macedonia,male,42
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1375,James Jones,pattonmichelle@example.org,2025-01-24 03:31:38.177429,2025-01-13 21:43:50.175762,West Morganview,Egypt,male,72,https://placekitten.com/657/5

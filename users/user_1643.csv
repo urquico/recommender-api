@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1643,Deborah Brown,annahayes@example.org,2025-01-05 06:47:44.639497,2025-01-25 09:35:46.411692,Patriciaville,Bermuda,male,49
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1643,Jeffrey Hogan,michael82@example.com,2025-01-29 06:46:02.872216,2025-01-11 17:57:39.035796,East Amberberg,Bermuda,female,65,https://placekitten.com/155/286

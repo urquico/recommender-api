@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-426,Ashley West,kelseyharvey@example.org,2025-01-07 04:48:34.657084,2025-01-02 12:36:44.081674,Turnerfurt,Niger,male,47
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+426,Rebekah Lynch,yvettewebb@example.com,2025-01-24 07:01:07.867047,2025-02-02 11:56:20.228534,West Rebekahfurt,Gibraltar,female,54,https://placekitten.com/126/890

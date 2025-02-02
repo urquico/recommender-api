@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1137,Amanda Hartman,aandersen@example.net,2025-01-11 10:24:33.950462,2025-01-28 10:03:21.743717,Ronaldborough,Sweden,female,22
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1137,Jessica Warren,charles83@example.net,2025-01-04 13:37:41.994274,2025-01-07 03:52:19.343915,New Alexchester,Guyana,male,22,https://placekitten.com/510/496

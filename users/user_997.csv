@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-997,Jennifer Clark,joseph15@example.org,2025-01-14 02:11:43.099321,2025-01-09 17:35:15.780154,Josephstad,Philippines,male,68
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+997,Luis Bird,jonathanrussell@example.org,2025-02-01 16:25:10.274811,2025-01-12 02:39:48.174954,Bradfordton,Seychelles,female,51,https://picsum.photos/559/18

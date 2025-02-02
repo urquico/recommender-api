@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-88,Joshua Shannon,bailey63@example.com,2025-01-04 03:36:17.627900,2025-01-21 18:47:11.635701,Baldwinland,Papua New Guinea,female,44
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+88,Lauren Watson,karenmartinez@example.com,2025-01-13 00:24:02.277757,2025-01-08 07:36:40.498807,Port Jason,Gabon,male,54,https://picsum.photos/312/572

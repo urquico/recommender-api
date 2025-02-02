@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-984,Edward Campbell,joansims@example.com,2025-01-10 21:02:53.191742,2025-01-10 12:09:33.466071,New Anthonybury,Moldova,male,28
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+984,Mary Cruz,benjaminkathleen@example.com,2025-01-09 21:52:43.956744,2025-01-11 14:37:39.393463,South Samuelshire,Cameroon,male,59,https://placekitten.com/414/666

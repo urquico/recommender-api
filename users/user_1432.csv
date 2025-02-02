@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1432,Brittney Smith,melendezjeffrey@example.net,2025-02-01 04:27:23.143970,2025-01-19 10:49:53.941203,Lewisside,Mauritius,male,79
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1432,Denise Bell,jamiegrimes@example.com,2025-01-07 19:17:39.436207,2025-01-15 07:52:07.123505,Millerside,Gambia,male,30,https://dummyimage.com/862x930

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1554,John Smith,andersonronald@example.org,2025-01-05 01:33:57.012459,2025-01-21 07:58:10.365705,Benjaminberg,Philippines,female,59
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1554,Roberto Ross,angela82@example.org,2025-01-06 18:05:36.056526,2025-01-19 15:45:25.126069,New David,Madagascar,female,73,https://dummyimage.com/102x912

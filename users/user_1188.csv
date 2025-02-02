@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1188,Roy Smith,melissaschultz@example.net,2025-01-31 07:52:43.564559,2025-01-25 16:29:28.485099,Russellmouth,Croatia,female,66
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1188,Daniel Lucas,belinda54@example.com,2025-01-23 22:40:27.768254,2025-01-22 09:41:15.751451,Caldwellberg,Guinea,male,70,https://placekitten.com/470/105

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1913,Brianna Figueroa,qdawson@example.net,2025-01-09 08:35:46.299225,2025-01-04 04:41:49.672932,Susanside,Kazakhstan,male,68
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1913,Matthew Ramirez,franklinamy@example.org,2025-01-15 01:38:31.814857,2025-01-04 00:47:06.179178,New Emilytown,Barbados,female,63,https://picsum.photos/738/958

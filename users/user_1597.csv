@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1597,Maurice Myers,heatherolson@example.com,2025-01-29 17:24:08.725070,2025-01-01 22:40:15.133134,Cherylfort,Myanmar,female,78
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1597,Jennifer Williams,denise80@example.com,2025-01-02 05:31:46.679184,2025-01-21 19:13:04.854369,South Melissafurt,Greenland,female,72,https://picsum.photos/40/227

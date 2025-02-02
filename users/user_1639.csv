@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1639,Timothy Harris,hcarter@example.org,2025-01-13 06:45:42.908141,2025-01-02 01:26:45.394827,Dunlapmouth,Vietnam,male,67
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1639,Timothy Brown,floydjennifer@example.com,2025-01-09 06:32:30.334000,2025-01-20 13:20:52.364469,North Connor,Bulgaria,male,41,https://placekitten.com/733/145

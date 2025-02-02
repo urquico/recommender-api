@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-886,Andrew Thomas,usmith@example.net,2025-01-02 16:15:45.000957,2025-01-13 06:12:18.558623,Andrewsberg,Zimbabwe,male,49
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+886,Antonio Mason,williamcervantes@example.org,2025-01-05 06:23:52.720101,2025-01-08 18:36:06.082043,Lake Jacob,Saint Kitts and Nevis,male,77,https://picsum.photos/353/721

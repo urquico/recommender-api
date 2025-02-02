@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1768,Mario Weber,burgessbrandy@example.com,2025-01-02 23:20:28.018465,2025-01-02 01:30:17.659630,Jennifermouth,Argentina,male,58
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1768,Amy Joseph,wilkinskimberly@example.net,2025-01-19 10:28:34.021315,2025-01-19 11:16:12.984626,Meyerstad,Yemen,female,53,https://placekitten.com/627/489

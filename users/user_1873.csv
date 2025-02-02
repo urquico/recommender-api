@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1873,Andrew Rodriguez,antoniorichardson@example.org,2025-01-24 04:27:07.523675,2025-01-01 15:26:56.457475,Lake Stephanie,Armenia,female,63
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1873,Eric Jordan,stephanie71@example.org,2025-02-01 04:46:19.057230,2025-01-28 15:00:40.792515,North Ericfort,Morocco,male,43,https://dummyimage.com/641x884

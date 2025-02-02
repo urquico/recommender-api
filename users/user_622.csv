@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-622,Kendra Simmons,briantrujillo@example.com,2025-01-26 13:26:12.832127,2025-01-23 14:05:11.314863,Port Kellie,Macao,male,20
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+622,Christopher Wong,donaldwatson@example.net,2025-01-18 08:17:31.778469,2025-01-26 14:21:01.224857,Michelleborough,Tokelau,female,35,https://picsum.photos/243/557

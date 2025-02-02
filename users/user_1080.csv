@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1080,Gregory Drake,joseph86@example.org,2025-01-28 03:52:48.927088,2025-01-27 23:05:15.498917,Youngfurt,Qatar,female,58
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1080,Joshua Weiss,debbieweber@example.org,2025-01-05 02:20:23.829323,2025-01-25 05:05:25.315047,New Michaelchester,Saint Helena,female,52,https://dummyimage.com/176x681

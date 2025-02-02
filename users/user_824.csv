@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-824,Kevin Sanford,katherinerosario@example.com,2025-01-27 13:13:12.834127,2025-01-23 15:03:17.362899,Jenniferstad,Peru,female,47
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+824,Ashley Gordon,johnsmith@example.com,2025-01-25 11:43:18.004593,2025-01-16 08:50:45.269448,Mariashire,New Zealand,male,42,https://dummyimage.com/585x575

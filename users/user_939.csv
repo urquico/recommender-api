@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-939,Donald Santana,brian18@example.net,2025-01-31 19:09:10.829710,2025-01-03 05:40:35.247917,Hutchinsontown,Netherlands,male,23
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+939,Julie Estrada,zlewis@example.net,2025-01-02 06:40:31.788615,2025-01-11 17:47:21.844140,Shaunland,Afghanistan,male,54,https://picsum.photos/966/955

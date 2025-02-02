@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1073,Tabitha Guzman,owelch@example.org,2025-01-07 17:18:10.811108,2025-01-18 07:39:12.110600,Lake Jessica,British Indian Ocean Territory (Chagos Archipelago),female,76
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1073,Jennifer Sheppard,charlesmerritt@example.com,2025-02-02 19:40:50.327056,2025-01-28 03:28:41.919005,East Cathyburgh,Trinidad and Tobago,female,78,https://picsum.photos/178/433

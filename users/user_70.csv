@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-70,David Adams,bballard@example.com,2025-01-14 12:48:38.722987,2025-01-30 00:44:18.039958,Griffinstad,French Guiana,female,45
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+70,Brenda Horne,jerry61@example.net,2025-01-29 20:44:33.762991,2025-01-07 18:52:36.339744,Campbellberg,Timor-Leste,female,60,https://placekitten.com/46/902

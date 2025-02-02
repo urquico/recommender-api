@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-85,Dominique Wood,llogan@example.org,2025-01-02 19:58:21.202105,2025-01-23 09:11:27.268495,East Regina,Lesotho,female,59
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+85,Daniel Jackson,jason20@example.com,2025-02-02 10:49:48.731963,2025-01-16 16:40:46.041136,Dayshire,Wallis and Futuna,female,39,https://picsum.photos/601/44

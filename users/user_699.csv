@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-699,Eric Contreras,frazierwendy@example.org,2025-01-29 21:15:13.971364,2025-01-19 11:13:57.524179,West Deborahhaven,United States Virgin Islands,male,57
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+699,Teresa Mcclure,andersonrichard@example.org,2025-01-21 17:51:19.421550,2025-01-06 16:02:55.112388,East Trevor,Antarctica (the territory South of 60 deg S),female,18,https://dummyimage.com/597x75

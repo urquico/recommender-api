@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-669,William Johnson,vickielee@example.net,2025-01-18 15:22:56.744572,2025-01-30 23:10:17.372205,East Brittanyshire,Palau,male,71
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+669,Tyler Mcbride,rosemary@example.org,2025-01-07 09:56:55.060309,2025-01-03 11:52:55.804677,New Leslie,Ghana,female,62,https://picsum.photos/542/148

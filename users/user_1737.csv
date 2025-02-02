@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1737,William Olsen,whitneygross@example.com,2025-01-24 14:45:58.244613,2025-01-24 07:26:06.485764,North Savannah,Ireland,female,26
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1737,Mark Schwartz,alex41@example.net,2025-02-01 09:52:53.505741,2025-01-18 11:55:22.820727,Laurafort,Cyprus,male,53,https://placekitten.com/814/740

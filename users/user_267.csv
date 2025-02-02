@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-267,Michael Hunt,plee@example.com,2025-01-31 18:30:39.241394,2025-01-29 18:38:44.073095,East Jennifer,Zimbabwe,male,74
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+267,Steven Williams,howardmelissa@example.net,2025-01-30 01:25:59.569948,2025-01-08 11:41:17.069907,East Larry,Korea,female,38,https://placekitten.com/38/986

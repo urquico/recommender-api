@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1658,Jessica Norton,obrienamy@example.com,2025-01-30 05:13:57.824951,2025-01-08 00:24:41.651896,Ortegamouth,Faroe Islands,female,18
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1658,James Moran,cooperkayla@example.com,2025-01-03 20:19:31.240954,2025-01-22 19:01:23.576745,South Alexanderton,Saint Helena,male,60,https://placekitten.com/138/25

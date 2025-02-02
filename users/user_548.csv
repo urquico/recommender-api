@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-548,Ashley Wilson,sperez@example.com,2025-01-06 00:32:02.661530,2025-01-18 04:22:08.403967,North Mark,Montserrat,male,78
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+548,Edward Jackson,omcmillan@example.org,2025-01-05 06:51:47.993514,2025-01-31 09:44:45.113478,Joneschester,Sweden,male,64,https://picsum.photos/153/507

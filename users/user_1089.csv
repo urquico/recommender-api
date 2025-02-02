@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1089,Joseph Evans,icase@example.org,2025-01-23 07:10:45.170400,2025-01-04 02:23:27.370380,Bassfort,Jersey,female,44
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1089,Christopher Holloway DDS,maryhansen@example.org,2025-01-28 00:44:27.851476,2025-02-01 09:38:01.184688,Rebeccaborough,Dominican Republic,female,34,https://dummyimage.com/535x54

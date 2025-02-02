@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-908,Spencer Smith,madams@example.com,2025-01-16 01:35:49.028532,2025-01-16 01:55:32.041567,West Deanna,Bahamas,male,45
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+908,Aaron Clark,frenchfrancisco@example.net,2025-01-25 14:17:50.801489,2025-02-02 21:12:00.409975,Ericaborough,Albania,male,34,https://dummyimage.com/272x76

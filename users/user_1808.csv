@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1808,Kyle Snyder,juarezclaire@example.org,2025-01-15 08:51:40.481903,2025-01-12 09:47:07.657735,Markport,Serbia,female,63
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1808,Daniel Flynn,kimberlygriffith@example.com,2025-01-19 20:05:52.034456,2025-01-13 09:03:40.955313,North Janehaven,United States of America,male,29,https://placekitten.com/322/391

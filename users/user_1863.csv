@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1863,Steven Miranda,michaelweaver@example.com,2025-01-03 06:18:36.478582,2025-01-02 21:33:33.899304,Johnsonton,Jersey,male,26
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1863,Stephanie Williams,smithelizabeth@example.com,2025-01-11 09:06:32.982591,2025-01-08 00:10:48.516730,North Emilytown,Serbia,female,43,https://placekitten.com/125/876

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2015,Thomas Tate,johnnyjones@example.com,2025-01-03 03:36:38.130314,2025-01-29 20:31:22.140957,Davidville,Myanmar,male,74
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2015,Brian Hall,michael21@example.com,2025-01-14 14:23:13.168097,2025-01-29 00:27:43.070375,West Michaelborough,Tonga,female,75,https://dummyimage.com/681x496

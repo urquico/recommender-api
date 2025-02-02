@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1466,Jeff Tucker,leslie82@example.com,2025-01-11 03:56:26.898432,2025-01-01 14:12:05.159508,Michaelburgh,Tunisia,female,67
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1466,Tara Bailey MD,pameladunn@example.net,2025-01-04 09:54:56.960808,2025-01-11 19:11:47.941635,West Saramouth,North Macedonia,female,22,https://picsum.photos/940/705

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-551,Robert May,simpsonkaren@example.net,2025-01-11 07:03:30.131241,2025-01-06 12:33:38.194605,East James,Ireland,female,54
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+551,Tony Parker,wwilliams@example.net,2025-01-02 19:11:24.598385,2025-01-17 05:32:15.838871,Port Anthony,Japan,female,72,https://picsum.photos/173/455

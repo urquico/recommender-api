@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1443,Scott Cruz,thomas17@example.net,2025-01-03 00:59:31.606109,2025-01-23 06:18:35.663160,Haydenton,Belize,male,60
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1443,Mrs. Nicole Smith DVM,brittanyjohnson@example.org,2025-01-03 21:45:21.555559,2025-01-28 15:24:30.808990,New Jessica,Myanmar,male,61,https://dummyimage.com/442x486

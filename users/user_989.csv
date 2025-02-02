@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-989,Jeffrey Clark,robertevans@example.com,2025-01-05 20:00:00.992340,2025-01-24 13:10:18.638505,Sanchezland,Bouvet Island (Bouvetoya),female,35
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+989,Margaret Padilla,rebeccalewis@example.com,2025-01-03 00:54:01.698726,2025-01-02 14:16:24.042504,Cannonfort,Uzbekistan,male,66,https://placekitten.com/847/754

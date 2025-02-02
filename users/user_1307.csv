@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1307,Joy Thompson,wigginsrobert@example.com,2025-01-30 10:42:38.870164,2025-01-26 21:40:46.726201,Lake Charles,Austria,male,61
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1307,Derek Henderson,josephmcconnell@example.net,2025-01-07 04:21:31.295017,2025-01-12 05:37:46.752636,West Natasha,Azerbaijan,male,21,https://dummyimage.com/860x575

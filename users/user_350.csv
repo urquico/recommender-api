@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-350,Susan Williams,cmoore@example.net,2025-01-17 05:10:56.412579,2025-01-04 05:35:20.891547,Carpenterview,Hungary,male,65
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+350,Daniel Harris,raymond15@example.org,2025-01-26 18:51:53.085986,2025-01-11 23:25:54.272641,Owenside,Belize,female,46,https://dummyimage.com/357x101

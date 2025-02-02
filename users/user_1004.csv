@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1004,Sara Tyler,george40@example.com,2025-01-29 09:04:57.988225,2025-01-31 16:10:02.457121,Nicholaston,Jordan,male,63
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1004,Christina Robinson,luis10@example.net,2025-01-18 16:08:59.468362,2025-01-16 04:22:28.164216,Garcialand,Reunion,male,59,https://picsum.photos/884/935

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1197,Kaitlyn Munoz,irogers@example.net,2025-01-03 23:54:49.369324,2025-01-03 08:40:35.982286,East Eileenside,Jordan,male,56
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1197,Ronald Madden,andrewalvarado@example.com,2025-01-31 03:49:19.460662,2025-01-24 18:36:00.771395,Port Angelicafort,Romania,male,31,https://dummyimage.com/662x348

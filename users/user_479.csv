@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-479,Cindy Olson,felicia46@example.org,2025-01-31 01:39:35.750387,2025-01-08 18:15:38.993814,Aaronside,Greenland,female,54
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+479,Matthew Perkins,mark02@example.net,2025-01-11 09:48:18.507091,2025-01-28 06:33:19.009000,Sethfort,Christmas Island,male,66,https://placekitten.com/411/574

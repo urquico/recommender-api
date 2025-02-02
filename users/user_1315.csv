@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1315,Ashley Grimes,ylong@example.net,2025-02-02 00:53:07.233394,2025-01-16 02:53:00.063119,South Josephburgh,Holy See (Vatican City State),female,18
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1315,Melissa Romero,robertbenson@example.org,2025-01-27 18:11:12.833602,2025-01-11 00:11:26.316452,South Russellton,Albania,female,19,https://picsum.photos/225/950

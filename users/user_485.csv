@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-485,Jay Washington,travis52@example.com,2025-01-23 07:38:12.192388,2025-01-10 14:52:22.756535,Andrewhaven,Swaziland,male,31
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+485,Evan Cortez,breanna06@example.net,2025-01-28 17:15:34.988482,2025-02-02 06:55:01.305466,Lake Jeremybury,Japan,male,46,https://picsum.photos/440/351

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-86,Austin Gonzalez,thomastaylor@example.org,2025-01-05 04:59:28.849511,2025-01-31 09:09:40.527122,North Blake,Mauritius,female,52
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+86,Andrew Perez,irichards@example.org,2025-02-01 19:30:02.300755,2025-01-26 16:51:48.772736,Lake Jerometown,Western Sahara,male,48,https://picsum.photos/844/1003

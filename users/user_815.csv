@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-815,Rodney Gonzales,joseph88@example.org,2025-01-24 05:18:44.605895,2025-01-22 00:19:53.907223,Walterberg,Italy,female,76
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+815,Catherine Stewart,bryantbrittany@example.org,2025-02-02 17:12:39.057333,2025-01-26 02:30:31.539107,North Tracyview,Saint Lucia,female,27,https://placekitten.com/351/91

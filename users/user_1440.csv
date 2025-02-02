@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1440,Randy Goodwin,amanda90@example.net,2025-01-21 03:38:38.508260,2025-01-22 02:43:55.280604,North Amberland,Tonga,male,54
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1440,Matthew Hall,ashley00@example.net,2025-01-23 04:04:55.047153,2025-01-23 10:12:56.779532,North Deniseburgh,Martinique,male,70,https://dummyimage.com/666x626

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1282,Dave Malone,lewisstephen@example.org,2025-01-12 05:31:45.132547,2025-01-18 11:24:13.561765,Priscillaborough,Sri Lanka,male,25
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1282,Taylor Wright,moorejimmy@example.org,2025-01-11 04:52:51.525643,2025-01-07 01:27:52.942612,Port Elizabethside,Zambia,female,36,https://picsum.photos/774/270

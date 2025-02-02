@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-501,Autumn Brooks,daviswendy@example.org,2025-01-30 11:41:19.597081,2025-01-31 23:26:49.718641,South Tina,Gibraltar,female,58
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+501,Teresa Ellis,mallory41@example.org,2025-01-01 15:59:45.462024,2025-01-02 11:49:38.861912,Lake Juan,Monaco,female,78,https://picsum.photos/1023/108

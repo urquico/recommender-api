@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-161,Joseph Knox,gomezharold@example.net,2025-01-25 15:08:18.507349,2025-01-27 00:03:02.768893,South Cynthia,Brazil,female,70
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+161,Geoffrey Garza,vmyers@example.net,2025-01-28 03:29:56.159588,2025-01-31 01:52:23.714702,Victoriaside,Montenegro,male,48,https://picsum.photos/915/100

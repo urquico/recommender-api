@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1741,Gregory Hughes,bruce20@example.com,2025-01-29 13:14:29.601250,2025-01-08 06:16:20.398861,East Benjaminside,Cocos (Keeling) Islands,female,64
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1741,Sara Quinn,xlara@example.net,2025-01-01 05:24:28.742521,2025-01-17 02:12:24.909830,Port Loritown,Nauru,female,70,https://dummyimage.com/812x22

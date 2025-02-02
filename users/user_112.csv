@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-112,Jenna Cross,alicia89@example.net,2025-01-03 11:30:33.779350,2025-01-18 06:14:02.208358,West Virginiaport,Ukraine,female,55
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+112,Becky Lucas,donna21@example.net,2025-01-21 01:22:58.034887,2025-01-25 07:29:20.313215,Robertshaven,Saint Pierre and Miquelon,female,63,https://dummyimage.com/1006x902

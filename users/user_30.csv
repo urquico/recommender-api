@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-30,George Peck,wellsbilly@example.org,2025-01-17 17:14:03.121805,2025-01-31 08:51:46.529963,Ryanton,Micronesia,female,19
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+30,Brianna Sullivan,alyssa14@example.org,2025-01-30 17:48:15.741584,2025-01-15 07:15:55.848249,South Melissastad,Guadeloupe,female,45,https://picsum.photos/588/608

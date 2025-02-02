@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1922,Daniel Fuller,hfox@example.org,2025-01-16 01:10:31.572620,2025-01-29 06:48:30.323257,East Brittneymouth,Montserrat,male,40
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1922,Jerry Robbins,kylejohnson@example.com,2025-01-12 23:42:30.618687,2025-01-03 20:45:49.715131,Port Steve,Zimbabwe,female,28,https://picsum.photos/395/970

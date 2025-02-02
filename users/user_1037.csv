@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1037,Mary Johnson,kyleallen@example.org,2025-02-02 06:12:36.296731,2025-01-24 10:01:20.973638,South Zachary,Bermuda,male,55
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1037,Darren Faulkner,kjackson@example.org,2025-01-01 07:31:54.384845,2025-01-22 08:44:32.218077,Brittanyshire,Sweden,male,25,https://dummyimage.com/67x336

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-290,Kelly Brown,nicholas62@example.com,2025-01-19 18:33:59.099940,2025-01-11 06:10:32.664557,South Davidhaven,United States Virgin Islands,female,64
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+290,Samantha Macias,dawnortiz@example.com,2025-01-10 22:34:20.083615,2025-01-10 14:04:00.342215,Garnerfort,Cambodia,female,35,https://picsum.photos/581/282

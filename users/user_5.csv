@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-5,Jonathan Sanders,christopher44@example.net,2025-01-12 09:14:55.084691,2025-01-08 09:47:52.281581,South Brian,Mauritius,female,66
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+5,Alejandro Brown,gayluis@example.org,2025-01-24 13:50:10.622279,2025-01-24 16:18:59.731364,West Susan,Guernsey,female,31,https://placekitten.com/308/68

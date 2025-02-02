@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1769,Heather Morton,rochasarah@example.com,2025-01-19 14:36:17.925173,2025-01-07 21:22:42.768486,Martinbury,Liechtenstein,male,39
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1769,Alicia Hampton,diazdarlene@example.org,2025-01-14 10:23:02.608869,2025-01-21 10:52:13.420809,North Kristine,Thailand,male,39,https://picsum.photos/897/198

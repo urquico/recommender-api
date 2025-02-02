@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-311,Laura Moreno,odavis@example.com,2025-01-07 03:39:20.588016,2025-01-22 18:44:58.086491,Port Paul,Zambia,male,23
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+311,Donna Brooks,scott26@example.org,2025-01-29 11:19:57.584814,2025-01-09 20:32:22.899035,South Jeremy,Bahrain,male,66,https://dummyimage.com/372x493

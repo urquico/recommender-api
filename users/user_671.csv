@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-671,Anne Robertson,courtney04@example.org,2025-01-13 07:16:26.465837,2025-01-18 13:47:32.748508,New Ambermouth,Kazakhstan,male,36
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+671,Lance Bates,nelsondawn@example.net,2025-01-14 09:22:30.229960,2025-01-07 07:43:49.121270,Sullivanville,Gibraltar,male,41,https://picsum.photos/1006/102

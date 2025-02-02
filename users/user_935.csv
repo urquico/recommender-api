@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-935,Kevin Hunter,hfuller@example.net,2025-01-22 03:33:45.313202,2025-01-01 12:52:17.396838,Christineview,Japan,male,39
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+935,David Parker II,kevinshannon@example.com,2025-01-22 22:39:06.684661,2025-01-28 17:57:52.634471,East Nathanielton,Kazakhstan,male,70,https://picsum.photos/915/1008

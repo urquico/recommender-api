@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1852,James Kelly,gregoryanderson@example.com,2025-01-17 03:08:38.296356,2025-02-01 14:35:50.149534,Lake Wendy,Argentina,male,37
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1852,Kristina Walker,stephenmason@example.com,2025-01-14 16:12:20.935082,2025-01-03 13:15:33.831521,Johnsonborough,Uganda,female,31,https://picsum.photos/567/462

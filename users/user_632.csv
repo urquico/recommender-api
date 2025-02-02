@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-632,John Wyatt,waynewarren@example.org,2025-01-05 22:13:10.860160,2025-01-20 03:25:30.941474,Loristad,Algeria,male,54
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+632,Carlos Bailey,laura72@example.com,2025-01-09 22:03:25.704206,2025-01-20 15:18:52.065117,North Mariah,Honduras,female,25,https://dummyimage.com/608x969

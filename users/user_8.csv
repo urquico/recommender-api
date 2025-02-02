@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-8,Jenna Butler,anthonydeborah@example.org,2025-01-05 23:37:19.690455,2025-02-01 03:22:50.742211,Brownland,Kuwait,male,52
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+8,Daniel Johnson,christinapatton@example.net,2025-01-26 19:12:03.830716,2025-01-07 07:25:00.938259,Port Tammy,Ecuador,female,73,https://placekitten.com/959/755

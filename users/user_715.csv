@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-715,Susan Brooks,vreeves@example.net,2025-01-30 16:25:37.229901,2025-01-26 05:40:06.622464,East Mitchellberg,San Marino,female,74
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+715,Russell Bennett II,patriciagarcia@example.org,2025-01-17 10:06:46.922199,2025-01-17 00:34:27.178125,Lopezfort,Fiji,male,69,https://placekitten.com/578/381

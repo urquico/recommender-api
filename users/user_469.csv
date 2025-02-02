@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-469,Gregory Morales,msullivan@example.com,2025-01-10 18:45:03.201124,2025-01-14 22:11:09.923872,Marystad,Kyrgyz Republic,male,61
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+469,Karen Thomas,weeksdonna@example.com,2025-01-03 08:44:49.440988,2025-01-04 03:16:18.540394,West Thomas,Central African Republic,male,62,https://dummyimage.com/515x831

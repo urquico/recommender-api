@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1809,Raymond Murray,wheelerjennifer@example.com,2025-02-02 10:25:10.438660,2025-01-08 22:13:03.686864,Lake Seth,Brazil,female,49
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1809,Mathew Barnes,hamiltonjohn@example.net,2025-01-26 09:03:50.881025,2025-01-08 18:06:02.068688,West Donnatown,Tuvalu,male,34,https://placekitten.com/954/709

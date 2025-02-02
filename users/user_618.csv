@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-618,Timothy Mckee,bennetteric@example.org,2025-01-25 06:12:54.490618,2025-01-18 11:47:22.795580,East Jenniferland,Somalia,female,41
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+618,Timothy Cooper,swright@example.org,2025-01-10 22:57:34.019730,2025-01-18 01:55:56.383256,South Jamieburgh,Norway,female,77,https://picsum.photos/155/1020

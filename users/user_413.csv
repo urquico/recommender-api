@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-413,Brenda Mercado,robertsonryan@example.net,2025-01-22 01:55:45.586946,2025-01-20 07:43:18.891122,South Jeffreymouth,Azerbaijan,female,28
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+413,Rebecca Murphy,reeveskimberly@example.org,2025-01-27 02:34:12.635378,2025-01-22 23:28:19.319688,Millerland,Singapore,female,32,https://dummyimage.com/537x43

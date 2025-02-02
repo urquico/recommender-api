@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-549,Nicole Wilson,barneselizabeth@example.org,2025-01-23 20:01:44.387788,2025-01-01 00:26:05.484445,Kathystad,United Kingdom,female,59
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+549,Kayla Middleton,jmiles@example.org,2025-01-14 10:01:34.498506,2025-01-22 12:42:52.445617,East Eric,Bosnia and Herzegovina,female,35,https://dummyimage.com/522x347

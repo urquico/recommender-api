@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-818,Cassandra Jenkins,ronaldhammond@example.com,2025-01-25 16:58:33.819001,2025-01-12 21:27:50.050364,Port Brian,Tajikistan,male,32
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+818,Chase Bennett,jodyphillips@example.net,2025-01-13 01:51:55.723535,2025-01-08 21:05:27.076302,Roberthaven,Tokelau,male,22,https://dummyimage.com/255x32

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-480,Kristina Frank MD,ydavis@example.org,2025-01-22 07:03:23.799588,2025-01-10 05:04:57.787490,North Shawna,Rwanda,male,22
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+480,Bonnie Jackson,michaelbarron@example.org,2025-02-02 12:44:46.635902,2025-01-27 14:12:13.203975,South Garrettmouth,Togo,male,71,https://placekitten.com/435/803

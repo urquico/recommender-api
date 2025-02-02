@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1084,Ryan Brown,donald04@example.org,2025-01-08 19:59:02.784324,2025-01-31 05:32:00.633277,West Daniel,Mauritania,female,45
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1084,Mark Gibson,andersontrevor@example.com,2025-01-24 07:54:09.894255,2025-01-05 12:39:01.855351,North Joseph,Burkina Faso,male,21,https://picsum.photos/754/338

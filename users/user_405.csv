@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-405,William Hoover,james97@example.com,2025-01-04 19:04:46.405142,2025-01-03 00:51:18.271374,Nguyentown,Cote d'Ivoire,female,41
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+405,Sean Munoz,nicole59@example.org,2025-01-11 14:56:42.538122,2025-01-09 21:00:51.225031,Kingfurt,French Southern Territories,female,44,https://placekitten.com/362/390

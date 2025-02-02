@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-941,Louis Glenn,mackenziepotter@example.org,2025-01-04 14:51:27.420126,2025-01-07 21:17:17.962637,Woodsborough,Brunei Darussalam,male,64
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+941,Robert Li,hopkinsgregory@example.org,2025-01-11 22:29:18.797224,2025-01-21 16:44:49.547994,West Kellytown,New Zealand,male,67,https://placekitten.com/214/962

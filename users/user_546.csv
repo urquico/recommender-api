@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-546,Jessica Carter,norrisjason@example.com,2025-01-26 00:33:55.777314,2025-02-02 03:52:29.116659,Lake Brandon,Uzbekistan,female,41
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+546,Charlene Campbell,jason56@example.net,2025-01-02 09:14:26.182263,2025-01-23 12:01:00.426280,South Marcusborough,Montenegro,female,40,https://dummyimage.com/93x663

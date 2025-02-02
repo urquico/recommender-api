@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-41,Karen King,tstone@example.org,2025-01-08 10:03:34.271337,2025-01-19 08:54:30.921740,Garyville,El Salvador,female,25
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+41,Susan Newton,edward93@example.net,2025-01-11 09:55:09.302429,2025-01-04 00:12:17.519705,Meyerview,Swaziland,female,43,https://dummyimage.com/499x96

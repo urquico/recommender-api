@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1909,Timothy Liu,joshuamurray@example.com,2025-01-07 17:04:19.883419,2025-01-31 07:04:48.353377,East Heatherfort,Saint Kitts and Nevis,female,38
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1909,Amy Charles,jacobsroberta@example.org,2025-01-14 14:15:33.623245,2025-01-09 15:20:55.542901,New Kaylaview,Korea,female,36,https://dummyimage.com/382x841

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1501,Theodore Davis,lisa33@example.net,2025-01-19 08:29:58.082254,2025-01-21 19:56:51.178031,Meganfort,Cook Islands,male,18
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1501,Adrian Bailey,hermanmargaret@example.net,2025-01-30 13:01:56.492723,2025-01-26 17:43:24.982508,Mitchellton,Montenegro,male,40,https://placekitten.com/992/221

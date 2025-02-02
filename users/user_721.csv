@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-721,Melissa Diaz,jessicamorris@example.org,2025-01-08 16:58:53.836409,2025-01-21 03:10:53.944451,Lake Joshuafort,Nepal,male,52
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+721,David Cummings,qbishop@example.net,2025-01-25 18:25:37.864980,2025-01-06 06:30:17.281396,Nicolefort,Syrian Arab Republic,female,37,https://picsum.photos/46/444

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-787,Kimberly Ramirez,nguyencasey@example.org,2025-01-30 20:21:59.248285,2025-01-19 01:22:10.460937,New Kimberlychester,Philippines,male,33
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+787,Hannah Barker,melissatrujillo@example.net,2025-01-11 12:07:55.979429,2025-01-05 22:23:09.197094,Meganbury,Denmark,male,45,https://dummyimage.com/439x802

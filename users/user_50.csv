@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-50,Lisa Rocha,cameron73@example.org,2025-01-26 01:07:06.941040,2025-01-08 07:31:51.401866,Guzmanland,Sweden,male,21
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+50,Caleb Everett,kelliford@example.com,2025-01-01 04:48:27.385088,2025-01-28 03:11:07.657142,West Dianetown,Belarus,male,21,https://placekitten.com/759/513

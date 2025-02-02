@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1275,Amy Daniels,rosariokristen@example.net,2025-01-16 00:31:48.445493,2025-01-16 02:50:18.415186,Michaelfort,Switzerland,male,37
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1275,Zachary Sullivan,wibarra@example.org,2025-01-27 12:38:29.934228,2025-02-01 06:49:10.907035,Richardborough,Qatar,female,29,https://dummyimage.com/359x547

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-357,Judith Morales,ihunt@example.org,2025-01-14 15:47:40.695549,2025-01-12 20:50:21.468045,South Kimview,Guernsey,female,67
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+357,Jason Morales,richardgordon@example.org,2025-01-01 12:27:01.885206,2025-01-03 05:23:50.984748,Barajaschester,Iran,female,45,https://placekitten.com/936/82

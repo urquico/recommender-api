@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1977,Tara Johnson,heather92@example.net,2025-01-22 15:42:00.504994,2025-01-29 15:38:11.939386,Mannfort,Aruba,male,43
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1977,Shane Gross,jonesamanda@example.com,2025-01-22 23:02:32.632060,2025-01-03 19:36:04.856194,Port Katherine,United Kingdom,male,37,https://placekitten.com/691/4

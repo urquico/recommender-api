@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-262,Caitlin Cooke,tmccann@example.net,2025-01-10 17:37:55.052842,2025-01-16 06:10:59.501425,Lake Lawrenceport,Burkina Faso,female,72
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+262,Charles Walsh,emma76@example.com,2025-01-25 16:53:13.031008,2025-01-06 07:08:10.194226,Melanieshire,Portugal,female,55,https://placekitten.com/89/333

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-48,Lisa Hudson,audreymcbride@example.com,2025-01-25 22:40:31.833986,2025-01-22 04:51:42.195063,Nicoleside,South Georgia and the South Sandwich Islands,female,74
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+48,Jill Stone,nixonadriana@example.net,2025-01-26 05:59:15.251612,2025-01-21 02:30:52.266914,East Bonnieville,United States of America,female,51,https://picsum.photos/997/150

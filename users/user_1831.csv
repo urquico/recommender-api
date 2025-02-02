@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1831,Logan Holmes,mcbridemichael@example.net,2025-01-31 18:34:06.018103,2025-01-27 17:55:23.877524,Hollytown,Iceland,female,67
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1831,Andrew Thomas,martinsarah@example.org,2025-01-09 12:31:52.538778,2025-01-14 23:15:42.469863,Hudsonburgh,Puerto Rico,female,63,https://picsum.photos/926/917

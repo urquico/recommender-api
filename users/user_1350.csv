@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1350,Hannah Chambers,zhansen@example.org,2025-01-13 22:10:34.628312,2025-01-23 17:06:26.635612,Brownside,Guinea,male,18
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1350,Perry Harris,bakerkristen@example.net,2025-01-18 22:48:44.203018,2025-01-26 09:31:36.447255,Lake Sara,Mozambique,male,38,https://dummyimage.com/754x529

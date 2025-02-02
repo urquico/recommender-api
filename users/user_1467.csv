@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1467,Katherine Jennings,sean52@example.org,2025-01-31 14:34:34.799126,2025-01-30 21:09:19.255493,Bakerland,Afghanistan,female,58
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1467,Susan Snyder,jessica54@example.org,2025-01-01 13:53:17.438212,2025-01-20 15:39:15.617561,North Richard,Colombia,male,58,https://placekitten.com/115/553

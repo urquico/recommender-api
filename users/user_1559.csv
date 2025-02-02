@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1559,Rebecca Fuller,melissalewis@example.org,2025-01-14 08:53:20.574418,2025-01-08 21:39:05.863291,Elizabethfort,North Macedonia,female,27
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1559,Ashley Watson,qmiller@example.com,2025-02-01 23:28:44.503739,2025-01-26 05:25:39.183775,Mathewchester,Barbados,female,80,https://dummyimage.com/906x322

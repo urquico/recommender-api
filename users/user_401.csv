@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-401,Sonia Yoder,sgutierrez@example.org,2025-01-09 13:45:09.971358,2025-01-08 06:27:43.655093,Nelsonfurt,Tunisia,female,52
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+401,Karen Simon,vdavidson@example.net,2025-01-04 10:52:14.306560,2025-01-29 05:18:55.351217,West Patrick,Thailand,male,25,https://dummyimage.com/498x493

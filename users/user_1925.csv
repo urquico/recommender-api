@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1925,Brandon Jones,uperkins@example.net,2025-01-22 19:04:41.505589,2025-01-23 08:46:42.570562,Port Edwinmouth,Jersey,female,50
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1925,Cameron Rodriguez,saraburke@example.com,2025-01-29 02:16:15.135200,2025-02-01 16:57:25.192836,Roberttown,Holy See (Vatican City State),female,69,https://picsum.photos/96/999

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1841,Dawn Cunningham,xmccullough@example.com,2025-01-27 03:49:10.628628,2025-01-07 22:30:16.574061,Port Laurenbury,Kuwait,female,76
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1841,Erik Davis,stacyortega@example.com,2025-01-14 21:04:47.453534,2025-01-12 09:02:48.464808,New Laura,Iran,female,74,https://placekitten.com/238/166

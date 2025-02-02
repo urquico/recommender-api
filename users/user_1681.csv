@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1681,Jessica Walsh,psingleton@example.com,2025-01-25 16:22:51.103312,2025-01-16 19:01:37.639078,Kennethport,Algeria,male,67
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1681,Larry Harris,gparrish@example.com,2025-01-30 03:55:44.831832,2025-01-11 11:13:05.114291,Lake Courtney,American Samoa,male,25,https://placekitten.com/537/949

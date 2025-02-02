@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1985,Timothy Smith,paul32@example.org,2025-01-08 19:48:20.422800,2025-01-28 11:15:55.414947,North Kerrimouth,Saint Martin,male,74
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1985,Melissa Williams,rebekahblackwell@example.org,2025-01-12 05:16:35.921279,2025-01-12 20:40:32.120916,Lake Pamelastad,Poland,male,46,https://picsum.photos/392/159

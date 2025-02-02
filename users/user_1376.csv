@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1376,Stephanie Kim,annaclark@example.org,2025-01-09 12:12:21.156989,2025-02-01 14:27:04.110225,Port Shanebury,Cook Islands,male,77
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1376,Sara Parker,adamshelen@example.net,2025-01-22 06:16:47.374377,2025-01-09 18:47:06.171001,Reginaview,Cocos (Keeling) Islands,male,52,https://dummyimage.com/49x731

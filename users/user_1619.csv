@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1619,Anthony Jones,bmorton@example.org,2025-01-16 17:47:04.840805,2025-01-05 16:52:23.253420,Karaview,Venezuela,male,68
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1619,Keith Morris,suzannesmith@example.net,2025-01-31 02:51:04.320339,2025-01-05 06:34:16.828220,Port Johnmouth,China,female,44,https://placekitten.com/579/174

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-920,Ashley Harrison,valeriejones@example.net,2025-01-18 10:01:59.376645,2025-01-25 21:20:30.636322,South Timothyburgh,Iceland,female,55
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+920,Steve Brown,emma81@example.org,2025-01-29 07:59:42.139257,2025-01-23 19:00:39.679601,North Anthonyshire,Botswana,male,75,https://dummyimage.com/274x826

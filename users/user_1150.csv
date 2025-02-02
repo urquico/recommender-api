@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1150,Daniel Herrera,xjimenez@example.org,2025-01-07 10:23:38.687293,2025-01-21 12:57:21.196490,Williamsborough,Madagascar,male,79
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1150,Julie Griffin,ortizcasey@example.org,2025-01-29 16:25:09.275314,2025-01-22 05:57:03.871542,New Scottbury,Ecuador,female,29,https://picsum.photos/571/94

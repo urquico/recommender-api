@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1568,Robert Wang,schaeferpaul@example.net,2025-01-27 11:07:18.211033,2025-01-15 17:02:21.262324,East Mark,Macao,male,18
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1568,Jennifer Montgomery,amanda58@example.com,2025-02-02 18:17:09.564510,2025-01-31 20:39:07.799069,Dennisburgh,Jordan,female,31,https://placekitten.com/736/289

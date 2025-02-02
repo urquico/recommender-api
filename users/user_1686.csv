@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1686,Robert Gibson,keith17@example.com,2025-01-09 13:35:18.819555,2025-01-16 00:55:35.361792,Edwardville,Sri Lanka,male,56
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1686,Bailey Lopez,rickrodriguez@example.org,2025-01-15 13:31:51.417883,2025-01-30 04:40:50.347409,Port Krististad,Barbados,male,64,https://picsum.photos/139/204

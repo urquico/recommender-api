@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-293,Renee Patterson,vwashington@example.com,2025-01-21 07:06:11.237254,2025-01-15 13:00:22.178718,Port Jennifer,Equatorial Guinea,female,66
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+293,Patty Morales,clarkkelsey@example.com,2025-01-25 18:47:37.220224,2025-01-05 14:41:37.715775,Greenborough,Guernsey,male,63,https://picsum.photos/47/639

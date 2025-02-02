@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-207,Shannon Harrell,rodriguezbrandon@example.com,2025-01-09 13:04:02.262637,2025-01-09 23:41:21.667458,Lake Rachelfort,Panama,female,39
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+207,Jordan Ryan,francesray@example.net,2025-01-30 10:36:26.547283,2025-01-07 04:11:07.836486,Sheltontown,Costa Rica,male,40,https://dummyimage.com/843x346

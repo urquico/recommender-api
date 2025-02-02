@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1129,Thomas Hall,vsmith@example.net,2025-01-12 16:03:33.275525,2025-01-24 14:46:36.241397,Mosesberg,Saint Kitts and Nevis,female,41
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1129,Carlos Smith,peterchapman@example.net,2025-01-16 23:05:58.578566,2025-01-08 21:30:13.561884,New Alisha,Austria,female,77,https://placekitten.com/208/989

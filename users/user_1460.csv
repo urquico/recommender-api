@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1460,Daniel Barry,elopez@example.net,2025-01-24 03:13:14.024849,2025-01-31 11:23:22.110390,Lake Victoria,Micronesia,male,59
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1460,Michael Powell,duncankevin@example.org,2025-01-30 16:17:19.985190,2025-01-24 04:12:40.000104,West Michelle,Bulgaria,female,25,https://picsum.photos/158/807

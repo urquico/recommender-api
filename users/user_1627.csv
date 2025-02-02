@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1627,Jacob Collins DVM,sheila24@example.com,2025-01-11 21:07:14.075185,2025-01-15 10:29:12.253546,North Julieville,Colombia,male,52
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1627,Margaret Morales,nsanders@example.org,2025-01-14 14:12:01.296747,2025-01-06 05:55:03.873832,New Brian,Algeria,male,70,https://dummyimage.com/785x344

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-507,Laura Rodriguez,gallowayalexander@example.net,2025-01-25 02:06:27.551668,2025-01-03 11:44:36.852782,Annetteton,Northern Mariana Islands,female,63
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+507,Stacey Armstrong,geraldmcmahon@example.org,2025-02-02 11:00:14.623204,2025-01-11 22:23:42.305494,West Mark,Bolivia,male,31,https://placekitten.com/369/559

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1539,Nancy Johnson,denisefrye@example.org,2025-01-24 22:17:31.807780,2025-01-09 02:18:07.361567,South Denise,Turkmenistan,female,72
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1539,David Beltran,donaldcline@example.net,2025-02-01 14:35:43.550751,2025-01-27 10:24:55.118724,New Arthurberg,China,female,63,https://placekitten.com/130/297

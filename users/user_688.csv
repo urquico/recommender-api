@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-688,Wesley Jackson,christina80@example.net,2025-01-26 07:14:00.708378,2025-01-15 11:50:48.207941,Port Jasmineshire,North Macedonia,male,67
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+688,Maria Moore,courtney72@example.com,2025-01-09 11:22:22.662816,2025-01-15 23:28:39.965942,Clarkfort,Yemen,female,27,https://picsum.photos/171/499

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1343,Kristy Smith,nlopez@example.com,2025-01-15 04:59:23.821402,2025-01-01 15:32:08.264308,Kellyberg,Chad,female,46
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1343,April Hale,mhudson@example.org,2025-01-22 13:37:12.531573,2025-01-28 03:38:52.376632,Tammystad,Malawi,male,78,https://picsum.photos/514/531

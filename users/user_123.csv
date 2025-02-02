@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-123,Paul Williams,lramsey@example.org,2025-01-09 15:36:47.915245,2025-01-06 03:45:25.801098,Lake Timothy,Pakistan,male,41
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+123,Kyle Smith,victor94@example.net,2025-01-22 00:58:28.573829,2025-01-10 00:34:31.162242,Kingbury,Panama,male,47,https://dummyimage.com/127x749

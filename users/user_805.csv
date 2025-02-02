@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-805,Nicholas Ortega,opacheco@example.com,2025-01-24 21:55:16.779695,2025-01-13 23:43:43.648877,Robertport,Norfolk Island,female,47
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+805,Edward Gibson,stephaniemeyers@example.com,2025-01-21 01:52:28.426649,2025-01-09 14:55:17.098078,West Christophertown,Qatar,male,40,https://placekitten.com/883/567

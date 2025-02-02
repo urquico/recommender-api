@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-265,Robert Howard,alexanderjames@example.com,2025-01-21 04:12:09.292906,2025-01-24 00:33:28.313864,Pachecoland,Bahrain,female,22
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+265,Ernest Forbes III,andrew11@example.com,2025-01-01 11:49:41.126625,2025-01-21 19:21:31.674680,Brightmouth,Moldova,male,79,https://dummyimage.com/578x511

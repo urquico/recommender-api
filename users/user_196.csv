@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-196,Stephen Baldwin,christensenfrank@example.org,2025-01-03 18:52:47.086693,2025-01-26 06:11:16.362106,Port Matthew,Saint Barthelemy,male,60
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+196,Amber Torres,christopher59@example.net,2025-02-01 15:51:04.851625,2025-01-09 01:01:02.430684,Lake Sean,Burkina Faso,female,62,https://dummyimage.com/447x357

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-399,Dustin Baldwin,jason25@example.net,2025-02-02 08:14:40.956103,2025-01-14 03:26:37.782058,Kellyville,Belarus,female,48
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+399,Barbara Powers,penakristin@example.org,2025-02-01 17:17:59.010485,2025-01-16 19:35:41.512022,Millerside,Jordan,female,76,https://placekitten.com/574/616

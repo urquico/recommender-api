@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1369,Lisa Juarez,sanchezjulia@example.org,2025-01-21 14:21:50.645827,2025-01-23 10:26:03.562608,West Kristinbury,Switzerland,female,64
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1369,Sylvia Reed,khunt@example.com,2025-01-01 08:38:29.943100,2025-01-31 21:02:46.613227,Keithmouth,Bangladesh,male,43,https://placekitten.com/593/972

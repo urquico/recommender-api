@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1383,Ryan Perez,oneillmadeline@example.com,2025-01-05 23:54:43.593894,2025-01-08 17:02:12.369713,East James,Spain,female,75
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1383,Allison Patel,nicole54@example.org,2025-01-01 17:40:57.631220,2025-01-22 08:07:09.825807,Gregoryfort,Cote d'Ivoire,female,45,https://dummyimage.com/1005x574

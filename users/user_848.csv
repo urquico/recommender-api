@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-848,Mrs. Patty Johnson,timothy30@example.net,2025-01-01 05:02:24.832685,2025-01-15 20:19:52.134203,Smithstad,Lithuania,male,72
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+848,Alexander Aguilar,bakersusan@example.com,2025-01-15 14:31:37.631383,2025-01-12 01:22:07.769710,West Michaelburgh,Mauritania,female,24,https://dummyimage.com/8x181

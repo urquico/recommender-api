@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2017,Calvin Bradshaw Jr.,cynthia62@example.org,2025-01-08 13:52:56.595220,2025-01-24 12:06:23.455965,Christophermouth,Angola,male,20
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2017,Jacob Scott,tiffany78@example.com,2025-01-09 17:08:07.993022,2025-01-27 23:44:37.538900,New Johnborough,Oman,male,21,https://picsum.photos/875/395

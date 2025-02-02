@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1636,Joshua Riley,davislauren@example.net,2025-01-02 19:27:27.208225,2025-01-05 15:59:16.071347,Brownbury,Saint Pierre and Miquelon,male,29
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1636,Jacob Ryan,mark95@example.com,2025-01-25 15:39:15.036272,2025-01-03 23:12:56.588049,West Stephanie,Jersey,female,72,https://dummyimage.com/138x517

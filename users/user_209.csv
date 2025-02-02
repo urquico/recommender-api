@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-209,Rachel Sanders,kaylahart@example.com,2025-01-28 20:48:11.217267,2025-01-04 19:15:19.664265,West Angel,Turkey,male,75
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+209,Joseph Johnston,theresa58@example.net,2025-01-28 16:39:15.274471,2025-01-01 10:52:17.669976,West Micheal,Turkey,female,44,https://dummyimage.com/27x528

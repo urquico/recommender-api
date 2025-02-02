@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1012,Tara Haley,matthewnichols@example.com,2025-01-12 22:11:38.335880,2025-01-19 07:08:24.068521,Michaelmouth,New Caledonia,female,25
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1012,Steven Rodriguez,evansbrett@example.net,2025-01-17 12:21:07.485943,2025-01-26 00:09:42.100251,Sanchezside,Nigeria,male,30,https://placekitten.com/717/585

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1134,Zachary Davis,james15@example.org,2025-01-07 06:39:16.681926,2025-02-02 12:01:01.656518,South Alishachester,Lao People's Democratic Republic,female,38
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1134,Lauren Mitchell,mckinneyalyssa@example.org,2025-01-05 15:12:09.349723,2025-01-30 07:17:58.121999,Port Andrea,Liberia,female,27,https://placekitten.com/492/943

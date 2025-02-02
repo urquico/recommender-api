@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-897,Jennifer Knox,tinabrown@example.net,2025-01-26 16:22:12.871183,2025-01-03 01:52:37.838154,South Debraside,Pitcairn Islands,female,42
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+897,Bobby Foley,hbass@example.org,2025-01-02 10:27:09.874707,2025-01-14 07:33:25.019784,North Amandaton,Guinea,male,19,https://picsum.photos/860/575

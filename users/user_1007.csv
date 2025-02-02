@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1007,Kevin Sheppard,lori18@example.com,2025-02-01 12:01:48.641324,2025-01-23 21:31:45.654588,Cameronfort,Finland,male,79
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1007,Angel Barajas,ohorn@example.com,2025-01-04 08:27:35.629152,2025-01-11 06:51:05.638219,Henryview,Nepal,female,37,https://picsum.photos/56/84

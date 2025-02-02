@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-862,Melissa Lee,amber35@example.com,2025-01-04 15:54:28.616650,2025-01-26 10:14:35.854615,Robinsonbury,Philippines,male,50
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+862,Allison Walker,gyoung@example.org,2025-01-11 02:33:07.544811,2025-01-04 21:41:56.100540,South Markchester,Macao,female,41,https://dummyimage.com/786x239

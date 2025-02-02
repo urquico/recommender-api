@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-765,John Eaton,russellparker@example.com,2025-01-19 00:39:39.850250,2025-01-14 22:38:27.981978,Madelineview,Gibraltar,female,29
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+765,Bonnie Smith,garciateresa@example.com,2025-01-27 23:13:29.058944,2025-01-14 17:16:16.998988,Port Jessicaport,India,male,21,https://picsum.photos/478/441

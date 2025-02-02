@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1249,Mark Davenport,thudson@example.com,2025-01-12 06:23:15.834596,2025-01-14 15:43:31.235480,Daniellebury,Bolivia,male,56
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1249,Brenda Oneill,bflores@example.org,2025-01-18 23:22:07.257941,2025-01-15 14:54:10.810172,Raymondmouth,Saint Helena,male,56,https://dummyimage.com/426x690

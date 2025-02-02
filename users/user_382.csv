@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-382,Aaron Miranda,mary58@example.net,2025-01-24 18:34:08.584873,2025-02-01 16:05:35.587967,New Nicoleport,Iceland,female,65
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+382,Mrs. Tiffany Smith MD,burnettshirley@example.org,2025-01-05 23:10:33.217964,2025-01-26 18:02:38.174103,Roseland,Lithuania,female,38,https://picsum.photos/283/715

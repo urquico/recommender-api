@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-577,Jennifer Mcdaniel,erinkidd@example.com,2025-01-19 03:26:45.221581,2025-01-09 23:58:44.475631,East Karen,Grenada,male,58
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+577,Stephanie Johnson,longjoanna@example.com,2025-01-15 09:03:12.703999,2025-01-19 15:08:31.789253,New Richard,Finland,male,19,https://picsum.photos/661/700

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1173,Breanna Hanson,zlee@example.com,2025-01-26 01:19:14.599622,2025-01-07 17:23:55.309257,Matamouth,Sao Tome and Principe,female,40
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1173,Kimberly Lopez,shortcatherine@example.net,2025-01-01 04:41:39.374557,2025-01-02 14:32:09.711461,Smithton,Azerbaijan,male,38,https://placekitten.com/223/782

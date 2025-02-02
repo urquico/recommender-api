@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1674,Rebecca Andrews,kayla02@example.org,2025-01-12 17:35:15.661233,2025-01-10 21:14:18.071624,Port Lindsaymouth,Tonga,male,69
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1674,Stephen Carlson,bhall@example.net,2025-01-02 13:11:37.242567,2025-01-23 00:35:59.543596,Lake Joycechester,Netherlands Antilles,male,41,https://dummyimage.com/962x166

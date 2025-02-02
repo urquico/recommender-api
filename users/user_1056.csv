@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1056,Javier Castro,timwashington@example.com,2025-01-31 03:16:15.730705,2025-01-25 02:30:33.341637,South Keith,Heard Island and McDonald Islands,male,40
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1056,Virginia Anderson,hallmelissa@example.org,2025-01-02 10:45:22.202397,2025-01-13 11:13:48.826955,Markport,Guernsey,male,48,https://dummyimage.com/326x139

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1138,Johnny Ray,amy42@example.org,2025-01-07 08:26:19.561245,2025-01-16 22:55:14.944533,South Christopher,Gabon,male,45
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1138,Christopher Wheeler,schmidtvirginia@example.net,2025-01-30 04:59:10.758602,2025-02-02 05:23:28.315001,East Zachary,Monaco,male,33,https://picsum.photos/234/582

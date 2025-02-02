@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1612,Nicholas Campbell,vaughnnicholas@example.com,2025-01-30 12:33:52.509143,2025-01-14 20:26:46.120462,East Justin,Korea,female,50
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1612,Megan Bauer,fdixon@example.com,2025-01-07 08:50:37.083747,2025-01-17 11:25:02.864741,Port Terri,Bosnia and Herzegovina,female,33,https://picsum.photos/630/65

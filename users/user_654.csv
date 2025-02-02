@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-654,Matthew Walton,juan20@example.com,2025-02-01 11:49:35.311598,2025-02-01 15:32:05.148530,New Jamesmouth,Eritrea,female,21
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+654,April Serrano,jeremiahgreen@example.net,2025-01-25 13:26:53.789984,2025-01-26 06:07:38.374571,Arianashire,San Marino,male,54,https://dummyimage.com/903x475

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-590,Kelly Bell,hayesamy@example.net,2025-01-18 00:25:59.197095,2025-01-01 02:15:53.519580,Lake Sherrifurt,Liechtenstein,female,41
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+590,Rachel Clark,heatherlee@example.net,2025-01-20 20:00:13.390192,2025-01-28 02:48:24.350694,Jeffmouth,Russian Federation,female,30,https://placekitten.com/625/336

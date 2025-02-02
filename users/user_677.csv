@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-677,Mary Watkins,thicks@example.net,2025-01-20 00:58:15.249376,2025-02-01 04:18:43.170249,South Jenniferside,Switzerland,male,32
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+677,Matthew Hughes,blackwellsierra@example.com,2025-01-12 04:50:18.130017,2025-01-03 12:21:02.858675,New Natalie,Cook Islands,male,27,https://placekitten.com/806/483

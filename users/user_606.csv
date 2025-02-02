@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-606,Marissa Cobb,ayerslisa@example.com,2025-01-29 01:34:49.801957,2025-01-23 13:46:43.616846,East Kathy,Gibraltar,female,72
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+606,Kevin Kennedy,bkennedy@example.com,2025-01-31 05:57:31.157395,2025-01-17 06:06:38.017813,Matthewfurt,Finland,male,37,https://dummyimage.com/681x228

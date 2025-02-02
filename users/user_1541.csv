@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1541,Taylor Hill,iwatts@example.org,2025-01-24 19:02:38.005463,2025-01-09 02:24:17.164283,East Jamie,Qatar,male,62
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1541,Michael Miller,melissa63@example.net,2025-01-28 14:41:33.397934,2025-01-23 17:50:07.866492,West Michael,Qatar,male,73,https://dummyimage.com/305x313

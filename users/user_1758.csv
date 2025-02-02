@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1758,David Freeman,yolanda24@example.net,2025-01-21 14:06:28.858299,2025-01-26 22:39:32.739928,West Lindatown,Micronesia,male,70
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1758,Jordan Rivera,frazierdavid@example.net,2025-01-02 10:53:14.778537,2025-01-07 10:04:43.369526,Lindseybury,North Macedonia,female,56,https://picsum.photos/112/849

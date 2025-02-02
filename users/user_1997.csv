@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1997,Devin Horton,smithmaria@example.com,2025-01-15 19:17:30.232729,2025-01-06 14:37:30.262507,Monicastad,Mexico,female,35
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1997,Michael Simpson,kimberlyruiz@example.org,2025-01-15 05:49:06.246288,2025-01-06 01:03:06.675162,Jeremyborough,Switzerland,female,49,https://dummyimage.com/214x698

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-363,Kristi Long,danielmassey@example.com,2025-01-09 22:42:16.282026,2025-02-01 10:36:47.655492,Port Andre,Sao Tome and Principe,male,69
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+363,Peggy Rivera,robert32@example.net,2025-01-12 14:02:32.805081,2025-01-14 05:04:17.269010,New Sharonberg,Cocos (Keeling) Islands,female,43,https://picsum.photos/586/521

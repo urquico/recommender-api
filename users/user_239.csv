@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-239,Christian Smith,yedwards@example.com,2025-01-08 10:10:27.052635,2025-01-11 15:07:52.688164,New Denise,Bhutan,male,27
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+239,Antonio Trevino,hbrown@example.org,2025-01-11 11:25:57.016922,2025-01-30 14:07:20.859377,North Jonathanhaven,Turkey,female,28,https://dummyimage.com/655x755

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1679,Andrew Moore,xmartin@example.net,2025-01-07 13:58:05.653506,2025-01-16 20:51:19.353349,Spencerbury,Liechtenstein,female,37
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1679,Ronald Arellano,hartdorothy@example.net,2025-01-25 01:28:26.945689,2025-01-07 06:49:36.375579,Lake Joshuachester,Guyana,male,43,https://dummyimage.com/111x406

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-905,Leah Hill,david82@example.org,2025-01-12 18:52:02.386609,2025-01-13 01:03:55.491073,Dunnland,Zambia,male,22
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+905,Haley Meyer,kristina16@example.org,2025-01-10 02:13:32.652254,2025-01-30 01:41:47.370752,New Shaun,Albania,male,46,https://picsum.photos/666/566

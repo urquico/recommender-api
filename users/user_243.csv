@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-243,Adam Ford,mhester@example.org,2025-01-04 16:34:48.330305,2025-01-18 12:52:04.963289,Odomchester,Kazakhstan,male,21
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+243,Lisa Carson,deborahjohnson@example.com,2025-01-03 06:32:51.168136,2025-01-16 11:57:13.835619,Campbellburgh,Cuba,female,57,https://placekitten.com/963/477

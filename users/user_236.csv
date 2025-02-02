@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-236,Kenneth Ingram,gutierrezjessica@example.org,2025-01-17 04:13:20.877976,2025-01-12 20:26:12.855542,Lake Debraberg,Taiwan,male,70
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+236,Michael Chang,michaeldaugherty@example.net,2025-01-16 13:47:42.123601,2025-01-24 15:45:12.103713,South Maryborough,Croatia,male,33,https://dummyimage.com/848x659

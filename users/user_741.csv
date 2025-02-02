@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-741,Mrs. Sarah Yang,barbaramedina@example.net,2025-01-27 23:32:28.555429,2025-01-02 06:17:55.052357,New Jonathan,Congo,female,26
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+741,Gregory Burke,wrightjennifer@example.org,2025-01-24 13:26:11.840003,2025-01-17 12:25:44.630443,West Toniland,Turks and Caicos Islands,female,56,https://dummyimage.com/403x508

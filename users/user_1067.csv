@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1067,Brittany Murray,parkertara@example.net,2025-01-05 21:02:33.805383,2025-01-01 13:21:17.410834,Elizabethmouth,Kuwait,male,44
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1067,Gary Blake,gregory60@example.org,2025-01-22 13:26:04.891623,2025-01-11 02:41:24.213299,Jessemouth,Timor-Leste,male,53,https://dummyimage.com/624x689

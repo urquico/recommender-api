@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1340,Meagan Walsh,kimberlysnyder@example.org,2025-01-21 03:29:02.880959,2025-01-10 21:36:16.509758,Justinchester,Somalia,male,54
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1340,Edward Goodman,julie11@example.org,2025-01-28 05:08:11.777935,2025-01-30 08:54:53.492507,Jamiebury,French Guiana,male,80,https://placekitten.com/796/607

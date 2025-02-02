@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1806,Devon Sims,johnsoncynthia@example.net,2025-01-11 13:00:01.081686,2025-01-14 21:13:38.525419,North Ellenville,Saint Vincent and the Grenadines,female,67
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1806,Theresa Valdez,plam@example.org,2025-02-02 02:09:04.558410,2025-01-22 07:31:37.268104,Nguyenchester,Jersey,male,39,https://picsum.photos/71/117

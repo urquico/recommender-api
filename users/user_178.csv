@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-178,Bradley Hopkins,jessicamoreno@example.net,2025-01-22 08:01:37.099815,2025-01-19 22:32:24.292651,South Brandon,Cyprus,male,18
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+178,William Keller,kentduran@example.com,2025-01-10 13:45:07.519497,2025-01-05 05:12:22.035629,South Nicholasmouth,Canada,male,77,https://placekitten.com/474/800

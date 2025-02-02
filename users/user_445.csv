@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-445,Christina Francis,jmeyers@example.org,2025-01-19 20:41:27.892271,2025-01-21 04:03:49.803177,North Peggy,Greece,female,34
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+445,William Heath,michaelburnett@example.org,2025-01-09 02:23:10.740963,2025-01-26 14:39:12.442327,Lake Marcusshire,Singapore,male,49,https://placekitten.com/825/945

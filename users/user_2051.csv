@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2051,Jennifer Baker,reyesmichael@example.com,2025-01-23 13:58:58.910958,2025-01-30 09:45:00.817292,Jonathanmouth,Guinea-Bissau,female,21
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2051,Daniel Wells,vincentanthony@example.org,2025-01-28 07:29:53.521072,2025-01-18 04:28:00.720716,Lake Patty,Mali,male,61,https://dummyimage.com/937x351

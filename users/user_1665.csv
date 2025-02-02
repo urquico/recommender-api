@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1665,Devin Rodriguez,markcastillo@example.com,2025-01-04 09:59:22.772996,2025-01-04 21:14:49.319678,Port Wendyland,Haiti,female,32
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1665,Aaron Hess,reeddaniel@example.org,2025-01-23 08:32:56.310801,2025-01-20 13:05:16.662279,North Traceyborough,Senegal,male,66,https://dummyimage.com/117x258

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-512,Michelle Ballard MD,hernandeztodd@example.com,2025-01-07 15:59:00.051667,2025-01-10 20:22:30.029160,Christinefurt,Kiribati,female,18
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+512,Karen Brown,awilliams@example.com,2025-01-21 01:13:30.665117,2025-01-02 03:10:43.656965,North Gerald,Burkina Faso,female,40,https://dummyimage.com/253x86

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1911,Wendy Cardenas,rachel86@example.com,2025-01-06 05:14:33.684624,2025-01-16 20:17:24.381607,Lake Valerie,Iraq,female,67
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1911,Mrs. Amanda Adams,stephen81@example.com,2025-02-01 15:52:01.846228,2025-01-05 17:26:42.597414,North Timothy,Cayman Islands,female,53,https://placekitten.com/902/107

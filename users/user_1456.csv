@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1456,Cathy Potter,tyler89@example.net,2025-01-05 10:21:24.761698,2025-01-09 01:15:54.023134,New Edwardport,Tuvalu,female,71
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1456,Paul York,jennifer12@example.net,2025-01-09 05:41:20.623543,2025-01-14 16:22:15.606452,Port Jeremyview,Liechtenstein,male,50,https://placekitten.com/95/633

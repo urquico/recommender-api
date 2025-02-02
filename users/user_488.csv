@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-488,Paula Jones,ccoleman@example.org,2025-01-21 04:05:02.893133,2025-01-03 09:40:15.347672,North Timothy,Holy See (Vatican City State),male,33
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+488,Frank Kirby,woodkim@example.com,2025-01-08 04:30:22.173156,2025-01-02 08:06:17.332116,Shannonshire,Cook Islands,male,50,https://picsum.photos/452/1018

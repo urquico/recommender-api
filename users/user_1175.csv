@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1175,Thomas Young,langedward@example.com,2025-01-16 09:52:30.902789,2025-01-27 18:10:41.220515,Lake Jessica,Palestinian Territory,male,47
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1175,Edward Schmidt,medinaaudrey@example.net,2025-01-11 23:38:11.299041,2025-01-21 00:19:27.445253,Robertton,Anguilla,male,40,https://dummyimage.com/750x894

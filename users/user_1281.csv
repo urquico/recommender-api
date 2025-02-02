@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1281,Allison Lloyd,robertlane@example.net,2025-01-14 11:32:46.178950,2025-01-22 10:21:39.173213,Amystad,Morocco,male,48
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1281,Sarah Holland DDS,wlittle@example.net,2025-01-13 01:36:15.529774,2025-01-25 18:09:07.301890,Lake Hollyton,Cambodia,female,55,https://picsum.photos/594/225

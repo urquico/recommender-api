@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1220,Tiffany Chavez,smithcathy@example.net,2025-01-13 14:14:32.130011,2025-01-19 13:10:51.957769,Lake Bob,Saint Pierre and Miquelon,male,61
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1220,John Garza,judithwilliams@example.net,2025-01-30 16:29:19.557724,2025-01-11 17:10:12.979710,Bowersbury,Dominican Republic,female,71,https://placekitten.com/420/348

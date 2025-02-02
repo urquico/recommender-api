@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1243,Linda Wilson,brooksmichelle@example.net,2025-01-12 09:29:14.404610,2025-01-26 07:09:09.776252,South Laura,Niue,female,46
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1243,Steven Cox,christopherfletcher@example.com,2025-01-02 11:55:09.086578,2025-01-18 19:56:36.097898,East Kimberlyville,Vanuatu,male,36,https://dummyimage.com/694x562

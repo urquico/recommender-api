@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1628,Alyssa Moore,beckyrusso@example.com,2025-01-16 11:36:41.168143,2025-01-09 23:55:55.935155,Angelatown,Lithuania,male,46
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1628,Heather May,johnsondawn@example.org,2025-01-04 18:39:21.477392,2025-01-30 23:33:10.659738,Elizabethshire,Belarus,female,19,https://dummyimage.com/320x353

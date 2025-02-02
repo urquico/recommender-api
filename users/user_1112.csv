@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1112,Sandra Perry,radams@example.org,2025-01-25 09:25:40.377523,2025-01-01 20:37:18.034702,North Chelsealand,Sri Lanka,male,79
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1112,Gina Rowe,natasha19@example.org,2025-01-19 07:04:49.883793,2025-01-26 22:41:56.180444,Chelseamouth,Belarus,female,31,https://dummyimage.com/358x90

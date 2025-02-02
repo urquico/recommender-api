@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1774,Colleen Jones,marchuynh@example.net,2025-01-28 23:12:10.350491,2025-01-25 13:43:56.584701,Port Vincentshire,Bermuda,female,72
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1774,Ruth Morrow,frederickdiaz@example.org,2025-01-09 15:41:52.517936,2025-01-18 19:14:24.812496,West Ronaldburgh,Montserrat,male,23,https://placekitten.com/488/841

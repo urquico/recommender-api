@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1704,Larry Owens,andersonjeremiah@example.com,2025-01-06 04:56:57.132460,2025-01-16 12:30:27.561458,Huffmanstad,Seychelles,male,72
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1704,Brianna Schwartz,jonesjoseph@example.org,2025-01-10 12:37:17.678435,2025-01-27 18:42:18.238577,Jessestad,Norway,male,52,https://picsum.photos/183/972

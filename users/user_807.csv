@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-807,Linda Bradford MD,laurie75@example.org,2025-01-26 15:48:00.222651,2025-01-21 01:20:44.409060,Port Lindatown,Vietnam,female,71
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+807,Sabrina Anderson,nicolecooper@example.org,2025-01-12 13:32:30.498330,2025-01-31 04:16:19.450235,East Robert,Micronesia,male,20,https://picsum.photos/558/649

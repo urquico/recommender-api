@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-453,John Palmer,robertsangela@example.net,2025-01-15 17:00:42.949153,2025-01-18 20:36:23.418666,Williamsland,Taiwan,female,22
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+453,Mary Johnson,reynoldsbryan@example.org,2025-01-08 10:07:07.043077,2025-01-18 06:10:48.797352,New Logan,Gambia,male,29,https://placekitten.com/306/819

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-519,Elizabeth Jackson,susanfox@example.net,2025-02-02 01:49:50.896008,2025-01-04 19:14:32.720006,Brookefurt,Heard Island and McDonald Islands,male,75
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+519,Gary Huang,josephmiller@example.org,2025-01-04 15:43:51.591004,2025-01-12 03:01:25.128068,Dawntown,Swaziland,female,34,https://placekitten.com/584/274

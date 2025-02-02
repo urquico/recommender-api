@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1762,Susan Thompson,robinsoncaroline@example.org,2025-01-20 22:37:20.039188,2025-01-29 22:40:30.675890,Lake Blake,Singapore,male,74
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1762,Steven Harmon,cliffordwilliams@example.com,2025-01-10 10:54:02.541561,2025-01-27 09:35:52.346015,Walterstown,Norfolk Island,male,62,https://placekitten.com/897/203

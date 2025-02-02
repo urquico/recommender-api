@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1306,Phillip Blevins,butlerpeter@example.org,2025-01-28 00:18:04.518647,2025-01-14 05:54:20.124737,Jasonchester,Luxembourg,female,72
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1306,Michelle Nash,thomasdustin@example.org,2025-01-01 14:25:44.136427,2025-01-10 15:15:28.941866,North Wandamouth,Paraguay,female,75,https://picsum.photos/147/248

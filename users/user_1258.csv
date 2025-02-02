@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1258,Carla Norris,mitchellmartin@example.net,2025-01-05 23:17:44.489148,2025-01-18 09:39:41.336975,East Shannonstad,Montenegro,male,54
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1258,Dr. Alyssa Daniels,ksnow@example.org,2025-01-30 02:32:53.949665,2025-01-04 09:53:19.907802,New Craig,United States of America,female,39,https://picsum.photos/907/138

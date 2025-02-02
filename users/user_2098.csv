@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2098,Justin Thomas,thompsonstephanie@example.org,2025-01-27 06:40:00.526394,2025-01-13 15:32:20.426600,West Brianbury,Zimbabwe,male,65
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2098,Stefanie Douglas,douglasjimenez@example.org,2025-01-15 09:52:08.176143,2025-01-14 08:20:03.478129,Finleyside,Australia,female,53,https://picsum.photos/780/782

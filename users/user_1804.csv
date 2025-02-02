@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1804,William Perez,iortiz@example.org,2025-01-12 09:10:39.107809,2025-02-01 20:25:20.712574,Christybury,Lebanon,female,36
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1804,Sandra Tran,jeffrey41@example.org,2025-01-18 04:03:17.439600,2025-01-08 15:56:20.252916,East Nancy,Palau,male,69,https://placekitten.com/5/170

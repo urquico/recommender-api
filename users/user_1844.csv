@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1844,Taylor Finley,vrowland@example.net,2025-01-09 15:15:46.626910,2025-01-01 19:18:05.810961,Tiffanyfort,Bosnia and Herzegovina,female,79
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1844,Cynthia Terry,bjohnson@example.net,2025-01-21 13:53:01.678567,2025-01-05 10:19:29.316121,Lake Williammouth,Singapore,male,22,https://placekitten.com/486/632

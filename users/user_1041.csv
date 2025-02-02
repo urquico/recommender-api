@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1041,Danielle Gonzalez,jessica70@example.com,2025-01-27 01:50:07.986965,2025-01-14 08:23:38.492825,West Amy,Cameroon,female,69
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1041,Jessica Leach,hardingkatelyn@example.org,2025-01-24 05:22:35.862992,2025-01-11 03:24:15.695435,Jimmyport,Turkey,male,20,https://dummyimage.com/54x289

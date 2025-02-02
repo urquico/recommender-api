@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-757,Wesley Chen,mcgeenicole@example.net,2025-01-18 13:55:58.659577,2025-01-06 23:17:54.877729,Lauraside,Zimbabwe,male,20
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+757,Richard Anderson,howardvincent@example.com,2025-01-29 19:16:31.510877,2025-01-18 06:52:18.212746,Melaniehaven,Myanmar,male,79,https://picsum.photos/114/831

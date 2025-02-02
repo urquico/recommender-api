@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1594,Chad Carter,guzmanrobert@example.net,2025-01-31 16:39:35.163660,2025-02-02 17:20:15.025152,Geoffreychester,Peru,female,34
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1594,Kevin Ramos,thompsonjamie@example.org,2025-02-01 04:33:16.935069,2025-01-29 01:00:15.865354,East Kristimouth,Tonga,male,76,https://dummyimage.com/747x573

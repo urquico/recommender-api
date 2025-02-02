@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-728,Steve Gray,lorismith@example.com,2025-01-15 00:33:57.405806,2025-01-08 00:04:48.004678,New Lisa,Lithuania,male,28
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+728,Jacob Bell,kingsandra@example.org,2025-01-31 11:07:11.848360,2025-01-07 12:24:30.898585,West Scott,United States Minor Outlying Islands,female,41,https://picsum.photos/832/519

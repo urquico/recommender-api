@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-487,Alex James,aaronsummers@example.net,2025-01-11 21:28:53.916197,2025-01-24 06:11:49.498687,Charlesport,Italy,female,69
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+487,Don Perry,shannonhawkins@example.net,2025-01-18 06:49:33.254239,2025-01-22 05:53:00.899120,Benjaminport,British Indian Ocean Territory (Chagos Archipelago),male,74,https://dummyimage.com/413x61

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1176,Michael Gomez,coxjohnny@example.net,2025-01-13 19:30:50.906219,2025-01-03 01:14:19.126340,Port Johntown,Nauru,male,43
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1176,Richard Moore,medinajason@example.org,2025-01-05 18:18:00.104899,2025-01-16 02:09:24.680106,Valeriechester,Iceland,female,77,https://placekitten.com/379/911

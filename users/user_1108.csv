@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1108,Herbert Walker,anelson@example.net,2025-01-27 16:25:21.122908,2025-02-02 19:51:14.361917,New Cynthia,Mauritania,male,68
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1108,Kristie Ross,mark18@example.org,2025-01-21 17:47:24.774059,2025-01-14 22:37:44.888203,Garyville,Reunion,female,35,https://picsum.photos/307/435

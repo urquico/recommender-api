@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1521,Dennis Morales,howemelinda@example.com,2025-01-03 17:54:53.592126,2025-01-09 06:47:42.612015,North Paulaberg,Congo,male,64
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1521,Nicole Cardenas,gjohnson@example.org,2025-01-04 16:42:57.535713,2025-01-23 10:11:35.978705,Margaretview,Australia,female,62,https://placekitten.com/583/537

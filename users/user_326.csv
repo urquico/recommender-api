@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-326,Jason Brown,sdiaz@example.net,2025-01-30 07:49:20.571598,2025-01-28 13:16:48.817443,West Jeffery,Cyprus,male,56
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+326,Traci Brown,transteven@example.org,2025-01-29 01:12:19.483755,2025-01-04 23:26:32.058478,East Amymouth,Cook Islands,female,33,https://dummyimage.com/805x445

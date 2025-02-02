@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1608,Jeffrey Bell,combsjoseph@example.org,2025-01-21 08:11:46.910996,2025-01-31 20:05:41.051508,North Davidburgh,Brunei Darussalam,male,54
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1608,Lori Villarreal,katiepierce@example.net,2025-01-27 15:17:30.207899,2025-01-18 17:35:34.004409,Joseborough,Brunei Darussalam,male,22,https://dummyimage.com/498x521

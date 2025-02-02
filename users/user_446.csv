@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-446,Joanna Rice,mlewis@example.com,2025-01-01 10:04:40.570781,2025-01-09 16:36:57.077334,Bauerhaven,Venezuela,female,58
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+446,Tommy Benjamin,geraldbaker@example.com,2025-01-09 00:35:23.591361,2025-01-18 11:15:00.535776,Longberg,Tokelau,female,40,https://picsum.photos/79/637

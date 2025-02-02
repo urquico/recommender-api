@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-578,Alejandro Case,carterabigail@example.net,2025-01-03 01:38:28.420980,2025-02-02 17:40:48.112499,Jonesstad,Croatia,male,71
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+578,Ronald Wood,cdavis@example.net,2025-01-14 23:47:19.298932,2025-01-16 10:07:22.936241,Lake Patriciachester,Dominica,female,32,https://placekitten.com/340/369

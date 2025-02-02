@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-339,Stephen Williams,zachary30@example.com,2025-01-19 22:05:51.309939,2025-01-23 00:16:00.036999,Olsonmouth,Guam,male,71
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+339,Jennifer Quinn,williamoconnor@example.net,2025-01-30 11:37:36.551124,2025-01-31 22:09:48.664556,Sandraport,Malawi,male,28,https://dummyimage.com/369x12

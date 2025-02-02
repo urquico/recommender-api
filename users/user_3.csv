@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-3,Candace Miller,grayashley@example.org,2025-01-20 09:30:21.005511,2025-02-02 11:22:20.230979,New Noah,Christmas Island,male,23
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+3,Christopher Mays,oritter@example.org,2025-01-29 04:51:12.424974,2025-01-29 08:12:48.356896,North April,Denmark,male,54,https://placekitten.com/9/507

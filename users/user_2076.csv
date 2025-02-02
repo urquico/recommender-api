@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2076,Brandon Johnson,tterry@example.org,2025-01-04 21:13:38.826727,2025-01-14 14:11:33.986733,Hartport,Mongolia,male,39
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2076,Deanna Reid,johnsherman@example.org,2025-02-02 16:11:52.046294,2025-01-25 03:56:06.930641,Travistown,Zimbabwe,male,77,https://dummyimage.com/58x649

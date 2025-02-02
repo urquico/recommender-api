@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-809,Angela Palmer,foxmelissa@example.com,2025-01-18 22:08:22.552156,2025-01-11 13:47:31.189420,Lake Thomas,Venezuela,female,75
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+809,James Hansen,jasoncastro@example.com,2025-01-13 20:54:31.864045,2025-01-05 07:49:57.169610,Port John,Kenya,female,55,https://dummyimage.com/990x581

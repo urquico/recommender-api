@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1196,Hannah Huang,ericaarmstrong@example.net,2025-01-15 02:28:56.716076,2025-01-15 15:02:21.293713,Brownbury,Pitcairn Islands,male,58
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1196,Nancy Barrera,dbrown@example.com,2025-01-26 21:05:04.497576,2025-01-17 06:02:20.792377,New Katie,Iceland,female,31,https://placekitten.com/248/379

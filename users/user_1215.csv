@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1215,Mr. Eric Lane,ejohns@example.com,2025-01-15 01:15:05.268595,2025-01-13 03:19:36.946356,Timothyland,Saint Vincent and the Grenadines,male,35
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1215,Sherri Cook,kaitlinfitzgerald@example.net,2025-01-30 06:26:36.011502,2025-01-05 23:43:04.155164,Rebeccaland,Kiribati,female,76,https://dummyimage.com/1022x131

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1128,Nathaniel Everett,wisesuzanne@example.com,2025-01-29 08:58:39.471654,2025-01-04 00:06:58.784359,Wayneshire,Central African Republic,male,21
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1128,Heather Williams,josephcampbell@example.com,2025-01-08 17:45:27.218905,2025-01-12 02:28:55.169365,East Jamie,Finland,male,79,https://placekitten.com/367/526

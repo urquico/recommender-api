@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1260,Michael Fisher,sandra27@example.org,2025-01-14 11:32:43.554341,2025-01-19 08:33:18.884831,West Tinamouth,San Marino,female,20
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1260,Troy Larson,vmartin@example.org,2025-01-01 08:36:08.003716,2025-01-03 05:41:12.567852,Port Kayleeburgh,Cote d'Ivoire,female,43,https://picsum.photos/132/836

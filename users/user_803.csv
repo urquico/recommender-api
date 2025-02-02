@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-803,Christopher Evans,aaronbenitez@example.net,2025-01-22 09:11:28.304128,2025-01-21 03:38:17.849610,Parkfort,Congo,male,39
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+803,Rebecca Harper,crystal91@example.net,2025-01-05 10:45:28.534709,2025-01-10 20:53:59.543674,West Theresafurt,Svalbard & Jan Mayen Islands,female,64,https://placekitten.com/956/936

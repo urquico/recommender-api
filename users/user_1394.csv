@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1394,Corey Kaiser,chase77@example.org,2025-01-18 04:12:42.388185,2025-01-14 14:29:00.434480,Greenfurt,Mongolia,male,29
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1394,Amanda Dean,wrightbryan@example.org,2025-01-11 08:17:32.623019,2025-01-05 13:02:34.477026,Erinport,Taiwan,male,63,https://placekitten.com/134/674

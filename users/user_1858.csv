@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1858,Robert Abbott,amandalane@example.com,2025-01-22 13:37:13.072793,2025-01-16 22:09:45.007115,Moonport,Congo,male,63
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1858,Andrew Shaw,danielvalencia@example.net,2025-01-05 23:19:12.270797,2025-01-20 18:46:10.193722,Port Dannytown,Peru,female,31,https://dummyimage.com/395x933

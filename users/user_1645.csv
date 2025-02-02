@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1645,Brian Manning,natalieblack@example.com,2025-01-30 03:10:46.405747,2025-01-03 06:33:17.466452,South Brian,Christmas Island,female,56
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1645,Lisa Miller,annasnyder@example.com,2025-01-28 21:14:11.948859,2025-01-09 18:17:32.838732,West Brooke,Nigeria,female,68,https://placekitten.com/528/710

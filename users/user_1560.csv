@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1560,Donna Jones,andersentammy@example.org,2025-01-24 12:31:51.501293,2025-01-31 21:20:47.370564,Pinedafurt,Kuwait,female,28
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1560,Billy Hutchinson,wrobinson@example.net,2025-01-15 05:16:17.551872,2025-01-26 10:19:24.913633,Brendaborough,Burundi,male,36,https://dummyimage.com/927x631

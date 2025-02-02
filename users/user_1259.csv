@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1259,Heidi Kim,robertsonblake@example.com,2025-01-21 06:44:51.058346,2025-01-30 19:29:56.808117,Hunthaven,North Macedonia,male,28
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1259,Mark Lopez,brad85@example.org,2025-01-10 01:18:29.531438,2025-01-10 04:55:56.569350,Schneiderview,Uruguay,female,46,https://dummyimage.com/444x513

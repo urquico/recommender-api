@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1378,Kimberly Davidson,tammy31@example.net,2025-01-15 01:10:07.900005,2025-01-31 06:54:16.372142,Michaelberg,Martinique,male,59
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1378,Shirley Manning,patricia80@example.org,2025-01-20 07:17:05.260915,2025-01-30 01:00:02.384601,New Miguelside,Panama,male,49,https://picsum.photos/170/894

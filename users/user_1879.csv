@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1879,Katherine Vargas,psimmons@example.org,2025-01-06 19:09:28.652205,2025-01-16 13:48:04.892412,Edwardsstad,Latvia,female,60
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1879,Margaret Hopkins,laura58@example.net,2025-01-02 22:17:22.358420,2025-01-28 06:07:05.836796,New Hannah,Cook Islands,male,51,https://picsum.photos/205/859

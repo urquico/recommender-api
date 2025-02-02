@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-307,Larry Douglas,coxmichael@example.org,2025-01-07 00:05:28.775697,2025-01-29 22:45:52.557638,North Dylan,Malaysia,male,18
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+307,William Conrad,ymay@example.org,2025-01-17 02:46:50.808597,2025-01-14 17:03:11.668175,Williamschester,Brazil,female,54,https://dummyimage.com/315x34

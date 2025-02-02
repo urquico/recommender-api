@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-93,Jamie Silva,ryanjones@example.net,2025-01-31 20:18:01.100510,2025-01-06 14:06:35.936798,East Wandabury,Belgium,female,62
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+93,Scott Harris,brodgers@example.org,2025-01-22 21:41:58.907145,2025-01-03 05:13:07.667509,Jessicashire,Equatorial Guinea,female,24,https://placekitten.com/240/229

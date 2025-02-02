@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1069,Jacqueline Mann,elizabethperez@example.net,2025-01-31 01:45:25.118785,2025-01-31 17:50:32.370781,Carrieberg,Namibia,female,70
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1069,Breanna Ramirez,marquezcourtney@example.org,2025-01-24 02:33:37.320532,2025-01-14 15:43:26.769177,Rodriguezstad,Bulgaria,male,42,https://placekitten.com/242/100

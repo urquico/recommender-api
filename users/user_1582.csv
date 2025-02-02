@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1582,Levi White,andrewbrooks@example.org,2025-01-01 23:47:22.175478,2025-01-21 07:02:50.274086,Chapmanside,Saint Pierre and Miquelon,male,74
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1582,Zachary Thomas,stevenpeters@example.net,2025-01-19 17:23:35.541543,2025-01-19 03:12:15.937211,East Rachelburgh,Guyana,male,42,https://picsum.photos/495/760

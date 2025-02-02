@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-945,Joseph Mcguire,yramirez@example.com,2025-01-04 20:53:13.540684,2025-01-14 18:48:18.009151,Kathrynchester,Cook Islands,female,25
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+945,Brian Rodriguez,sarah97@example.net,2025-01-05 22:54:37.082397,2025-01-25 07:29:44.480995,West Wendy,French Guiana,female,29,https://picsum.photos/761/180

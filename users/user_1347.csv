@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1347,Morgan Craig,garnerjennifer@example.net,2025-01-02 09:49:26.880442,2025-01-16 23:47:55.000939,Donaldville,Ireland,male,75
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1347,Kathleen Manning,vlong@example.org,2025-01-19 17:02:10.606803,2025-01-02 07:20:36.172993,Lake John,Norway,female,53,https://placekitten.com/446/591

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-23,Erica Fletcher,harmonmadison@example.org,2025-01-16 05:26:08.797325,2025-01-13 00:01:50.643318,Howardton,Albania,male,41
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+23,Timothy Williams,jameshill@example.net,2025-01-26 19:58:32.979448,2025-01-14 20:15:41.376699,Dickersonside,Saint Helena,female,62,https://dummyimage.com/331x802

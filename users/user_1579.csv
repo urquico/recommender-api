@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1579,Nathaniel Sanders,lambertcarrie@example.com,2025-01-05 15:23:07.531818,2025-01-04 05:54:54.498451,Jamesstad,Turkey,male,67
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1579,Jennifer Rosario,kmooney@example.com,2025-01-07 11:15:41.868592,2025-01-21 06:08:38.270323,Randyland,Dominica,female,47,https://dummyimage.com/139x41

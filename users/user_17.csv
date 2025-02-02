@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-17,Daniel Stewart,wilsonjoseph@example.net,2025-01-11 09:57:43.077190,2025-02-01 22:57:42.240076,New Matthew,Tonga,male,55
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+17,Julie Taylor,areynolds@example.net,2025-01-01 08:27:29.951823,2025-01-13 17:25:25.041820,Lake Oscarfort,Netherlands Antilles,male,47,https://placekitten.com/400/844

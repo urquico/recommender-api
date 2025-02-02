@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-729,Robert Mccoy,leedeanna@example.org,2025-01-10 05:02:53.099860,2025-01-30 09:35:51.401524,Lambertburgh,Mayotte,female,64
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+729,Michelle Wilson,qparker@example.net,2025-01-16 01:36:52.310286,2025-01-04 10:40:08.824225,Taraburgh,Guatemala,male,65,https://dummyimage.com/110x512

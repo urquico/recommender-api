@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-844,Alexis Rios,dmiller@example.org,2025-01-15 17:38:57.786887,2025-01-07 19:05:33.066939,Marthatown,Serbia,male,29
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+844,Anthony Mcdowell,medinakevin@example.com,2025-01-12 05:08:05.923512,2025-01-06 14:51:02.736566,Willieville,Gibraltar,male,35,https://dummyimage.com/799x866

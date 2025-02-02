@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-891,Melissa Velez,erica44@example.org,2025-01-20 08:25:03.444732,2025-01-26 01:27:16.630432,East Tammychester,Peru,male,20
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+891,Joseph Hodge,bobbynunez@example.org,2025-01-28 16:36:31.297137,2025-02-02 20:08:18.701318,North Sarahside,Mali,female,24,https://picsum.photos/554/758

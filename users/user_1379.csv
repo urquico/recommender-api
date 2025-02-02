@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1379,Meghan Rhodes,jeffreyprice@example.net,2025-01-12 17:24:06.885384,2025-01-31 09:39:05.676344,North Jacobland,Holy See (Vatican City State),female,59
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1379,Joseph May,jessica85@example.org,2025-01-12 21:34:29.280933,2025-01-11 18:36:47.178405,East Diane,Gabon,male,75,https://picsum.photos/212/1020

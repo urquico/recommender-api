@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1482,Patrick Rangel,josegomez@example.org,2025-01-14 04:38:40.650936,2025-01-12 23:07:57.801464,West Samanthamouth,Djibouti,female,37
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1482,Doris Moore,jennifermcclure@example.org,2025-01-16 21:17:51.125432,2025-01-23 11:27:47.716130,West Petermouth,United States of America,male,26,https://placekitten.com/389/93

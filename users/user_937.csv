@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-937,Patricia Reed,jenkinsjill@example.net,2025-01-30 12:15:20.341034,2025-01-28 09:47:00.261014,North Sandrabury,Guyana,female,20
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+937,Samuel Lopez,beasleyvictoria@example.net,2025-01-31 00:26:41.179190,2025-01-08 18:32:47.992027,Port David,French Southern Territories,male,73,https://placekitten.com/526/697

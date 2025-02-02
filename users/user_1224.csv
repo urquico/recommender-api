@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1224,William Cook,shawn98@example.net,2025-01-17 21:04:45.606674,2025-01-04 16:46:16.603160,Kristineton,Bosnia and Herzegovina,male,33
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1224,Clarence Huffman,jason98@example.org,2025-01-03 20:48:51.209926,2025-01-26 04:30:16.900600,New Kelli,Pitcairn Islands,female,36,https://picsum.photos/723/565

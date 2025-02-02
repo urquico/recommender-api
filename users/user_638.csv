@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-638,Jody Harris,gregoryturner@example.com,2025-02-01 19:53:42.246978,2025-01-02 03:18:31.599263,North Collin,British Virgin Islands,female,45
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+638,David Villanueva,mikehodges@example.org,2025-01-16 09:58:27.026067,2025-01-24 13:02:45.491055,North Laura,Niger,male,32,https://picsum.photos/431/275

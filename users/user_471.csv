@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-471,Amanda Ellis,patriciawilliams@example.org,2025-01-29 04:57:42.127491,2025-01-07 10:04:21.904025,Conleyside,Lao People's Democratic Republic,female,66
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+471,Elizabeth Ryan,baileyedward@example.net,2025-01-22 09:31:22.940910,2025-01-14 00:26:09.337684,Morriston,Gibraltar,male,75,https://placekitten.com/190/869

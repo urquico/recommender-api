@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-771,Joseph Bowman,scottgallagher@example.net,2025-01-13 18:14:44.338619,2025-01-28 03:02:00.807550,Garciaberg,French Southern Territories,female,47
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+771,Michael Daniel,sara03@example.com,2025-01-28 13:03:43.873365,2025-01-11 00:28:20.912372,Brandonstad,Cape Verde,female,48,https://picsum.photos/1000/667

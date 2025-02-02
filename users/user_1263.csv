@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1263,Robert Davis,amandajohnson@example.org,2025-01-24 14:11:39.582894,2025-01-02 04:58:46.965687,New Haley,Jordan,male,72
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1263,Justin Hansen,michaeljones@example.org,2025-01-24 13:06:51.222417,2025-01-10 21:34:31.849016,Christopherchester,Sri Lanka,female,26,https://placekitten.com/551/535

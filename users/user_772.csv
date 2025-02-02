@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-772,Mr. Jonathan Mendoza DVM,debra91@example.net,2025-01-17 17:16:27.858342,2025-01-31 23:40:38.051642,Lake David,Germany,female,80
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+772,Larry Ellison,alynch@example.com,2025-01-26 18:23:09.201075,2025-01-30 19:58:31.012063,Oliviaberg,Saudi Arabia,male,49,https://placekitten.com/433/890

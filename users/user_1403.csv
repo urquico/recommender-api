@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1403,Sara Ballard,phuber@example.com,2025-01-05 17:25:35.556784,2025-01-28 00:22:42.722798,Bradleyborough,France,male,70
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1403,Brian Reed,xrodriguez@example.net,2025-01-30 01:49:27.231794,2025-01-13 18:36:11.453858,Mooreland,Burkina Faso,male,31,https://dummyimage.com/321x854

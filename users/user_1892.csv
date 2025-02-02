@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1892,Zoe Kerr,leahharvey@example.com,2025-01-05 22:46:23.954479,2025-01-28 05:43:47.219606,New Amychester,Antarctica (the territory South of 60 deg S),male,75
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1892,James Williams,joshua24@example.com,2025-01-08 07:47:16.630916,2025-01-18 01:30:10.798161,Mcdonaldfort,Jamaica,female,37,https://dummyimage.com/43x296

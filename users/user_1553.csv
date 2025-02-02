@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1553,John Lopez,joneschristina@example.org,2025-01-02 08:11:10.453768,2025-01-09 16:08:50.690398,Wendyview,Guyana,female,38
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1553,Sarah Fletcher,barbara81@example.net,2025-01-20 11:29:23.198603,2025-01-19 22:12:51.362504,Raymondberg,Isle of Man,male,19,https://placekitten.com/1017/877

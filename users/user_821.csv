@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-821,Brent Johnson,jessicaherring@example.org,2025-01-10 17:09:28.607890,2025-01-14 05:23:28.757938,North Sarah,Cayman Islands,female,23
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+821,Linda Black,campbelljames@example.com,2025-01-29 19:52:38.401072,2025-01-20 10:01:34.786011,South Marybury,Burkina Faso,male,57,https://picsum.photos/478/513

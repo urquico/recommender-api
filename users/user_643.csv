@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-643,Dean Martinez,jamiemiller@example.org,2025-01-04 10:16:52.978237,2025-01-12 04:25:28.656436,Davidmouth,Egypt,female,34
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+643,Preston Gilbert,thompsonmatthew@example.net,2025-01-03 08:06:05.952804,2025-01-24 10:26:54.446442,Jonathantown,Trinidad and Tobago,male,48,https://dummyimage.com/639x600

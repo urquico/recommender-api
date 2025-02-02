@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1476,Sarah Gallagher,samuelpowell@example.net,2025-01-12 18:05:28.514809,2025-01-09 22:37:06.855791,Robertsfurt,Uganda,male,61
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1476,Jeremy Cole,harrisonelizabeth@example.org,2025-01-13 02:37:28.015857,2025-01-04 09:09:28.537434,Cabreraton,Uganda,female,42,https://dummyimage.com/698x540

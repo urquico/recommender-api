@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1450,Megan Manning,nicholas88@example.org,2025-01-30 09:55:53.240901,2025-01-30 08:29:20.571891,Jerrychester,Bolivia,male,61
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1450,Hannah Smith,barronjohn@example.com,2025-01-29 23:33:03.086891,2025-01-01 17:25:17.829315,West Karen,Senegal,female,43,https://dummyimage.com/1014x527

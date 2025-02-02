@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-99,Lori Smith,lauren38@example.org,2025-01-16 21:15:37.611290,2025-01-13 06:52:03.988649,South Jessicafurt,Thailand,female,53
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+99,Craig Hughes,robert16@example.net,2025-01-19 07:04:42.577409,2025-01-03 14:49:37.365669,Brooksside,Palau,male,77,https://dummyimage.com/374x181

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1961,Allison Jimenez,robertlowery@example.com,2025-01-08 00:44:18.307772,2025-01-12 19:11:10.119901,New Christopher,New Zealand,female,33
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1961,Peter Wright Jr.,lbeard@example.org,2025-01-18 00:04:45.946282,2025-01-14 02:09:09.640770,West Nancy,Colombia,male,50,https://picsum.photos/817/235

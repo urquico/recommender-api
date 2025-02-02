@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-351,Derek Hughes,ryan14@example.org,2025-01-04 13:42:06.948996,2025-01-15 10:07:33.235586,New Anna,Lesotho,female,63
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+351,Christina Archer,joshua28@example.com,2025-01-02 03:03:56.785032,2025-01-30 19:31:18.096502,South Stephaniestad,Ghana,female,32,https://dummyimage.com/614x785

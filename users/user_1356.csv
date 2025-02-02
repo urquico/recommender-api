@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1356,Jodi Mills,aaronramos@example.com,2025-01-05 04:16:26.275954,2025-01-07 11:48:57.944301,West Manueltown,Gabon,male,54
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1356,Melissa Roberts,leblancmichael@example.com,2025-01-15 18:53:18.038790,2025-01-02 05:06:06.465821,South Glenda,Namibia,female,60,https://placekitten.com/645/308

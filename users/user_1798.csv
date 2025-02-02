@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1798,Melanie Frost,figueroajessica@example.org,2025-01-20 02:33:56.573184,2025-01-30 12:44:13.087083,West Williamside,Qatar,female,21
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1798,Joseph Holt,patriciashepherd@example.com,2025-01-19 06:48:23.132028,2025-01-31 20:06:00.332241,Burketon,Montenegro,female,27,https://dummyimage.com/190x645

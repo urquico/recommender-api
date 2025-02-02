@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1304,Carrie Wheeler,ianderson@example.net,2025-01-26 14:26:53.086271,2025-01-10 19:04:09.998229,Lake Christinebury,Falkland Islands (Malvinas),male,33
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1304,Tanya Thompson,douglas18@example.net,2025-01-28 08:07:09.338435,2025-01-09 20:37:37.084995,New Nancy,Guernsey,male,23,https://placekitten.com/532/62

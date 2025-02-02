@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-822,Jimmy Atkins,michellewilliams@example.net,2025-01-16 07:43:08.204680,2025-01-18 23:54:04.786935,Willismouth,Isle of Man,female,27
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+822,Maxwell Brandt,julia92@example.net,2025-01-08 06:42:52.180676,2025-01-23 23:42:11.000267,North Adam,Philippines,male,62,https://dummyimage.com/881x224

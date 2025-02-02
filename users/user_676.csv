@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-676,William Ramirez,stephanie26@example.com,2025-01-19 23:27:58.165082,2025-02-01 04:54:23.136542,Alexanderville,Uruguay,male,28
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+676,Matthew Martinez,longtony@example.org,2025-01-10 19:50:25.806054,2025-01-18 00:28:27.685722,South Jorgeberg,Liberia,female,22,https://placekitten.com/262/146

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-169,Joseph Mann,molinavincent@example.net,2025-01-18 01:59:54.706175,2025-01-01 22:18:09.664929,South Jamiefurt,Kazakhstan,male,51
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+169,James Brown,katherine57@example.net,2025-02-02 08:57:47.304044,2025-01-31 16:36:44.188081,East Mary,Saint Pierre and Miquelon,male,49,https://picsum.photos/19/535

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-381,Kyle Thomas,hullchristopher@example.com,2025-01-16 19:17:31.853515,2025-01-13 04:56:19.168830,North Biancafurt,Mexico,female,57
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+381,Patricia Burns,munozgeorge@example.org,2025-01-07 16:34:29.222362,2025-01-01 09:55:47.439277,East Baileyfurt,New Zealand,male,19,https://dummyimage.com/731x937

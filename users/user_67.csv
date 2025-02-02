@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-67,Sarah Gallagher,daviesmichael@example.com,2025-01-19 18:39:59.902345,2025-01-14 20:13:29.434424,Thompsonbury,Cuba,male,45
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+67,Shari George,jessica78@example.com,2025-01-11 16:30:17.673328,2025-01-22 20:27:47.592909,East Markfurt,Ethiopia,female,23,https://placekitten.com/757/264

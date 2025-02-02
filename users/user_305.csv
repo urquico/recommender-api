@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-305,Jeremy Simmons,caitlin70@example.com,2025-01-03 00:53:36.005527,2025-01-09 16:21:23.163665,West Timothy,Malaysia,female,37
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+305,Theodore Williamson,kaiserrobin@example.net,2025-01-31 03:21:19.844376,2025-01-22 04:05:02.353089,South Brianbury,Solomon Islands,female,41,https://picsum.photos/920/456

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-415,Deanna Green,smclaughlin@example.org,2025-01-30 11:42:43.213655,2025-01-27 03:51:11.300494,Paynebury,Christmas Island,male,43
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+415,Sarah Shannon,vegajessica@example.net,2025-01-16 06:45:35.623903,2025-01-16 16:14:11.463070,West Jonathanland,Mexico,male,68,https://picsum.photos/516/109

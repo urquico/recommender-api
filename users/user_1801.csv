@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1801,Stephanie Berry,marcsanders@example.net,2025-01-12 09:38:38.465067,2025-01-17 18:22:05.777452,New Kimberly,Gibraltar,male,58
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1801,Melissa Johnson,morrissarah@example.net,2025-01-12 14:40:38.172727,2025-01-20 10:54:03.984880,Baldwinberg,Cambodia,male,69,https://dummyimage.com/819x705

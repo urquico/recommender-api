@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1477,Amber Duke,robertlewis@example.org,2025-01-29 12:28:54.772749,2025-01-11 15:39:11.469682,Barkermouth,Oman,male,49
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1477,Christine Nunez,qhurst@example.net,2025-01-02 10:36:01.662366,2025-01-20 03:56:44.855057,East Victoria,Armenia,male,68,https://dummyimage.com/742x172

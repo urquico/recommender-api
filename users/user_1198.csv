@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1198,Christine Weaver,webersusan@example.org,2025-01-21 09:27:44.615043,2025-01-04 03:58:58.942334,West Martinhaven,Brunei Darussalam,female,22
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1198,Carla Dyer,perrystephanie@example.net,2025-01-31 17:20:55.883552,2025-01-22 07:45:31.047397,Port Luis,Somalia,female,37,https://placekitten.com/207/163

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1458,Ashley Lee,patriciamiddleton@example.org,2025-01-18 08:04:44.411575,2025-01-12 10:44:58.301171,South Amyside,Bahamas,female,32
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1458,Kyle Henderson,jacquelinewatts@example.com,2025-01-04 21:33:05.332706,2025-01-04 04:14:14.591550,Albertside,Ghana,female,36,https://picsum.photos/473/151

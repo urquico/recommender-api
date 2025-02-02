@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1709,James Howard,lindsayjackson@example.net,2025-01-23 15:56:58.890338,2025-01-26 23:36:38.423388,Alexanderburgh,Hong Kong,female,51
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1709,Kathryn Greene,jonesmichael@example.net,2025-01-18 15:12:33.044206,2025-01-17 06:28:30.656675,Davidport,Guinea-Bissau,male,33,https://picsum.photos/188/726

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1455,Christopher Price,ronaldtodd@example.net,2025-02-02 02:42:16.322896,2025-01-09 18:13:30.528376,North Luke,Martinique,female,67
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1455,Michael Glass,kgonzales@example.org,2025-01-29 15:58:24.453590,2025-01-23 16:33:39.445090,Seanland,Haiti,male,72,https://picsum.photos/137/102

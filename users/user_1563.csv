@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1563,Kathy Massey,allisonrichards@example.net,2025-01-13 11:49:08.011490,2025-01-04 09:00:18.938006,Martinstad,Bangladesh,male,64
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1563,Marcus Flores,brandi67@example.com,2025-01-18 08:37:04.226016,2025-01-06 21:41:32.937588,Greenfurt,Congo,female,28,https://dummyimage.com/452x197

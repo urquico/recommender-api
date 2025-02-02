@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-657,Alicia Lee,alexanderstewart@example.net,2025-01-01 13:33:58.238021,2025-01-23 10:47:52.483098,Conleymouth,Mauritania,male,42
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+657,Jonathan Mcfarland,amy22@example.net,2025-02-02 21:56:01.270885,2025-02-01 10:24:54.077820,Bryceport,Honduras,male,38,https://dummyimage.com/664x935

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1813,Jamie Woodward,esmith@example.net,2025-01-23 18:22:57.179808,2025-01-23 15:54:05.445505,North Toddshire,Portugal,female,39
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1813,Anna Martin,adam50@example.com,2025-01-11 05:07:26.216851,2025-01-03 10:57:34.119509,Ericmouth,Myanmar,male,57,https://placekitten.com/841/703

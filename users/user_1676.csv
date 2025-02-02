@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1676,Jaclyn Newman,balldustin@example.com,2025-01-03 06:24:47.500677,2025-01-29 02:03:20.559107,Dwaynetown,Haiti,male,31
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1676,Nathan Murillo,cody05@example.org,2025-01-16 16:07:03.850050,2025-01-14 05:37:17.021055,Kylefort,Uganda,male,57,https://placekitten.com/485/931

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-998,Leslie Wilson,michelle99@example.com,2025-01-09 17:53:19.378202,2025-01-10 03:51:11.991619,Petersberg,Taiwan,female,46
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+998,Allison Martin,barryemily@example.org,2025-01-02 01:58:11.204793,2025-01-21 02:40:18.158323,Port Michael,Poland,male,62,https://dummyimage.com/80x687

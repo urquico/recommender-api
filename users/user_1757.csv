@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1757,Amy Brooks,ulewis@example.org,2025-01-01 18:58:24.520595,2025-01-20 03:11:01.468098,Davidside,Mexico,male,67
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1757,Scott Jones,josephpage@example.com,2025-01-22 20:53:40.113866,2025-01-18 12:04:09.000887,Lake Robert,Malaysia,male,51,https://dummyimage.com/836x308

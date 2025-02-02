@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1382,Wyatt Moore,burketracy@example.org,2025-01-16 19:48:24.270869,2025-01-05 23:17:03.445760,Zacharyhaven,Bangladesh,male,41
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1382,Meghan Graham,stephaniemiller@example.net,2025-01-21 22:55:26.345580,2025-01-07 03:58:11.594284,Garciaside,Saint Helena,male,50,https://placekitten.com/720/593

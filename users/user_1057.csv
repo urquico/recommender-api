@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1057,Dennis Thompson,darryldodson@example.net,2025-01-29 07:20:58.706266,2025-01-30 18:48:56.174845,South Karen,Gambia,female,43
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1057,Darren Howard,deborah68@example.org,2025-01-22 13:08:57.724794,2025-01-23 04:43:00.019377,Port Joelport,Bahrain,male,37,https://picsum.photos/696/294

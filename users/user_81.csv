@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-81,John Williams,qbond@example.com,2025-01-31 13:56:41.550904,2025-01-03 15:23:10.252945,Randybury,Seychelles,female,67
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+81,Sandra Gould,jill48@example.org,2025-01-06 03:34:04.487922,2025-01-23 11:22:02.159484,Port Robertmouth,Latvia,male,69,https://placekitten.com/419/827

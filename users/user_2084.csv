@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2084,Todd Morse,johnsonangela@example.com,2025-01-01 18:53:50.807806,2025-01-25 20:50:54.567938,Melanieshire,Jordan,male,67
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2084,Scott Barajas,davidward@example.net,2025-01-06 15:31:54.800589,2025-01-23 12:41:12.894021,New Glenn,Ecuador,male,52,https://dummyimage.com/961x666

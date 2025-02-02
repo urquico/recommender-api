@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-544,Joyce Wilson,anna01@example.org,2025-01-29 04:14:48.437242,2025-01-23 00:34:03.816505,Williamhaven,Myanmar,male,50
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+544,Kathy Case,sarahbentley@example.net,2025-01-31 16:25:04.842308,2025-01-18 04:23:50.166612,East Teresa,Saint Kitts and Nevis,female,39,https://picsum.photos/73/845

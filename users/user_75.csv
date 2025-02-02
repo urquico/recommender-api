@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-75,Sarah Acevedo,whitepaul@example.com,2025-01-02 20:23:33.020462,2025-01-23 06:49:12.910043,New Jeffrey,Montenegro,female,61
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+75,Lindsay Guerrero,joelbates@example.org,2025-01-27 13:26:41.497855,2025-01-31 18:24:36.610967,Lake Tashashire,Indonesia,female,45,https://dummyimage.com/319x186

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-940,Jason Dickerson,xwolf@example.com,2025-01-28 11:33:55.360894,2025-01-25 22:33:50.612434,Ryanton,Guam,male,25
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+940,Brian Parsons,leeanthony@example.org,2025-01-17 00:16:38.933298,2025-01-27 12:11:18.046831,Jamesborough,Madagascar,female,71,https://placekitten.com/753/98

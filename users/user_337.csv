@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-337,John Nguyen,christopherpena@example.com,2025-01-17 06:43:19.266800,2025-02-02 18:45:52.621969,Hartmouth,Georgia,male,61
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+337,Kristin Sanchez,lwinters@example.org,2025-01-11 03:55:25.780275,2025-02-01 06:04:51.681329,North Charlesshire,Dominican Republic,female,60,https://picsum.photos/64/935

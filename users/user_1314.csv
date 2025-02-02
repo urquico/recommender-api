@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1314,Courtney Duncan,smithregina@example.org,2025-01-15 21:31:55.482411,2025-01-03 20:44:07.392363,Bradleyhaven,Tonga,female,72
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1314,Christopher Dawson,kellychristina@example.com,2025-01-11 15:29:04.223106,2025-01-31 02:46:58.012980,North Wendyfort,Rwanda,female,74,https://placekitten.com/229/127

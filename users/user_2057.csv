@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2057,Robert Johnson,dukedylan@example.org,2025-01-22 08:03:24.494163,2025-01-05 04:19:30.753231,Port Vanessaburgh,Liberia,male,67
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2057,Wendy Hess,billy38@example.com,2025-01-26 16:01:12.355907,2025-01-13 22:50:38.811545,South Joshuafort,Saint Pierre and Miquelon,male,61,https://dummyimage.com/496x69

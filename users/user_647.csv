@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-647,Joe Castro,katherine14@example.org,2025-01-07 15:24:34.938083,2025-01-15 19:54:52.298151,Bauerberg,Ecuador,male,32
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+647,Ian Roy,welchpeter@example.org,2025-01-31 07:14:58.665112,2025-01-06 00:30:46.103072,Mcdonaldmouth,Turks and Caicos Islands,male,28,https://placekitten.com/426/767

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1434,Jessica Russell,simpsonzachary@example.net,2025-01-18 11:19:33.957338,2025-01-29 08:26:03.347419,Petersonmouth,Mali,female,52
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1434,Johnny Valdez,kevin11@example.com,2025-01-15 19:07:58.066870,2025-01-07 14:27:00.807497,Zimmermanstad,Eritrea,male,48,https://picsum.photos/333/953

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1785,Alexandra Lee,davidlopez@example.net,2025-01-18 05:50:23.995526,2025-01-02 09:17:19.611318,East Charlesmouth,Togo,female,39
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1785,Brittney Taylor,jessicabell@example.org,2025-01-18 17:24:42.650109,2025-01-20 04:38:44.658540,Elizabethbury,Equatorial Guinea,male,18,https://picsum.photos/698/16

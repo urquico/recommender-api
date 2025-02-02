@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-995,Brian Hendrix,hamiltonangela@example.net,2025-01-24 00:20:14.389273,2025-01-02 20:45:29.976134,Angelaton,Korea,female,64
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+995,Lori Jones,jenniferking@example.com,2025-01-13 04:32:48.404376,2025-01-11 18:49:48.462072,East Shawnland,Czech Republic,female,32,https://placekitten.com/736/221

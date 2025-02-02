@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-665,Brian Thompson,bethlandry@example.net,2025-01-27 08:10:34.012130,2025-01-26 13:29:43.416048,Amyshire,Guyana,female,49
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+665,Billy Dennis,dgay@example.net,2025-01-14 15:36:02.988734,2025-01-16 09:07:28.354976,Port Melanieville,Guinea-Bissau,male,40,https://dummyimage.com/203x807

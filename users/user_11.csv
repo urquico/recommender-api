@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-11,Kevin Perez,lindseyjulie@example.com,2025-01-17 00:47:08.140214,2025-01-27 12:02:25.988661,New Erin,Benin,female,22
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+11,Amy Poole,figueroayvette@example.net,2025-01-01 06:52:37.428234,2025-01-08 01:22:06.750591,Port Jasonmouth,Bermuda,female,74,https://picsum.photos/510/536

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-365,Joshua Davies,floresjames@example.com,2025-01-28 03:49:02.742425,2025-01-17 18:28:05.827849,West Morganborough,South Africa,female,22
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+365,Walter Lynch,timothyosborne@example.org,2025-01-04 10:54:26.943354,2025-01-15 09:40:39.224122,Browntown,Guinea,female,45,https://dummyimage.com/509x587

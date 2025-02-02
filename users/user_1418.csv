@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1418,Micheal Warren,samantha42@example.org,2025-01-29 00:58:22.505366,2025-01-21 00:33:52.875289,Lake Danielhaven,Zimbabwe,male,19
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1418,Michael Allen,bullockdawn@example.com,2025-01-20 01:51:47.133633,2025-01-28 04:28:16.794152,North Julie,Madagascar,male,59,https://dummyimage.com/980x259

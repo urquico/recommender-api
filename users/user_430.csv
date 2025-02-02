@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-430,Jane Young,virginia69@example.org,2025-01-07 09:55:29.166842,2025-01-23 19:36:08.302121,Rayport,Austria,female,49
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+430,Rachel Cruz,randy78@example.org,2025-01-11 17:24:23.077649,2025-01-25 08:40:48.979067,Terrihaven,Sao Tome and Principe,male,59,https://placekitten.com/794/580

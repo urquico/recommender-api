@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1615,Jacob Salazar,kevinharper@example.org,2025-01-09 08:10:08.670476,2025-01-30 14:46:53.559596,Christopherfort,Guernsey,male,66
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1615,Anne Conley,robert59@example.com,2025-01-09 09:07:59.252214,2025-01-11 09:26:32.114134,Greenefurt,Bolivia,male,50,https://placekitten.com/15/986

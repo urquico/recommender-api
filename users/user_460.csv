@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-460,Anthony Palmer,timothywheeler@example.net,2025-01-31 03:55:29.108106,2025-01-15 18:36:01.768045,Kennethburgh,Isle of Man,male,80
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+460,Kathryn Powell,zmoore@example.org,2025-01-31 06:31:58.193494,2025-01-26 22:45:29.344723,South Denise,Cyprus,male,19,https://picsum.photos/230/38

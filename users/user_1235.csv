@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1235,James Figueroa,andersonrobert@example.org,2025-01-16 09:10:07.516693,2025-01-23 14:36:50.368178,Stephanieburgh,Syrian Arab Republic,female,79
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1235,Walter Scott,robertmartin@example.com,2025-01-29 21:44:03.753891,2025-01-16 10:35:32.463221,Patrickside,Congo,female,77,https://dummyimage.com/232x161

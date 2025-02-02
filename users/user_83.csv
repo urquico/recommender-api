@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-83,Margaret Oliver,lisa01@example.org,2025-01-01 08:10:49.504005,2025-01-07 07:33:32.521342,Clarkton,Dominica,female,39
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+83,Christopher Cox,stevenlambert@example.net,2025-01-16 09:24:39.687574,2025-01-15 04:26:32.620031,Barkerborough,Jamaica,male,56,https://picsum.photos/410/340

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-867,Deborah Thomas,dhinton@example.net,2025-02-01 13:29:19.053480,2025-01-08 15:11:30.378956,Port Michaelton,Mexico,male,24
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+867,Bernard Knight,katherinecurtis@example.org,2025-01-27 04:16:06.451078,2025-01-19 14:10:50.433867,East Davidview,Mozambique,female,61,https://dummyimage.com/710x369

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-947,Monica Hamilton,kristen63@example.com,2025-01-27 05:08:57.033351,2025-01-08 19:35:44.851359,Meganstad,Iraq,female,66
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+947,Katrina Yu,makaylahernandez@example.com,2025-01-30 11:04:25.425976,2025-01-04 17:28:08.575796,South Alison,Peru,female,47,https://placekitten.com/632/74

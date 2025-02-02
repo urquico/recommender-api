@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1313,Aaron Jones,hibarra@example.net,2025-01-11 11:16:00.014068,2025-01-11 00:37:18.156359,Port Linda,Canada,male,72
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1313,Sandra Payne,ryanwilliam@example.com,2025-01-14 00:15:50.102886,2025-01-19 05:36:02.514277,Oneillfort,Greenland,female,60,https://picsum.photos/417/742

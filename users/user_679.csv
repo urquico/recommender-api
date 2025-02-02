@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-679,Heather White,wesleymelendez@example.org,2025-02-01 16:08:14.648541,2025-01-03 22:54:50.343660,Wilsonville,Japan,male,62
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+679,Eric Wilson,qhawkins@example.net,2025-01-22 15:11:21.354378,2025-01-08 00:23:55.193682,Heatherhaven,Tunisia,female,42,https://placekitten.com/555/713

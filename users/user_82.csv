@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-82,Joshua Strickland,brownrachel@example.com,2025-01-09 19:22:30.833564,2025-02-02 17:09:30.086485,Jeremiahmouth,Zimbabwe,male,77
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+82,Taylor Davis,sarahallen@example.com,2025-01-17 10:25:31.004855,2025-01-14 06:58:57.985868,Francisfort,Vietnam,male,33,https://dummyimage.com/468x948

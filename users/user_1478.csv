@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1478,Keith Clark,thompsonsean@example.net,2025-01-22 12:29:38.678733,2025-01-03 07:45:42.775309,New Theresaview,Eritrea,female,73
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1478,Melissa Harrison,bartlettmanuel@example.com,2025-01-02 16:05:53.352433,2025-02-01 21:33:24.063748,Ramirezside,Cuba,male,67,https://placekitten.com/217/337

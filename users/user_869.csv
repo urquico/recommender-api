@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-869,Meghan Bowen,pmiller@example.com,2025-01-28 09:50:26.515237,2025-01-06 08:25:45.113193,East Tabitha,Luxembourg,male,72
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+869,Stephanie Coffey,wfrancis@example.net,2025-01-23 11:42:59.396831,2025-01-16 22:59:15.001601,North Jamesport,Algeria,female,37,https://placekitten.com/236/410

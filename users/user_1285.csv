@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1285,Amanda Wright,charlesnguyen@example.org,2025-01-11 00:16:15.147633,2025-01-16 20:39:36.837246,Natashastad,Austria,female,76
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1285,Alan Reed,ztucker@example.org,2025-01-30 14:43:10.452429,2025-02-01 12:12:01.581134,South Christopher,Lesotho,female,39,https://dummyimage.com/106x90

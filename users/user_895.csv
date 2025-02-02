@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-895,Calvin Walton,derrickchen@example.net,2025-01-24 03:50:09.562703,2025-01-22 23:51:21.370223,Jenniferburgh,Congo,female,23
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+895,Kimberly Haley,mackenziehawkins@example.com,2025-01-22 03:18:00.984897,2025-01-13 00:21:20.589875,Royfort,Guinea,male,27,https://picsum.photos/502/895

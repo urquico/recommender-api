@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1236,Dana Perez,donna04@example.net,2025-01-16 11:45:20.160259,2025-01-16 22:42:08.035946,New Joseph,Tanzania,female,80
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1236,Jennifer Meyer,richard59@example.com,2025-01-12 02:19:50.373713,2025-01-12 02:33:03.497254,Perezmouth,Korea,male,74,https://picsum.photos/869/292

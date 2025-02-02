@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-31,Jaclyn Holt,heather67@example.net,2025-01-02 08:56:43.566101,2025-01-08 23:18:48.926092,Sheilastad,Dominica,male,32
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+31,Amber Hansen,michaelharper@example.com,2025-01-12 17:32:35.781353,2025-01-29 03:36:42.261980,Susanmouth,Hungary,male,41,https://placekitten.com/370/511

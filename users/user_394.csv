@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-394,Alexandra Rich,kpayne@example.net,2025-01-29 07:58:06.903543,2025-01-30 01:59:11.153622,North Kevinborough,Norway,female,21
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+394,Mary Miller,tdougherty@example.net,2025-01-02 16:45:18.154856,2025-01-23 19:45:48.180141,West Johnhaven,Jordan,male,68,https://placekitten.com/11/533

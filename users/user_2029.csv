@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2029,Molly Le,flowersrobert@example.com,2025-01-16 15:41:16.852194,2025-01-14 07:36:28.029090,Francisland,Eritrea,female,80
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2029,Laura West,sgarcia@example.net,2025-01-28 07:32:13.444982,2025-01-16 21:17:25.076389,Christinaburgh,Czech Republic,male,26,https://placekitten.com/513/574

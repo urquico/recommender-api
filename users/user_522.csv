@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-522,George Molina,kaitlin45@example.com,2025-01-02 11:04:24.880430,2025-01-11 01:47:08.622829,Heatherberg,Guadeloupe,male,73
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+522,Monique Marshall,hgray@example.net,2025-01-22 16:48:46.895693,2025-01-07 01:04:30.185919,Chandlerville,Chad,male,37,https://picsum.photos/528/104

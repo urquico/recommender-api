@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1489,Amanda Davis,fgarcia@example.net,2025-01-03 00:39:42.999505,2025-01-27 06:27:15.225694,Lake Brianburgh,Suriname,female,28
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1489,Joshua Navarro,danielrodriguez@example.org,2025-01-31 22:55:12.061116,2025-01-17 01:21:02.533921,Aarontown,Guam,male,61,https://placekitten.com/837/712

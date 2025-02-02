@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1691,Jonathan Smith,marcus89@example.net,2025-01-02 06:10:36.910223,2025-01-31 18:47:37.347355,Stevensonberg,Senegal,female,72
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1691,Carol Stone,cookthomas@example.org,2025-01-07 19:04:25.019642,2025-01-18 04:36:10.563794,Johnsonside,Mauritius,male,25,https://picsum.photos/49/394

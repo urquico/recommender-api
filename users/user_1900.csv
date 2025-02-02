@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1900,Susan Mcdaniel,donnawoodward@example.net,2025-01-01 22:48:59.197577,2025-01-22 03:07:30.572289,Port Haroldview,United States Virgin Islands,female,37
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1900,Ashley Henderson,joshuawarner@example.net,2025-01-06 03:34:47.001386,2025-01-19 01:56:29.968055,Fullerfurt,Bolivia,female,48,https://dummyimage.com/667x643

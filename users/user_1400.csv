@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1400,Sandra Gardner,carmenmiller@example.net,2025-01-10 19:34:54.932013,2025-01-24 10:02:44.793290,New Dawn,Singapore,female,28
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1400,John Schmidt,hornchristopher@example.net,2025-01-19 02:37:45.477392,2025-01-27 22:39:39.962502,Port Shelleytown,Belarus,female,57,https://picsum.photos/145/840

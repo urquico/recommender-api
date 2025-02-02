@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1480,Scott Peterson,jenniferrodriguez@example.net,2025-01-27 08:36:45.566961,2025-01-09 08:44:07.792001,Parkerton,Suriname,female,43
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1480,Heidi Wells PhD,cerickson@example.net,2025-01-11 19:17:26.263299,2025-01-11 20:42:40.147326,Port Maria,Tanzania,female,74,https://dummyimage.com/978x663

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-559,Christina Henderson,tracy17@example.net,2025-01-29 11:38:17.401627,2025-01-20 16:42:18.601598,Morrisonland,Saint Martin,female,79
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+559,Jennifer Myers,emmarodriguez@example.com,2025-01-29 17:49:03.800111,2025-01-07 13:24:26.885970,West Michaelport,Saudi Arabia,female,71,https://picsum.photos/944/862

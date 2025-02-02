@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-739,Robert Sims,anthony79@example.com,2025-01-17 00:58:22.054335,2025-01-18 14:03:23.371068,Ramseyshire,Kazakhstan,female,23
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+739,Catherine Crosby,robertcase@example.net,2025-01-14 05:47:07.840172,2025-01-08 19:05:37.640425,Marychester,Turkmenistan,male,62,https://dummyimage.com/938x827

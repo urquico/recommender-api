@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-56,Lindsay Miles,callahanjennifer@example.com,2025-01-16 19:14:32.364042,2025-01-10 00:29:53.812120,Rebeccafort,South Georgia and the South Sandwich Islands,male,49
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+56,Tammy Phillips,amy94@example.net,2025-01-09 14:36:00.159927,2025-01-17 13:26:25.113242,New Stephen,Guinea-Bissau,male,40,https://picsum.photos/105/656

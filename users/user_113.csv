@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-113,Courtney Werner,qwilson@example.org,2025-01-15 13:46:59.016833,2025-01-30 05:32:25.332392,Clarkeland,Ecuador,female,18
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+113,Andrew French,jessicabray@example.net,2025-01-07 14:12:27.810586,2025-02-02 16:18:32.337121,Meganshire,Falkland Islands (Malvinas),female,55,https://picsum.photos/419/886

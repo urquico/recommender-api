@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2009,Dennis Cannon,marissahill@example.com,2025-01-29 22:23:08.964321,2025-01-22 20:13:31.464388,Lucasmouth,Malaysia,male,59
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2009,George Brooks,jamie93@example.com,2025-01-03 13:22:09.347767,2025-01-27 20:44:09.330481,Lisashire,Uruguay,male,33,https://placekitten.com/500/533

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1100,Catherine Rowland,roger55@example.org,2025-01-16 00:44:37.757118,2025-01-05 09:10:03.720540,Jamesville,New Caledonia,female,36
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1100,Michael Trujillo,stacygarcia@example.net,2025-01-29 11:30:32.352224,2025-02-01 04:10:55.953203,Leahfort,South Africa,male,24,https://dummyimage.com/102x880

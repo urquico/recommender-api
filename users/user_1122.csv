@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1122,John Johnson,sara53@example.com,2025-01-11 14:19:23.553580,2025-01-21 23:57:27.661799,Burtonhaven,Lesotho,female,64
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1122,David Caldwell,yluna@example.net,2025-01-03 22:09:14.199583,2025-01-26 09:31:20.976708,East Josephport,Lao People's Democratic Republic,male,28,https://dummyimage.com/911x284

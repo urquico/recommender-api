@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-124,Robert Foster,olsondaniel@example.net,2025-01-03 03:43:38.037893,2025-01-08 18:11:30.206569,South Robertahaven,Puerto Rico,male,41
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+124,Jason Davis,martinrenee@example.com,2025-01-15 06:59:41.845716,2025-01-07 06:57:14.538213,South Tiffany,Netherlands Antilles,male,68,https://picsum.photos/807/638

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1473,Robert Brewer,nbell@example.org,2025-02-02 13:50:27.718418,2025-01-16 23:14:31.615622,Meganshire,Zimbabwe,male,21
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1473,Richard Wallace,pacebrandon@example.net,2025-01-07 01:57:42.638902,2025-01-22 09:46:59.951273,Shannonton,Japan,female,73,https://dummyimage.com/492x987

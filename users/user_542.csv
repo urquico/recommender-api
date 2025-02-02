@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-542,Daniel Henry,williamsdarlene@example.org,2025-01-21 04:27:29.952596,2025-01-09 17:16:33.452229,Lake Todd,Djibouti,female,66
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+542,Mary Fuller,cunninghamtammy@example.com,2025-01-14 04:34:33.661576,2025-01-22 13:22:28.903010,Mercedesburgh,Christmas Island,male,60,https://picsum.photos/607/766

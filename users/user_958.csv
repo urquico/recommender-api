@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-958,Lawrence Sims,tracey81@example.com,2025-02-01 18:21:34.195538,2025-01-11 20:54:20.888198,Saraton,Finland,female,76
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+958,Amber Jackson,jweaver@example.net,2025-01-24 20:35:32.035473,2025-01-08 12:28:25.015582,Brendaport,Cuba,female,23,https://placekitten.com/404/912

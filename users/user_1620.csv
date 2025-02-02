@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1620,Shawn Lin,williamsjoanne@example.com,2025-01-04 12:35:38.382818,2025-01-07 07:12:24.135705,East Heatherport,Taiwan,female,47
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1620,Angela Wilson,danielle73@example.org,2025-01-13 10:44:30.178085,2025-02-02 21:41:56.239782,Port Rhondaland,Greece,male,28,https://placekitten.com/891/571

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1075,Teresa Young,jeffrey63@example.net,2025-01-15 15:04:49.243518,2025-01-14 10:43:59.354462,Port Teresaberg,Argentina,female,63
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1075,Robert Davenport,warmstrong@example.net,2025-01-20 13:26:47.358468,2025-01-11 22:35:53.510671,South Johntown,Russian Federation,female,28,https://dummyimage.com/516x820

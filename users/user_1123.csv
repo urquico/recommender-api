@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1123,Corey Thompson,pattersonnicole@example.net,2025-01-13 18:13:24.404975,2025-01-19 02:11:38.517452,West Robertborough,United States of America,female,32
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1123,Randall Jensen,yford@example.org,2025-01-08 06:00:57.285474,2025-01-04 05:23:04.618789,Luiston,Jordan,male,64,https://picsum.photos/576/332

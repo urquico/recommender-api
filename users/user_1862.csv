@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1862,Margaret Webb,vpadilla@example.org,2025-01-25 18:50:53.848262,2025-01-10 13:32:50.185654,Jordanport,Romania,male,63
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1862,Tara Mclaughlin,douglas98@example.net,2025-01-13 05:16:12.085738,2025-01-01 13:20:28.913046,West Mariefort,Chad,female,46,https://dummyimage.com/664x490

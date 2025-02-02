@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1036,Kimberly James,wrodriguez@example.org,2025-01-15 12:08:00.237904,2025-01-02 04:40:50.036802,West Johnland,Indonesia,female,74
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1036,Christopher Sanders,harrisrobert@example.net,2025-01-11 10:52:08.754881,2025-01-29 04:13:32.866184,Tracyport,French Southern Territories,female,50,https://dummyimage.com/171x890

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1427,David Calderon,smithmegan@example.net,2025-01-01 13:01:04.987189,2025-01-16 08:46:34.150075,Lewisland,Brazil,female,38
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1427,Charles Mendoza,dlopez@example.com,2025-01-26 00:19:32.451505,2025-01-20 09:22:29.344874,Underwoodport,Serbia,male,44,https://dummyimage.com/183x849

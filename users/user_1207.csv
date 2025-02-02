@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1207,Brad Contreras,alexanderhardy@example.net,2025-01-09 09:04:11.674917,2025-02-02 12:12:50.727410,Martinezfort,American Samoa,male,21
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1207,Michael Smith,donald37@example.org,2025-01-04 14:07:15.542358,2025-01-21 19:49:46.627957,Williamburgh,Nigeria,female,42,https://placekitten.com/936/300

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-251,Lindsey Vasquez,coxsarah@example.net,2025-01-18 11:49:42.795419,2025-01-18 19:24:31.637542,West Connormouth,Sao Tome and Principe,male,67
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+251,Raymond Roth,julie79@example.org,2025-01-28 23:25:48.416370,2025-01-15 14:37:05.169991,Stewartland,Palau,male,45,https://placekitten.com/546/485

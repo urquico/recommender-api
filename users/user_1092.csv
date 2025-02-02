@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1092,Carrie Palmer,edickson@example.net,2025-01-21 09:23:51.791755,2025-01-25 14:54:33.536284,East Claudiaton,Estonia,male,23
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1092,Linda Smith,gatescynthia@example.org,2025-01-03 07:40:49.700010,2025-01-10 20:49:49.738156,Port David,Switzerland,female,60,https://picsum.photos/71/276

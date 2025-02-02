@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1194,Christy Fletcher,owensconnie@example.com,2025-01-14 13:19:27.195499,2025-01-21 15:02:47.987860,Ellisonberg,Guyana,male,25
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1194,James Morris,desireeschwartz@example.net,2025-01-12 03:10:49.784770,2025-01-23 06:14:33.728842,Rodriguezport,United States Minor Outlying Islands,male,70,https://dummyimage.com/798x1010

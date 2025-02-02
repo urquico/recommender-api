@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1321,Marc Marks,bjones@example.com,2025-01-25 21:10:42.545573,2025-01-12 08:23:51.311020,Lunaside,Solomon Islands,male,41
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1321,William Woods,cnorman@example.com,2025-01-05 19:25:11.884994,2025-02-02 00:55:12.234144,Port Aaron,Falkland Islands (Malvinas),female,19,https://placekitten.com/176/166

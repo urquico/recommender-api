@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-451,Brandon Smith,cassiesingleton@example.org,2025-01-12 18:18:34.077001,2025-01-04 09:33:31.342753,Lake Joshuafurt,Bahamas,female,21
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+451,Margaret Davis,nanderson@example.org,2025-01-08 22:41:06.876455,2025-01-08 10:43:05.348121,Port Chadborough,Guernsey,female,52,https://dummyimage.com/416x862

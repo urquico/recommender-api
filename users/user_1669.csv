@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1669,Aaron Johnson,xtorres@example.org,2025-02-02 16:39:39.135002,2025-01-12 06:08:20.065509,West Frederick,Mongolia,female,18
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1669,Kathleen Bender,qdavis@example.org,2025-01-08 06:49:34.505308,2025-01-17 02:55:47.603426,East Eric,Bhutan,female,35,https://placekitten.com/647/869

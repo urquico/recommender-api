@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1751,Brenda Edwards,ewoods@example.net,2025-01-13 22:46:55.534198,2025-01-22 10:48:48.083055,Mejiaport,Bosnia and Herzegovina,male,35
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1751,Tim Buck,obrown@example.org,2025-01-12 09:09:27.051342,2025-01-31 23:53:00.742908,Joseport,Romania,female,25,https://dummyimage.com/234x0

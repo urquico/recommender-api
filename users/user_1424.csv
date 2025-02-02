@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1424,Kristina Duarte,haysnancy@example.com,2025-01-06 02:39:27.593739,2025-01-24 22:49:23.355067,Port Edward,Grenada,female,66
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1424,Keith Johnson,cvillanueva@example.net,2025-01-04 09:25:21.293288,2025-01-04 02:26:26.342125,Cristinastad,British Indian Ocean Territory (Chagos Archipelago),male,78,https://picsum.photos/803/688

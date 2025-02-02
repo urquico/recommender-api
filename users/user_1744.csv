@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1744,Christian Walker,shelbygarcia@example.com,2025-02-02 12:37:13.705742,2025-01-10 13:39:42.721951,Port Aliciamouth,Gibraltar,female,19
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1744,Henry Santana,michael84@example.com,2025-01-04 16:18:36.197847,2025-01-16 05:47:35.368601,Port Ana,Cuba,female,41,https://picsum.photos/262/709

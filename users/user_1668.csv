@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1668,Kimberly Rosales,brian01@example.com,2025-01-15 12:27:50.813654,2025-01-12 21:54:28.297006,Hinesburgh,Chad,male,33
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1668,Angela Bradley,ashleycampbell@example.net,2025-01-23 14:34:38.393071,2025-01-12 23:18:41.143156,South Emily,Armenia,female,70,https://placekitten.com/419/1000

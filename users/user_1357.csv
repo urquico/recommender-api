@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1357,Chelsey Hines,timothy64@example.com,2025-01-29 11:46:03.347745,2025-01-24 06:23:22.172754,Christopherton,Seychelles,female,50
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1357,Virginia Mccoy,angelahill@example.org,2025-01-23 19:29:43.923755,2025-01-28 15:52:04.811926,Christophermouth,Bhutan,male,31,https://placekitten.com/461/934

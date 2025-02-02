@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1368,Miranda Green,denise22@example.com,2025-01-07 01:51:43.370522,2025-01-07 23:38:33.244836,Patriciamouth,Germany,male,24
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1368,Christopher Rodriguez,teresa85@example.com,2025-02-02 15:12:58.483212,2025-01-13 21:10:27.597651,East Adambury,Palau,female,28,https://dummyimage.com/588x62

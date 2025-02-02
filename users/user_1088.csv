@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1088,Patricia Gordon,elizabethkelly@example.com,2025-01-15 14:28:12.605054,2025-01-29 09:52:49.519270,North Damon,Turkey,female,35
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1088,Ryan Nolan,keithmichelle@example.org,2025-01-24 16:23:52.982411,2025-01-03 11:18:44.677798,New Kevinville,Spain,female,23,https://picsum.photos/256/158

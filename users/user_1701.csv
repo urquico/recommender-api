@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1701,Scott Fisher,jessicawilliams@example.net,2025-01-23 13:05:56.964493,2025-01-25 11:34:37.131585,Richardtown,Palau,female,41
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1701,Christina Harding,jnorris@example.net,2025-01-07 23:28:21.554525,2025-01-02 20:42:32.825077,South Lukehaven,Saint Martin,female,48,https://placekitten.com/264/400

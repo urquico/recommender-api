@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-280,Danny Joseph,hferguson@example.net,2025-01-30 21:46:59.643374,2025-01-07 14:31:40.135426,Pittsside,Liberia,female,75
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+280,Hector Hill,ccunningham@example.net,2025-01-04 09:22:22.458724,2025-01-15 06:15:00.170509,Scottland,Libyan Arab Jamahiriya,female,37,https://picsum.photos/756/377

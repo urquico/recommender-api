@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-965,Randall Hughes DVM,cynthiaparker@example.org,2025-01-12 05:16:23.633204,2025-01-16 12:58:51.857733,South Katelyn,Cyprus,male,47
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+965,Katherine Trujillo,twalker@example.org,2025-01-25 19:26:22.960349,2025-01-15 18:13:09.860663,Davidside,Mexico,female,43,https://dummyimage.com/417x261

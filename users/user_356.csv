@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-356,Kathryn Meadows,trevinojustin@example.com,2025-01-02 18:03:15.161967,2025-02-01 08:25:25.261627,North Lawrenceport,Central African Republic,female,72
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+356,Dana Bond,david41@example.org,2025-01-02 04:49:57.409230,2025-01-19 05:39:33.008629,Lake Kara,Tanzania,female,25,https://picsum.photos/381/536

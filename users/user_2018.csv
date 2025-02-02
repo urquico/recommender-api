@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2018,Steven Kelley,amy34@example.net,2025-01-03 12:40:08.712585,2025-01-29 15:02:46.760686,Antonioside,Svalbard & Jan Mayen Islands,male,61
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2018,Kristen Sutton,hfreeman@example.org,2025-01-08 03:17:33.740995,2025-01-27 11:06:53.596956,Michaelberg,Zambia,male,56,https://dummyimage.com/990x47

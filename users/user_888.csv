@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-888,Kayla Williams,kyle07@example.com,2025-01-26 03:32:31.109448,2025-01-21 22:27:11.772509,Medinaborough,Christmas Island,female,27
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+888,Ashley Brown,keith81@example.com,2025-01-23 03:17:52.900253,2025-01-02 08:46:05.022614,West Paulton,Australia,female,30,https://picsum.photos/811/608

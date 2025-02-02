@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1957,Debra Campos,ldelgado@example.com,2025-01-29 23:24:39.977391,2025-01-09 23:20:48.553255,Stephaniefort,Zambia,female,72
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1957,Valerie Dickerson,jacob06@example.org,2025-01-02 06:09:29.483731,2025-01-10 19:42:58.110163,Craneville,Lesotho,female,27,https://placekitten.com/257/670

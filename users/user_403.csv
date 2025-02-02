@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-403,Lisa Lopez,urodriguez@example.net,2025-01-01 15:50:30.161452,2025-01-28 21:15:59.354908,East Nicole,Mauritius,male,68
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+403,Destiny Rice,ryan83@example.net,2025-01-24 06:29:05.117016,2025-02-02 01:30:25.913150,South Amyport,Cape Verde,male,69,https://dummyimage.com/657x690

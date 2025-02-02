@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-902,David Davis,andrewgarcia@example.net,2025-01-18 05:23:58.944345,2025-01-26 10:57:36.731798,Richardmouth,Aruba,male,43
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+902,Stephanie Klein,stephensonbradley@example.com,2025-01-19 21:17:22.129081,2025-01-09 01:28:48.210901,Elijahfort,Gambia,male,73,https://picsum.photos/412/184

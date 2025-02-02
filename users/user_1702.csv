@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1702,Christina Moss,elizabethjones@example.net,2025-01-27 16:16:00.114012,2025-02-01 22:26:10.195695,Marshallborough,Venezuela,male,19
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1702,John Davis,lori80@example.net,2025-02-01 08:27:47.497487,2025-01-07 22:16:55.699263,Castillofurt,Tanzania,female,73,https://picsum.photos/542/156

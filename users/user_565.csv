@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-565,Mary Fernandez,ajones@example.net,2025-01-24 06:00:07.247491,2025-01-06 01:38:46.094441,Robertport,Malaysia,female,41
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+565,Dylan Brooks,dtaylor@example.net,2025-02-01 23:07:10.366480,2025-01-14 00:27:05.777201,West Bryanmouth,Belarus,male,50,https://dummyimage.com/774x105

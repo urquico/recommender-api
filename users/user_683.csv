@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-683,Henry Chapman,jonathanjackson@example.com,2025-01-24 19:53:59.657733,2025-01-23 01:33:37.299740,Smithland,Gabon,female,21
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+683,Randall Kelly,tanyajones@example.com,2025-01-15 16:43:29.707525,2025-01-27 19:30:19.570931,Melaniefurt,Azerbaijan,female,63,https://picsum.photos/779/789

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1834,Nicole Greer,debbie91@example.net,2025-01-23 12:03:59.207668,2025-01-30 16:24:59.057998,Pricefort,Fiji,male,77
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1834,Laura Buchanan DDS,anthony73@example.com,2025-01-26 21:53:07.643203,2025-01-07 15:58:30.149361,Port Brittanyhaven,Tajikistan,male,63,https://placekitten.com/740/501

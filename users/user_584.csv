@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-584,Todd Allen,rachelescobar@example.net,2025-01-17 05:34:45.375524,2025-01-31 04:35:18.269063,North Andrewshire,Antarctica (the territory South of 60 deg S),male,55
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+584,Kayla Brown,palmerbrittany@example.org,2025-01-01 09:04:21.678580,2025-01-10 20:16:53.435628,West Michaelville,Antigua and Barbuda,male,79,https://placekitten.com/533/370

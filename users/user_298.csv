@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-298,Derek Brooks,joshua52@example.net,2025-01-16 19:57:06.164476,2025-01-03 14:53:51.510341,Lake Davidberg,Lao People's Democratic Republic,male,52
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+298,William Clark,watsonchristine@example.org,2025-01-21 01:58:57.603506,2025-01-21 07:07:57.603192,West Seanland,Heard Island and McDonald Islands,female,58,https://placekitten.com/703/656

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1047,Connor Charles,samuelclark@example.org,2025-01-17 04:07:08.816033,2025-01-03 23:36:02.211036,Port Patriciaton,Burundi,male,18
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1047,Kylie Sanchez,tsmith@example.com,2025-01-17 01:58:07.881193,2025-01-26 10:46:50.614268,West Jessicaview,Bosnia and Herzegovina,female,50,https://picsum.photos/195/625

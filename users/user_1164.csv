@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1164,Brendan Weeks,rharris@example.net,2025-01-08 12:07:37.817531,2025-01-07 06:30:11.664146,Donnamouth,Vanuatu,male,66
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1164,Kelsey Walton,william39@example.com,2025-02-02 01:59:13.696263,2025-01-09 13:44:56.059461,Salinasfort,Iraq,female,56,https://placekitten.com/108/898

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-477,Richard Garrison,operez@example.com,2025-01-18 09:51:55.152560,2025-01-30 10:13:43.715212,West Janet,Puerto Rico,female,26
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+477,Edward Hawkins,eric20@example.net,2025-01-16 14:17:44.118861,2025-01-16 06:04:47.169427,Simpsonshire,Azerbaijan,male,25,https://dummyimage.com/857x273

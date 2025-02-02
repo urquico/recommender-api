@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-900,Stephen Alexander,jlee@example.net,2025-01-07 20:22:56.093861,2025-02-02 19:26:52.434243,South Vincent,Comoros,female,47
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+900,Christopher Reed,christina77@example.net,2025-01-25 12:11:50.952017,2025-01-20 06:55:07.827900,North Davidborough,Samoa,female,44,https://picsum.photos/970/362

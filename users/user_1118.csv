@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1118,Julie Chavez,villarrealmelissa@example.org,2025-01-12 23:15:23.151866,2025-01-20 16:23:34.228221,Jenniferbury,Latvia,male,49
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1118,Dylan Hoffman,osbornalexander@example.com,2025-01-28 19:32:16.862274,2025-01-12 22:26:59.821536,Port Timothy,Mexico,female,42,https://dummyimage.com/710x137

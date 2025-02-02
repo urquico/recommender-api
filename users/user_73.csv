@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-73,Joshua Knox,clarkcharles@example.com,2025-01-08 12:21:58.592169,2025-01-16 14:15:53.095186,Andersonton,American Samoa,female,27
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+73,Sabrina Mckinney,renee15@example.net,2025-01-23 14:55:57.098906,2025-02-02 15:31:12.174790,Jenniferchester,United Arab Emirates,male,49,https://picsum.photos/198/774

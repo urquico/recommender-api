@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1840,Robert Johnson,ndunn@example.com,2025-01-31 12:49:40.132958,2025-01-28 21:56:05.136008,East Julian,Turkmenistan,male,45
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1840,Jordan Clark,nicholas59@example.net,2025-01-30 06:44:57.386710,2025-01-20 15:27:50.988963,Brownfort,Kenya,female,50,https://picsum.photos/401/249

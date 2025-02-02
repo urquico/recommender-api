@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-583,Michael Davis,staceymontgomery@example.com,2025-01-30 16:11:59.596267,2025-01-23 12:42:08.071814,Dunnmouth,Saint Pierre and Miquelon,female,57
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+583,Lisa Garcia,belltheresa@example.org,2025-01-06 21:27:46.475771,2025-01-05 05:43:55.724539,Lewiston,Liechtenstein,female,25,https://picsum.photos/675/903

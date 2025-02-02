@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-746,Christopher White Jr.,mary81@example.org,2025-01-07 02:11:13.610026,2025-01-06 19:28:50.600765,East Beth,Pakistan,female,24
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+746,Sarah James,martinjeremy@example.net,2025-01-24 13:53:04.847717,2025-02-01 03:19:32.079799,South Stephentown,Iraq,female,58,https://placekitten.com/278/820

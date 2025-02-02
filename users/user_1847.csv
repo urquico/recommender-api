@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1847,Ryan Ruiz,conniemckenzie@example.net,2025-01-28 22:49:37.857267,2025-01-09 11:33:44.819500,Port Megan,Heard Island and McDonald Islands,male,39
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1847,Gregory Martinez,poncebrittany@example.org,2025-01-12 04:36:53.029720,2025-01-14 18:11:35.925820,Joseton,Nicaragua,male,76,https://picsum.photos/238/55

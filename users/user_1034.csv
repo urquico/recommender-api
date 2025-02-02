@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1034,Shannon Nelson,wfernandez@example.org,2025-01-14 23:01:39.172877,2025-01-03 18:26:03.251243,Forbesbury,Mali,male,65
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1034,Todd Garza,phillipschristine@example.net,2025-01-07 05:19:13.157820,2025-01-17 06:01:29.828830,Gonzalesville,Burkina Faso,female,36,https://picsum.photos/986/539

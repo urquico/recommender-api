@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-452,Shannon Franklin,traceywoodard@example.net,2025-01-31 15:45:25.491219,2025-01-31 06:04:17.247166,North Amanda,Cocos (Keeling) Islands,male,57
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+452,Christopher Smith,pmiller@example.net,2025-01-28 10:44:09.753587,2025-01-25 22:07:49.681050,West Kimberlyview,Bolivia,male,28,https://dummyimage.com/610x402

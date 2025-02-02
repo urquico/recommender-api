@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1098,Shane Romero,jeremyrodriguez@example.com,2025-01-29 01:44:58.364756,2025-01-02 22:27:14.169985,Whitefort,Qatar,female,63
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1098,Mr. Daniel Reynolds,amay@example.net,2025-01-04 08:24:36.628993,2025-01-06 10:42:10.256327,Samanthaborough,Sao Tome and Principe,male,25,https://placekitten.com/778/835

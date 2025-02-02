@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1226,Caitlin Smith,kevinarcher@example.net,2025-01-27 23:57:27.905095,2025-01-08 20:32:15.614842,Allenstad,Morocco,female,58
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1226,Angela Morrison,richardsoncharles@example.com,2025-01-31 09:36:14.483926,2025-01-02 09:57:01.980663,Merritthaven,Brunei Darussalam,female,64,https://placekitten.com/742/893

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-912,Tanya Johnson,kathleenrobinson@example.org,2025-01-12 07:17:19.499471,2025-01-22 07:27:36.856904,Jessicaberg,French Guiana,female,28
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+912,Annette Romero,richardholder@example.net,2025-01-01 22:53:59.255884,2025-01-09 05:52:41.607109,Kellerborough,Saint Martin,female,24,https://dummyimage.com/539x156

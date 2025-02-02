@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-52,Lisa Yu,garyhines@example.org,2025-01-01 10:11:15.906207,2025-01-21 14:24:09.963607,Lake Claudiamouth,Tonga,female,69
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+52,Natalie Freeman,hmorse@example.net,2025-01-24 01:04:49.746181,2025-01-20 23:53:55.842077,South Joshua,Botswana,female,70,https://picsum.photos/37/495

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1132,Amanda Young,mlane@example.com,2025-01-19 17:14:11.394244,2025-01-23 05:14:32.823839,Danaside,Jamaica,female,59
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1132,Sarah Porter,kbuchanan@example.org,2025-01-14 17:03:22.676898,2025-02-01 14:54:53.195097,Lake John,Azerbaijan,male,63,https://placekitten.com/241/1011

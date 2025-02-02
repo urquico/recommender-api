@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1558,Edward Gonzalez,alexanderwilcox@example.org,2025-01-07 18:12:11.825982,2025-01-17 07:00:16.396127,Evanland,Hungary,male,22
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1558,Victoria Smith,colejustin@example.com,2025-01-13 14:54:18.356278,2025-01-14 02:48:40.209437,Rogerland,Namibia,female,38,https://picsum.photos/819/625

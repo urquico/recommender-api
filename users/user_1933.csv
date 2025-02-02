@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1933,Joshua Shelton,cmoore@example.com,2025-01-18 03:24:09.647407,2025-01-01 09:16:34.698753,East Micheleberg,Nauru,female,33
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1933,Michael Miller,craigrobinson@example.org,2025-01-12 23:58:12.279934,2025-01-15 19:13:47.113021,East Lisa,Papua New Guinea,male,35,https://placekitten.com/700/282

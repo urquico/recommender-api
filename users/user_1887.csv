@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1887,Katrina Huber,koconnell@example.net,2025-01-04 10:38:59.219014,2025-01-17 20:02:56.880094,Joshuafurt,Gibraltar,male,48
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1887,John Clark,jasonrodriguez@example.com,2025-01-11 04:29:29.370868,2025-01-02 12:16:51.257417,Bellhaven,Reunion,male,29,https://picsum.photos/307/369

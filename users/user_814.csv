@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-814,Ryan Allen,anitaellison@example.com,2025-01-28 12:52:49.638799,2025-01-24 04:47:01.875867,West John,Honduras,male,24
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+814,Carl Erickson,laurenallen@example.com,2025-01-13 03:15:09.081698,2025-01-26 23:10:03.772682,Lake Stevenborough,Wallis and Futuna,female,27,https://dummyimage.com/476x127

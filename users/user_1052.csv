@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1052,Donald Perez,riddleaaron@example.org,2025-01-08 16:28:16.313585,2025-01-02 14:57:19.251888,New Nataliemouth,Israel,male,22
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1052,Diane Perez,nicole53@example.net,2025-01-11 08:29:11.879943,2025-01-12 17:21:21.256857,Burkebury,Madagascar,male,57,https://placekitten.com/218/433

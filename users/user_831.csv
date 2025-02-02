@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-831,Brian Spears,youngnicole@example.com,2025-01-25 18:27:40.743883,2025-01-07 09:36:39.585941,Fosterborough,Montserrat,male,55
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+831,Lisa Kaufman,fmcbride@example.net,2025-01-23 00:40:16.912416,2025-01-27 20:49:24.529104,South Kimberlymouth,Libyan Arab Jamahiriya,male,53,https://picsum.photos/509/712

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1195,Kimberly Hancock,melanierussell@example.net,2025-01-21 13:03:54.094223,2025-01-12 07:39:01.358769,Tiffanystad,Guatemala,female,64
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1195,Kathleen Miller,nancy51@example.org,2025-01-05 02:30:12.724100,2025-01-10 01:36:40.089215,New Alexandra,Burundi,female,58,https://dummyimage.com/218x754

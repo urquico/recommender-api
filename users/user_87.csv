@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-87,Deborah Allen,daniel24@example.org,2025-01-29 14:14:49.933889,2025-01-03 13:45:12.830270,Lake Randyfort,Armenia,female,79
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+87,Mrs. Pamela Brown DDS,fwalsh@example.org,2025-01-27 05:59:57.802956,2025-01-15 04:35:26.807259,North Jasmineton,South Georgia and the South Sandwich Islands,female,39,https://placekitten.com/773/41

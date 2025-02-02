@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-529,Mary Horn,jennifer68@example.org,2025-01-01 08:28:37.015499,2025-01-26 18:49:30.931572,Port Stevechester,Dominican Republic,male,48
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+529,Jennifer Johnson,billbarnes@example.net,2025-01-24 18:23:39.312201,2025-01-15 21:17:46.721297,Stephaniestad,Eritrea,male,42,https://picsum.photos/986/735

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-165,Thomas Shelton,pstevenson@example.org,2025-01-16 16:23:02.268644,2025-01-08 21:14:12.309515,Joshuaborough,Ireland,male,47
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+165,Christopher Chan,danielskaren@example.net,2025-01-18 15:29:50.331640,2025-02-01 01:51:09.335348,Richardstad,Iceland,female,75,https://placekitten.com/965/121

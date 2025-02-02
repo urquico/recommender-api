@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1153,Kylie Gonzalez,rdiaz@example.com,2025-01-29 09:27:41.778386,2025-01-05 17:32:37.476417,South Cassandra,Reunion,female,21
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1153,Carla Lopez,jamestran@example.net,2025-01-27 07:49:14.914264,2025-01-16 23:12:17.404775,West Debraberg,Ethiopia,male,58,https://dummyimage.com/333x1023

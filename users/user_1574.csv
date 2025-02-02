@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1574,Ryan Sweeney,frank18@example.com,2025-01-17 07:09:09.323725,2025-02-02 10:20:40.359291,East Joshuastad,Sierra Leone,female,35
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1574,Mr. Peter Harvey,timothy92@example.org,2025-01-08 06:56:47.355651,2025-01-27 05:46:29.168820,South Ruthbury,Luxembourg,male,41,https://placekitten.com/863/831

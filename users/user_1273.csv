@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1273,Evan Kennedy,haysmichele@example.com,2025-01-08 14:10:13.400177,2025-01-09 05:57:39.025012,South Caitlintown,Denmark,male,49
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1273,Cynthia Bryant,meyerphillip@example.org,2025-01-30 16:31:26.117388,2025-01-09 06:51:20.126743,Gibsonchester,Central African Republic,male,41,https://dummyimage.com/253x478

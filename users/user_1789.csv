@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1789,Chris Thomas,wilkinsonjames@example.net,2025-01-29 04:10:35.080192,2025-01-28 02:27:00.639080,Roachchester,Isle of Man,female,49
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1789,Robert Stanton,lewisaaron@example.org,2025-01-12 10:42:29.789470,2025-01-16 01:02:05.813819,Mayoberg,Chile,female,34,https://picsum.photos/733/277

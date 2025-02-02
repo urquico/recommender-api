@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1272,Derek Frazier,brianhenry@example.net,2025-01-13 02:42:27.151451,2025-01-18 12:58:52.627197,Maryborough,Finland,female,43
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1272,Nicole Anderson,porterjesse@example.com,2025-02-01 13:30:29.461921,2025-01-14 03:12:50.056891,Phillipburgh,Falkland Islands (Malvinas),female,47,https://dummyimage.com/154x621

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1869,Connie Martinez,eramirez@example.net,2025-01-23 05:50:02.713143,2025-01-23 14:21:00.293322,South Jennifer,Malawi,male,36
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1869,John Lin,jamesbell@example.com,2025-01-11 03:29:24.339347,2025-01-25 00:37:44.476063,Parkland,Sri Lanka,male,28,https://placekitten.com/276/104

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-347,Carlos Walker,hurleyleslie@example.net,2025-01-24 20:32:10.935085,2025-02-01 11:58:34.270283,Williamhaven,Armenia,female,74
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+347,Megan Wilkerson,ldouglas@example.net,2025-01-17 21:01:01.419016,2025-01-15 20:33:54.829961,New Stacey,Saint Vincent and the Grenadines,male,23,https://placekitten.com/603/706

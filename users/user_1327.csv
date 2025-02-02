@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1327,Brandon Hahn,samantha98@example.org,2025-01-05 20:36:42.601991,2025-01-01 05:42:47.333450,West Carlmouth,Anguilla,female,71
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1327,Angela Washington,htaylor@example.com,2025-01-04 06:52:35.276444,2025-02-01 13:24:42.691628,Deleonland,Switzerland,female,73,https://dummyimage.com/778x679

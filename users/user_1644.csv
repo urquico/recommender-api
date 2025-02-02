@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1644,Cynthia Salinas,dennismora@example.net,2025-01-24 11:18:01.871486,2025-01-20 01:28:04.445519,Andreahaven,French Polynesia,female,61
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1644,Patricia Dixon,kristensmith@example.com,2025-01-22 12:28:21.552621,2025-01-10 06:05:16.307078,Salazarfort,Burkina Faso,male,26,https://picsum.photos/702/505

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-567,Austin Kim,colevalerie@example.com,2025-01-26 06:16:14.069005,2025-01-10 20:45:12.400328,Craigbury,Guadeloupe,male,73
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+567,Mark Combs DVM,bthomas@example.com,2025-01-29 22:34:36.377791,2025-01-09 22:15:41.215878,Lake Michaelshire,Montenegro,male,64,https://picsum.photos/467/807

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-708,Suzanne Compton,michael00@example.net,2025-01-23 16:34:26.356527,2025-01-09 07:03:48.018400,New Paul,India,female,33
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+708,Bruce Hughes,stonedevin@example.org,2025-01-17 03:59:16.516926,2025-01-27 05:47:05.556999,Richardstad,Belgium,male,26,https://dummyimage.com/677x560

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1429,Deborah Mcfarland,cassandra53@example.com,2025-01-03 06:29:55.200881,2025-01-07 01:32:37.486862,Ryanburgh,United States of America,male,78
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1429,Elizabeth Henderson,cantrelljoyce@example.org,2025-01-26 13:03:51.266415,2025-01-23 00:48:21.114682,Devinview,Puerto Rico,male,61,https://picsum.photos/460/433

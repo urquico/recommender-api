@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-322,Charles Lopez,allen51@example.org,2025-01-03 14:40:10.987939,2025-01-02 23:31:09.654042,Greenton,Latvia,female,36
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+322,Edward Russell,ronald13@example.org,2025-01-25 03:27:38.182086,2025-01-13 02:58:15.716970,West Nancy,Belize,male,53,https://picsum.photos/695/146

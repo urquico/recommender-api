@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1256,Victor Taylor,lindsey15@example.net,2025-01-24 14:00:43.334047,2025-01-31 11:27:29.744979,New Steventon,Burkina Faso,male,76
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1256,Kari Jackson,qadams@example.com,2025-01-01 09:47:47.660783,2025-01-07 20:23:02.095962,Dennisburgh,Sri Lanka,male,43,https://dummyimage.com/59x43

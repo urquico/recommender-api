@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-589,Kayla Hale DDS,vkoch@example.net,2025-01-10 17:51:12.489537,2025-01-09 12:27:07.371098,Mezaside,Ireland,male,31
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+589,Ronald Cardenas,jose66@example.org,2025-01-29 19:47:00.725029,2025-01-07 02:13:38.096681,East Thomasville,Malawi,male,25,https://dummyimage.com/944x684

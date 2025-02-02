@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1511,Drew Hart,rmills@example.com,2025-01-13 23:09:17.835430,2025-01-23 17:20:37.669824,Hannahland,Libyan Arab Jamahiriya,female,80
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1511,Joshua Caldwell,vhiggins@example.net,2025-01-11 09:55:54.275456,2025-01-28 16:47:59.205632,East Anamouth,Kuwait,female,65,https://dummyimage.com/232x446

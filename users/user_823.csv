@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-823,Kathryn Mejia,monicabrewer@example.org,2025-01-03 10:51:41.459739,2025-01-07 20:35:07.688683,South Margarettown,Finland,female,67
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+823,Mr. Nathan Farmer MD,dyermichael@example.net,2025-01-26 06:34:00.998965,2025-01-19 14:47:34.568367,New Sarahville,Saint Pierre and Miquelon,female,79,https://placekitten.com/688/484

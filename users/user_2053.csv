@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2053,Lisa Collier,fbrown@example.net,2025-02-02 18:24:14.658688,2025-01-27 00:07:35.815307,Ericaville,Japan,male,76
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2053,Dorothy Lee,charlesjackson@example.com,2025-01-12 23:47:55.660277,2025-01-23 23:52:10.081717,Austinberg,Central African Republic,male,72,https://dummyimage.com/465x497

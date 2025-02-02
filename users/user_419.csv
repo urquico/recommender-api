@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-419,Aimee Williams,ephillips@example.net,2025-01-31 01:20:15.914639,2025-01-30 21:55:30.287328,South Bridgetberg,Uzbekistan,male,58
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+419,Curtis Moon,christopher48@example.net,2025-01-31 03:44:15.286898,2025-01-25 16:41:21.420371,Port Martinfurt,Belgium,male,61,https://picsum.photos/978/525

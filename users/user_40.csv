@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-40,Steven Odom,leonchristy@example.org,2025-01-28 12:09:09.166774,2025-01-05 01:45:55.242561,East Jeanmouth,India,male,23
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+40,Shawn Bishop,monica13@example.net,2025-01-19 22:35:02.031399,2025-01-07 20:09:17.036813,Perezton,Saint Helena,female,69,https://dummyimage.com/472x195

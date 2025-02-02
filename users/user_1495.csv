@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1495,Janet Savage,mpayne@example.net,2025-01-23 13:33:44.466735,2025-01-18 03:37:04.549733,Williamsport,Gibraltar,male,55
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1495,Ms. Heather Sanchez,mitchellgarcia@example.org,2025-01-06 04:51:47.151047,2025-01-14 00:24:12.482945,Kimfort,Venezuela,female,64,https://picsum.photos/317/322

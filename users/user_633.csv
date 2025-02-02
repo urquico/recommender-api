@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-633,Richard King,jenniferrivera@example.org,2025-01-08 08:11:22.703009,2025-01-05 21:00:47.789722,East Alfredfurt,Kenya,male,24
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+633,Rebecca Kelly,travisrodriguez@example.net,2025-02-01 10:15:46.097816,2025-01-03 01:37:36.858350,Wiseport,Kuwait,female,61,https://dummyimage.com/935x633

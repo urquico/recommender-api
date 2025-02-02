@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1517,Whitney Shelton,ublake@example.org,2025-01-03 02:28:29.857442,2025-01-30 07:59:20.458145,Stephensstad,Saint Kitts and Nevis,male,37
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1517,Amanda Daniels,matthewallen@example.org,2025-01-01 03:12:31.226814,2025-01-22 19:45:34.423683,West Brittany,British Indian Ocean Territory (Chagos Archipelago),female,42,https://placekitten.com/79/677

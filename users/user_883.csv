@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-883,Beth Chapman,williamsamanda@example.org,2025-01-20 15:22:07.778927,2025-01-09 04:33:50.276733,Matthewberg,Qatar,female,76
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+883,Nathan Cook,michealrowland@example.org,2025-01-11 11:54:45.229314,2025-01-09 18:30:50.544691,Port Scottland,Sudan,male,20,https://placekitten.com/869/554

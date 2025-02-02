@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1878,Carrie Moyer,quinntammy@example.org,2025-01-23 02:35:50.808895,2025-01-07 10:13:46.790215,Masonbury,Anguilla,male,35
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1878,Wayne Roberts,braunmark@example.net,2025-01-29 12:07:14.823588,2025-01-31 04:23:00.912360,Kristenhaven,Norway,female,58,https://picsum.photos/969/1005

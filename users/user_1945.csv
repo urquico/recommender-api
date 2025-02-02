@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1945,David Holden,christopherherman@example.net,2025-01-03 03:28:10.826157,2025-01-04 01:20:45.855177,Moorehaven,Mozambique,female,33
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1945,Megan Bryant,sandovalkevin@example.org,2025-01-14 02:29:47.551215,2025-01-04 19:43:07.116095,Jackmouth,Slovenia,female,28,https://picsum.photos/15/275

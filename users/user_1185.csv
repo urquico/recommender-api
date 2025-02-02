@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1185,Joseph Gomez,fmeyers@example.net,2025-01-28 00:40:32.057938,2025-02-01 01:51:07.316308,North Andrew,Moldova,male,46
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1185,Brandon Cabrera,xavierwatts@example.net,2025-01-24 20:28:14.070526,2025-01-05 23:41:08.244986,Lake Douglas,Gambia,female,48,https://placekitten.com/526/707

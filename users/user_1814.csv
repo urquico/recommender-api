@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1814,James Shaw,thomasbriana@example.com,2025-01-21 13:29:15.952626,2025-01-13 19:26:43.473541,South Taylormouth,Thailand,female,23
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1814,Shane Barton,ysmith@example.com,2025-01-24 17:14:41.467792,2025-01-07 04:29:42.394615,Phambury,Finland,female,77,https://placekitten.com/852/282

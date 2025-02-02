@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1535,Desiree Reeves,carpentercarlos@example.com,2025-01-05 21:49:19.282031,2025-01-04 15:30:20.038791,New Lauren,Philippines,female,60
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1535,Peter Reed,glasskimberly@example.com,2025-01-20 12:38:16.798432,2025-01-24 06:04:37.167175,Georgehaven,Saudi Arabia,male,57,https://picsum.photos/991/870

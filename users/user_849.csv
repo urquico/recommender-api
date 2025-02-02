@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-849,Matthew Gentry,donnacompton@example.net,2025-01-03 18:24:56.838615,2025-01-27 02:43:07.797386,East Micheleshire,Heard Island and McDonald Islands,male,55
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+849,Edward Ball,delacruzmatthew@example.org,2025-01-20 07:37:09.640825,2025-01-15 11:00:59.669637,Clarkeburgh,Liberia,female,68,https://picsum.photos/660/186

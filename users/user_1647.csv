@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1647,Michelle Yang,joelweber@example.com,2025-01-22 20:20:03.661503,2025-01-22 03:15:42.152234,West Melissa,Burundi,male,57
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1647,Audrey Bryant,allenjerome@example.net,2025-01-15 22:33:35.169748,2025-01-29 21:09:35.768542,Nicholaston,Sao Tome and Principe,male,53,https://picsum.photos/432/376

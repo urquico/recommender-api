@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-122,Rhonda Olson,hammondstefanie@example.com,2025-01-12 09:38:16.882091,2025-01-14 06:04:09.889620,North Mary,Denmark,male,59
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+122,Jeremy Hughes,thomaswilson@example.org,2025-01-27 09:15:15.895635,2025-01-08 12:47:16.405749,Lake Betty,Cambodia,female,25,https://picsum.photos/209/880

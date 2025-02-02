@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2068,Michelle Jacobs,james59@example.com,2025-01-24 03:05:39.368904,2025-02-02 04:48:31.393898,Maryfurt,Anguilla,female,77
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2068,Timothy Grant,fmccarthy@example.net,2025-01-29 01:11:50.716754,2025-01-15 01:44:32.238765,South Hunterview,Slovakia (Slovak Republic),male,38,https://picsum.photos/534/295

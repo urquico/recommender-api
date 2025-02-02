@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-766,Nicole Wright,marymiller@example.com,2025-01-16 15:38:44.974938,2025-01-28 22:28:04.877856,Williamfort,Belarus,male,78
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+766,Madison Eaton,deborah68@example.net,2025-01-19 07:33:32.143661,2025-01-16 04:40:39.886677,North Tanya,Antigua and Barbuda,male,79,https://dummyimage.com/451x641

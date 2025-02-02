@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-342,Hannah Francis,michaeledwards@example.net,2025-01-06 00:38:27.115222,2025-01-31 03:58:40.066211,Lake Gerald,Turkmenistan,male,61
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+342,James Griffin,rogerschristopher@example.net,2025-01-15 12:07:47.242744,2025-01-01 06:50:32.229479,Fischermouth,New Zealand,female,55,https://dummyimage.com/520x822

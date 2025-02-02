@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-297,Leon Smith,alyssayoung@example.net,2025-01-11 15:34:45.992579,2025-01-29 01:31:37.459749,New Caroline,India,male,50
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+297,Jamie Fitzgerald,dennisjay@example.com,2025-01-25 12:03:52.038964,2025-01-12 02:55:07.857882,Port Jason,Burundi,male,64,https://placekitten.com/812/717

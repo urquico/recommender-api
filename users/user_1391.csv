@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1391,Martin Ho,zmartin@example.org,2025-01-15 12:19:12.562829,2025-01-08 10:09:25.604426,Millerburgh,Bolivia,female,26
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1391,Juan Garrison,wwilliams@example.net,2025-01-01 11:43:40.895158,2025-01-27 17:02:40.578073,Scottland,Serbia,female,63,https://dummyimage.com/819x80

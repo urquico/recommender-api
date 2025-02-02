@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-518,Mariah Ball,vmorgan@example.net,2025-01-30 19:52:24.896711,2025-01-25 03:22:48.592278,North Davidhaven,Philippines,male,18
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+518,Karen Valentine,lauren04@example.net,2025-01-03 05:50:00.914791,2025-01-22 12:41:27.563465,Port Shelley,Latvia,female,66,https://picsum.photos/73/954

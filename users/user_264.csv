@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-264,Michael Rodriguez,moorepeter@example.org,2025-01-11 05:51:56.959086,2025-01-08 02:40:29.120840,Allenmouth,Zambia,female,45
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+264,Jamie Phillips,brian67@example.net,2025-01-06 22:22:25.700790,2025-01-14 11:52:43.042307,New Jason,British Virgin Islands,female,41,https://placekitten.com/605/532

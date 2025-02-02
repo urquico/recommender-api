@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-275,Tonya Grant,zlamb@example.org,2025-01-01 03:47:04.029223,2025-01-11 15:04:20.523512,Robertborough,Saint Martin,female,26
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+275,Ashley Green,gibbswarren@example.com,2025-01-27 06:34:48.297989,2025-01-23 10:46:40.324003,Smithville,French Guiana,female,22,https://placekitten.com/126/921

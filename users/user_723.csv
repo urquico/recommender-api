@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-723,Michelle Liu,stonebarbara@example.net,2025-01-07 04:06:59.456925,2025-01-09 09:29:41.927462,North Justinberg,Philippines,female,43
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+723,John Young,kenneth75@example.org,2025-01-09 20:25:32.329871,2025-01-11 07:46:12.799774,Sanchezmouth,Congo,male,76,https://dummyimage.com/195x931

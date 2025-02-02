@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-409,Ryan Thompson,ebrown@example.net,2025-01-16 03:34:58.263587,2025-01-31 13:59:47.464882,Reedside,Egypt,female,69
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+409,John Obrien,sparksglenn@example.com,2025-01-31 13:59:06.474718,2025-01-14 17:35:30.706277,Perryberg,Malaysia,female,28,https://picsum.photos/653/920

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1999,Brandon Stevens,qjenkins@example.org,2025-01-31 04:42:43.927417,2025-01-16 11:13:21.991940,Hamiltonstad,Guernsey,male,23
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1999,Patricia Steele,amygeorge@example.net,2025-01-23 15:08:10.344066,2025-01-01 01:01:24.372439,North David,Western Sahara,female,35,https://placekitten.com/635/676

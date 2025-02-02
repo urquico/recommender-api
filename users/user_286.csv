@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-286,Erica Moore,andrewwalters@example.com,2025-01-02 13:44:11.454918,2025-01-01 22:22:25.892378,Patrickville,Isle of Man,male,63
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+286,Theresa Chen,marcus74@example.com,2025-01-07 02:30:56.496822,2025-01-16 16:49:24.009899,New Karitown,Cyprus,female,28,https://placekitten.com/861/249

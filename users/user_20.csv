@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-20,Brianna Kline,tammybaker@example.com,2025-01-25 03:04:58.659141,2025-02-02 05:11:24.406730,North Patrickville,Wallis and Futuna,female,34
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+20,Kevin Mitchell,harrisonkathleen@example.org,2025-01-02 18:59:56.401321,2025-01-18 01:36:18.668171,East Daniel,Brunei Darussalam,female,47,https://picsum.photos/22/444

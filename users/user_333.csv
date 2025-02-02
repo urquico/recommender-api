@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-333,Mallory Lucas,carol40@example.org,2025-01-30 03:46:43.172118,2025-02-01 00:56:10.201467,Smithside,Angola,male,39
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+333,Alexander Lee,crystal82@example.org,2025-01-31 18:14:01.992574,2025-01-20 10:09:02.327055,Camposmouth,Kenya,male,75,https://placekitten.com/109/998

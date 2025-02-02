@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-282,Kenneth Hammond,yvonne36@example.org,2025-01-09 03:32:12.539585,2025-01-21 08:01:08.212145,North Sandy,Saint Barthelemy,female,70
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+282,Brandon Wang,charles64@example.com,2025-01-19 04:47:45.440696,2025-01-20 19:27:43.266454,Larsenton,Trinidad and Tobago,male,28,https://placekitten.com/761/606

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-919,Gary Conley,shannon12@example.net,2025-01-13 13:08:26.274994,2025-01-04 06:06:05.823200,South Coreymouth,Monaco,male,33
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+919,David Ward,jyoung@example.net,2025-01-02 06:59:30.094181,2025-01-15 18:40:10.504949,Hendersonshire,Burundi,female,22,https://picsum.photos/436/445

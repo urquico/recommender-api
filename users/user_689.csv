@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-689,Robert Vargas,harriskimberly@example.org,2025-01-09 04:27:53.266036,2025-01-08 06:36:58.910518,Kathrynfurt,Malta,female,38
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+689,Michael Rasmussen,christopherdelgado@example.com,2025-01-15 03:29:14.062924,2025-01-03 22:54:01.473560,Johnsonport,Netherlands,female,74,https://placekitten.com/676/217

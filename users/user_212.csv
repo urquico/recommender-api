@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-212,Lindsay Scott,jasonbrooks@example.org,2025-01-02 04:01:29.368150,2025-01-27 02:49:47.708640,East Sarah,Anguilla,female,47
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+212,Brian Robinson,yjuarez@example.org,2025-01-19 22:33:55.636402,2025-01-11 11:06:30.982918,Shawton,Solomon Islands,male,53,https://dummyimage.com/286x259

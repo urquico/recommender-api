@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-963,Kelsey Turner,melliott@example.net,2025-01-21 00:11:24.676255,2025-01-28 16:28:28.439210,Sandrachester,Pakistan,male,79
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+963,Keith Hendricks,wwood@example.net,2025-01-05 18:58:15.137940,2025-01-22 03:28:36.173911,East Mariaborough,Monaco,male,52,https://dummyimage.com/314x528

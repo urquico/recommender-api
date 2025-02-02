@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1288,Jessica Contreras,austinanthony@example.org,2025-01-12 15:12:15.734864,2025-01-25 19:35:38.011575,Port Leahton,Palestinian Territory,female,45
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1288,Bonnie Ramirez,jaclynmoon@example.org,2025-02-01 04:57:08.455801,2025-01-28 08:04:19.168051,Lake Travisside,Austria,female,52,https://picsum.photos/621/187

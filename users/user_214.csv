@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-214,Richard Stanton,irodriguez@example.org,2025-01-05 09:00:33.896308,2025-01-14 03:55:19.180093,New Heather,India,male,38
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+214,Bradley Rhodes,nathanmahoney@example.net,2025-01-31 09:16:06.971992,2025-01-04 04:17:35.179684,Garnerfort,Eritrea,male,72,https://picsum.photos/629/476

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-799,Teresa Khan,michael93@example.com,2025-01-24 02:57:42.520929,2025-01-20 19:08:18.603366,Smithmouth,Sweden,male,25
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+799,Leslie Davis,russell16@example.com,2025-02-02 13:17:06.655464,2025-01-11 09:39:28.769814,Port Emilyhaven,Angola,male,28,https://placekitten.com/765/825

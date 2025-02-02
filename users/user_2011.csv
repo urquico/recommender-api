@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2011,Andrew Johnson,mhinton@example.net,2025-01-24 22:29:19.905229,2025-01-01 02:53:39.198555,Arielbury,Paraguay,female,38
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2011,Linda Smith,kirkfriedman@example.org,2025-01-09 02:18:12.298147,2025-01-09 20:08:38.395090,Port Elizabethport,Congo,male,54,https://dummyimage.com/213x1020

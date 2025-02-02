@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1797,Todd Weber,nancyellis@example.net,2025-01-26 16:57:00.023531,2025-01-02 07:02:31.400434,Richardsonfort,Bouvet Island (Bouvetoya),female,19
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1797,Anthony Richard,gary77@example.com,2025-01-25 10:58:14.986271,2025-01-26 19:12:17.083652,Morganmouth,Dominican Republic,male,74,https://placekitten.com/832/1022

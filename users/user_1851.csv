@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1851,Christine Kaiser,wadedavid@example.net,2025-01-07 16:59:17.861465,2025-01-18 12:59:28.116322,Lopezborough,Philippines,male,57
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1851,John Martinez,kennethpayne@example.net,2025-01-15 10:21:49.492064,2025-01-14 07:23:52.519012,Baldwinfort,Cocos (Keeling) Islands,female,54,https://dummyimage.com/38x584

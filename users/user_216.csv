@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-216,Hailey Evans,laurenterry@example.net,2025-01-11 18:19:22.977326,2025-01-12 15:21:14.420976,West Natashaborough,Uganda,male,71
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+216,Kayla Curtis,danny82@example.net,2025-01-01 07:24:12.137840,2025-01-01 19:47:09.521755,Port Heathermouth,Costa Rica,male,72,https://dummyimage.com/944x822

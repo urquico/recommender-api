@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1316,Ralph Dougherty,murphyedward@example.com,2025-01-22 00:00:18.252196,2025-01-24 09:37:26.656256,West Garymouth,Swaziland,female,23
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1316,Sandra Davis,stephen64@example.net,2025-01-11 05:02:04.420239,2025-01-11 10:51:27.275978,Mayland,Mauritania,male,59,https://placekitten.com/331/889

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1091,Stuart Graham Jr.,bennettjeremy@example.net,2025-01-29 22:52:39.478898,2025-01-10 23:48:18.235936,South Richardton,Morocco,male,36
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1091,Paul York,ndawson@example.com,2025-01-05 21:35:18.663124,2025-01-16 07:19:19.236574,Lake Sergio,Guernsey,female,79,https://placekitten.com/674/433

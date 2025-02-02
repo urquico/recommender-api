@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-441,Kevin Shea,igomez@example.org,2025-01-11 18:40:42.600117,2025-01-28 21:59:35.459573,East Brittany,Madagascar,male,50
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+441,Tracy Chambers,elizabethherrera@example.com,2025-01-11 17:41:08.050653,2025-01-30 17:04:54.515310,New Margaret,Zambia,male,77,https://dummyimage.com/535x406

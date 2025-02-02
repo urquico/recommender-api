@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-847,Melissa Romero,anthonymoreno@example.com,2025-01-07 20:08:44.775133,2025-01-01 01:46:32.944154,Powellshire,Poland,female,58
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+847,Virginia Hardin,estewart@example.org,2025-01-06 15:37:26.091192,2025-02-01 11:20:46.935598,Michelleport,Malta,female,53,https://picsum.photos/239/151

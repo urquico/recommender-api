@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-69,Ruben Weber,gwalker@example.com,2025-01-11 15:25:00.874638,2025-01-21 13:24:12.283777,New Scottport,Egypt,female,64
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+69,Kimberly Gomez,gwilliams@example.com,2025-01-22 05:04:45.090053,2025-01-08 03:38:51.483053,Priceborough,Liberia,male,79,https://placekitten.com/9/686

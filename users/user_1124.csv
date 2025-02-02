@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1124,Robert Mcguire MD,hartkathryn@example.com,2025-02-01 23:06:16.575594,2025-01-30 14:50:40.604182,Hamptontown,Suriname,female,33
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1124,Cheryl Lowery,dennislopez@example.org,2025-01-08 21:37:22.005143,2025-01-28 06:09:31.867561,South Larrymouth,Croatia,female,77,https://dummyimage.com/202x308

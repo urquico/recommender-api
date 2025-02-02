@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-759,Isaiah Shaw,michaelmay@example.net,2025-01-05 17:35:18.816916,2025-01-30 02:46:08.289971,Davidshire,Romania,female,31
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+759,Kimberly Stone DVM,allenmiranda@example.com,2025-01-28 10:28:19.576186,2025-01-20 19:20:17.035324,Hamiltonside,Gambia,female,55,https://dummyimage.com/116x957

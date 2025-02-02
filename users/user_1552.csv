@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1552,Matthew Anderson,allenjackson@example.net,2025-01-09 02:04:13.269957,2025-01-05 07:59:00.491676,West Emily,San Marino,male,53
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1552,Nicole Phelps,sthompson@example.net,2025-01-09 01:32:18.346748,2025-02-02 03:23:18.119702,Mccoychester,Benin,female,26,https://dummyimage.com/854x528

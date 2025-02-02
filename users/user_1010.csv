@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1010,Teresa Rodriguez,plawson@example.com,2025-01-18 17:04:47.743271,2025-01-30 03:35:19.985614,Wagnerland,Myanmar,female,75
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1010,Emily Garcia,williambarber@example.com,2025-01-02 01:22:54.790989,2025-01-13 17:57:55.913874,Hughesmouth,French Polynesia,male,61,https://dummyimage.com/870x461

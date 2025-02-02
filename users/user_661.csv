@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-661,Joshua Perez,brian00@example.net,2025-01-28 14:05:36.479297,2025-01-03 14:03:06.734159,Henryport,Bolivia,male,29
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+661,Tina Davis,schwartzjoshua@example.org,2025-01-22 19:19:58.613997,2025-01-07 22:59:51.371422,West Penny,Saint Helena,male,74,https://picsum.photos/590/262

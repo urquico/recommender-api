@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-295,Scott Wilson,brendamiller@example.com,2025-01-18 04:14:24.684403,2025-01-23 21:46:58.402435,South Raymond,Korea,male,77
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+295,Tara Ward,rvargas@example.org,2025-01-25 22:27:38.720806,2025-01-14 08:32:45.892501,West Drewville,Djibouti,female,34,https://dummyimage.com/231x370

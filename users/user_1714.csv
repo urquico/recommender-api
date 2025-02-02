@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1714,Adam Hendricks,stewartjeffery@example.com,2025-01-05 00:29:04.634685,2025-01-21 04:20:33.757314,Fernandoside,Japan,male,19
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1714,Lisa Murphy,christopher49@example.com,2025-01-25 18:56:55.718683,2025-01-29 05:22:10.823973,Tapiafort,Panama,female,60,https://picsum.photos/1017/115

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1590,Adam Hernandez,pricedebra@example.net,2025-01-31 17:17:08.674145,2025-01-13 13:45:49.482159,Harrellmouth,Northern Mariana Islands,male,52
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1590,Briana Dorsey,todd61@example.org,2025-01-09 19:38:40.881176,2025-01-11 15:30:01.357025,East Roberttown,Norfolk Island,male,34,https://placekitten.com/1022/819

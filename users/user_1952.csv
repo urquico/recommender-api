@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1952,Jordan Barnes,milesscott@example.org,2025-01-23 19:50:33.819418,2025-01-18 12:12:34.405441,South Stanley,Chad,female,31
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1952,Charlene Berry,gmarshall@example.net,2025-01-16 03:35:47.437107,2025-01-25 01:22:57.337248,Rossshire,Saudi Arabia,female,19,https://picsum.photos/40/461

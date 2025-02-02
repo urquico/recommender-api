@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-158,Savannah Middleton,deborah78@example.net,2025-01-19 13:37:25.662555,2025-01-22 20:45:07.752678,North Patricia,Turks and Caicos Islands,female,61
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+158,Benjamin Evans,uklein@example.net,2025-01-29 05:45:26.335164,2025-01-23 03:12:51.892706,Watersfurt,Italy,male,61,https://placekitten.com/226/486

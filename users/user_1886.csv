@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1886,Heather Smith,williamsgeorge@example.org,2025-01-23 09:16:23.378605,2025-01-07 05:05:48.560633,Christinaview,Korea,male,64
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1886,Jason Lopez,david67@example.org,2025-01-22 13:50:35.847834,2025-01-26 20:13:30.165389,Scottport,Georgia,female,54,https://picsum.photos/281/979

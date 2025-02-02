@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2063,Charles Scott,huntjennifer@example.net,2025-01-12 20:44:35.730032,2025-01-07 01:23:55.399772,Taylorhaven,Niger,male,58
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2063,Jennifer Noble,rblackburn@example.net,2025-01-11 01:38:21.483822,2025-01-29 08:40:20.289857,Lake Christopherbury,Bangladesh,male,74,https://dummyimage.com/948x408

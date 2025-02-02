@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-751,Gary Valdez,david27@example.com,2025-01-26 02:07:56.621992,2025-01-09 03:52:53.967502,South Monica,Belarus,female,64
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+751,Thomas Gillespie,singletonjoseph@example.org,2025-01-08 21:45:06.892674,2025-01-20 19:16:26.136627,West Bryceside,Mexico,female,21,https://picsum.photos/93/907

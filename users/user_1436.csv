@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1436,Joshua Scott,alexisstewart@example.net,2025-01-20 01:12:47.021143,2025-01-14 16:33:01.063889,Lake Jose,China,male,59
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1436,Elaine Salazar,richard88@example.org,2025-01-07 13:39:15.907549,2025-01-11 02:44:37.302977,Kaitlynton,Seychelles,female,79,https://placekitten.com/128/466

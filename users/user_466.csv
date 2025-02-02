@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-466,Mr. Carl Valentine,iewing@example.com,2025-01-06 03:26:32.379241,2025-01-16 18:49:01.330008,Kathleenview,Vietnam,male,80
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+466,Jesse Wilson,fprice@example.org,2025-01-22 21:01:35.679159,2025-01-20 09:06:28.070713,New David,South Georgia and the South Sandwich Islands,female,74,https://dummyimage.com/725x623

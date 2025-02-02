@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-788,Colleen Brown,darrenwilson@example.org,2025-01-15 02:24:12.463820,2025-01-12 23:13:35.131407,Lake Katieberg,Moldova,female,33
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+788,Robert Russell,belllawrence@example.net,2025-01-22 17:22:04.835908,2025-01-21 21:12:49.525145,South Nathanhaven,Sierra Leone,female,64,https://picsum.photos/73/253

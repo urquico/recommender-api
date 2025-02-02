@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1377,Matthew Phillips,smithsamuel@example.net,2025-01-23 01:23:14.585961,2025-01-18 13:45:02.722771,East Carlachester,Slovakia (Slovak Republic),male,19
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1377,Gerald Mann,nancyfrazier@example.net,2025-01-22 18:00:26.818304,2025-01-05 03:27:02.209922,Emmaville,China,male,38,https://picsum.photos/632/670

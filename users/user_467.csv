@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-467,Jeffrey Nelson,powelljessica@example.org,2025-01-23 15:42:21.125655,2025-01-05 13:45:37.774844,Michelleville,Netherlands,female,73
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+467,Laura Wallace,glorialopez@example.net,2025-01-14 21:22:32.137510,2025-01-31 08:10:50.210368,Ramirezmouth,Greece,male,63,https://dummyimage.com/885x831

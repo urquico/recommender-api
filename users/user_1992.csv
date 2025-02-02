@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1992,Matthew Keller,lewispamela@example.net,2025-01-31 02:27:33.610059,2025-01-07 06:09:12.346730,Port Madelineburgh,United States Minor Outlying Islands,female,50
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1992,Karen Byrd,trujillozachary@example.com,2025-01-30 03:58:08.845694,2025-01-26 13:13:40.028201,South Aaronbury,Bolivia,female,53,https://dummyimage.com/65x263

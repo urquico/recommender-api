@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1865,Joseph Miller,jeffrey09@example.net,2025-01-03 06:40:33.405589,2025-01-27 12:00:52.573343,Lake James,Montserrat,male,60
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1865,Norman Singleton,michelle30@example.net,2025-01-18 02:40:03.425870,2025-01-14 19:29:28.290167,West Jessicaside,Togo,male,67,https://dummyimage.com/73x118

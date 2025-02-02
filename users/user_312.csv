@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-312,Jason Shelton,jamesgriffin@example.com,2025-01-08 20:19:58.960606,2025-01-06 15:53:20.046118,West Richardchester,Israel,male,32
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+312,Jennifer Nunez,esparzachad@example.org,2025-02-01 21:21:13.617687,2025-02-01 15:29:51.431611,Lake Bryan,Northern Mariana Islands,male,37,https://picsum.photos/110/938

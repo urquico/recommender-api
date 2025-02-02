@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1192,Jordan Green,xmclaughlin@example.org,2025-01-07 17:34:10.067081,2025-01-28 13:24:55.168644,Chasebury,French Southern Territories,female,31
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1192,Sabrina Johnson,andreaboyd@example.net,2025-01-17 23:00:36.191501,2025-01-26 14:50:35.364824,North Jessica,Sao Tome and Principe,female,48,https://placekitten.com/191/607

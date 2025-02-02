@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1902,Brian Hernandez,miguel23@example.net,2025-01-02 07:03:02.360655,2025-01-31 13:43:44.769462,Owenside,Qatar,female,78
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1902,Linda Allen,rodriguezmary@example.org,2025-02-01 00:13:32.596855,2025-01-06 18:07:31.235649,Karenburgh,Tonga,female,78,https://picsum.photos/877/461

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-838,Mr. Eric Chen,jeremy41@example.org,2025-01-02 15:10:05.279212,2025-02-01 16:18:49.489439,Danielmouth,Netherlands,female,55
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+838,Matthew Fisher,holly46@example.org,2025-01-11 12:00:41.496471,2025-01-11 02:36:42.840412,North Alice,Greenland,female,21,https://picsum.photos/203/639

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1626,Brett Oliver,brucedavid@example.org,2025-01-25 22:45:02.118940,2025-01-04 04:49:29.097649,Lake Danielfurt,Sweden,male,54
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1626,Matthew Lee,ycompton@example.net,2025-01-14 14:59:44.604671,2025-01-12 15:12:48.805624,West Stacey,Germany,male,57,https://picsum.photos/354/703

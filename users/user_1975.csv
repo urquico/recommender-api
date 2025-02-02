@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1975,Christian Palmer,michellejordan@example.org,2025-01-19 19:25:43.911370,2025-01-06 22:09:05.007123,North Randymouth,Belize,female,52
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1975,Vanessa Lucas,zroberts@example.net,2025-01-16 21:01:17.126630,2025-01-18 06:30:06.407274,Richardsmouth,Sweden,male,18,https://dummyimage.com/144x186

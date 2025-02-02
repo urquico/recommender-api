@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-340,Stacey Compton,ashleygutierrez@example.net,2025-01-18 14:23:41.643708,2025-01-01 10:16:56.105954,Kennethtown,Norfolk Island,male,57
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+340,Ryan Bass,camachodavid@example.com,2025-01-10 00:53:35.794461,2025-01-04 10:03:22.916737,New Samantha,Cocos (Keeling) Islands,male,62,https://picsum.photos/526/508

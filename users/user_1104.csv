@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1104,Alexander Jackson,cmitchell@example.com,2025-01-29 16:19:01.362290,2025-01-12 10:50:37.014753,Lake Eric,Nicaragua,female,49
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1104,George Campbell,travisfox@example.com,2025-01-26 13:23:52.558233,2025-01-31 20:01:07.419464,Katelynland,Mexico,male,53,https://placekitten.com/159/753

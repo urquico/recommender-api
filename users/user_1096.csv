@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1096,Cheryl Silva,brownsarah@example.net,2025-01-25 19:41:08.966941,2025-01-24 19:04:04.301665,Katherinechester,Tonga,male,26
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1096,Isaiah Graham,penny73@example.org,2025-01-30 23:50:23.630163,2025-02-01 03:43:51.673613,Lake Anne,Togo,male,71,https://dummyimage.com/525x948

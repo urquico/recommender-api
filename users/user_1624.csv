@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1624,Robert Jones,sbrown@example.com,2025-01-18 22:40:27.316233,2025-02-01 20:14:57.090246,Florestown,Madagascar,male,78
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1624,Melissa Fleming,stephanie14@example.net,2025-01-21 19:44:04.940192,2025-01-01 22:26:23.025857,Lake Laurenberg,Sudan,female,29,https://placekitten.com/558/312

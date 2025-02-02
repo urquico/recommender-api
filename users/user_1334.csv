@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1334,Christopher Olsen,fwilson@example.com,2025-01-10 04:06:36.332876,2025-01-01 08:28:24.929814,Port Joseph,Chile,female,65
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1334,Jennifer Christensen,cherman@example.net,2025-01-19 03:15:23.595991,2025-01-05 11:18:30.274185,East Tristan,China,male,75,https://placekitten.com/975/2

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-820,Jennifer Miller,clementschristie@example.com,2025-01-09 13:34:50.153508,2025-01-24 09:11:06.024938,Brownbury,Uganda,female,70
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+820,Michael Garrison,mandybuck@example.org,2025-02-01 01:33:36.028914,2025-01-03 11:36:16.951570,Stephentown,Swaziland,female,51,https://dummyimage.com/566x455

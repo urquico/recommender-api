@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-595,Patricia Sanchez,taylorlindsay@example.org,2025-01-21 23:39:16.314125,2025-01-22 13:51:14.056810,New Robertshire,Gambia,female,66
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+595,Vanessa Proctor,finleyjeffrey@example.org,2025-02-02 15:37:16.232147,2025-01-16 16:17:24.393707,Lake Lauren,Denmark,female,73,https://dummyimage.com/136x560

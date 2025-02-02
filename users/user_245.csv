@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-245,Leah Neal,vmoore@example.net,2025-01-30 18:04:08.684057,2025-01-09 00:18:30.456631,East Thomas,Saint Kitts and Nevis,female,31
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+245,Melissa Sandoval,sarah13@example.net,2025-02-02 05:41:28.530488,2025-01-17 06:12:44.367790,Port Nicolemouth,Libyan Arab Jamahiriya,male,36,https://placekitten.com/206/278

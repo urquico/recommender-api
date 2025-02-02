@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1000,Patricia Nunez,bellrachel@example.org,2025-01-12 12:48:24.472973,2025-01-16 16:10:26.195590,Francistown,Congo,male,45
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1000,Mario Dean,allison61@example.net,2025-01-02 15:40:48.033534,2025-01-01 05:41:10.821811,Kathrynchester,Greece,male,18,https://picsum.photos/568/770

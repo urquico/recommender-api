@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1998,Paul Long,cassandrajackson@example.net,2025-01-19 17:03:14.707476,2025-01-04 18:27:21.353040,Mendozatown,Central African Republic,female,51
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1998,Mary Bray,michele41@example.org,2025-01-31 03:44:43.899594,2025-01-26 02:30:58.282058,Lisabury,Nauru,female,71,https://picsum.photos/1/759

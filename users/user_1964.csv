@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1964,Nicholas Robinson,kellymichael@example.com,2025-01-26 14:51:49.098312,2025-01-15 23:37:16.768504,Adamsshire,Niger,female,19
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1964,Robin Diaz,brettcarpenter@example.org,2025-01-27 00:34:53.082534,2025-01-30 09:43:13.043141,Ericafurt,Andorra,male,55,https://dummyimage.com/139x1019

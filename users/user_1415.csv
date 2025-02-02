@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1415,Amanda Shaw,fdoyle@example.net,2025-01-06 12:01:21.337935,2025-01-21 06:10:28.001190,East Christina,Portugal,male,18
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1415,Matthew Hall,westrebekah@example.net,2025-02-01 23:20:31.473169,2025-01-12 11:13:28.888458,Port Dwayneland,Swaziland,male,80,https://placekitten.com/325/295

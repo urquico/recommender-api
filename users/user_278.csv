@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-278,Brenda Bennett,moorebrett@example.org,2025-01-25 14:37:11.256521,2025-02-02 05:31:00.923906,Port Michelle,Bhutan,female,43
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+278,James Martinez,derekgraham@example.org,2025-01-30 17:29:01.987914,2025-01-09 19:25:59.263707,New Roberttown,Samoa,female,61,https://dummyimage.com/101x1002

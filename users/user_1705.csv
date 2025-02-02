@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1705,Brenda Thomas,andreacoleman@example.com,2025-01-14 12:04:15.157794,2025-01-08 05:12:13.886364,New Alyssabury,Guatemala,male,58
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1705,Robert Campbell Jr.,jeffreycollins@example.net,2025-01-05 14:13:40.105977,2025-01-20 15:50:51.378386,Martinfurt,Greece,male,79,https://dummyimage.com/365x559

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1848,Timothy Charles,edward34@example.com,2025-01-23 04:06:26.693237,2025-01-24 18:32:21.489340,Robinsonland,Azerbaijan,male,50
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1848,Logan Scott,denise10@example.org,2025-01-21 03:14:59.886834,2025-02-02 08:09:12.737617,Jamiemouth,Bahamas,male,53,https://placekitten.com/498/957

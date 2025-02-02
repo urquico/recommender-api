@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-417,Mr. Kenneth Hunter,barnesdanny@example.net,2025-01-20 06:20:29.577819,2025-01-03 13:48:04.562147,South Ann,Tonga,female,50
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+417,Joseph Sanders,david07@example.org,2025-01-27 03:42:28.722609,2025-01-10 03:01:12.583846,Port Aliciafort,Belgium,male,44,https://picsum.photos/695/688

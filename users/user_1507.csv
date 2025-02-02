@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1507,Benjamin Lucero,kowens@example.net,2025-01-24 14:37:50.635737,2025-01-01 03:29:22.684019,Lake Heatherland,Slovakia (Slovak Republic),female,49
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1507,Drew Morrison,richard94@example.org,2025-01-05 03:10:17.846282,2025-02-01 21:04:41.791707,East Crystal,United Arab Emirates,male,72,https://dummyimage.com/667x616

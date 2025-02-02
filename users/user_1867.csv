@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1867,Emily Kelley,mclaughlinjoseph@example.net,2025-01-09 22:43:42.297426,2025-01-07 05:54:26.565568,New Pamelashire,Algeria,male,22
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1867,David Carlson,gregory15@example.com,2025-02-01 12:57:43.538423,2025-01-02 05:38:56.266440,Jaymouth,Anguilla,male,32,https://placekitten.com/17/592

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-686,Alejandra Conway,katherinemeza@example.org,2025-01-05 06:30:19.666371,2025-01-04 23:48:17.978641,New Tiffany,Aruba,female,50
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+686,Thomas Shaw,mccannspencer@example.com,2025-01-10 00:01:33.263326,2025-01-09 15:31:46.404977,New Andrew,Honduras,male,31,https://placekitten.com/273/843

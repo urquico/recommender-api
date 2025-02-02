@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1114,Michael Williams,kurtsnyder@example.net,2025-01-30 20:57:26.533226,2025-01-29 19:42:58.788217,Hansonchester,Guadeloupe,female,74
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1114,Caitlyn Graves,sanchezjeffrey@example.org,2025-01-07 18:16:22.992378,2025-01-14 15:08:54.154102,Hurstland,Saint Barthelemy,female,34,https://dummyimage.com/401x84

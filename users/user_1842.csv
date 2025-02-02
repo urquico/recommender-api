@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1842,Alexander Hall,barbaracaldwell@example.com,2025-01-24 07:52:01.651454,2025-01-23 18:14:09.150114,New Richardport,Switzerland,male,58
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1842,Carrie Stone,bullocklinda@example.net,2025-01-05 00:56:04.449027,2025-01-17 23:08:16.503878,North Denise,Antarctica (the territory South of 60 deg S),male,37,https://dummyimage.com/425x766

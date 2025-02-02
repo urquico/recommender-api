@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1993,Todd Bailey,tony28@example.com,2025-01-30 23:44:16.790127,2025-01-25 23:39:40.102165,Lisaview,Marshall Islands,male,33
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1993,Tony Campbell,yatesjeremy@example.org,2025-01-14 21:49:10.749354,2025-01-29 12:06:31.732388,Port Tonya,Timor-Leste,male,61,https://dummyimage.com/1006x586

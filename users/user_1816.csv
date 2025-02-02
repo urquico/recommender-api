@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1816,Betty Dean,alexander25@example.com,2025-01-17 21:37:18.509028,2025-01-13 18:40:18.457202,North Justinberg,Micronesia,male,70
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1816,James Higgins,brittanybowman@example.net,2025-01-13 00:23:46.119653,2025-01-04 07:15:19.419940,Gardnerside,Botswana,male,63,https://picsum.photos/352/141

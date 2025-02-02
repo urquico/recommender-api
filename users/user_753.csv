@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-753,Taylor Woodward,michaelhayes@example.net,2025-01-24 11:20:23.512823,2025-01-13 08:08:44.943288,North Hannahbury,Reunion,female,65
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+753,Alyssa Jacobs,brian10@example.net,2025-01-07 20:06:27.310976,2025-01-20 03:41:20.384129,West Kelly,Reunion,female,65,https://dummyimage.com/495x755

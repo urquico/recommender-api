@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1065,Dr. Tammy Williams DVM,francistyler@example.com,2025-01-07 17:40:04.266667,2025-01-08 10:18:51.329927,New Josephmouth,Niger,female,28
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1065,Tanya Thompson,james56@example.net,2025-01-19 02:31:15.569525,2025-01-23 09:24:15.866683,South Thomas,Bangladesh,female,43,https://placekitten.com/584/747

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1506,Rebecca Stanley,benjamin58@example.org,2025-01-13 14:31:06.318539,2025-01-22 14:17:05.768084,Port Kevin,Cayman Islands,male,55
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1506,Marc Ray,patricia86@example.com,2025-01-10 16:36:33.553585,2025-01-19 00:31:23.968961,Ryanburgh,Vanuatu,female,58,https://picsum.photos/467/286

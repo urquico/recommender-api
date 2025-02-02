@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-184,Taylor Anderson,mariagrant@example.com,2025-01-20 11:41:14.847957,2025-01-11 05:25:26.566239,Port Cory,Armenia,female,40
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+184,Steven Mitchell,natalie00@example.net,2025-01-12 02:32:07.034208,2025-01-03 14:16:40.123767,Fisherfurt,Saint Martin,female,80,https://picsum.photos/173/93

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1323,Walter Davis,serranodonna@example.net,2025-01-23 11:08:11.521850,2025-01-07 18:36:24.684406,Lake Andrew,Burundi,male,28
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1323,Charles Smith,kathrynfritz@example.com,2025-01-04 20:06:37.318383,2025-01-21 11:58:40.225616,New Allenbury,Falkland Islands (Malvinas),female,18,https://dummyimage.com/572x803

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1610,Jessica Roberts,ashleyterry@example.com,2025-01-13 21:17:15.127160,2025-01-20 18:09:14.248797,East Victoria,Russian Federation,male,67
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1610,Donald Barrett,zachary36@example.net,2025-01-04 17:19:46.601997,2025-01-03 01:20:54.401147,Toddport,Egypt,female,18,https://dummyimage.com/140x567

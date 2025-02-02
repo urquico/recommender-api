@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-170,Jesus Lozano,castillobrittany@example.org,2025-01-04 06:04:24.330526,2025-01-28 14:30:02.170364,Saraburgh,Mauritania,male,29
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+170,Rebekah Copeland,jeff02@example.org,2025-01-10 16:07:45.935596,2025-01-06 22:48:32.327340,Saramouth,Cyprus,female,61,https://picsum.photos/691/962

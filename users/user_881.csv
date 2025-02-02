@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-881,Emily Cooper,richard81@example.net,2025-01-31 23:34:14.384311,2025-01-31 16:37:56.395125,New Hector,Costa Rica,female,52
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+881,April Garcia,heather93@example.com,2025-01-20 15:12:28.894371,2025-01-26 12:07:01.033479,Josephchester,Northern Mariana Islands,male,77,https://picsum.photos/702/58

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-603,Shannon Proctor MD,lconley@example.com,2025-01-13 20:04:23.875542,2025-01-19 13:54:11.773514,Katherinefurt,Cyprus,female,58
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+603,Logan Hansen Jr.,glassashley@example.com,2025-01-07 16:31:35.893596,2025-01-14 11:27:18.866359,Hensonland,Martinique,female,52,https://dummyimage.com/359x748

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-907,Denise Johnson,stephanie88@example.net,2025-02-01 16:56:29.149013,2025-01-15 07:54:42.282718,North Mary,Congo,male,63
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+907,Sarah Hernandez,uhernandez@example.com,2025-01-06 16:12:00.254293,2025-01-31 17:17:01.384145,Pooleburgh,Italy,male,44,https://picsum.photos/592/998

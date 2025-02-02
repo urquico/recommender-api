@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1514,Amanda Weaver,jennifer72@example.com,2025-01-13 19:28:48.666653,2025-02-01 10:07:41.815061,Lake Michaelshire,Mexico,male,44
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1514,Jordan Ward,erowe@example.net,2025-01-15 08:44:22.190341,2025-01-24 00:09:04.283234,East Janet,Saudi Arabia,female,62,https://placekitten.com/614/758

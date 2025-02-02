@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1678,Roberto Wilcox,jconway@example.com,2025-01-15 00:12:38.843220,2025-01-11 01:53:11.976312,Walshhaven,Vietnam,male,32
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1678,Peter Blackburn,chenpamela@example.net,2025-01-09 20:07:39.624467,2025-01-29 17:36:00.162031,Lake Jamesview,Macao,female,62,https://dummyimage.com/443x776

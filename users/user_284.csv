@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-284,Jason Rowland,qhoward@example.org,2025-01-07 19:03:19.559438,2025-01-28 02:13:34.213228,Hooperland,Korea,male,21
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+284,Isaac Thompson,cbryan@example.net,2025-01-06 00:58:09.855971,2025-01-21 14:50:45.576665,West Jennifer,Bulgaria,female,52,https://placekitten.com/656/375

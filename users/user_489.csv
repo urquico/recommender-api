@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-489,Cody Arnold,romerosusan@example.org,2025-01-04 19:07:19.330602,2025-01-23 09:41:36.282853,Port Amandaview,Niger,male,34
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+489,Claire Robertson,blakeprince@example.com,2025-01-08 05:17:38.465596,2025-02-01 03:32:20.861377,New Katrinabury,Zimbabwe,male,62,https://dummyimage.com/7x373

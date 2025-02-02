@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1358,Christian Carpenter,barneslisa@example.com,2025-01-24 12:53:15.023777,2025-01-29 16:30:35.642128,Lake Darylchester,Reunion,male,77
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1358,Alexis Robbins,qevans@example.com,2025-01-05 04:56:22.611592,2025-01-14 06:43:02.682555,South Davidhaven,Papua New Guinea,female,26,https://dummyimage.com/305x1016

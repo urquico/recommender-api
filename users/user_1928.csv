@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1928,Manuel Miller,andrewwilliams@example.net,2025-01-24 16:06:42.118081,2025-01-17 15:02:48.986319,West Lance,Guatemala,male,61
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1928,Brett Marshall,medinashannon@example.com,2025-01-18 23:03:43.740837,2025-01-22 15:56:32.592145,New Leon,Saint Lucia,male,59,https://placekitten.com/118/423

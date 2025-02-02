@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-235,Colleen Stephens,angelica16@example.net,2025-01-31 14:42:30.106893,2025-01-29 07:13:36.246701,North Christine,Gibraltar,male,44
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+235,Kevin Jackson,ericrobinson@example.org,2025-01-01 18:35:26.921563,2025-01-25 16:50:49.805877,Lake Sarah,Egypt,female,23,https://picsum.photos/303/570

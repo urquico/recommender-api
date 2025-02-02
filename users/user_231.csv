@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-231,Peggy Espinoza,alexis37@example.net,2025-01-02 11:01:32.427013,2025-01-20 07:13:51.150600,East Laurafort,Greenland,male,69
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+231,Leroy Gregory,ihamilton@example.com,2025-01-27 21:05:50.319176,2025-01-03 22:35:10.459614,East Sarah,Estonia,female,31,https://dummyimage.com/22x775

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1496,Angelica Snow,eroberts@example.com,2025-01-25 06:48:40.639794,2025-01-02 05:20:47.728703,Mariaside,Bahamas,male,63
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1496,Amanda Morris,cortezjamie@example.org,2025-01-22 05:14:04.768892,2025-01-30 07:25:22.989570,East Austin,Burkina Faso,male,37,https://placekitten.com/363/261

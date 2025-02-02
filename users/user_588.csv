@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-588,Robert Smith,hpetersen@example.net,2025-01-13 06:43:16.373204,2025-01-02 14:27:36.588403,Elizabethport,Norfolk Island,female,38
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+588,Mr. Daniel Stephens,andersonsteven@example.com,2025-02-02 14:02:30.621027,2025-01-01 23:10:29.910599,North Patrickfurt,Vietnam,male,73,https://picsum.photos/225/57

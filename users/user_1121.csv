@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1121,Peter Roy,khernandez@example.com,2025-01-02 19:13:53.423945,2025-01-11 00:01:14.701652,East Robinton,Uganda,female,48
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1121,Justin Kim,rachelbailey@example.net,2025-01-05 14:29:07.642763,2025-01-15 16:41:54.981201,East Christopherchester,Guernsey,male,72,https://dummyimage.com/268x256

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-406,Michael Livingston,hdavidson@example.net,2025-01-11 18:28:19.705071,2025-01-29 14:17:06.626504,Alvarezmouth,Indonesia,female,26
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+406,Timothy Osborne,gyu@example.com,2025-01-04 13:51:02.822757,2025-01-16 07:26:00.603944,Anthonyshire,French Southern Territories,female,41,https://picsum.photos/837/166

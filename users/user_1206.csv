@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1206,Christina Ponce,irangel@example.com,2025-01-19 13:51:07.474480,2025-01-14 07:58:07.219250,New Jerryshire,Guyana,female,43
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1206,Amanda Mclaughlin,christopher34@example.org,2025-01-30 01:02:42.620162,2025-01-05 22:29:12.387276,Lake Blake,Congo,male,79,https://picsum.photos/68/233

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-166,Desiree Wright,cody45@example.com,2025-01-03 06:41:56.508682,2025-02-01 23:21:04.107708,North Rickyton,Afghanistan,male,52
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+166,Nathan Lewis,melissawhite@example.com,2025-02-01 14:35:02.417739,2025-01-25 08:23:24.162301,Smithburgh,Saint Pierre and Miquelon,male,20,https://placekitten.com/166/628

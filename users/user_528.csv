@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-528,Shannon Mayer,kristinewilliams@example.org,2025-01-01 11:44:40.944646,2025-01-09 00:16:52.999148,East Jeffreybury,Kuwait,female,65
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+528,Carol Calderon,thowell@example.org,2025-01-11 06:16:47.436529,2025-01-14 06:17:37.663601,Williammouth,Gibraltar,female,69,https://dummyimage.com/990x221

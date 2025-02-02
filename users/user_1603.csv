@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1603,Joshua Craig,kking@example.com,2025-02-01 23:08:25.114424,2025-01-18 12:21:08.356903,East Stephanie,Panama,male,45
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1603,Donna Wilson,randolphchristina@example.net,2025-01-07 16:04:46.861516,2025-01-02 21:46:21.459179,East Michellestad,Armenia,male,45,https://placekitten.com/275/87

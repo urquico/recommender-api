@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1821,Brian Russell,gonzalezchristopher@example.com,2025-01-07 10:14:32.334907,2025-01-18 01:37:40.951808,Lake Charles,San Marino,female,48
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1821,Todd Williams,cynthia47@example.org,2025-01-14 19:13:27.978616,2025-01-05 09:22:57.293550,Port Susanland,Croatia,male,60,https://dummyimage.com/462x803

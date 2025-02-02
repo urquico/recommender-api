@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1839,Jacob Lucas III,markfrancis@example.org,2025-01-11 21:26:47.290150,2025-01-05 03:09:16.420023,West Margaret,Lao People's Democratic Republic,male,63
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1839,Lisa Jensen,fkim@example.org,2025-01-05 02:48:04.166937,2025-02-02 06:47:46.962408,Robertton,Tunisia,female,31,https://picsum.photos/969/170

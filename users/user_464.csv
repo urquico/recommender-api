@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-464,Deborah Hunter,tberry@example.org,2025-01-12 15:09:27.497069,2025-01-14 05:34:51.849070,Bryantfort,Gambia,male,20
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+464,Robert Williams,morrowanthony@example.org,2025-01-03 11:28:04.792764,2025-01-12 06:35:43.134267,North Norman,Suriname,male,43,https://placekitten.com/26/493

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-678,Bryan Warner,wjones@example.org,2025-01-13 17:02:44.846660,2025-02-01 15:33:38.314752,North Jimmy,Eritrea,male,68
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+678,Benjamin Watkins,amandaoliver@example.com,2025-01-31 01:07:47.621081,2025-02-01 07:51:45.215364,Gilbertview,Venezuela,female,73,https://placekitten.com/395/916

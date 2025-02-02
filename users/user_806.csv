@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-806,Sarah Stewart,stephaniedalton@example.net,2025-01-05 15:01:56.308641,2025-02-01 03:49:39.834229,Douglasbury,Isle of Man,female,49
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+806,Janet Kelly,clarkdaniel@example.com,2025-01-01 08:37:30.630529,2025-01-20 04:35:01.631099,Warnerhaven,Puerto Rico,female,52,https://placekitten.com/716/580

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-664,Dennis Klein,xwilliams@example.net,2025-01-12 19:20:56.037302,2025-01-19 06:41:13.796863,Morrisonport,Slovakia (Slovak Republic),female,70
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+664,Travis Obrien,jorgemiller@example.org,2025-01-10 20:02:06.005257,2025-01-10 08:51:23.064837,Smithbury,Sudan,male,65,https://placekitten.com/764/66

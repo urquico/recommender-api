@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-852,Adam Evans,ana19@example.com,2025-01-04 10:13:09.518940,2025-02-01 01:22:04.278604,Kimberg,Netherlands Antilles,female,58
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+852,Timothy Cowan Jr.,pterrell@example.org,2025-01-16 09:38:33.291730,2025-01-26 13:02:39.762002,New Timothyville,Korea,male,56,https://placekitten.com/790/370

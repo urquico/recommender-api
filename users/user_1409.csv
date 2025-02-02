@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1409,Michael Frank,imartin@example.com,2025-01-04 16:46:14.321134,2025-01-27 00:19:57.464385,Lake Lorichester,Suriname,female,21
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1409,Nathan Brown,gregorymyers@example.org,2025-01-29 15:48:41.187335,2025-01-10 20:40:53.945840,Watsonburgh,Switzerland,female,39,https://placekitten.com/756/615

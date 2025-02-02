@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1152,Brittany Davis,whunter@example.net,2025-01-21 23:21:46.523401,2025-01-04 08:01:57.101602,Allenstad,Korea,male,22
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1152,Sarah Tate,sotocaitlyn@example.org,2025-01-09 16:32:53.294312,2025-01-23 00:47:57.131699,Brianbury,Bulgaria,female,64,https://placekitten.com/648/830

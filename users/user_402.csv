@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-402,Gregory Willis,lcollins@example.org,2025-01-15 00:36:56.636307,2025-01-28 12:36:14.019955,Jordanmouth,Norfolk Island,male,48
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+402,Christine Davidson,gregory50@example.net,2025-01-28 08:20:38.205539,2025-01-09 07:01:57.485287,Bradleyside,Bahrain,female,73,https://dummyimage.com/193x233

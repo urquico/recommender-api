@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1982,John Fisher,gary60@example.org,2025-01-18 14:39:02.429258,2025-01-15 06:04:40.184991,Lake Billymouth,India,female,55
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1982,Rachel Dougherty,rhorne@example.com,2025-01-15 16:29:53.895670,2025-01-08 15:57:05.374480,South Anthony,Kiribati,female,22,https://picsum.photos/269/550

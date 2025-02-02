@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-126,Jessica Jones,bradleyyates@example.com,2025-01-08 14:24:54.793655,2025-01-14 21:11:11.677038,South Christopherport,Egypt,male,58
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+126,Lori Thompson,lopezlisa@example.com,2025-01-28 02:04:17.083328,2025-01-20 07:13:30.272165,New Kimberlyhaven,Trinidad and Tobago,female,52,https://placekitten.com/886/895

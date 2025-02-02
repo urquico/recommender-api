@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1405,David Meyer,ebird@example.net,2025-01-09 07:39:10.645444,2025-01-19 06:18:23.077764,Davidfort,Pitcairn Islands,female,39
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1405,John Bennett,kathrynblankenship@example.com,2025-01-13 03:58:15.459071,2025-02-01 16:04:40.502544,Johnview,Turkmenistan,female,49,https://picsum.photos/982/47

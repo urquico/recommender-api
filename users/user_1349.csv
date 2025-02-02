@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1349,Carla Jones,robertjohnson@example.com,2025-01-03 19:41:29.928271,2025-01-08 23:52:52.274691,South Amber,Bermuda,female,47
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1349,Adam Chen,kristin78@example.com,2025-01-29 07:41:13.887376,2025-01-15 02:41:55.233744,Miguelview,Niger,male,26,https://dummyimage.com/190x399

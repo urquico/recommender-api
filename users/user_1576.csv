@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1576,Garrett Henry,taylormaria@example.org,2025-01-12 21:25:02.245273,2025-01-24 01:36:37.745830,West David,North Macedonia,female,29
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1576,Joseph Gallagher,cynthia37@example.net,2025-01-11 19:17:33.764116,2025-01-26 21:25:34.667260,Daleton,Burundi,male,20,https://placekitten.com/879/349

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1136,Jeremy Fernandez,rachelhall@example.net,2025-01-09 09:17:53.055475,2025-01-29 23:47:30.991690,Ethanbury,Portugal,female,61
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1136,Mark Landry,garrisonjeffrey@example.net,2025-01-25 17:31:50.258574,2025-02-01 12:43:19.048028,Lake Rachelhaven,Gibraltar,female,38,https://placekitten.com/151/284

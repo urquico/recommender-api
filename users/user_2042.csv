@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2042,Harold Cooper,alexandra64@example.net,2025-01-06 06:30:49.957576,2025-02-01 12:01:06.415221,Benitezburgh,Tokelau,male,55
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2042,Mr. Gregory Mitchell,cgill@example.net,2025-01-15 02:48:14.328406,2025-01-03 12:44:42.015628,Lake Barbaraton,Gabon,female,59,https://placekitten.com/21/80

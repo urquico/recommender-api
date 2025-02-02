@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1575,Thomas Jensen,megan05@example.org,2025-01-29 20:29:03.469072,2025-01-27 00:33:54.852961,Lake Tiffanytown,Azerbaijan,female,61
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1575,Pamela Martinez,martineznatalie@example.com,2025-01-11 01:29:29.896243,2025-01-08 19:28:15.101417,Lake Thomashaven,Isle of Man,female,56,https://picsum.photos/860/5

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-26,Jeremy Wolfe,ana35@example.org,2025-02-01 07:43:37.424207,2025-01-20 14:30:05.060285,West Lisaland,Philippines,male,45
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+26,Mrs. Erica Brown,thomasdixon@example.com,2025-02-02 01:26:21.935535,2025-01-19 23:26:21.462756,North Evan,Malta,male,66,https://dummyimage.com/768x519

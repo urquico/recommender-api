@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1782,Colin Buckley,pjones@example.org,2025-01-03 12:31:10.464888,2025-01-21 00:39:38.384152,Nancyburgh,Maldives,female,59
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1782,Lori Wright,ustephenson@example.org,2025-01-11 17:25:06.122754,2025-01-09 13:50:28.410235,Port Cherylburgh,French Southern Territories,female,64,https://placekitten.com/636/225

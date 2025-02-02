@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-53,Kathryn Williams,ehernandez@example.net,2025-01-28 14:00:40.372058,2025-01-24 14:55:34.716505,Salinasfort,United States of America,female,73
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+53,Guy Schroeder,scott97@example.com,2025-01-06 05:24:44.362126,2025-02-01 10:33:29.385703,Lake Philip,Gabon,female,39,https://dummyimage.com/872x70

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1723,Amy Parker,michaelyoung@example.org,2025-01-20 18:53:49.820486,2025-01-13 07:35:04.909472,South Renee,Palestinian Territory,female,22
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1723,Derek Anderson,alvarezamanda@example.org,2025-01-13 00:50:30.414819,2025-01-10 10:42:34.979000,East Franciscochester,Swaziland,male,58,https://dummyimage.com/257x978

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-976,Tanya Smith,michael85@example.net,2025-01-30 09:11:29.009066,2025-01-08 22:36:10.070503,Garciafort,Mexico,female,76
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+976,Amanda Padilla,hansenrhonda@example.org,2025-01-10 00:50:10.587286,2025-01-27 13:35:33.247653,Jimmyberg,Gabon,male,38,https://placekitten.com/662/65

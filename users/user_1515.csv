@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1515,Bonnie Mejia,austin90@example.net,2025-01-03 14:34:35.957827,2025-01-22 03:40:53.127962,West Elizabeth,Azerbaijan,female,32
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1515,Susan Mason,ebaker@example.com,2025-01-02 23:43:47.602240,2025-01-24 15:40:52.803053,Websterville,Ecuador,female,43,https://dummyimage.com/312x782

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2035,Pamela Rogers,smontgomery@example.net,2025-01-16 08:48:11.888557,2025-01-25 08:06:53.786481,Adrianport,Croatia,male,23
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2035,Michael Raymond,duane94@example.org,2025-01-15 07:22:04.647831,2025-01-07 00:15:23.232100,Port Robertfort,Armenia,male,19,https://dummyimage.com/821x936

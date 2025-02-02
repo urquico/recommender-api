@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1077,Leslie Ward,ashleypeterson@example.net,2025-01-02 11:48:30.486084,2025-01-31 06:59:08.483751,Hallberg,Cote d'Ivoire,female,29
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1077,Ryan Moore,davenportyolanda@example.net,2025-01-03 19:54:34.158189,2025-01-06 11:28:37.525297,Port Chad,French Polynesia,female,74,https://picsum.photos/587/223

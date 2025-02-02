@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1139,Kevin Gray,moorethomas@example.com,2025-01-27 13:20:28.979876,2025-01-13 19:31:30.097947,Tiffanyville,Jamaica,male,31
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1139,Michael Walters,pricechristopher@example.org,2025-01-02 02:25:25.244567,2025-01-14 22:32:23.053908,Petersenland,Gabon,female,40,https://dummyimage.com/818x781

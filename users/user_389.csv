@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-389,Elizabeth Parrish,jacobcooper@example.org,2025-01-19 06:30:40.251053,2025-01-02 22:23:09.439282,Port Susanfort,Sao Tome and Principe,female,77
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+389,Micheal Schmidt,smoore@example.net,2025-01-19 20:20:51.548355,2025-01-02 09:11:56.295297,Deckerton,Netherlands Antilles,male,45,https://picsum.photos/1012/776

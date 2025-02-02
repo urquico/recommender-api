@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1055,Bradley Vazquez,maldonadodeborah@example.org,2025-01-13 06:20:56.636396,2025-01-09 03:22:34.244673,Garciafort,Togo,female,28
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1055,Andrea Johnson,johnsonmarie@example.com,2025-01-16 19:53:26.508681,2025-01-24 00:34:37.471400,Douglasbury,Kazakhstan,male,60,https://placekitten.com/116/829

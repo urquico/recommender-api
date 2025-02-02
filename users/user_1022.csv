@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1022,Taylor Bauer,areed@example.com,2025-01-31 20:34:43.907751,2025-01-30 21:50:58.343136,Villarrealstad,Dominican Republic,female,30
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1022,Yolanda Gibson,vfinley@example.com,2025-01-06 16:58:56.226402,2025-01-30 17:30:30.570513,Johnsonburgh,Brunei Darussalam,male,73,https://dummyimage.com/723x862

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-530,Daniel Wilson,danielleporter@example.net,2025-01-15 12:38:20.964219,2025-01-11 23:25:10.898073,Scotttown,Malawi,male,47
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+530,Jennifer Moreno,kyle60@example.net,2025-01-17 14:49:44.121266,2025-01-04 06:28:27.530530,New Lauraport,Angola,male,19,https://dummyimage.com/879x855

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-78,Meredith Schmidt,fmitchell@example.net,2025-02-01 16:43:48.310795,2025-02-02 09:02:44.945637,Tinatown,Peru,male,33
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+78,Michael Herrera,cristian61@example.com,2025-01-28 12:38:42.620117,2025-02-01 19:30:42.555898,East Whitneyville,El Salvador,male,74,https://picsum.photos/961/938

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1328,Jared Herring,davismichael@example.org,2025-01-17 05:19:50.412138,2025-01-09 18:35:40.693103,Josephside,Czech Republic,female,76
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1328,George Turner,crawforddennis@example.org,2025-01-05 18:00:45.527619,2025-01-30 04:11:51.467893,Knappbury,Martinique,female,34,https://dummyimage.com/904x758

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-456,James Mccall,chrisvaldez@example.org,2025-02-02 15:44:39.405309,2025-02-01 05:45:15.841964,North Angela,Gibraltar,male,30
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+456,Brad Burch,kdixon@example.net,2025-01-18 13:29:14.847347,2025-01-12 09:04:47.367733,Kimberlyland,Tuvalu,male,34,https://dummyimage.com/48x3

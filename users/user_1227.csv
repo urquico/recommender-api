@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1227,Stephanie Huang,wesley08@example.org,2025-01-31 14:34:33.584095,2025-01-11 03:56:18.178995,Gutierrezton,Cambodia,female,39
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1227,Amy Rodriguez,michael15@example.org,2025-01-26 06:03:55.236658,2025-01-19 17:30:08.091898,Faulknermouth,Jersey,female,34,https://picsum.photos/542/937

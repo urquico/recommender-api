@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-176,Daniel Williams,darryl90@example.net,2025-01-26 21:09:25.955410,2025-01-26 17:36:55.258268,Port Briannahaven,Liberia,male,62
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+176,Geoffrey Hernandez,carloschan@example.org,2025-01-13 02:04:07.456683,2025-01-27 17:34:40.761444,New Megan,Seychelles,female,48,https://dummyimage.com/624x751

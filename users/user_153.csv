@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-153,Colin Olsen,virginia65@example.net,2025-01-05 10:53:10.507993,2025-01-08 00:46:35.593434,Joelhaven,Cyprus,male,44
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+153,Denise Bolton,murphyjoseph@example.net,2025-01-05 03:27:18.281600,2025-01-30 18:43:34.195454,Paulbury,Antarctica (the territory South of 60 deg S),male,19,https://placekitten.com/578/734

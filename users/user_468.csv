@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-468,Dustin Steele,vlong@example.com,2025-01-01 00:15:29.090548,2025-01-11 21:57:50.132619,South Kimberg,Bolivia,female,18
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+468,Keith French,zjohnson@example.com,2025-01-21 05:06:39.082547,2025-01-24 19:38:19.283704,Lake Jeffreyberg,Cambodia,male,24,https://dummyimage.com/733x897

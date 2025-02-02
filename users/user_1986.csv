@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1986,Rose Lawson,melissacarter@example.com,2025-01-14 00:55:50.007158,2025-01-01 05:51:58.755243,Johnchester,Belarus,female,30
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1986,Ashlee Thomas,lcaldwell@example.com,2025-01-26 23:16:25.511348,2025-01-21 13:04:35.856701,New Louischester,Seychelles,male,33,https://placekitten.com/583/757

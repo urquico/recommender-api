@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-562,Diana House,kendragray@example.org,2025-01-11 13:48:32.130951,2025-02-01 05:22:35.151764,Mccoymouth,American Samoa,female,27
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+562,Patricia Stewart,williamwilliams@example.net,2025-01-21 21:07:10.165617,2025-01-25 02:40:32.105281,Kimberlyside,Zambia,male,22,https://placekitten.com/848/542

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-255,Jeremy Gutierrez,terrijones@example.net,2025-01-29 14:04:54.829996,2025-01-11 04:23:16.136259,Jennifermouth,Uganda,female,70
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+255,Heather Castro,humphreynatalie@example.net,2025-01-26 15:49:07.991599,2025-01-21 02:32:27.377434,East Laura,Bolivia,female,72,https://placekitten.com/115/222

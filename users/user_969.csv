@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-969,Krista Butler,heathertrujillo@example.com,2025-01-09 16:14:49.138986,2025-01-19 02:36:22.342807,Jonathanland,Malta,female,44
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+969,Jessica Bailey,scottrogers@example.net,2025-02-01 14:53:33.663437,2025-01-02 19:04:26.413249,Lake Eric,Spain,female,30,https://placekitten.com/1003/233

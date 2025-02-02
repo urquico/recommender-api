@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1738,Michelle Blanchard,ojones@example.net,2025-01-15 18:00:56.316956,2025-01-25 15:58:07.348924,Patrickborough,Zambia,male,75
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1738,Christopher Johnson,uclark@example.net,2025-01-01 15:15:43.774373,2025-01-01 21:01:49.045804,West Tracyfort,Canada,female,62,https://dummyimage.com/56x34

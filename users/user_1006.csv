@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1006,Patrick Ellis,avaldez@example.net,2025-01-09 19:18:30.876569,2025-01-05 03:22:08.068507,West Denise,Antarctica (the territory South of 60 deg S),female,25
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1006,Daniel Clark,ssmith@example.com,2025-01-01 21:25:23.669322,2025-01-05 08:25:02.853221,North Pamela,Andorra,male,51,https://picsum.photos/930/614

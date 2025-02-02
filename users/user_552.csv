@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-552,Randy Gardner,humphreycameron@example.net,2025-01-30 09:28:40.704779,2025-01-30 04:27:05.919635,Johnview,Saint Pierre and Miquelon,female,73
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+552,Carl Gilbert,speterson@example.com,2025-01-11 05:38:07.659705,2025-01-31 21:28:37.242171,East Dwayne,Australia,male,19,https://dummyimage.com/425x879

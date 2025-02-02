@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1270,Angela Morrison,andrea98@example.org,2025-01-10 15:47:29.149299,2025-01-14 12:11:09.999051,Leeshire,Costa Rica,male,29
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1270,Bryan Jackson,katherine86@example.org,2025-01-29 20:56:22.501304,2025-01-06 06:42:11.678977,Hillstad,Nauru,male,18,https://picsum.photos/49/874

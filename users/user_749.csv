@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-749,Patricia Smith,ostevenson@example.org,2025-01-15 10:35:39.682461,2025-01-11 14:47:29.664300,East Diana,Gibraltar,male,45
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+749,Nicholas Griffin,leonardjohn@example.org,2025-01-14 17:49:38.684235,2025-01-20 15:58:47.543872,Scottstad,Botswana,male,28,https://placekitten.com/134/848

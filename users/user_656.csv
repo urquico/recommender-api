@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-656,Isaac Nelson,powelldennis@example.net,2025-01-10 14:41:37.330428,2025-01-21 01:24:22.597468,Moraborough,Estonia,female,29
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+656,Scott Harris,haley15@example.org,2025-01-18 05:54:44.893789,2025-01-12 04:30:37.114621,Sarahmouth,Holy See (Vatican City State),male,53,https://placekitten.com/695/305

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-999,Thomas Thomas,ostout@example.org,2025-01-01 17:59:05.455302,2025-01-23 23:10:09.326957,Curtischester,Korea,male,23
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+999,Charles Hickman,blairkatherine@example.net,2025-01-06 02:29:09.720425,2025-01-22 14:09:53.801767,West Thomas,Denmark,female,71,https://dummyimage.com/82x177

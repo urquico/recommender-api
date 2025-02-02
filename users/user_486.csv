@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-486,Patricia Keith,jmelton@example.com,2025-01-29 23:42:18.057608,2025-01-19 16:23:53.877046,South Barbara,San Marino,male,74
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+486,Danielle Vang,howellkyle@example.net,2025-01-14 20:20:19.140218,2025-01-14 03:16:19.540598,Paulshire,Guam,female,31,https://picsum.photos/53/142

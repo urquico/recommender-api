@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1581,Brian Byrd,qowens@example.org,2025-01-24 00:05:20.743398,2025-01-24 16:18:45.232012,Brownfurt,Gambia,female,35
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1581,John Walker,cbrown@example.com,2025-01-05 23:42:28.634858,2025-01-09 00:29:43.274584,Dicksonview,Guyana,male,39,https://placekitten.com/81/170

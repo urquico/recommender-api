@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-306,Rebecca Turner,andrewmccarthy@example.org,2025-01-29 11:08:39.041384,2025-01-10 04:02:29.200207,Danielchester,New Zealand,female,47
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+306,Heather Jackson,jennifersmith@example.com,2025-01-20 20:02:55.782140,2025-01-21 03:47:23.468095,Jessicastad,Croatia,male,47,https://picsum.photos/799/461

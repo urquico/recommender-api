@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-887,Christina George,riospatrick@example.com,2025-02-02 15:40:29.087595,2025-01-10 03:04:58.482419,Walkerburgh,Cocos (Keeling) Islands,female,25
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+887,Mitchell Padilla,iwhite@example.org,2025-01-22 11:23:50.693354,2025-01-12 15:33:43.897568,West Susanview,Chile,female,55,https://dummyimage.com/989x48

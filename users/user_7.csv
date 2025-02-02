@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-7,Joshua Griffin,jennifer76@example.net,2025-01-03 13:34:22.663516,2025-01-07 11:44:17.124830,Lynchberg,Lao People's Democratic Republic,male,75
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+7,Alicia Sanchez,oharrington@example.org,2025-01-23 10:18:43.141776,2025-01-20 21:06:54.133058,Douglasburgh,Tuvalu,female,70,https://picsum.photos/467/476

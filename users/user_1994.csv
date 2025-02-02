@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1994,Wayne Griffin,michele24@example.org,2025-02-01 19:16:22.619721,2025-01-30 06:15:31.149737,Lake Michael,Poland,male,57
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1994,Adam Coleman,crosbycrystal@example.com,2025-01-20 15:46:19.306123,2025-01-05 03:58:04.793443,Port Felicia,Poland,male,40,https://picsum.photos/602/909

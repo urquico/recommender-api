@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1171,Benjamin Kennedy,rick34@example.org,2025-01-28 01:36:24.450722,2025-01-23 07:24:54.080070,Annhaven,Montenegro,female,64
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1171,Jermaine Avila,orobinson@example.net,2025-01-23 19:51:08.640428,2025-01-29 22:59:08.153544,Laurabury,Anguilla,male,49,https://placekitten.com/430/725

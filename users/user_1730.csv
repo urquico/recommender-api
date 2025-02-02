@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1730,Benjamin Morris,kristinarussell@example.net,2025-02-02 03:55:31.316141,2025-01-10 01:33:58.980188,Douglasshire,Korea,female,21
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1730,Stacy Mcintosh,durhamgregory@example.com,2025-01-21 14:32:29.683506,2025-01-14 17:14:16.149831,East John,Cocos (Keeling) Islands,male,61,https://dummyimage.com/39x468

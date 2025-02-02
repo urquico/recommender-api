@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1388,Matthew Miller,pauldaugherty@example.org,2025-01-16 12:01:42.559263,2025-01-27 03:27:34.564749,Michaelstad,El Salvador,female,30
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1388,Dr. Max Logan,michaelnewton@example.org,2025-01-21 21:25:53.281547,2025-01-29 07:45:50.747937,Joshualand,Turkmenistan,male,62,https://picsum.photos/204/1019

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-345,Lisa Hanson,jenniferle@example.com,2025-01-22 07:31:23.059021,2025-01-19 00:46:21.533197,Maryfurt,Norway,female,49
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+345,Beth Grant,ucastillo@example.com,2025-01-11 10:46:03.515185,2025-01-01 18:24:21.847226,West Kevin,Papua New Guinea,female,37,https://placekitten.com/948/932

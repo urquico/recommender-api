@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-921,Jesse Ford,catherine59@example.org,2025-01-02 02:46:04.325963,2025-01-11 00:29:48.807599,East Josephbury,Namibia,female,46
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+921,Mr. Sean Mcclain,daniel25@example.com,2025-01-10 03:48:46.829149,2025-01-09 16:07:35.184025,Rogerstown,Lithuania,male,21,https://dummyimage.com/299x363

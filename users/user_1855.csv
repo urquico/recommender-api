@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1855,Ashley Garcia,kelseyking@example.org,2025-01-09 11:53:57.085169,2025-01-11 00:23:18.640295,East Peter,Sweden,male,47
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1855,John Castro,gordonjoanna@example.net,2025-01-03 21:58:05.680308,2025-01-27 08:56:13.658549,Carolport,United Kingdom,male,44,https://picsum.photos/391/357

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1485,Kevin Hicks,mclaughlinbrendan@example.net,2025-01-25 01:42:03.495788,2025-01-26 05:45:35.898970,Ramirezberg,Trinidad and Tobago,male,41
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1485,Christopher Myers,bellaaron@example.com,2025-01-05 03:11:48.290653,2025-01-19 00:53:42.659294,Garzahaven,Colombia,female,60,https://dummyimage.com/692x294

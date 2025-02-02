@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1119,Charles Harrison,dthompson@example.org,2025-01-17 18:10:35.528220,2025-01-12 10:29:25.555923,Medinafurt,Japan,male,56
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1119,Steve Smith,abowman@example.com,2025-01-11 22:28:20.432402,2025-01-22 20:58:35.065133,Port Debra,Serbia,male,39,https://dummyimage.com/869x1020

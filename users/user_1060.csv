@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1060,Christine Owens,timothymitchell@example.net,2025-01-18 15:12:45.406848,2025-01-10 10:58:57.209511,New Codyshire,New Caledonia,female,68
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1060,John Caldwell,schaeferlisa@example.com,2025-01-19 20:35:00.577061,2025-01-17 05:26:12.987818,Angelachester,Tuvalu,female,48,https://picsum.photos/204/281

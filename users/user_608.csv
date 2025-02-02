@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-608,Sheri Murray,denisemiller@example.net,2025-01-11 01:25:56.594098,2025-01-08 09:19:32.306086,Powersport,Uruguay,male,47
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+608,Elijah Ware,cward@example.com,2025-01-25 03:34:02.791803,2025-01-04 00:17:16.349031,Trujillohaven,Bulgaria,female,75,https://placekitten.com/858/126

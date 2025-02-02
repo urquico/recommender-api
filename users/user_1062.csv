@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1062,Patricia Burnett,mmorris@example.com,2025-01-02 14:44:12.198406,2025-02-02 15:46:08.821914,Amandaland,Saint Martin,male,31
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1062,Adam White,angela79@example.com,2025-01-02 04:31:55.123907,2025-01-29 20:11:19.058108,North Virginia,Morocco,female,74,https://placekitten.com/575/348

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-568,Victoria Graham,nicholasmiles@example.org,2025-01-30 15:33:52.425473,2025-01-04 12:51:20.856948,East Ryan,Greenland,female,51
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+568,Craig Mathews,billychurch@example.net,2025-01-24 20:05:07.213285,2025-01-02 16:58:28.491374,West Maria,Gabon,male,25,https://picsum.photos/935/803

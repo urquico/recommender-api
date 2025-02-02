@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-63,Kimberly Collins,campbellsusan@example.net,2025-01-22 08:25:00.750532,2025-01-25 04:37:31.844170,South Nicholas,Qatar,male,38
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+63,John Lin,garciamario@example.com,2025-01-24 14:58:50.194297,2025-01-20 13:42:24.972323,Silvaport,Marshall Islands,female,55,https://picsum.photos/845/623

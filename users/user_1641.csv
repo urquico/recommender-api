@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1641,Morgan Johnston,zrogers@example.org,2025-01-27 11:10:07.684243,2025-01-20 20:19:30.864828,Hamiltonfort,Liberia,female,73
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1641,Laurie Taylor,brittanyewing@example.net,2025-01-12 17:04:12.169394,2025-01-25 10:26:49.567823,Donovanmouth,United States Virgin Islands,female,22,https://placekitten.com/163/89

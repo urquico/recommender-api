@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1130,Michael Miles,eaustin@example.org,2025-01-04 04:52:53.048032,2025-01-02 13:35:10.106919,Lake Rebeccastad,Suriname,male,31
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1130,Kimberly Jenkins,jeffrey44@example.net,2025-01-03 00:14:50.655298,2025-01-04 12:06:08.532498,North Ernest,Taiwan,male,22,https://placekitten.com/137/395

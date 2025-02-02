@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-745,James Macias,vbrown@example.com,2025-01-26 04:39:27.069809,2025-01-16 15:10:46.165036,Castrochester,Bahamas,female,35
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+745,Gregory Young,watsonbianca@example.com,2025-01-15 20:41:53.604269,2025-02-02 00:37:49.516602,Perkinsfort,South Georgia and the South Sandwich Islands,female,69,https://placekitten.com/605/341

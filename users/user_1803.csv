@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1803,Monique Stone,hilljay@example.com,2025-01-31 08:15:21.224501,2025-01-24 01:36:07.315215,North Tony,Reunion,female,44
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1803,Christina Fernandez,schroederamber@example.com,2025-01-23 19:27:50.453969,2025-01-15 03:34:43.198422,Rossborough,Taiwan,female,30,https://dummyimage.com/416x187

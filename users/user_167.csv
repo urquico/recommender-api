@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-167,Keith Blanchard,athomas@example.net,2025-01-11 16:49:34.267033,2025-01-29 08:56:13.994056,Isaacfurt,Argentina,female,34
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+167,Anthony Fisher,bryan57@example.org,2025-01-28 02:50:31.273765,2025-01-17 03:55:05.804995,West Amy,British Virgin Islands,female,38,https://placekitten.com/15/843

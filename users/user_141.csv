@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-141,Brittney Morris,mlee@example.net,2025-01-22 13:49:13.395966,2025-01-01 18:59:00.720954,South Faith,Kenya,male,68
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+141,Tonya Bryant,ledavid@example.com,2025-01-04 20:45:56.286173,2025-01-08 02:17:20.209790,New Kevinberg,Panama,female,28,https://placekitten.com/955/239

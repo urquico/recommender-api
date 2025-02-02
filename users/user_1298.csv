@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1298,Brooke Bishop,benjaminwhite@example.org,2025-01-01 12:06:51.333833,2025-01-24 22:57:47.215771,Erikchester,Barbados,male,33
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1298,Michele Perkins,jamesparker@example.com,2025-01-07 10:24:56.726925,2025-01-02 18:32:03.508652,Danielhaven,Nauru,female,49,https://picsum.photos/265/785

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-511,Jordan Gonzalez,brookeharrison@example.com,2025-01-19 23:54:52.309329,2025-01-27 10:28:25.212162,East Mark,Saint Pierre and Miquelon,female,60
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+511,Deanna Hill,bosborne@example.net,2025-01-27 05:00:56.685570,2025-01-07 22:29:25.606088,South James,Pakistan,male,31,https://dummyimage.com/249x327

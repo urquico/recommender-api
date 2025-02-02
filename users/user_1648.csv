@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1648,Stephen Richards,lewisdonald@example.net,2025-01-22 04:16:33.244565,2025-01-06 13:40:26.366980,Michaelamouth,Uganda,male,74
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1648,Paul Rogers,hamiltonellen@example.org,2025-01-11 04:35:30.500324,2025-01-06 12:47:18.688964,Silvamouth,Heard Island and McDonald Islands,female,54,https://placekitten.com/465/708

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1222,Donna Wilson,gordonjay@example.com,2025-01-28 19:57:12.748587,2025-01-27 21:32:22.164381,North Jesusland,Belarus,female,44
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1222,Virginia Walker,chapmanlisa@example.net,2025-01-14 08:17:28.900644,2025-01-23 22:24:31.604795,West Amy,Martinique,male,36,https://placekitten.com/717/678

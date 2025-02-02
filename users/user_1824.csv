@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1824,Ashley Armstrong,mnunez@example.net,2025-01-07 18:57:22.476132,2025-01-28 14:01:21.260190,Port Robert,Vanuatu,male,34
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1824,Melissa Caldwell,parkerconnor@example.com,2025-01-08 07:02:33.283985,2025-01-20 00:46:39.058168,Taylorhaven,Argentina,female,66,https://dummyimage.com/459x613

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-763,Shelby Harris,williamsgeorge@example.com,2025-01-20 09:11:24.994208,2025-01-31 01:05:30.057132,Zacharyshire,Mayotte,female,30
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+763,James Johnson,dorothy30@example.net,2025-01-31 04:08:42.148890,2025-01-18 04:44:20.953592,Masonfort,Estonia,male,35,https://picsum.photos/964/183

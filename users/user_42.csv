@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-42,Thomas Obrien,wyattmichael@example.net,2025-01-18 08:26:14.354019,2025-01-31 05:22:12.575119,East Samantha,Morocco,male,67
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+42,Sarah Mcintyre,brittany64@example.com,2025-01-07 04:34:04.663084,2025-02-01 00:47:36.255849,Matthewhaven,Lesotho,male,52,https://placekitten.com/251/223

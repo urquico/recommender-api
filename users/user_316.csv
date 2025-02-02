@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-316,Jason James,josephblackwell@example.com,2025-01-24 19:21:20.336752,2025-01-20 01:30:27.688774,Paulbury,South Georgia and the South Sandwich Islands,female,30
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+316,Mario Salazar,gomezamanda@example.com,2025-01-09 03:53:07.937572,2025-01-11 04:41:16.155314,Meganshire,Eritrea,male,36,https://picsum.photos/1014/513

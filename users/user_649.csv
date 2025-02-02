@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-649,Charles Acevedo,garciaamber@example.org,2025-01-24 12:55:59.585430,2025-01-14 00:26:44.572710,Kellymouth,Gambia,male,35
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+649,Ryan Graves,wsolomon@example.org,2025-01-15 00:13:56.898803,2025-01-18 08:08:54.895336,Jonathanfort,Switzerland,female,77,https://picsum.photos/906/802

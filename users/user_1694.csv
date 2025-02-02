@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1694,Amy Edwards,chelsea28@example.net,2025-01-11 06:44:55.439437,2025-01-10 00:12:48.942611,South Josephfort,British Virgin Islands,female,77
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1694,Donald Colon,wcobb@example.org,2025-01-16 04:25:25.003563,2025-01-01 12:13:51.786734,Port Williamhaven,Azerbaijan,female,62,https://dummyimage.com/769x423

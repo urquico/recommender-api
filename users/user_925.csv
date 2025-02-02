@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-925,Lisa Lawrence,timothy90@example.com,2025-01-17 22:53:01.910972,2025-01-09 13:13:29.448706,North Amberland,Norway,female,40
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+925,Douglas Williams,evansdaniel@example.org,2025-01-26 19:15:08.609607,2025-01-19 03:24:43.922818,Robinsonton,Senegal,male,53,https://picsum.photos/219/615

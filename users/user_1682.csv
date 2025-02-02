@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1682,Chad Maldonado,kellytravis@example.net,2025-01-10 03:07:45.646688,2025-01-24 17:05:20.974631,Adamville,Trinidad and Tobago,female,32
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1682,Donald Wilson MD,timothy07@example.org,2025-01-05 13:07:25.019537,2025-01-28 02:37:50.711265,North Kristen,Eritrea,male,61,https://picsum.photos/547/16

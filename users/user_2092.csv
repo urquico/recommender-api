@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2092,Paula Lowery,davissharon@example.org,2025-01-19 00:51:07.236481,2025-01-07 21:02:11.891701,Ronaldland,Cote d'Ivoire,male,31
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2092,Jon Howell,lucas77@example.com,2025-01-26 13:37:46.606038,2025-01-23 05:48:29.380272,Castilloshire,Grenada,female,76,https://placekitten.com/912/564

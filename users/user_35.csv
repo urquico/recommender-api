@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-35,Charles Taylor,hhicks@example.org,2025-01-14 19:42:41.283524,2025-01-20 08:08:27.868664,West Lisaland,Kazakhstan,female,67
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+35,Lynn Campbell,ichapman@example.net,2025-01-19 14:37:33.851845,2025-01-20 02:23:06.637655,Davidshire,Guam,male,78,https://dummyimage.com/916x658

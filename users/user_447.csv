@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-447,Timothy Jensen,elizabethmartinez@example.net,2025-01-18 17:45:27.381253,2025-01-25 11:40:38.470080,Port Rachel,Czech Republic,male,73
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+447,Jonathan Mcfarland,smithemily@example.com,2025-01-05 10:35:13.642540,2025-01-05 07:51:58.351170,North Joel,Ireland,male,20,https://placekitten.com/42/927

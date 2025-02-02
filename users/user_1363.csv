@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1363,Michelle Rivera,annheath@example.com,2025-01-24 07:32:01.217972,2025-01-10 04:28:04.544909,South Tracystad,Martinique,male,26
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1363,Brenda Dunlap,susan84@example.com,2025-01-24 19:11:15.582787,2025-01-16 07:29:57.717371,Port Yesenia,Saint Pierre and Miquelon,male,41,https://placekitten.com/705/869

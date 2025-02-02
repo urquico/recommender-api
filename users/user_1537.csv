@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1537,John Johnson,nferrell@example.net,2025-01-29 12:54:02.890278,2025-01-03 06:35:41.867087,Watsonburgh,Finland,female,53
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1537,Adam Vazquez,abutler@example.com,2025-01-15 14:11:27.849750,2025-01-10 12:06:57.685283,East Melissa,Mozambique,male,41,https://placekitten.com/268/665

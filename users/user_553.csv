@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-553,Alex Johns,dgonzales@example.net,2025-01-25 21:00:19.426439,2025-01-02 21:32:25.349085,West Laura,Barbados,male,42
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+553,Kristin Hopkins,msmith@example.com,2025-01-11 09:56:10.843665,2025-01-11 03:35:10.785519,Ginaport,Serbia,male,49,https://picsum.photos/11/666

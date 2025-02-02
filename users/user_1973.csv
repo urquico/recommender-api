@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1973,Amber Castillo,brian31@example.org,2025-01-07 08:20:34.674323,2025-01-03 13:24:39.656933,Port Dawnside,Georgia,female,40
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1973,Adam King,kelly41@example.org,2025-01-30 01:44:19.259463,2025-01-29 05:30:23.648610,Danielfurt,Gibraltar,female,36,https://dummyimage.com/536x687

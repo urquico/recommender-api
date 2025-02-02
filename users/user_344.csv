@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-344,Logan Harris,utaylor@example.net,2025-01-23 15:15:29.547004,2025-01-13 09:15:53.710939,Ramireztown,Estonia,female,59
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+344,Sarah Hutchinson,merrittcatherine@example.com,2025-01-10 03:02:10.091157,2025-01-10 17:16:06.487440,Montesshire,Vanuatu,female,65,https://placekitten.com/998/860

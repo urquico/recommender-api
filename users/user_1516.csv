@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1516,Jordan Silva,cramirez@example.com,2025-01-05 14:38:47.508698,2025-01-21 16:36:31.797781,Port Robert,Zambia,male,39
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1516,Jacob Parsons,vincentcollins@example.net,2025-01-30 18:44:45.198261,2025-01-16 06:26:05.141564,East Matthew,Denmark,male,62,https://placekitten.com/153/540

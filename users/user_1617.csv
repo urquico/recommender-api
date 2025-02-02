@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1617,Leah Woodward,desiree57@example.net,2025-01-25 23:13:40.148201,2025-01-26 07:38:28.293177,Bakerfurt,Togo,male,80
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1617,Kenneth Navarro,cassie14@example.org,2025-01-21 06:09:28.517231,2025-01-26 17:39:46.082841,Thompsontown,Papua New Guinea,female,53,https://picsum.photos/157/314

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-29,Shane Johnson,brentmartinez@example.com,2025-01-19 10:20:22.573682,2025-01-11 00:16:29.869415,Alejandrostad,Pakistan,male,25
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+29,Paul Simmons,gabrielsheppard@example.com,2025-01-29 10:11:03.568828,2025-01-09 08:29:09.562333,Gonzalezview,Saint Kitts and Nevis,male,21,https://dummyimage.com/294x518

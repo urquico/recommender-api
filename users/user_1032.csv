@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1032,Robert Maxwell,riverashari@example.com,2025-01-08 09:23:35.188504,2025-01-24 22:06:46.832592,Dianabury,Jamaica,male,80
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1032,Matthew Herring,jonathan27@example.org,2025-01-15 00:34:58.442897,2025-01-03 05:39:48.442213,West Dennis,Czech Republic,male,41,https://dummyimage.com/965x801

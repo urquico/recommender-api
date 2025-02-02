@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1431,Timothy Le,david68@example.net,2025-01-18 17:11:34.694328,2025-01-03 05:52:05.013777,Petersonstad,Suriname,male,74
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1431,Patricia Campbell PhD,jimmyjackson@example.org,2025-01-27 10:45:18.816334,2025-01-12 13:29:36.389258,West Matthew,Saint Barthelemy,female,25,https://placekitten.com/438/764

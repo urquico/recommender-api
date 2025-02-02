@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1706,Gregory Stewart,xwu@example.com,2025-01-03 06:10:36.655627,2025-01-29 11:29:46.257045,Luismouth,Sao Tome and Principe,male,57
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1706,Zachary Ballard,olivia16@example.net,2025-01-13 08:07:13.498920,2025-01-14 21:24:42.838112,West Leslieton,Greece,male,78,https://picsum.photos/831/267

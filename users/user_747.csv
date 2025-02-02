@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-747,Nancy Cooper,owensvicki@example.net,2025-01-30 03:02:12.254334,2025-01-23 15:50:38.220891,East Molly,Cook Islands,male,54
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+747,Jennifer Smith,nicholasblack@example.net,2025-01-28 08:10:18.446027,2025-01-16 04:04:03.216339,Port Catherinefort,Philippines,female,20,https://placekitten.com/56/246

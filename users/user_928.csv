@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-928,Elizabeth Johnson,jmiller@example.org,2025-01-10 09:01:50.842566,2025-01-04 15:16:15.881938,Clinemouth,Isle of Man,male,35
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+928,Rebecca Lane,pbaker@example.net,2025-01-13 23:31:54.682703,2025-01-01 20:28:36.075192,Kimberlymouth,Mayotte,female,53,https://placekitten.com/333/162

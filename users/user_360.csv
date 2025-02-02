@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-360,Kelly Bennett,mullinsbrad@example.net,2025-01-11 10:49:03.023993,2025-01-18 16:43:18.499913,Parsonsside,Japan,male,57
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+360,Christian Powers,chapmanmaria@example.net,2025-01-17 08:17:01.411844,2025-01-12 14:45:47.906445,South Michellefort,Croatia,male,61,https://placekitten.com/226/256

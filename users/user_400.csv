@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-400,Joshua Williamson,charlesjones@example.org,2025-01-14 20:08:18.279675,2025-01-25 20:54:17.718468,Molinaberg,New Caledonia,female,38
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+400,Joshua Johnson,campbellmichael@example.net,2025-01-03 16:35:01.679097,2025-01-08 16:25:13.253388,South Jenniferborough,Bermuda,female,25,https://picsum.photos/14/109

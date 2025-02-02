@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1078,Ronnie Brown,tamara55@example.com,2025-02-02 17:10:02.183175,2025-01-03 15:12:55.752702,Sotoborough,Gabon,male,68
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1078,Jessica Nelson,cooperderek@example.net,2025-01-04 20:30:06.556521,2025-01-19 18:19:57.720795,New Michelle,Morocco,male,20,https://picsum.photos/192/185

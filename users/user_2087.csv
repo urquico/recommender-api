@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2087,Stephanie White,hlyons@example.com,2025-01-18 23:38:38.640271,2025-01-06 09:24:24.826125,New Christineville,Bahrain,female,69
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2087,Kenneth Davidson,tylerscott@example.com,2025-01-19 10:50:58.577904,2025-01-02 03:29:57.993850,South Brian,Liechtenstein,female,28,https://dummyimage.com/407x315

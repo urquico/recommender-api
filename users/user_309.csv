@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-309,Jeffrey Gilbert,shelley13@example.net,2025-01-27 09:31:07.826499,2025-01-20 17:02:11.954421,South Travis,Kenya,male,58
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+309,Jennifer Collier,jonathanrivera@example.com,2025-01-04 17:10:20.227692,2025-01-02 23:50:05.825718,Rodgersstad,Puerto Rico,male,37,https://placekitten.com/43/364

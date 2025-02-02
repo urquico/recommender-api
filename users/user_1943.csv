@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1943,Danielle Holder,jkrause@example.com,2025-01-01 09:13:30.767826,2025-01-23 17:33:06.637913,Stephaniefort,Svalbard & Jan Mayen Islands,female,65
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1943,Elizabeth Adams,blackmichael@example.net,2025-01-19 08:11:51.608042,2025-01-28 06:17:04.692574,Heatherland,British Virgin Islands,female,39,https://placekitten.com/9/719

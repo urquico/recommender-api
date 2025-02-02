@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1437,Molly Walker,rodney69@example.com,2025-01-15 13:02:00.728298,2025-01-29 15:52:54.012197,West Georgeland,Holy See (Vatican City State),male,60
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1437,Nancy Pierce,hclay@example.org,2025-01-06 23:23:51.072350,2025-01-21 04:17:56.476641,Lake Terrimouth,Svalbard & Jan Mayen Islands,female,45,https://dummyimage.com/223x85

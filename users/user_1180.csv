@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1180,Brian Avila,christopher47@example.com,2025-01-09 15:35:51.336755,2025-01-05 02:30:02.502312,Stephenbury,Mali,female,78
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1180,Christina Shannon,jeffrey64@example.net,2025-01-03 22:12:07.557203,2025-02-01 05:09:28.612179,South Ashleyshire,El Salvador,male,55,https://dummyimage.com/337x802

@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-205,Gary Hansen,jonesjeremy@example.net,2025-01-28 07:50:33.072716,2025-01-20 12:43:57.843319,Seanfurt,Fiji,male,55
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+205,Alexis Patterson MD,hortonjenna@example.net,2025-01-17 12:28:30.679610,2025-01-11 18:28:52.635985,Riverafort,Panama,male,40,https://picsum.photos/535/662

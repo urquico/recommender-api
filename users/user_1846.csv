@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1846,Timothy Hoffman,xleonard@example.net,2025-01-19 09:52:18.544511,2025-01-09 19:38:58.814087,Melanieberg,Slovakia (Slovak Republic),female,19
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1846,Sean Rivera,peterroberts@example.com,2025-01-11 04:25:40.062948,2025-01-22 20:04:57.672482,Amyburgh,Niger,male,22,https://picsum.photos/261/973

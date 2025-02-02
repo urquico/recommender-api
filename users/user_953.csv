@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-953,Adam Flores,colin88@example.com,2025-01-04 09:45:18.617134,2025-01-21 01:42:50.426065,Williamsshire,United Kingdom,female,52
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+953,Michael Quinn,mercerjessica@example.net,2025-01-22 05:25:08.258308,2025-01-27 01:44:02.478226,Theodoreton,Guadeloupe,male,22,https://picsum.photos/319/753

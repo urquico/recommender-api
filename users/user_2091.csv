@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-2091,Andrew Hernandez,luis23@example.net,2025-01-31 23:30:56.769308,2025-01-07 17:18:51.646769,Parkerberg,Malta,female,47
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+2091,Julie Stone DVM,norman48@example.net,2025-01-26 09:23:47.892770,2025-01-02 19:40:58.859486,Murrayside,Dominica,female,18,https://placekitten.com/687/746

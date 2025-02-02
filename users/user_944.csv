@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-944,Shawn Hernandez,dwilliams@example.org,2025-01-19 06:16:42.384578,2025-01-28 14:08:57.589593,Reynoldsbury,Faroe Islands,female,26
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+944,Joel Dunn,larsonlisa@example.org,2025-01-01 04:23:53.791183,2025-01-28 03:48:50.056368,Woodmouth,Paraguay,male,64,https://dummyimage.com/887x819

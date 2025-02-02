@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-1707,Jean Dorsey,russellnicole@example.com,2025-01-31 06:48:37.622525,2025-01-28 13:07:12.095243,Brandonstad,Tokelau,female,64
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+1707,Joseph Jones,donaldjoyce@example.com,2025-01-10 08:01:36.689335,2025-02-02 06:12:45.140813,East William,Switzerland,male,43,https://dummyimage.com/11x993

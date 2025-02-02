@@ -1,2 +1,2 @@
-id,name,email,created_at,updated_at,city,country,gender,age
-740,Hannah Kennedy,kphillips@example.org,2025-01-25 06:40:40.761111,2025-01-29 21:40:41.976800,East Jeffrey,United States Minor Outlying Islands,female,77
+id,name,email,created_at,updated_at,city,country,gender,age,avatar
+740,Olivia Gonzales,diamondflores@example.com,2025-01-11 17:40:32.001073,2025-01-13 03:49:58.108540,West Johnfort,France,female,63,https://picsum.photos/924/330
