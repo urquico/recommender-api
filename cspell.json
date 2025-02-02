@@ -1,0 +1,27 @@
+{
+  "version": "0.2",
+  "ignorePaths": [],
+  "dictionaryDefinitions": [],
+  "dictionaries": [],
+  "words": [
+    "atleast",
+    "celld",
+    "figsize",
+    "fontsize",
+    "hstack",
+    "IGWO",
+    "iloc",
+    "jsonify",
+    "levelname",
+    "newaxis",
+    "pycache",
+    "toarray",
+    "tocsr",
+    "updt",
+    "venv",
+    "xlabel",
+    "ylabel"
+  ],
+  "ignoreWords": [],
+  "import": []
+}
