@@ -1,9 +1,10 @@
 from flask import Flask, request, jsonify
-from old import optimize_model_parameters, generate_results, load_user_artists
-from pathlib import Path
+from enums import Models
+from igwo import generate_results
+from models import igwo, igwo_results, pigwo, pigwo_results
 import csv
 import os
-import time
+
 
 app = Flask(__name__)
 
@@ -16,24 +17,25 @@ def optimize():
     try:
         pack_size = int(request.args.get('pack_size', 25))
         iterations = int(request.args.get('iterations', 1000))
+        model = str(request.args.get('model', 'igwo'))
         
-        start_time = time.time()
-        user_artists = load_user_artists(Path("./dataset/user_artists.dat"))
-        factors, regularization = optimize_model_parameters(user_artists, pack_size, iterations)
-        end_time = time.time()
-        
-        with open('results/optimized_params.csv', 'w', newline='') as file:
-            writer = csv.writer(file)
-            writer.writerow(['factors', 'regularization', 'time', 'pack_size', 'iterations'])
-            writer.writerow([factors, regularization, end_time - start_time, pack_size, iterations])
+        if model == Models.IGWO:
+            factors, regularization, time = igwo(pack_size, iterations)
+        elif model == Models.PIGWO:
+            factors, regularization, time = pigwo(pack_size, iterations)
+        else:
+            return jsonify({"error": "Invalid model"}), 400
         
         return jsonify({
             "message": "Optimization complete",
-            "factors": factors,
-            "regularization": regularization,
-            "time": end_time - start_time,
-            "pack_size": pack_size,
-            "iterations": iterations
+            "data": {
+                "factors": factors,
+                "regularization": regularization,
+                "time": time,
+                "pack_size": pack_size,
+                "iterations": iterations,
+            },
+            "model": model
         }), 200
     except Exception as e:
         return jsonify({"error": str(e)}), 500
@@ -44,7 +46,8 @@ def recommend():
     try:
         user_index = int(request.args.get('user_index', 2))
         recommend_limit = int(request.args.get('limit', 10))
-        
+        model = str(request.args.get('model', 'igwo'))
+
         # throw an error if user_index is missing
         if user_index is None:
             return jsonify({"error": "user_index is required"}), 400
@@ -54,12 +57,17 @@ def recommend():
             return jsonify({"error": "recommend_limit is required"}), 400
         
         # generate the results
-        results = generate_results(user_index=user_index, recommend_limit=recommend_limit)
+        if model == Models.IGWO:
+            results = igwo_results(user_index=user_index, recommend_limit=recommend_limit)
+        elif model == Models.PIGWO:
+            results = pigwo_results(user_index=user_index, recommend_limit=recommend_limit)
+        else:
+            return jsonify({"error": "Invalid model"}), 400
         
-
         return jsonify({
             "message": f"Recommendations generated for user {user_index}",
-            "data": results
+            "data": results,
+            "model": model
         }), 200
     except Exception as e:
         return jsonify({"error": str(e)}), 500
@@ -69,9 +77,14 @@ def recommend():
 def recommendations():
     try:
         user_index = int(request.args.get('user_index', 2))
+        model = str(request.args.get('model', 'igwo'))
+        
+        # throw error if model is not IGWO or PIGWO
+        if model not in [Models.IGWO, Models.PIGWO]:
+            return jsonify({"error": "Invalid model"}), 400
 
         # read file recommendations/recommendation_list_user_{user_index}.csv
-        with open(f'results/user_{user_index}/recommendation_list.csv', 'r') as file:
+        with open(f'results/user_{user_index}/recommendation_list_{model}.csv', 'r') as file:
             reader = csv.DictReader(file)
             recommendations = [
                 {"artist": row["artist"], "score": float(row["score"])}

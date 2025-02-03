@@ -237,7 +237,7 @@ def generate_results(user_index: int, recommend_limit: int = 10):
     artist_retriever.load_artists(Path("./dataset/artists.dat"))
     
     # get the best parameters from the CSV file
-    best_params = pd.read_csv("results/optimized_params.csv")
+    best_params = pd.read_csv("results/optimized_params_igwo.csv")
     factors = int(best_params.iloc[0]['factors'])
     regularization = float(best_params.iloc[0]['regularization'])
 
@@ -284,15 +284,15 @@ def generate_results(user_index: int, recommend_limit: int = 10):
     Path(f"results/user_{user_index}").mkdir(parents=True, exist_ok=True)
     
     # save the table data to a CSV file
-    with open(f"results/user_{user_index}/recommendation_list.csv", "w", newline="") as file:
+    with open(f"results/user_{user_index}/recommendation_list_igwo.csv", "w", newline="") as file:
         writer = csv.writer(file)
         writer.writerow(["artist", "score"])
         for row in formatted_results:
+
             # Extract artist and score from the dictionary
             artist = row['artist']
             score = row['score']
             writer.writerow([artist, score])
-            print(f"{{'artist': '{artist}', 'score': {score}}}")
     
     return formatted_results
 
