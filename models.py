@@ -1,7 +1,7 @@
 from igwo import generate_results, optimize_model_parameters, load_user_artists
 from pathlib import Path
 import csv
-
+from enums import Models
 from typing import Tuple
 
 def igwo(pack_size: int, iterations: int) -> Tuple[int, float, float]:
@@ -13,7 +13,7 @@ def igwo(pack_size: int, iterations: int) -> Tuple[int, float, float]:
     time = end_time - start_time
     
     # save the best parameters to a CSV file
-    with open('results/optimized_params_igwo.csv', 'w', newline='') as file:
+    with open(f'results/optimized_params_{Models.IGWO}.csv', 'w', newline='') as file:
         writer = csv.writer(file)
         writer.writerow(['factors', 'regularization', 'time', 'pack_size', 'iterations'])
         writer.writerow([factors, regularization, time, pack_size, iterations])
@@ -30,7 +30,7 @@ def pigwo(pack_size: int, iterations: int) -> Tuple[int, float, float]:
     time = 0
     
     # save the best parameters to a CSV file
-    with open('results/optimized_params_pigwo.csv', 'w', newline='') as file:
+    with open(f'results/optimized_params_{Models.PIGWO}.csv', 'w', newline='') as file:
         writer = csv.writer(file)
         writer.writerow(['factors', 'regularization', 'time', 'pack_size', 'iterations'])
         writer.writerow([factors, regularization, time, pack_size, iterations])
