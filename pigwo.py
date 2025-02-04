@@ -1,12 +1,10 @@
 """This module features the ImplicitRecommender class that performs
-recommendation using the implicit library and optimizes using IGWO.
+recommendation using the implicit library and optimizes using PIGWO.
 """
 
 from pathlib import Path
 from typing import Tuple, List
-import io
 import logging
-
 import implicit
 import scipy
 import numpy as np
@@ -15,7 +13,9 @@ import csv
 import unicodedata
 import pandas as pd
 from data import load_user_artists, ArtistRetriever
-from multiprocessing import Pool
+import multiprocessing as mp
+
+from enums import Models
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 plt.rcParams['font.family'] = 'DejaVu Sans'
@@ -64,7 +64,7 @@ class ImplicitRecommender:
         ]
         return artists, scores
 
-# IGWO Functions
+# PIGWO Functions
 def initial_variables(size, min_values, max_values, target_function, start_init = None):
     dim = len(min_values)
     if (start_init is not None):
@@ -96,6 +96,26 @@ def beta_position(min_values, max_values, target_function):
 def delta_position(min_values, max_values, target_function):
     delta       =  np.zeros((1, len(min_values) + 1))
     delta[0,-1] = target_function(np.clip(delta[0,0:delta.shape[1]-1], min_values, max_values))
+    return delta[0,:]
+
+def random_alpha_position(min_values, max_values, target_function):
+    dim = len(min_values)
+    alpha = np.random.uniform(min_values, max_values, (1, dim))
+    alpha = np.hstack((alpha, [[target_function(np.clip(alpha[0], min_values, max_values))]]))
+    return alpha[0,:]
+
+# Function: Initialize Beta
+def random_beta_position(min_values, max_values, target_function):
+    dim = len(min_values)
+    beta = np.random.uniform(min_values, max_values, (1, dim))
+    beta = np.hstack((beta, [[target_function(np.clip(beta[0], min_values, max_values))]]))
+    return beta[0,:]
+
+# Function: Initialize Delta
+def random_delta_position(min_values, max_values, target_function):
+    dim = len(min_values)
+    delta = np.random.uniform(min_values, max_values, (1, dim))
+    delta = np.hstack((delta, [[target_function(np.clip(delta[0], min_values, max_values))]]))
     return delta[0,:]
 
 def update_pack(position, alpha, beta, delta):
@@ -163,29 +183,101 @@ def improve_position(position, updt_position, min_values, max_values, target_fun
             i_position[i, :] = position[i, :]
     return i_position
 
-def improved_grey_wolf_optimizer(pack_size, min_values, max_values, iterations, target_function, verbose = True, start_init = None, target_value = None):   
-    alpha    = alpha_position(min_values, max_values, target_function)
-    beta     = beta_position (min_values, max_values, target_function)
-    delta    = delta_position(min_values, max_values, target_function)
-    position = initial_variables(pack_size, min_values, max_values, target_function, start_init)
-    count    = 0
-    while (count <= iterations):
-        if (verbose == True):
-            print('Iteration = ', count, ' f(x) = ', alpha[-1])      
-        a_linear_component = 2 - count*(2/iterations)
-        alpha, beta, delta = update_pack(position, alpha, beta, delta)
-        updt_position      = update_position(position, alpha, beta, delta, a_linear_component, min_values, max_values, target_function)      
-        position           = improve_position(position, updt_position, min_values, max_values, target_function)
-        if (target_value is not None):
-            if (alpha[-1] <= target_value):
-                count = 2* iterations
-            else:
-                count = count + 1
+# Function: Optimize Segment
+def optimize_segment(start, end, alpha, beta, delta, position, iterations, min_values, max_values, target_function, verbose, target_value, w, threshold, fitness_history, moving_average_list):
+    local_alpha, local_beta, local_delta = alpha, beta, delta
+    local_position = np.copy(position)
+    count = start
+    while count < end:
+        if verbose:
+            print('Iteration = ', count, ' f(x) = ', local_alpha[-1])
+           
+        fitness_history.append(local_alpha[-1])
+        moving_average = 0
+        
+        if len(fitness_history) >= w:
+            moving_average = sum(fitness_history[-w:]) / w * 2
+            moving_average_list.append(moving_average)
+            print(f"Moving average: {moving_average}")
+            
+        a_linear_component = 2 - count * (2 / iterations)
+        local_alpha, local_beta, local_delta = update_pack(local_position, local_alpha, local_beta, local_delta)
+        updt_position = update_position(local_position, local_alpha, local_beta, local_delta, a_linear_component, min_values, max_values, target_function)
+        local_position = improve_position(local_position, updt_position, min_values, max_values, target_function)
+        if target_value is not None and local_alpha[-1] <= target_value:
+            break
+        
+        # check if the moving_average is same from the previous one
+        if moving_average_list and moving_average_list[-1] == moving_average:
+            count += threshold
         else:
-            count = count + 1       
-    return alpha
+            count += 1
+        
+    return local_alpha
 
-# Modified functions to incorporate IGWO
+def improved_grey_wolf_optimizer(initialize_random, pack_size, min_values, max_values, iterations, target_function, verbose = True, start_init = None, target_value = None):   
+    alpha, beta, delta = None, None, None
+    
+    # computation of the moving average
+    w = 2 # defines the number of iterations to compute the moving average
+    threshold = 3 # controls the counter to update the iteration
+    fitness_history = []
+    moving_average_list = []
+    
+    if initialize_random: 
+        alpha = random_alpha_position(min_values, max_values, target_function)
+        
+        # Ensure beta is different from alpha
+        while True:
+            beta = random_beta_position(min_values, max_values, target_function)
+            if not np.array_equal(beta[:-1], alpha[:-1]):
+                break
+        
+        # Ensure delta is different from both alpha and beta
+        while True:
+            delta = random_delta_position(min_values, max_values, target_function)
+            if (not np.array_equal(delta[:-1], alpha[:-1]) and 
+                not np.array_equal(delta[:-1], beta[:-1])):
+                break
+    else: 
+        alpha = alpha_position(min_values, max_values, target_function)
+        beta  = beta_position(min_values, max_values, target_function)
+        delta = delta_position(min_values, max_values, target_function)
+    
+    position = initial_variables(pack_size, min_values, max_values, target_function, start_init)
+
+    iteration_counter = 0
+    count = 0
+    while count < iterations:
+        if verbose:
+            print('Iteration = ', count, ' f(x) = ', alpha[-1])
+           
+        fitness_history.append(alpha[-1])
+        moving_average = 0
+        
+        if len(fitness_history) >= w:
+            moving_average = sum(fitness_history[-w:]) / w * 2
+            moving_average_list.append(moving_average)
+            print(f"Moving average: {moving_average}")
+            
+        a_linear_component = 2 - count * (2 / iterations)
+        alpha, beta, delta = update_pack(position, alpha, beta, delta)
+        updt_position = update_position(position, alpha, beta, delta, a_linear_component, min_values, max_values, target_function)
+        position = improve_position(position, updt_position, min_values, max_values, target_function)
+        if target_value is not None and alpha[-1] <= target_value:
+            break
+        
+        # check if the moving_average is same from the previous one
+        if moving_average_list and moving_average_list[-1] == moving_average:
+            count += threshold
+        else:
+            count += 1
+            
+        iteration_counter += 1
+        
+    return alpha, iteration_counter
+
+# Modified functions to incorporate PIGWO
 def optimize_model_parameters(user_artists_matrix, pack_size, iterations):
     def target_function(params):
         factors, regularization = params
@@ -207,7 +299,8 @@ def optimize_model_parameters(user_artists_matrix, pack_size, iterations):
     min_values = [10, 0.001]  # Minimum values for factors and regularization
     max_values = [100, 1.0]   # Maximum values for factors and regularization
     
-    best_params = improved_grey_wolf_optimizer(
+    best_params, iteration_counter = improved_grey_wolf_optimizer(
+        initialize_random=True,
         pack_size=pack_size,
         min_values=min_values,
         max_values=max_values,
@@ -218,12 +311,12 @@ def optimize_model_parameters(user_artists_matrix, pack_size, iterations):
     
     # save the best parameters to a CSV file
 
-    return int(best_params[0]), best_params[1]  # factors, regularization
+    return int(best_params[0]), best_params[1], iteration_counter  # factors, regularization
 
 def generate_results(user_index: int, recommend_limit: int = 10):
     logging.info(f"Generating results for user {user_index}")
     
-    pool = Pool(processes=10)
+    pool = mp.Pool(processes=10)
     pool.close()
     pool.terminate()
     pool.join()
@@ -237,7 +330,7 @@ def generate_results(user_index: int, recommend_limit: int = 10):
     artist_retriever.load_artists(Path("./dataset/artists.dat"))
     
     # get the best parameters from the CSV file
-    best_params = pd.read_csv("results/optimized_params_igwo.csv")
+    best_params = pd.read_csv(f"results/optimized_params_{Models.PIGWO}.csv")
     factors = int(best_params.iloc[0]['factors'])
     regularization = float(best_params.iloc[0]['regularization'])
 
@@ -284,7 +377,7 @@ def generate_results(user_index: int, recommend_limit: int = 10):
     Path(f"results/user_{user_index}").mkdir(parents=True, exist_ok=True)
     
     # save the table data to a CSV file
-    with open(f"results/user_{user_index}/recommendation_list_igwo.csv", "w", newline="") as file:
+    with open(f"results/user_{user_index}/recommendation_list_{Models.PIGWO}.csv", "w", newline="") as file:
         writer = csv.writer(file)
         writer.writerow(["artist", "score"])
         for row in formatted_results:
@@ -303,67 +396,6 @@ def process_table_data(table_data):
         for _, artist2, score in table_data
     ]
     return processed_data
-
-def evaluate_recommendations(user_index: int, recommend_limit: int = 50):
-    logging.info(f"Evaluating recommendations for user {user_index}")
-    
-    # Load user artists matrix
-    user_artists = load_user_artists(Path("./dataset/user_artists.dat"))
-
-    # Instantiate artist retriever
-    artist_retriever = ArtistRetriever()
-    artist_retriever.load_artists(Path("./dataset/artists.dat"))
-
-    # Optimize model parameters using IGWO
-    factors, regularization = optimize_model_parameters(user_artists)
-    logging.info(f"Using parameters: factors={factors}, regularization={regularization}")
-
-    # Instantiate ALS using implicit with optimized parameters
-    implicit_model = implicit.als.AlternatingLeastSquares(
-        factors=factors, iterations=10, regularization=regularization
-    )
-
-    # Instantiate recommender, fit, and recommend
-    recommender = ImplicitRecommender(artist_retriever, implicit_model)
-    recommender.fit(user_artists)
-    recommended_artists, _ = recommender.recommend(user_index, user_artists, n=recommend_limit)
-
-    actual_artists_indices = user_artists[user_index].nonzero()[1]
-    actual_artists = [
-        artist_retriever.get_artist_name_from_id(artist_id)
-        for artist_id in actual_artists_indices
-    ]
-
-    logging.info(f"User {user_index} - Actual artists: {len(actual_artists)}, Recommended artists: {len(recommended_artists)}")
-
-    logging.info(f"Sample actual artists: {actual_artists[:5]}")
-    logging.info(f"Sample recommended artists: {recommended_artists[:5]}")
-
-    precision, recall, f1_score = calculate_precision_recall_f1(actual_artists, recommended_artists)
-    
-    with io.open(f"results/evaluation_user_{user_index}.csv", mode='w', newline='', encoding='utf-8') as file:
-        writer = csv.writer(file)
-        writer.writerow(["Precision", "Recall", "F1-Score"])
-        writer.writerow([precision, recall, f1_score])
-    
-    logging.info(f"User {user_index} - Precision: {precision}, Recall: {recall}, F1-Score: {f1_score}")
-
-def calculate_precision_recall_f1(actual_items: List[str], recommended_items: List[str]) -> Tuple[float, float, float]:
-    actual_set = set(actual_items)
-    recommended_set = set(recommended_items)
-
-    true_positives = len(actual_set.intersection(recommended_set))
-    false_positives = len(recommended_set - actual_set)
-    false_negatives = len(actual_set - recommended_set)
-
-    precision = true_positives / len(recommended_set) if len(recommended_set) > 0 else 0
-    recall = true_positives / len(actual_set) if len(actual_set) > 0 else 0
-    f1_score = 2 * (precision * recall) / (precision + recall) if (precision + recall) > 0 else 0
-
-    logging.info(f"True Positives: {true_positives}, False Positives: {false_positives}, False Negatives: {false_negatives}")
-    logging.info(f"Actual Set: {len(actual_set)}, Recommended Set: {len(recommended_set)}")
-
-    return precision, recall, f1_score
 
 def analyze_user_data(user_index: int):
     user_artists = load_user_artists(Path("./dataset/user_artists.dat"))
@@ -387,7 +419,6 @@ if __name__ == "__main__":
         try:
             analyze_user_data(user_index)
             generate_results(user_index=user_index, recommend_limit=10)
-            evaluate_recommendations(user_index=user_index, recommend_limit=50)
         except Exception as e:
             logging.error(f"Error processing user {user_index}: {str(e)}")
 

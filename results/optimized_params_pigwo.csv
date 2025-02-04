@@ -1,2 +1,2 @@
-factors,regularization,time,pack_size,iterations
-10,0.01,0,25,100
+factors,regularization,time,pack_size,iterations,iteration_counter
+100,0.004150467986950343,5372.632437944412,25,100,34

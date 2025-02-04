@@ -1,6 +1,5 @@
 from flask import Flask, request, jsonify
 from enums import Models
-from igwo import generate_results
 from models import igwo, igwo_results, pigwo, pigwo_results
 import csv
 import os
@@ -20,9 +19,9 @@ def optimize():
         model = str(request.args.get('model', 'igwo'))
         
         if model == Models.IGWO:
-            factors, regularization, time = igwo(pack_size, iterations)
+            factors, regularization, elapsed_time = igwo(pack_size, iterations)
         elif model == Models.PIGWO:
-            factors, regularization, time = pigwo(pack_size, iterations)
+            factors, regularization, elapsed_time = pigwo(pack_size, iterations)
         else:
             return jsonify({"error": "Invalid model"}), 400
         
@@ -31,7 +30,7 @@ def optimize():
             "data": {
                 "factors": factors,
                 "regularization": regularization,
-                "time": time,
+                "elapsed_time": elapsed_time,
                 "pack_size": pack_size,
                 "iterations": iterations,
             },

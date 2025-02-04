@@ -4,9 +4,7 @@ recommendation using the implicit library and optimizes using IGWO.
 
 from pathlib import Path
 from typing import Tuple, List
-import io
 import logging
-
 import implicit
 import scipy
 import numpy as np
@@ -184,8 +182,11 @@ def improved_grey_wolf_optimizer(pack_size, min_values, max_values, iterations, 
             else:
                 count = count + 1
         else:
-            count = count + 1       
-    return alpha
+            count = count + 1 
+              
+    iteration_counter = count
+    
+    return alpha, iteration_counter
 
 # Modified functions to incorporate IGWO
 def optimize_model_parameters(user_artists_matrix, pack_size, iterations):
@@ -209,7 +210,7 @@ def optimize_model_parameters(user_artists_matrix, pack_size, iterations):
     min_values = [10, 0.001]  # Minimum values for factors and regularization
     max_values = [100, 1.0]   # Maximum values for factors and regularization
     
-    best_params = improved_grey_wolf_optimizer(
+    best_params, iteration_counter = improved_grey_wolf_optimizer(
         pack_size=pack_size,
         min_values=min_values,
         max_values=max_values,
@@ -217,10 +218,8 @@ def optimize_model_parameters(user_artists_matrix, pack_size, iterations):
         target_function=target_function,
         verbose=True
     )
-    
-    # save the best parameters to a CSV file
 
-    return int(best_params[0]), best_params[1]  # factors, regularization
+    return int(best_params[0]), best_params[1], iteration_counter  # factors, regularization
 
 def generate_results(user_index: int, recommend_limit: int = 10):
     logging.info(f"Generating results for user {user_index}")
@@ -239,7 +238,7 @@ def generate_results(user_index: int, recommend_limit: int = 10):
     artist_retriever.load_artists(Path("./dataset/artists.dat"))
     
     # get the best parameters from the CSV file
-    best_params = pd.read_csv("results/optimized_params_igwo.csv")
+    best_params = pd.read_csv(f"results/optimized_params_{Models.IGWO}.csv")
     factors = int(best_params.iloc[0]['factors'])
     regularization = float(best_params.iloc[0]['regularization'])
 
