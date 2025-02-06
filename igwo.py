@@ -316,11 +316,14 @@ def analyze_user_data(user_index: int):
     logging.info(f"User {user_index} has listened to {len(non_zero_indices)} unique artists")
     
     if len(non_zero_indices) > 0:
-        top_5_indices = non_zero_indices[np.argsort(user_data[0, non_zero_indices].toarray()[0])[-5:]]
-        top_5_artists = [artist_retriever.get_artist_name_from_id(idx) for idx in top_5_indices]
-        logging.info(f"Top 5 artists for User {user_index}: {top_5_artists}")
+        top_10_indices = non_zero_indices[np.argsort(user_data[0, non_zero_indices].toarray()[0])[-10:]]
+        top_10_artists = [artist_retriever.get_artist_name_from_id(idx) for idx in top_10_indices]
+        logging.info(f"Top 10 artists for User {user_index}: {top_10_artists}")
     else:
         logging.warning(f"User {user_index} has no listening history")
+    
+    return top_10_artists
+    
 
 if __name__ == "__main__":
     for user_index in range(2, 11):

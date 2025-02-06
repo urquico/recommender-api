@@ -1,6 +1,7 @@
 from flask import Flask, request, jsonify
 from enums import Models
 from models import igwo, igwo_results, pigwo, pigwo_results
+from igwo import analyze_user_data
 import csv
 import os
 from flask_cors import CORS
@@ -140,6 +141,22 @@ def all_users():
         }), 200
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+    
+# get user top 10 artists
+@app.route('/user-top-10-artists', methods=['GET'])
+def user_top_10_artists():
+    try:
+        user_index = int(request.args.get('user_index', 2))
+        
+        top_10_artists = analyze_user_data(user_index)
+        
+        return jsonify({
+            "message": f"Top 10 artists for user {user_index}",
+            "data": top_10_artists
+        }), 200
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+        
 
 if __name__ == '__main__':
     app.run(debug=True)
