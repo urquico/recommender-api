@@ -98,5 +98,29 @@ def recommendations():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
+# view model optimized parameters
+@app.route('/view-optimized-parameters', methods=['GET'])
+def view_optimized_parameters():
+    try:
+        model = str(request.args.get('model', 'igwo'))
+        
+        if model not in [Models.IGWO, Models.PIGWO]:
+            return jsonify({"error": "Invalid model"}), 400
+        
+        # read the optimized parameters from the file
+        with open(f'results/optimized_params_{model}.csv', 'r') as file:
+            reader = csv.DictReader(file)
+            optimized_parameters = [
+                {"factors": int(row["factors"]), "regularization": float(row["regularization"]), "time": float(row["time"]), "pack_size": int(row["pack_size"]), "iterations": int(row["iterations"]), "iteration_counter": int(row["iteration_counter"])}
+                for row in reader
+            ]
+
+        return jsonify({
+            "message": f"Optimized parameters for {model.upper()}",
+            "data": optimized_parameters[0]
+        }), 200
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
 if __name__ == '__main__':
     app.run(debug=True)
