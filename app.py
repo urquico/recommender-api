@@ -121,6 +121,25 @@ def view_optimized_parameters():
         }), 200
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+    
+# get the user details
+@app.route('/all-users', methods=['GET'])
+def all_users():
+    try:
+        # read all the users from the users folder
+        users = []
+        for i in range(2, 2101):
+            with open(f'users/user_{i}.csv', 'r') as file:
+                reader = csv.DictReader(file)
+                for row in reader:
+                    users.append(row)
+                    
+        return jsonify({
+            "message": "All users",
+            "data": users
+        }), 200
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
 
 if __name__ == '__main__':
     app.run(debug=True)
