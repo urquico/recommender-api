@@ -41,7 +41,7 @@ def optimize():
         return jsonify({"error": str(e)}), 500
     
 # generate the recommendations
-@app.route('/recommend', methods=['GET'])
+@app.route('/recommend', methods=['POST'])
 def recommend():
     try:
         user_index = int(request.args.get('user_index', 2))
