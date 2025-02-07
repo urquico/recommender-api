@@ -6,6 +6,7 @@ from pathlib import Path
 from typing import Tuple, List
 import logging
 import implicit
+from evaluation import ranking_metrics_at_k
 import scipy
 import numpy as np
 import matplotlib.pyplot as plt
@@ -14,6 +15,7 @@ import unicodedata
 import pandas as pd
 from data import load_user_artists, ArtistRetriever
 from multiprocessing import Pool
+from sklearn.model_selection import train_test_split
 
 from enums import Models
 
@@ -323,13 +325,41 @@ def analyze_user_data(user_index: int):
         logging.warning(f"User {user_index} has no listening history")
     
     return top_10_artists
+
+def evaluate_model():
+    artist_retriever = ArtistRetriever()
+    artist_retriever.load_artists(Path("./dataset/artists.dat"))
     
+    user_artists = load_user_artists(Path("./dataset/user_artists.dat"))
+    train_data, test_data = train_test_split(user_artists, test_size=0.2, random_state=42)
+
+
+    implicit_model = implicit.als.AlternatingLeastSquares(
+        factors=100, iterations=10, regularization=0.01
+    )
+    
+    model = ImplicitRecommender(artist_retriever, implicit_model)
+    model.fit(train_data)
+    
+    k = 6
+    evaluation = ranking_metrics_at_k(
+        model,
+        train_data,
+        test_data,
+        K=k
+    )
+
+    print(evaluation)
+    
+
+  
 
 if __name__ == "__main__":
     for user_index in range(2, 11):
         try:
-            analyze_user_data(user_index)
-            generate_results(user_index=user_index, recommend_limit=10)
+            # analyze_user_data(user_index)
+            # generate_results(user_index=user_index, recommend_limit=10)
+            evaluate_model()
         except Exception as e:
             logging.error(f"Error processing user {user_index}: {str(e)}")
 
