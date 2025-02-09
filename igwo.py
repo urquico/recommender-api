@@ -329,30 +329,43 @@ def analyze_user_data(user_index: int):
 def evaluate_model():
     artist_retriever = ArtistRetriever()
     artist_retriever.load_artists(Path("./dataset/artists.dat"))
-    
+
     user_artists = load_user_artists(Path("./dataset/user_artists.dat"))
     train_data, test_data = train_test_split(user_artists, test_size=0.2, random_state=42)
+    
+    best_params = pd.read_csv("results/optimized_params_IGWO.csv")
+    factors = int(best_params.iloc[0]['factors'])
+    regularization = float(best_params.iloc[0]['regularization'])
 
+    logging.info(f"Using optimized parameters: factors={factors}, regularization={regularization}")
 
     implicit_model = implicit.als.AlternatingLeastSquares(
-        factors=100, iterations=10, regularization=0.01
+        factors=factors,
+        iterations=10,  
+        regularization=regularization
     )
-    
-    model = ImplicitRecommender(artist_retriever, implicit_model)
-    model.fit(train_data)
-    
-    k = 6
+
+    recommender = ImplicitRecommender(artist_retriever, implicit_model)
+    recommender.fit(train_data)
+
+    logging.info("Evaluating the model on test data...")
+
+    test_users = np.where(test_data.getnnz(axis=1) > 0)[0]
+    train_users = np.where(train_data.getnnz(axis=1) > 0)[0]
+
+    valid_users = np.intersect1d(train_users, test_users)
+    logging.info(f"Evaluating {len(valid_users)} users with interactions...")
+
+    k = 10  
     evaluation = ranking_metrics_at_k(
-        model,
+        recommender,
         train_data,
         test_data,
         K=k
     )
 
-    print(evaluation)
-    
-
-  
+    logging.info(f"Evaluation Metrics: {evaluation}")
+    return evaluation
 
 if __name__ == "__main__":
     for user_index in range(2, 11):
