@@ -9,6 +9,7 @@
     "cumsum",
     "figsize",
     "fontsize",
+    "getnnz",
     "hstack",
     "idcg",
     "IGWO",
