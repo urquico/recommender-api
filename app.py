@@ -127,17 +127,13 @@ def view_optimized_parameters():
 @app.route('/evaluate-model', methods=['GET'])
 def evaluate_model():
     try:
-        model = str(request.args.get('model', 'igwo'))
+        igwo_evaluation = igwo_evaluate()
+        pigwo_evaluation = pigwo_evaluate()
         
-        if model not in [Models.IGWO, Models.PIGWO]:
-            return jsonify({"error": "Invalid model"}), 400
-        
-        if model == Models.IGWO:
-            evaluation = igwo_evaluate()
-        elif model == Models.PIGWO:
-            evaluation = pigwo_evaluate()
-        else:
-            return jsonify({"error": "Invalid model"}), 400
+        evaluation = {
+            "igwo": igwo_evaluation,
+            "pigwo": pigwo_evaluation
+        }
         
         return jsonify({"message": "Model evaluated", "data": evaluation}), 200
     except Exception as e:
