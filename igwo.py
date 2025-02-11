@@ -340,7 +340,7 @@ def analyze_user_data(user_index: int):
     
     return top_10_artists
 
-def evaluate_model():
+def evaluate_model() -> dict[str, float]:
     artist_retriever = ArtistRetriever()
     artist_retriever.load_artists(Path("./dataset/artists.dat"))
 

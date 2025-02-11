@@ -124,7 +124,7 @@ def view_optimized_parameters():
         return jsonify({"error": str(e)}), 500
 
 # evaluate model
-@app.route('/evaluate-model', methods=['GET'])
+@app.route('/evaluate-model', methods=['POST'])
 def evaluate_model():
     try:
         igwo_evaluation = igwo_evaluate()
@@ -136,6 +136,36 @@ def evaluate_model():
         }
         
         return jsonify({"message": "Model evaluated", "data": evaluation}), 200
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+    
+# get the evaluation metrics
+@app.route('/get-evaluation-metrics', methods=['GET'])
+def get_evaluation_metrics():
+    try:
+        # get evaluation metrics from the evaluation_igwo.csv file
+        with open(f'results/evaluation_{Models.IGWO}.csv', 'r') as file:
+            reader = csv.DictReader(file)
+            evaluation_igwo = [row for row in reader]
+            
+        # get evaluation metrics from the evaluation_pigwo.csv file
+        with open(f'results/evaluation_{Models.PIGWO}.csv', 'r') as file:
+            reader = csv.DictReader(file)
+            evaluation_pigwo = [row for row in reader]
+        
+        data = [
+            {
+                "metric": row_igwo["metric"],
+                "igwo": float(row_igwo["value"]),
+                "pigwo": float(row_pigwo["value"]),
+            }
+            for row_igwo, row_pigwo in zip(evaluation_igwo, evaluation_pigwo)
+        ]
+        
+        return jsonify({
+            "message": "Evaluation metrics",
+            "data": data
+        }), 200
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 

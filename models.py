@@ -28,7 +28,7 @@ def igwo(pack_size: int, iterations: int) -> Tuple[int, float, float]:
 def igwo_results(user_index: int, recommend_limit: int) -> Tuple[list, float, float]:
     return v1.generate_results(user_index=user_index, recommend_limit=recommend_limit)
 
-def igwo_evaluate() -> None:
+def igwo_evaluate() -> dict[str, float]:
     evaluation = v1.evaluate_model()
     return evaluation
 
@@ -51,6 +51,6 @@ def pigwo(pack_size: int, iterations: int) -> Tuple[int, float, float]:
 def pigwo_results(user_index: int, recommend_limit: int) -> Tuple[list, float, float]:
     return v2.generate_results(user_index=user_index, recommend_limit=recommend_limit)
 
-def pigwo_evaluate() -> None:
+def pigwo_evaluate() -> dict[str, float]:
     evaluation = v2.evaluate_model()
     return evaluation

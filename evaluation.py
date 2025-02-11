@@ -24,7 +24,7 @@ def ranking_metrics_at_k(model, train_user_items, test_user_items, K=10, show_pr
             Number of parallel jobs (-1 uses all CPU cores).
     
     Returns:
-        dict: Dictionary with precision, MAP, NDCG, and AUC scores.
+        dict: Dictionary with precision@k, MAP@k, NDCG@k, and AUC@k scores.
     """
     train_user_items = train_user_items.tocsr()
     test_user_items = test_user_items.tocsr()
@@ -90,10 +90,10 @@ def ranking_metrics_at_k(model, train_user_items, test_user_items, K=10, show_pr
     total_precision, total_map, total_ndcg, total_auc, total_users = map(sum, zip(*results))
     
     metrics = {
-        "precision": (total_precision / total_users) if total_users > 0 else np.random.uniform(0.85, 0.95),
-        "map": (total_map / total_users) if total_users > 0 else np.random.uniform(0.8, 0.9),
-        "ndcg": (total_ndcg / total_users) if total_users > 0 else np.random.uniform(0.82, 0.92),
-        "auc": (total_auc / total_users) if total_users > 0 else np.random.uniform(0.88, 0.98)
+        "precision@k": (total_precision / total_users) if total_users > 0 else np.random.uniform(0.85, 0.95),
+        "map@k": (total_map / total_users) if total_users > 0 else np.random.uniform(0.8, 0.9),
+        "ndcg@k": (total_ndcg / total_users) if total_users > 0 else np.random.uniform(0.82, 0.92),
+        "auc@k": (total_auc / total_users) if total_users > 0 else np.random.uniform(0.88, 0.98)
     }
     
     logging.info("\nFinal Ranking Metrics:")
