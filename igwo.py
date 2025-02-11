@@ -7,6 +7,7 @@ from typing import Tuple, List
 import logging
 import implicit
 from evaluation import ranking_metrics_at_k
+from evaluation import ranking_metrics_at_k
 import scipy
 import numpy as np
 import matplotlib.pyplot as plt
@@ -15,6 +16,7 @@ import unicodedata
 import pandas as pd
 from data import load_user_artists, ArtistRetriever
 from multiprocessing import Pool
+from sklearn.model_selection import train_test_split
 from sklearn.model_selection import train_test_split
 
 from enums import Models

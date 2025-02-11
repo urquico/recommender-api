@@ -16,6 +16,8 @@ from data import load_user_artists, ArtistRetriever
 import multiprocessing as mp
 from sklearn.model_selection import train_test_split
 from evaluation import ranking_metrics_at_k
+from sklearn.model_selection import train_test_split
+from evaluation import ranking_metrics_at_k
 
 from enums import Models
 
