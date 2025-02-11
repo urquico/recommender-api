@@ -28,6 +28,10 @@ def igwo(pack_size: int, iterations: int) -> Tuple[int, float, float]:
 def igwo_results(user_index: int, recommend_limit: int) -> Tuple[list, float, float]:
     return v1.generate_results(user_index=user_index, recommend_limit=recommend_limit)
 
+def igwo_evaluate() -> None:
+    evaluation = v1.evaluate_model()
+    return evaluation
+
 def pigwo(pack_size: int, iterations: int) -> Tuple[int, float, float]:
     start_time = time.time()
     user_artists = load_user_artists(Path("./dataset/user_artists.dat"))
@@ -46,3 +50,7 @@ def pigwo(pack_size: int, iterations: int) -> Tuple[int, float, float]:
 
 def pigwo_results(user_index: int, recommend_limit: int) -> Tuple[list, float, float]:
     return v2.generate_results(user_index=user_index, recommend_limit=recommend_limit)
+
+def pigwo_evaluate() -> None:
+    evaluation = v2.evaluate_model()
+    return evaluation

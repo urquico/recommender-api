@@ -32,10 +32,6 @@ def unicode_to_ascii(text):
 class ImplicitRecommender:
     """The ImplicitRecommender class computes recommendations for a given user
     using the implicit library.
-
-    Attributes:
-        - artist_retriever: an ArtistRetriever instance
-        - implicit_model: an implicit model
     """
 
     def __init__(
@@ -57,14 +53,31 @@ class ImplicitRecommender:
         n: int = 10,
     ) -> Tuple[List[str], List[float]]:
         """Return the top n recommendations for the given user."""
+        
+        if user_id >= user_artists_matrix.shape[0]:  # Ensure valid user ID
+            return [], []
+
+        # 🔥 Ensure user_items is properly formatted (2D sparse matrix)
+        user_items = user_artists_matrix[user_id].tocsr()
+        
+        if user_items.shape[0] == 0 or user_items.nnz == 0:
+            return [], []  # Skip users with no interactions
+
+        # 🔥 Generate recommendations using the trained ALS model
         artist_ids, scores = self.implicit_model.recommend(
-            user_id, user_artists_matrix[user_id], N=n, filter_already_liked_items=True
+            user_id, user_items, N=n, filter_already_liked_items=True
         )
+
+        # 🔥 Convert artist IDs to artist names
         artists = [
             self.artist_retriever.get_artist_name_from_id(artist_id)
             for artist_id in artist_ids
         ]
+
         return artists, scores
+
+
+
 
 # IGWO Functions
 def initial_variables(size, min_values, max_values, target_function, start_init = None):
@@ -240,13 +253,12 @@ def generate_results(user_index: int, recommend_limit: int = 10):
     artist_retriever.load_artists(Path("./dataset/artists.dat"))
     
     # get the best parameters from the CSV file
-    best_params = pd.read_csv(f"results/optimized_params_{Models.IGWO}.csv")
+    best_params = pd.read_csv("results/optimized_params_IGWO.csv")
     factors = int(best_params.iloc[0]['factors'])
     regularization = float(best_params.iloc[0]['regularization'])
 
     # Optimize model parameters using IGWO Created Parameters
     logging.info(f"Using parameters: factors={factors}, regularization={regularization}")
-
 
     # instantiate ALS using implicit with optimized parameters
     implicit_model = implicit.als.AlternatingLeastSquares(
@@ -356,32 +368,31 @@ def evaluate_model():
     valid_users = np.intersect1d(train_users, test_users)
     logging.info(f"Evaluating {len(valid_users)} users with interactions...")
 
-    k = 100
+    k = 10
     evaluation = ranking_metrics_at_k(
         recommender,
         train_data,
         test_data,
         K=k
     )
-
-    # save the evaluation metrics to a CSV file
+    
+     # save the evaluation metrics to a CSV file
     with open(f"results/evaluation_{Models.IGWO}.csv", "w", newline="") as file:
         writer = csv.writer(file)
         writer.writerow(["metric", "value"])
         for metric, value in evaluation.items():
             writer.writerow([metric, value])
-
+            
     logging.info(f"Evaluation Metrics: {evaluation}")
     return evaluation
 
 
 if __name__ == "__main__":
-    evaluate_model()
-    # for user_index in range(2, 11):
-    #     try:
-    #         # analyze_user_data(user_index)
-    #         # generate_results(user_index=user_index, recommend_limit=10)
-    #         evaluate_model()
-    #     except Exception as e:
-    #         logging.error(f"Error processing user {user_index}: {str(e)}")
+    for user_index in range(2, 11):
+        try:
+            analyze_user_data(user_index)
+            generate_results(user_index=user_index, recommend_limit=10)
+            evaluate_model()
+        except Exception as e:
+            logging.error(f"Error processing user {user_index}: {str(e)}")
 

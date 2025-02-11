@@ -446,7 +446,7 @@ def evaluate_model():
     valid_users = np.intersect1d(train_users, test_users)
     logging.info(f"Evaluating {len(valid_users)} users with interactions...")
 
-    k = 100
+    k = 10
     evaluation = ranking_metrics_at_k(
         recommender,
         train_data,
@@ -465,12 +465,11 @@ def evaluate_model():
     return evaluation
 
 if __name__ == "__main__":
-    evaluate_model()
-    # for user_index in range(2, 11):
-    #     try:
-    #         # analyze_user_data(user_index)
-    #         # generate_results(user_index=user_index, recommend_limit=10)
-    #         evaluate_model()
-    #     except Exception as e:
-    #         logging.error(f"Error processing user {user_index}: {str(e)}")
+    for user_index in range(2, 11):
+        try:
+            analyze_user_data(user_index)
+            generate_results(user_index=user_index, recommend_limit=10)
+            evaluate_model()
+        except Exception as e:
+            logging.error(f"Error processing user {user_index}: {str(e)}")
 

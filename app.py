@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify
 from enums import Models
-from models import igwo, igwo_results, pigwo, pigwo_results
+from models import igwo, igwo_results, pigwo, pigwo_results, igwo_evaluate, pigwo_evaluate
 from igwo import analyze_user_data
 import csv
 import os
@@ -122,7 +122,27 @@ def view_optimized_parameters():
         }), 200
     except Exception as e:
         return jsonify({"error": str(e)}), 500
-    
+
+# evaluate model
+@app.route('/evaluate-model', methods=['GET'])
+def evaluate_model():
+    try:
+        model = str(request.args.get('model', 'igwo'))
+        
+        if model not in [Models.IGWO, Models.PIGWO]:
+            return jsonify({"error": "Invalid model"}), 400
+        
+        if model == Models.IGWO:
+            evaluation = igwo_evaluate()
+        elif model == Models.PIGWO:
+            evaluation = pigwo_evaluate()
+        else:
+            return jsonify({"error": "Invalid model"}), 400
+        
+        return jsonify({"message": "Model evaluated", "data": evaluation}), 200
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
 # get the user details
 @app.route('/all-users', methods=['GET'])
 def all_users():
