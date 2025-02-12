@@ -155,9 +155,9 @@ def get_evaluation_metrics():
         
         data = [
             {
-                "metric": row_igwo["metric"],
-                "igwo": float(row_igwo["value"]),
-                "pigwo": float(row_pigwo["value"]),
+                "Metric": row_igwo["metric"],
+                "IGWO": float(row_igwo["value"]),
+                "E-IGWO": float(row_pigwo["value"]),
             }
             for row_igwo, row_pigwo in zip(evaluation_igwo, evaluation_pigwo)
         ]

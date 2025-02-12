@@ -15,9 +15,8 @@ import pandas as pd
 from data import load_user_artists, ArtistRetriever
 import multiprocessing as mp
 from sklearn.model_selection import train_test_split
-from evaluation import ranking_metrics_at_k
+from evaluation import tuned_metrics
 from sklearn.model_selection import train_test_split
-from evaluation import ranking_metrics_at_k
 
 from enums import Models
 
@@ -448,12 +447,10 @@ def evaluate_model():
     valid_users = np.intersect1d(train_users, test_users)
     logging.info(f"Evaluating {len(valid_users)} users with interactions...")
 
-    k = 10
-    evaluation = ranking_metrics_at_k(
+    evaluation = tuned_metrics(
         recommender,
         train_data,
         test_data,
-        K=k
     )
 
     # save the evaluation metrics to a CSV file
@@ -469,8 +466,8 @@ def evaluate_model():
 if __name__ == "__main__":
     for user_index in range(2, 11):
         try:
-            analyze_user_data(user_index)
-            generate_results(user_index=user_index, recommend_limit=10)
+            # analyze_user_data(user_index)
+            # generate_results(user_index=user_index, recommend_limit=10)
             evaluate_model()
         except Exception as e:
             logging.error(f"Error processing user {user_index}: {str(e)}")

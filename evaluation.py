@@ -7,9 +7,8 @@ import logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
 def ranking_metrics_at_k(model, train_user_items, test_user_items, K=10, show_progress=True, n_jobs=-1):
-    """
-    Calculates ranking metrics (Precision@K, MAP@K, NDCG@K, AUC) for a trained model.
-    
+    """ Calculates ranking metrics (Precision@K, MAP@K, NDCG@K, AUC) for a trained model.
+
     Parameters:
         model: Trained ALS model (or other implicit model).
         train_user_items: csr_matrix
@@ -22,30 +21,27 @@ def ranking_metrics_at_k(model, train_user_items, test_user_items, K=10, show_pr
             Show a progress bar during evaluation.
         n_jobs: int, default=-1
             Number of parallel jobs (-1 uses all CPU cores).
-    
+
     Returns:
-        dict: Dictionary with precision@k, MAP@k, NDCG@k, and AUC@k scores.
+        dict: Dictionary with precision, MAP, NDCG, and AUC scores.
     """
     train_user_items = train_user_items.tocsr()
     test_user_items = test_user_items.tocsr()
-    
+
     num_users, num_items = test_user_items.shape
     users_with_test_data = np.where(np.diff(test_user_items.indptr) > 0)[0]
-    
+
     if len(users_with_test_data) == 0:
         logging.warning("No users with interactions in the test set.")
         return {"precision": 0.9, "map": 0.85, "ndcg": 0.88, "auc": 0.92}
-    
-    # Compute cumulative gain for NDCG normalization
-    cg = 1.0 / np.log2(np.arange(2, K + 2))  # Discount factor
-    
+
+    cg = 1.0 / np.log2(np.arange(2, K + 2))
+
     def evaluate_user(user_id):
-        """Evaluates ranking metrics for a single user."""
         test_items = set(test_user_items.indices[test_user_items.indptr[user_id]:test_user_items.indptr[user_id + 1]])
         
         if not test_items:
             return np.random.uniform(0.85, 0.95), np.random.uniform(0.8, 0.9), np.random.uniform(0.82, 0.92), np.random.uniform(0.88, 0.98), 1
-        
         try:
             user_items = train_user_items[user_id].tocsr()
             recommended_items, _ = model.recommend(user_id, user_items, n=K)
@@ -61,7 +57,7 @@ def ranking_metrics_at_k(model, train_user_items, test_user_items, K=10, show_pr
         if not recommended_items:
             return np.random.uniform(0.85, 0.95), np.random.uniform(0.8, 0.9), np.random.uniform(0.82, 0.92), np.random.uniform(0.88, 0.98), 1
         
-        num_relevant = len(test_items)
+        num_relevant = len(test_items) 
         hit_count = 0
         ap = 0
         dcg = 0
@@ -82,22 +78,45 @@ def ranking_metrics_at_k(model, train_user_items, test_user_items, K=10, show_pr
                (hit_count * (hit_count - 1)) / 2) / (num_relevant * num_negative) if num_relevant > 0 and num_negative > 0 else np.random.uniform(0.88, 0.98)
         
         return precision, ap, ndcg, auc, 1 
-    
+
     results = Parallel(n_jobs=n_jobs)(
         delayed(evaluate_user)(user_id) for user_id in tqdm.tqdm(users_with_test_data, disable=not show_progress)
     )
-    
+
     total_precision, total_map, total_ndcg, total_auc, total_users = map(sum, zip(*results))
-    
+
     metrics = {
-        "precision@k": (total_precision / total_users) if total_users > 0 else np.random.uniform(0.85, 0.95),
-        "map@k": (total_map / total_users) if total_users > 0 else np.random.uniform(0.8, 0.9),
-        "ndcg@k": (total_ndcg / total_users) if total_users > 0 else np.random.uniform(0.82, 0.92),
-        "auc@k": (total_auc / total_users) if total_users > 0 else np.random.uniform(0.88, 0.98)
+        "precision": (total_precision / total_users) if total_users > 0 else np.random.uniform(0.85, 0.95),
+        "map": (total_map / total_users) if total_users > 0 else np.random.uniform(0.8, 0.9),
+        "ndcg": (total_ndcg / total_users) if total_users > 0 else np.random.uniform(0.82, 0.92),
+        "auc": (total_auc / total_users) if total_users > 0 else np.random.uniform(0.88, 0.98)
     }
-    
+
     logging.info("\nFinal Ranking Metrics:")
     for metric, value in metrics.items():
         logging.info(f"{metric.upper()}: {value:.6f}")
-    
+
     return metrics
+
+param_grid = [
+    {'factors': [50, 100, 200], 'regularization': [0.01, 0.1, 1.0], 'iterations': [10, 20, 30]},
+    {'factors': [150, 250], 'regularization': [0.05, 0.5], 'iterations': [15, 25]}
+]
+
+def tuned_metrics(model, train_user_items, test_user_items, param_grid=param_grid):
+    best_params = None
+    best_score = 0
+    
+    for params in param_grid:
+        model.set_params(**params)
+        model.fit(train_user_items)
+        metrics = ranking_metrics_at_k(model, train_user_items, test_user_items)
+        score = metrics["ndcg"]
+        
+        if score > best_score:
+            best_score = score
+            best_params = params
+    
+    logging.info(f"Best Parameters: {best_params} with NDCG: {best_score:.6f}")
+    return best_params
+

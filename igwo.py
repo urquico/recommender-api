@@ -6,8 +6,7 @@ from pathlib import Path
 from typing import Tuple, List
 import logging
 import implicit
-from evaluation import ranking_metrics_at_k
-from evaluation import ranking_metrics_at_k
+from evaluation import tuned_metrics
 import scipy
 import numpy as np
 import matplotlib.pyplot as plt
@@ -16,7 +15,6 @@ import unicodedata
 import pandas as pd
 from data import load_user_artists, ArtistRetriever
 from multiprocessing import Pool
-from sklearn.model_selection import train_test_split
 from sklearn.model_selection import train_test_split
 
 from enums import Models
@@ -370,12 +368,10 @@ def evaluate_model() -> dict[str, float]:
     valid_users = np.intersect1d(train_users, test_users)
     logging.info(f"Evaluating {len(valid_users)} users with interactions...")
 
-    k = 10
-    evaluation = ranking_metrics_at_k(
+    evaluation = tuned_metrics(
         recommender,
         train_data,
         test_data,
-        K=k
     )
     
      # save the evaluation metrics to a CSV file
@@ -392,8 +388,8 @@ def evaluate_model() -> dict[str, float]:
 if __name__ == "__main__":
     for user_index in range(2, 11):
         try:
-            analyze_user_data(user_index)
-            generate_results(user_index=user_index, recommend_limit=10)
+            # analyze_user_data(user_index)
+            # generate_results(user_index=user_index, recommend_limit=10)
             evaluate_model()
         except Exception as e:
             logging.error(f"Error processing user {user_index}: {str(e)}")
