@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify
 from enums import Models
-from models import igwo, igwo_results, pigwo, pigwo_results, igwo_evaluate, pigwo_evaluate
+from models import igwo, igwo_results, pigwo, pigwo_results, igwo_evaluate, pigwo_evaluate, evaluate_v2
 from igwo import analyze_user_data
 import csv
 import os
@@ -136,6 +136,16 @@ def evaluate_model():
         }
         
         return jsonify({"message": "Model evaluated", "data": evaluation}), 200
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+    
+# evaluate model using evaluate_v2
+@app.route('/evaluate-model-v2', methods=['POST'])
+def evaluate_model_v2():
+    try:
+        evaluation = evaluate_v2()
+        
+        return jsonify({"message": "Model evaluated", "data": {"igwo": evaluation[0], "pigwo": evaluation[1]}}), 200
     except Exception as e:
         return jsonify({"error": str(e)}), 500
     
