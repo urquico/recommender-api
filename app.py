@@ -122,22 +122,6 @@ def view_optimized_parameters():
         }), 200
     except Exception as e:
         return jsonify({"error": str(e)}), 500
-
-# evaluate model
-@app.route('/evaluate-model', methods=['POST'])
-def evaluate_model():
-    try:
-        igwo_evaluation = igwo_evaluate()
-        pigwo_evaluation = pigwo_evaluate()
-        
-        evaluation = {
-            "igwo": igwo_evaluation,
-            "pigwo": pigwo_evaluation
-        }
-        
-        return jsonify({"message": "Model evaluated", "data": evaluation}), 200
-    except Exception as e:
-        return jsonify({"error": str(e)}), 500
     
 # evaluate model using evaluate_v2
 @app.route('/evaluate-model-v2', methods=['POST'])

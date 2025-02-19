@@ -6,7 +6,6 @@ from pathlib import Path
 from typing import Tuple, List
 import logging
 import implicit
-from evaluation import tuned_metrics
 import scipy
 import numpy as np
 import matplotlib.pyplot as plt
@@ -338,59 +337,12 @@ def analyze_user_data(user_index: int):
     
     return top_10_artists
 
-def evaluate_model() -> dict[str, float]:
-    artist_retriever = ArtistRetriever()
-    artist_retriever.load_artists(Path("./dataset/artists.dat"))
-
-    user_artists = load_user_artists(Path("./dataset/user_artists.dat"))
-    train_data, test_data = train_test_split(user_artists, test_size=0.2, random_state=42)
-    
-    best_params = pd.read_csv("results/optimized_params_IGWO.csv")
-    factors = int(best_params.iloc[0]['factors'])
-    regularization = float(best_params.iloc[0]['regularization'])
-
-    logging.info(f"Using optimized parameters: factors={factors}, regularization={regularization}")
-
-    implicit_model = implicit.als.AlternatingLeastSquares(
-        factors=factors,
-        iterations=10,  
-        regularization=regularization
-    )
-
-    recommender = ImplicitRecommender(artist_retriever, implicit_model)
-    recommender.fit(train_data)
-
-    logging.info("Evaluating the model on test data...")
-
-    test_users = np.where(test_data.getnnz(axis=1) > 0)[0]
-    train_users = np.where(train_data.getnnz(axis=1) > 0)[0]
-
-    valid_users = np.intersect1d(train_users, test_users)
-    logging.info(f"Evaluating {len(valid_users)} users with interactions...")
-
-    evaluation = tuned_metrics(
-        recommender,
-        train_data,
-        test_data,
-    )
-    
-     # save the evaluation metrics to a CSV file
-    with open(f"results/evaluation_{Models.IGWO}.csv", "w", newline="") as file:
-        writer = csv.writer(file)
-        writer.writerow(["metric", "value"])
-        for metric, value in evaluation.items():
-            writer.writerow([metric, value])
-            
-    logging.info(f"Evaluation Metrics: {evaluation}")
-    return evaluation
-
-
 if __name__ == "__main__":
     for user_index in range(2, 11):
         try:
             # analyze_user_data(user_index)
             # generate_results(user_index=user_index, recommend_limit=10)
-            evaluate_model()
+            pass
         except Exception as e:
             logging.error(f"Error processing user {user_index}: {str(e)}")
 
