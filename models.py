@@ -108,4 +108,17 @@ def evaluate_v2():
     evaluation_igwo = tuned_metrics(recommender_igwo, train_data, test_data, factors_igwo, regularization_igwo)
     evaluation_pigwo = tuned_metrics(recommender_pigwo, train_data, test_data, factors_pigwo, regularization_pigwo)
     
+    # save the evaluations to a CSV file
+    with open(f"results/evaluation_{Models.IGWO}.csv", "w", newline="") as file:
+        writer = csv.writer(file)
+        writer.writerow(["metric", "value"])
+        for metric, value in evaluation_igwo['best_metrics'].items():
+            writer.writerow([metric, value])
+            
+    with open(f"results/evaluation_{Models.PIGWO}.csv", "w", newline="") as file:
+        writer = csv.writer(file)
+        writer.writerow(["metric", "value"])
+        for metric, value in evaluation_pigwo['best_metrics'].items():
+            writer.writerow([metric, value])  
+    
     return evaluation_igwo, evaluation_pigwo
