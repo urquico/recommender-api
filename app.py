@@ -92,7 +92,6 @@ def recommendations():
                 {
                     "artist": row["artist"], 
                     "score": float(row["score"]), 
-                    "spotify": get_top_songs(row["artist"])
                 }
                 for row in reader
             ]
@@ -100,6 +99,22 @@ def recommendations():
         return jsonify({
             "message": f"Recommendations for user {user_index}",
             "data": recommendations
+        }), 200
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+    
+@app.route('/songs', methods=['GET'])
+def songs():
+    try:
+        artist_name = request.args.get('artist', 'Radiohead')
+        country = request.args.get('country', 'PH')
+        
+        # get the top songs for the artist
+        top_songs = get_top_songs(artist_name, country)
+        
+        return jsonify({
+            "message": f"Top songs for {artist_name}",
+            "data": top_songs
         }), 200
     except Exception as e:
         return jsonify({"error": str(e)}), 500
