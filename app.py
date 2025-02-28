@@ -5,6 +5,7 @@ from igwo import analyze_user_data
 import csv
 import os
 from flask_cors import CORS
+from spotify import get_top_songs
 
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "http://localhost:5173"}})
@@ -88,13 +89,32 @@ def recommendations():
         with open(f'results/user_{user_index}/recommendation_list_{model}.csv', 'r') as file:
             reader = csv.DictReader(file)
             recommendations = [
-                {"artist": row["artist"], "score": float(row["score"])}
+                {
+                    "artist": row["artist"], 
+                    "score": float(row["score"]), 
+                }
                 for row in reader
             ]
 
         return jsonify({
             "message": f"Recommendations for user {user_index}",
             "data": recommendations
+        }), 200
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+    
+@app.route('/songs', methods=['GET'])
+def songs():
+    try:
+        artist_name = request.args.get('artist', 'Radiohead')
+        country = request.args.get('country', 'PH')
+        
+        # get the top songs for the artist
+        top_songs = get_top_songs(artist_name, country)
+        
+        return jsonify({
+            "message": f"Top songs for {artist_name}",
+            "data": top_songs
         }), 200
     except Exception as e:
         return jsonify({"error": str(e)}), 500

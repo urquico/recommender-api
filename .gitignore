@@ -5,3 +5,7 @@ __pycache__/
 *.pyd
 *.pyw
 *.pyz
+
+.env
+
+.cache
