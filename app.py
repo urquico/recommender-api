@@ -5,6 +5,7 @@ from igwo import analyze_user_data
 import csv
 import os
 from flask_cors import CORS
+from spotify import get_top_songs
 
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "http://localhost:5173"}})
@@ -88,7 +89,11 @@ def recommendations():
         with open(f'results/user_{user_index}/recommendation_list_{model}.csv', 'r') as file:
             reader = csv.DictReader(file)
             recommendations = [
-                {"artist": row["artist"], "score": float(row["score"])}
+                {
+                    "artist": row["artist"], 
+                    "score": float(row["score"]), 
+                    "spotify": get_top_songs(row["artist"])
+                }
                 for row in reader
             ]
 
