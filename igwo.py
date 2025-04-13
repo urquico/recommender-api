@@ -185,7 +185,10 @@ def improved_grey_wolf_optimizer(pack_size, min_values, max_values, iterations, 
     count    = 0
     while (count <= iterations):
         if (verbose == True):
-            print('Iteration = ', count, ' f(x) = ', alpha[-1])      
+            print('Iteration = ', count, ' f(x) = ', alpha[-1])
+            print('Alpha = ', alpha[-1], alpha[-1])
+            print('Beta  = ', beta[-1], beta[-1])
+            print('Delta = ', delta[-1], delta[-1])
         a_linear_component = 2 - count*(2/iterations)
         alpha, beta, delta = update_pack(position, alpha, beta, delta)
         updt_position      = update_position(position, alpha, beta, delta, a_linear_component, min_values, max_values, target_function)      
@@ -232,6 +235,9 @@ def optimize_model_parameters(user_artists_matrix, pack_size, iterations):
         target_function=target_function,
         verbose=True
     )
+    
+    # display the best parameters
+    logging.info(f"Best parameters found: factors={int(best_params[0])}, regularization={best_params[1]}")
 
     return int(best_params[0]), best_params[1], iteration_counter  # factors, regularization
 
